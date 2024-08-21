@@ -1,0 +1,8 @@
+main:
+  - title: Chuyện xưa
+    url: /chuyen-xua
+  - title: Chuyện nay
+    url: /chuyen-nay
+  - title: Về tôi
+    url: /about/    
+    

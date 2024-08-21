@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Duy Hà - 维河 (Wéi Hé)"
+title                    : "维河 (Wéi Hé)"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Duy Hà - 维河 (Wéi Hé)"
-description              : "Duy Hà - 维河 (Wéi Hé)"
+name                     : "Wéi Hé"
+description              : "Một ý niệm không sinh, thì vạn duyên đều tịch"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,28 +113,28 @@ analytics:
 
 # Site Author
 author:
-  name             : "Duy Hà"
+  name             : "维河 (Wéi Hé)"
   avatar           : "/assets/images/bio-photo.jpeg"
-  bio              : "维河 (Wéi Hé)"
-  location         : "Vietnam - 越南"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ha.laiduy@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://laiduyha.github.io/wei-he"
+  bio              : "Một ý niệm không sinh, thì vạn duyên đều tịch"
+  # location         : "Vietnam"
+  # email            :
+  # links:
+  #   - label: "Email"
+  #     icon: "fas fa-fw fa-envelope-square"
+  #     url: "mailto:ha.laiduy@gmail.com"
+  #   - label: "Website"
+  #     icon: "fas fa-fw fa-link"
+  #     url: "https://laiduyha.github.io/wei-he"
 
 # Site Footer
-footer:
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ha.laiduy@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://laiduyha.github.io/wei-he"
+# footer:
+#   links:
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: "mailto:ha.laiduy@gmail.com"
+#     - label: "Website"
+#       icon: "fas fa-fw fa-link"
+#       url: "https://laiduyha.github.io/wei-he"
 
 # Reading Files
 include:
@@ -304,6 +304,3 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
-      share: true
-      related: true

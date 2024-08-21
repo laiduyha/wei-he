@@ -1,0 +1,26 @@
+---
+permalink: /chuyen-xua/
+classes: wide
+---
+
+<section id="dao-li" class="taxonomy__section">
+    <h1 class="archive__title">Chuyện người xưa</h1>
+    <div class="entries">
+      {% assign posts = site.posts | where_exp: "item", "item.tags contains 'dao-li'" %}
+
+      {% for post in posts %}
+      <ul class="archive__item-title no_toc" itemprop="headline">
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      </ul>
+      {% endfor %}
+    </div>
+</section>
+
+<section id="theo-vet" class="taxonomy__section">
+    <h1 class="archive__title">Theo vết người xưa</h1>
+    <div class="entries">
+      <ul class="archive__item-title no_toc" itemprop="headline">
+        <li><a href="/nguyen-du">Nguyễn Du</a></li>
+      </ul>
+    </div>
+</section>
