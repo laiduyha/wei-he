@@ -1,5 +1,5 @@
 ---
-title: Nguyễn Du (阮攸)
+title: Nguyễn Du (阮攸) (13/1/1766 - 16/9/1820)
 permalink: /nguyen-du/
 classes: wide
 ---
@@ -11,17 +11,17 @@ Lê Anh Tuấn《Nguyễn Du - Đại thi hào dân tộc Việt Nam》
 </a>
 </cite>
 
-Nguyễn Du (阮攸) (13/1/1766 - 16/9/1820) tự Tố Như (素如), hiệu Thanh Hiên (清軒), quê gốc làng Tiên Điền, huyện Nghi Xuân, tỉnh Hà Tĩnh, nhưng sinh và trải qua thời niên thiếu ở Thăng Long. Cha là Nguyễn Nghiễm đã làm tới chức tể tướng triều Lê. Mẹ là bà Trần Thị Tần, vợ thứ ba của Nguyễn Nghiễm, người xứ Kinh Bắc (Nguyễn Nghiễm có tám vợ, hai mươi mốt người con). Mười tuổi, Nguyễn Du mồ côi cha, mười ba tuổi mồ côi mẹ. Vì thế tiếng là con quan đại thần nhưng ngay từ thời thơ ấu Nguyễn Du đã phải sống vất vả thiếu thốn.
+Nguyễn Du (阮攸) tự Tố Như (素如), hiệu Thanh Hiên (清軒). Ông sống vào thời khắc bước ngoặt của lịch sử của thời kỳ Hậu Lê, Tây Sơn và chúa Nguyễn phân tranh. Thuở nhỏ tưởng chừng như ông được sinh ra ở vạch đích khi cha ông làm tới chức tể tướng của Triều Lê. Tuy nhiên lên mười thì cha ông mất, mười ba tuổi thì ông mồ côi mẹ. Kể từ đây dù mang tiếng là con đại thần nhưng ông đã phải sống vất vả và thiếu thốn.
 {: .text-justify}
 
-Nguyễn Du nổi tiếng với Truyện Kiều, đọc qua nó mọi người sẽ cảm thấy ông là một nhà thơ, một thi sĩ với tâm hồn văn chương bay bổng. Thế nhưng sâu thẳm bên trong ông lại có mội tiếng nói khác, và các bài thơ chữ Hán Nguyễn Du như một tiếng thở dài luận bàn nhân tâm thế sự và xót thương thân phận.
+Vào thời khắc loạn lạc đó, vì những ràng buộc về nho giáo và đạo nghĩa mà ông phải ôm một mối ngu trung với nhà Lê. Khi nhà Tây Sơn ra bắc năm 1786, ông chọn thái độ không cộng tác, tìm đường sống ẩn dật, cam chịu cảnh nghèo khổ mà thanh cao. Giáo lý Khổng Mạnh dạy: tôi trung không thờ hai vua. Nhưng với Nguyễn Du, vua phải thờ thì hèn kém (Lê Chiêu Thống), còn vua phải chống thì lại là trang anh hùng (Quang Trung).
+
+Nguyễn Du có mái tóc bạc sớm, mái tóc như biểu tượng của lo nghĩ, của những nghiền ngẫm buồn thương và bế tắc. Nguyễn Du nổi tiếng với Truyện Kiều, đọc qua nó mọi người sẽ cảm thấy ông là một nhà thơ nhạy cảm về dễ rung động với cái đẹp. Thế nhưng sâu thẳm bên trong ông lại có mội tiếng nói khác, và các bài thơ chữ Hán Nguyễn Du như một tiếng thở dài luận bàn nhân tâm thế sự và xót thương thân phận. Cả đời chưa thấy lúc nào ông đắc ý.
 {: .text-justify}
 
-Nhà Tây Sơn ra Bắc 1786, Nguyễn Du ôm mối ngu trung với nhà Lê, không cộng tác, tìm đường lánh ẩn chịu sống nghèo khổ. Nguyễn Du có mái tóc bạc sớm, mái tóc như biểu tượng của lo nghĩ, của những nghiền ngẫm buồn thương và bế tắc. Cả đời chưa thấy lúc nào ông đắc ý. Nguyễn Du ôm một nỗi niềm éo le. Giáo lý Khổng Mạnh dạy: tôi trung không thờ hai vua. Nhưng với Nguyễn Du, vua phải thờ thì hèn kém, thậm chí rước voi về giày mồ (Lê Chiêu Thống), còn vua phải chống thì lại anh hùng, bảo vệ độc lập dân tộc (Quang Trung). Đau đớn, bế tắc của Nguyễn Du là ở đấy.
+Tớ chọn Nguyễn Du là nhân vật đầu tiên để theo vết vì muốn tìm hiểu về một khía cạnh khác của ông. Một Nguyễn Du luôn đau đáu về nhân sinh, về tài năng của chính mình, về những ràng buộc của thời cuộc trong thời đại loạn lạc ấy.
 {: .text-justify}
 
-Đọc thơ chữ Hán Nguyễn Du chúng ta hiểu cội nguồn chủ nghĩa nhân đạo của ông thể hiện trong Truyện Kiều và những ký thác đời ông vào hình tượng Kiều, nhân vật sắc tài mà bạc mệnh.
-{: .text-justify}
 
 {% assign posts = site.posts | where_exp: "item", "item.tags contains 'nguyen-du'" %}
 {% for post in posts %}
