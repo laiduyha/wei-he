@@ -1,8 +1,8 @@
 main:
-  - title: Chuyện xưa
-    url: /chuyen-xua
-  - title: Chuyện nay
-    url: /chuyen-nay
-  - title: Về tôi
-    url: /about/    
+  - title: Đường của đạo
+    url: /duong-cua-dao
+  - title: Chuyện người xưa
+    url: /chuyen-nguoi-xua
+  - title: Về tớ
+    url: /ve-to/    
     

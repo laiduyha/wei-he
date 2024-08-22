@@ -1,0 +1,17 @@
+---
+title: Đường của đạo
+permalink: /duong-cua-dao/
+classes: wide
+---
+
+<sectio class="taxonomy__section">
+  <div class="entries">
+    {% assign posts = site.posts | where_exp: "item", "item.tags contains 'duong-cua-dao'" %}
+
+    {% for post in posts %}
+    <ul class="archive__item-title no_toc" itemprop="headline">
+      <li><a target="_blank" href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    </ul>
+    {% endfor %}
+  </div>
+</section>

@@ -1,16 +1,14 @@
 ---
-layout: single
 title: Khổng Tử 3 lần gặp Lão Tử
+layout: single
 classes: wide
-tags: dao-li
+tags: duong-cua-dao
 ---
 
-## Khổng Tử (孔​子) 3 lần gặp Lão Tử (老子)
-
-![alt](/assets/images/kong-zi-bai-jian-lao-zi.jpeg)
+![alt]({{ 'assets/images/kong-zi-bai-jian-lao-zi.jpeg' | absolute_url }})
 > <cite>
-<a href="https://m.chinawenhua.com.cn/zhexue/2018/3334.html">
-《孔子拜见老子》
+<a target="_blank" href="https://m.chinawenhua.com.cn/zhexue/2018/3334.html">
+《孔子拜见老子》- Khổng tử bái kiến Lão Tử
 </a>
 </cite>
 

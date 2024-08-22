@@ -1,20 +1,17 @@
 ---
+title: Thuyền rỗng
 layout: single
-title:  Thuyền rỗng
 classes: wide
-tags: dao-li
+tags: duong-cua-dao
 ---
 
-## Thuyền rỗng - Trang Tử (庄子)
-
-![alt](/assets/images/shi-tao-bai-li-kong-ming-tu-zhou-chuan.png)
+![alt]({{ 'assets/images/shi-tao-bai-li-kong-ming-tu-zhou-chuan.png' | absolute_url }})
 > <cite>
-<a href="https://www.hcsartmuseum.com/projects/21804/">
-石濤 (Shí Tāo)：《百里空明圖軸》局部 - 船
+<a target="_blank" href="https://www.hcsartmuseum.com/projects/21804/">
+石濤《百里空明圖軸 局部 - 船》- Thạch Đào《Trời xanh trăm dặm - Thuyền》
 </a>
 </cite>
 
-```
 Người ấy, người cai trị mọi người, sống trong lẫn lộn.
 Người ấy, người bị người khác cai trị, sống trong buồn bã.
 Đạo, do đó, không ham muốn ảnh hưởng đến người khác
@@ -74,4 +71,5 @@ Và người ấy không phán xét ai .
 Không ai phán xét người ấy.
 Người hoàn hảo như vậy
 Con thuyền của người ấy trống rỗng."
-```
+
+> <cite> Trang Tử (庄子) </cite> 

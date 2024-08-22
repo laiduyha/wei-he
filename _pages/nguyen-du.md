@@ -1,14 +1,13 @@
 ---
+title: Nguyễn Du (阮攸)
 permalink: /nguyen-du/
 classes: wide
 ---
 
-## Nguyễn Du (阮攸)
-
-![alt](/assets/images/nguyen-du.jpeg)
+![alt]({{ 'assets/images/nguyen-du.jpeg' | absolute_url }})
 > <cite>
-<a href="http://nguyendu.org.vn/vi/-nguyen-du---dai-thi-hao-dan-toc-viet-nam--FB689E800066581BBE66B1B8F8106905.html/i1439363111155/6/8">
-Lê Anh Tuấn 《Nguyễn Du - Đại thi hào dân tộc Việt Nam》
+<a target="_blank" href="http://nguyendu.org.vn/vi/-nguyen-du---dai-thi-hao-dan-toc-viet-nam--FB689E800066581BBE66B1B8F8106905.html/i1439363111155/6/8">
+Lê Anh Tuấn《Nguyễn Du - Đại thi hào dân tộc Việt Nam》
 </a>
 </cite>
 
