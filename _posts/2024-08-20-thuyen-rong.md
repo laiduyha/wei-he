@@ -27,7 +27,7 @@ tags: duong-cua-dao
 
 ## Diễn giải
 Người cai trị mọi người, sống trong lẫn lộn.\
-Người bị người khác cai trị, sống trong buồn bã.\
+Người bị người khác cai trị, sống trong buồn bã.
 
 Nếu một người đi thuyền qua sông\
 Và vô tình đụng phải một chiếc thuyền trống không,\
@@ -48,7 +48,7 @@ Thì người ấy chẳng la lối, cũng chẳng giận dữ làm gì.
 Thế nên nếu biết làm trống rỗng con thuyền của mình\
 Đi qua dòng sông thế giới này,\
 Thì chẳng ai đối lập lại mình,\
-Chẳng ai tìm cách hại mình.\
+Chẳng ai tìm cách hại mình.
 
 Cây mọc thẳng là cây đầu tiên bị chặt xuống.\
 Dòng nước trong là dòng nước đầu tiên bị tát cạn khô.\
