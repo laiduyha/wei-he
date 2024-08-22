@@ -8,7 +8,7 @@ tags: duong-cua-dao
 ![alt]({{ 'assets/images/shi-tao-bai-li-kong-ming-tu-zhou-chuan.png' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://www.hcsartmuseum.com/projects/21804/">
-石濤《百里空明圖軸 局部 - 船》- Thạch Đào《Trời xanh trăm dặm - Thuyền》
+石濤《百里空明圖軸 局部 - 船》- Thạch Đào《Trời Xanh Trăm Dặm - Thuyền》
 </a>
 </cite>
 
@@ -23,7 +23,7 @@ tags: duong-cua-dao
 庄子说：“不谴是非，以与世俗处。”\
 一个人“看不惯”的东西、人和事越多，这个人的境界也就越低，格局也就越小。
 
-> <cite> 庄子：空船理论《庄子·山木》 - Trang Tử: Lý luận thuyền rỗng《Trang Tử·Núi》</cite> 
+> <cite> 庄子：空船理论《山木》 - Trang Tử: Lý luận thuyền rỗng《Gốc Núi》</cite> 
 
 ## Diễn giải
 Người cai trị mọi người, sống trong lẫn lộn.\
@@ -36,7 +36,7 @@ Dù người có lòng dạ hẹp hòi đến đâu\
 Cũng không giận dữ bao giờ.\
 Nhưng nếu thấy người trên thuyền đó,\
 Thì lúc này lại tỏ ra giận dữ,\
-La lối một lần mà bên thuyền chẳng ai nghe\
+La lối một lần mà bên thuyền chẳng ai nghe,\
 Tất la lối đến hai lần,\
 Hai lần mà cũng chẳng ai nghe,\
 Tất la lối đến ba lần,\
@@ -47,16 +47,16 @@ Nếu như đụng phải thuyền trống rỗng,\
 Thì người ấy chẳng la lối, cũng chẳng giận dữ làm gì.
 {: .text-justify}
 
-Thế nên nếu biết làm trống rỗng con thuyền của mình\
-Đi qua dòng sông thế giới này,\
+Thế nên nếu biết làm trống rỗng con thuyền của mình,\
+Đi qua dòng sông thế gian này,\
 Thì chẳng ai đối lập lại mình,\
 Chẳng ai tìm cách hại mình.
 {: .text-justify}
 
 Cây mọc thẳng là cây đầu tiên bị chặt xuống.\
 Dòng nước trong là dòng nước đầu tiên bị tát cạn khô.\
-Nếu muốn thể hiện cái khôn ngoan của mình\
-Và làm xấu hổ, vùi dập kẻ dốt nát\
+Nếu muốn thể hiện cái khôn ngoan của mình,\
+Mà làm xấu hổ, vùi dập kẻ dốt nát\
 Để thỏa được cá tính mình và chiếu sáng người khác\
 Bằng ánh sáng của chính bản thân\
 Như mình nuốt được cả mặt trời, mặt trăng\
@@ -64,8 +64,8 @@ Thì sẽ không tránh khỏi tai ương.
 {: .text-justify}
 
 Người minh triết đã nói:\
-"Người mà tự bằng lòng với mình\
-Thì đã làm được việc vô giá trị.\
+"Người mà tự bằng lòng với mình,\
+Thì đã đạt được thành quả vô giá.\
 Thành đạt là bắt đầu của thất bại,\
 Nổi tiếng là bắt đầu của ghét bỏ."
 {: .text-justify}

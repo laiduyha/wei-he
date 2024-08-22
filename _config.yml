@@ -21,7 +21,7 @@ title                    : "维河 (Wéi Hé)"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Wéi Hé"
-description              : "Một ý niệm không sinh, thì vạn duyên đều tịch"
+description              : "Một ý niệm không sinh, thì vạn duyên đều tịch."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : 
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,9 +105,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag"
   google:
-    tracking_id          :
+    tracking_id          : "GTM-5QHCN85R"
     anonymize_ip         : # true, false (default)
 
 

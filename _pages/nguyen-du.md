@@ -1,5 +1,5 @@
 ---
-title: Nguyễn Du (阮攸) (13/1/1766 - 16/9/1820)
+title: Nguyễn Du (阮攸)
 permalink: /nguyen-du/
 classes: wide
 ---
@@ -11,15 +11,10 @@ Lê Anh Tuấn《Nguyễn Du - Đại thi hào dân tộc Việt Nam》
 </a>
 </cite>
 
-Nguyễn Du (阮攸) tự Tố Như (素如), hiệu Thanh Hiên (清軒). Ông sống vào thời khắc bước ngoặt lịch sử của nhà Hậu Lê, Tây Sơn và Chúa Nguyễn phân tranh. Thuở nhỏ tưởng chừng như cuộc đời ông được sung sướng khi cha ông làm tới chức tể tướng của Triều Lê. Tuy nhiên lên mười thì cha ông mất, mười ba tuổi thì ông mồ côi mẹ. Sau này rồi chiến sự loạn lạc càng làm ông trở nên mất đi phương hướng.
+Nguyễn Du (阮攸) tự Tố Như (素如), hiệu Thanh Hiên (清軒). Ông sinh năm 1766, mất năm 1820, thọ 54 tuổi. Ông sống vào thời khắc bước ngoặt lịch sử của nhà Hậu Lê, Tây Sơn và Chúa Nguyễn phân tranh. Thuở nhỏ, tưởng chừng như cuộc đời ông không gặp nhiều trắc trở, khi cha ông làm tới chức tể tướng của Triều Lê. Tuy nhiên khi ông lên mười thì cha mất, mười ba tuổi thì mồ côi mẹ. Sau này rồi, chiến sự loạn lạc càng làm ông trở nên mất đi phương hướng. Vào thời khắc loạn lạc đó, vì những ràng buộc của tư tưởng Nho giáo và đạo nghĩa mà ông bị kẹt trong gọng kiềm của sự `trung thành` với nhà Lê. Khi nhà Tây Sơn ra Bắc năm 1786, ông chọn thái độ không cộng tác, tìm đường sống ẩn dật, cam chịu cảnh nghèo khổ mà thanh cao.
 {: .text-justify}
 
-Vào thời khắc loạn lạc đó, vì những ràng buộc về nho giáo và đạo nghĩa mà ông bị nhốt trong gọng kiềm `ngu trung` với nhà Lê. Khi nhà Tây Sơn ra bắc năm 1786, ông chọn thái độ không cộng tác, tìm đường sống ẩn dật, cam chịu cảnh nghèo khổ mà thanh cao. Giáo lý Khổng Mạnh dạy `tôi trung không thờ hai vua`, với Nguyễn Du, vua phải thờ thì hèn kém (Lê Chiêu Thống), còn vua phải chống thì lại là trang anh hùng (Quang Trung).
-
-Nguyễn Du có mái tóc bạc sớm, mái tóc như biểu tượng của lo nghĩ, của những nghiền ngẫm buồn thương và bế tắc. Nguyễn Du nổi tiếng với Truyện Kiều, đọc qua nó mọi người sẽ thấy hình tượng của một nhà thơ nhạy cảm về đầy rung động với cái đẹp. Thế nhưng sâu thẳm bên trong ông lại có mội tiếng nói khác, và các bài thơ chữ Hán Nguyễn Du như một tiếng thở dài luận bàn nhân tâm thế sự và xót thương thân phận.
-{: .text-justify}
-
-Tớ chọn Nguyễn Du là nhân vật đầu tiên để theo vết vì muốn tìm hiểu về một khía cạnh khác của ông. Một Nguyễn Du luôn đau đáu về nhân sinh, về tài năng của chính mình, về những ràng buộc của thời cuộc trong thời buổi loạn lạc ấy.
+Nguyễn Du có mái tóc bạc sớm, mái tóc như biểu tượng của những chiêm nghiệm buồn thương và bế tắc. Nguyễn Du nổi tiếng với Truyện Kiều khi mà bất kỳ ai là người Việt Nam thì đều biết đến. Thế nhưng sâu thẳm bên trong ông lại có một tiếng nói khác, và đó cũng chính là lý do tớ chọn Nguyễn Du là nhân vật đầu tiên để theo vết. Thông qua những vết tích này, hy vọng cậu sẽ thấy được một Nguyễn Du khác. Một Nguyễn Du luôn hoài nghi, đau đáu về nhân sinh, về những trói buộc của thời cuộc, và cả tài năng của chính mình trong thời buổi loạn lạc ấy.
 {: .text-justify}
 
 {% assign posts = site.posts | where_exp: "item", "item.tags contains 'nguyen-du'" %}
