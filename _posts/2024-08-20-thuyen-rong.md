@@ -28,6 +28,7 @@ tags: duong-cua-dao
 ## Diễn giải
 Người cai trị mọi người, sống trong lẫn lộn.\
 Người bị người khác cai trị, sống trong buồn bã.
+{: .text-justify}
 
 Nếu một người đi thuyền qua sông\
 Và vô tình đụng phải một chiếc thuyền trống không,\
@@ -44,11 +45,13 @@ Trước không giận mà nay lại giận là vì sao?\
 Vì trước không có người mà nay lại có người!\
 Nếu như đụng phải thuyền trống rỗng,\
 Thì người ấy chẳng la lối, cũng chẳng giận dữ làm gì.
+{: .text-justify}
 
 Thế nên nếu biết làm trống rỗng con thuyền của mình\
 Đi qua dòng sông thế giới này,\
 Thì chẳng ai đối lập lại mình,\
 Chẳng ai tìm cách hại mình.
+{: .text-justify}
 
 Cây mọc thẳng là cây đầu tiên bị chặt xuống.\
 Dòng nước trong là dòng nước đầu tiên bị tát cạn khô.\
@@ -58,12 +61,14 @@ Và làm xấu hổ, vùi dập kẻ dốt nát\
 Bằng ánh sáng của chính bản thân\
 Như mình nuốt được cả mặt trời, mặt trăng\
 Thì sẽ không tránh khỏi tai ương.
+{: .text-justify}
 
 Người minh triết đã nói:\
 "Người mà tự bằng lòng với mình\
 Thì đã làm được việc vô giá trị.\
 Thành đạt là bắt đầu của thất bại,\
 Nổi tiếng là bắt đầu của ghét bỏ."
+{: .text-justify}
 
 Vậy người có thể giải phóng mình khỏi thành đạt và danh vọng\
 Có thể hạ mình xuống và tan biến đi trong biển người.\
@@ -77,6 +82,7 @@ Người ấy không có danh tiếng.\
 Và người ấy không phán xét ai.\
 Và cũng không ai phán xét người ấy.\
 Người hoàn hảo như vậy\
-Con thuyền của người ấy trống rỗng."
+Con thuyền của người ấy trống rỗng.
+{: .text-justify}
 
-> <cite> Wéi Hé diễn dịch lại ngày 2024-08-22 theo bản dịch trong cuốn 《Thuyền Rỗng》của Osho </cite>
+> <cite> Wéi Hé diễn dịch lại ngày 20/08/2024 theo bản dịch trong cuốn 《Thuyền Rỗng》của Osho </cite>-

@@ -11,11 +11,11 @@ classes: wide
 </a>
 </cite>
 
-Tớ không hẳn là một người theo bất kỳ tôn giáo nào, nhưng tớ cảm nhận đạo lí của Đạo Giáo có vẻ phù hợp với nhân sinh quan của mình. 
-Cả cuộc đời mình tớ muốn dành để `chảy` đi hết thế gian, nhìn thấy được nhiều thứ, ngộ ra được nhiều điều.
+Tớ không hẳn là một người theo bất kỳ tôn giáo nào, nhưng tớ cảm nhận đạo lí của Đạo Giáo có vẻ phù hợp với nhân sinh quan của mình. Cả cuộc đời mình tớ muốn dành để `chảy` đi hết thế gian, nhìn thấy được nhiều thứ, ngộ ra được nhiều điều.
+{: .text-justify}
 
-Và tớ cũng không muốn những điều này sẽ mất đi khi tớ không còn nữa. 
-Thế nên tớ lưu vết lại nơi đây, để cho những ai có đi qua, tạt ngang con đường này sẽ thấy được cái thú vị của nó.
+Và tớ cũng không muốn những điều này sẽ mất đi khi tớ không còn nữa. Thế nên tớ lưu vết lại nơi đây, để cho những ai có đi qua, tạt ngang con đường này sẽ thấy được cái thú vị của nó.
+{: .text-justify}
 
 {% assign posts = site.posts | where_exp: "item", "item.tags contains 'duong-cua-dao'" %}
 {% for post in posts %}
