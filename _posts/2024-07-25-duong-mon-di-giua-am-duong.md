@@ -5,8 +5,8 @@ classes: wide
 tags: duong-cua-dao
 ---
 
-![alt]({{ 'assets/images/du-xing.jpeg' | absolute_url }})
+![alt]({{ 'assets/images/long-guo-ping-deng-shan-ting-quan.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://www.nipic.com/show/3095904.html">
-《独行图片》-《Độc hành》
+龙国屏《登山听泉》- Long Quốc Bình《Lên Núi Nghe Suối》
 </a>

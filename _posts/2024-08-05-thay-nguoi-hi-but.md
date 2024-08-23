@@ -46,3 +46,10 @@ Mặc cho Nam hải bụi bay mù!
 Nguyễn Thạch Giang dịch
 </a>
 </cite>
+
+## Bình thơ
+
+Để có góc nhìn khác cậu có thể tham khảo thêm tại đây 
+<a target="_blank" href="https://vanviet.info/nghien-cuu-phe-binh/h-bt-m-sao-buot-tm-can-ve-bi-tho-dai-nhn-h-bt-cua-nguyen-du/">
+《“Hí bút” mà sao buốt tâm can (Về bài thơ “đại nhân hí bút” của Nguyễn Du)》
+</a>
