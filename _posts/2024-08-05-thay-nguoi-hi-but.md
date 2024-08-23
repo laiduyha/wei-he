@@ -55,7 +55,7 @@ Hồ Hán chia nhau một góc phường.
 
 Ngựa thì thong thả rau với cỏ,\
 Người thì bí tỉ chốn lầu xanh.\
-Phồn hoa dài mãi theo năm tháng,\
+Phồn hoa đô hội dài năm tháng,\
 Quản chi gió bụi tận Phương Nam!
 
 > <cite>
