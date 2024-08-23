@@ -14,7 +14,7 @@ classes: wide
 Tớ không hẳn là một người theo bất kỳ tôn giáo nào, nhưng với riêng tớ thì đạo lí của Đạo Giáo có vẻ là phù hợp nhất để hoàn thành ước nguyện của bản thân. Với tớ, mong ước lớn nhất là có thể dành cả cuộc đời mình để `chảy` đi khắp thế gian, nhìn thấy được nhiều thứ, ngộ ra được nhiều điều.
 {: .text-justify}
 
-Và tớ cũng không muốn những thứ mà tớ thấy, những điều mà tớ ngộ sẽ mất đi khi tớ không còn nữa. Thế nên tớ lưu vết lại nơi đây, để cho những ai `có duyên` đi hay tạt ngang qua con đường này sẽ thấy được cái thú vị của nó.
+Và tớ cũng không muốn những thứ mà tớ thấy, những điều mà tớ ngộ sẽ mất đi khi tớ không còn nữa. Thế nên tớ lưu vết lại nơi đây, nếu `có duyên` thì coi như chúng ta đã gặp gỡ đâu đó trên con đường này.
 {: .text-justify}
 
 {% assign posts = site.posts | where_exp: "item", "item.tags contains 'duong-cua-dao'" %}
