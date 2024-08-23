@@ -35,7 +35,8 @@ Bất quản Nam minh kỷ độ trần.
 Nhà ai bến Nhị mọc lô nhô,\
 Chiếm cả bầu xuân hết một khu.\
 Tả hữu đôi bên cầu gác dựng,\
-Hán Hồ khác lối áo quần phô.\
+Hán Hồ khác lối áo quần phô.
+
 Giàm vàng ngựa kén mầm rau ngột,\
 Lầu ngọc người say thú rượu nho.\
 Cảnh đẹp năm năm riêng hưởng thú,\
@@ -47,9 +48,22 @@ Nguyễn Thạch Giang dịch
 </a>
 </cite>
 
-## Bình thơ
+Sông Hồng lô nhô nhà với cửa,\
+Tranh nhau chiếm cả góc trời xuân.\
+Hai bên mạn cầu nhà cao ngất,\
+Hồ Hán chia nhau một góc phường.
 
-Để có góc nhìn khác cậu có thể tham khảo thêm tại đây 
+Ngựa thì thong thả rau với cỏ,\
+Người thì bí tỉ chốn lầu xanh.\
+Phồn hoa dài mãi theo năm tháng,\
+Quản chi gió bụi tận Phương Nam!
+
+> <cite>
+<a target="_blank" href="https://wei-he.xyz"> Wéi Hé dịch </a>
+</cite>
+
+## Thông tin tham khảo
+
 <a target="_blank" href="https://vanviet.info/nghien-cuu-phe-binh/h-bt-m-sao-buot-tm-can-ve-bi-tho-dai-nhn-h-bt-cua-nguyen-du/">
 《“Hí bút” mà sao buốt tâm can (Về bài thơ “đại nhân hí bút” của Nguyễn Du)》
 </a>
