@@ -85,4 +85,6 @@ Người hoàn hảo như vậy\
 Con thuyền của người ấy trống rỗng.
 {: .text-justify}
 
-> <cite> Wéi Hé diễn dịch lại ngày 20/08/2024 theo bản dịch trong cuốn 《Thuyền Rỗng》của Osho </cite>-
+> <cite>
+<a target="_blank" href="https://wei-he.xyz">Wéi Hé diễn dịch lại theo bản dịch trong cuốn《Thuyền Rỗng》của Osho</a>
+</cite>

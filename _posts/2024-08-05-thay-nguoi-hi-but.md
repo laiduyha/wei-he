@@ -1,5 +1,5 @@
 ---
-title: 代人戏笔 - Hý bút thay người
+title: 代人戏笔 - Thay người hí bút
 layout: single
 classes: wide
 tags: nguyen-du
@@ -29,7 +29,7 @@ Bồ đào xuân tuý ngọc lâu nhân.\
 年年自得繁华胜，\
 Niên niên tự đắc phồn hoa thắng,\
 不管南溟几度尘。\
-Bất quản Nam minh kỷ độ trần.\
+Bất quản Nam minh kỷ độ trần.
 
 ## Dịch thơ
 Nhà ai bến Nhị mọc lô nhô,\
@@ -39,7 +39,7 @@ Hán Hồ khác lối áo quần phô.\
 Giàm vàng ngựa kén mầm rau ngột,\
 Lầu ngọc người say thú rượu nho.\
 Cảnh đẹp năm năm riêng hưởng thú,\
-Mặc cho Nam hải bụi bay mù!\
+Mặc cho Nam hải bụi bay mù!
 
 > <cite>
 <a target="_blank" href="https://www.thivien.net/Nguy%E1%BB%85n-Th%E1%BA%A1ch-Giang/author-CvAZUU0eLlYNISop-HkZqA">

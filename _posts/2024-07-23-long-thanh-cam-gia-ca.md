@@ -172,4 +172,4 @@ Cảm thương chuyện cũ dùng áo thấm nước mắt\
 Ta từ Nam trở lại, đầu bạc trắng\
 Trách làm sao được sắc đẹp cũng suy tàn.\
 Hai mắt trừng lên tưởng nhớ chuyện xưa\
-Thương cho đối mặt mà chẳng nhìn nhận ra nhau.\
+Thương cho đối mặt mà chẳng nhìn nhận ra nhau.

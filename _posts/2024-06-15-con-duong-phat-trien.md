@@ -5,9 +5,9 @@ classes: wide
 tags: duong-cua-dao
 ---
 
-![alt]({{ 'assets/images/dong-xi-yuan-pan-yuan-gu-shu-yuan-ying-tian.jpg' | absolute_url }})
+![alt]({{ 'assets/images/whitney-johnson-smart-grow-curve.gif' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://www.leadershipnow.com/leadingblog/2022/02/smart_growth.html">
-Whitney Johnson《Smart Grow Curve》- Whitney Johnson《Các giai đoạn phát triển》
+Whitney Johnson《Smart Grow Curve》
 </a>
 </cite>
