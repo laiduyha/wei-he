@@ -25,4 +25,4 @@ Whitney Johnson《Smart Grow Curve》
 
 ## Áp dụng
 
-Mô hình này không chỉ áp dụng cho sự phát triển của bản thân mà cũng có thể được dùng để lý giải sự phát triển của một quốc gia, của một ngành nghề nhất định. Cậu có thể vận dụng mô hình này để quan sát đường đi, trạng thái phát triển của một sự vật hiện tượng nào đó. Sau đó tìm hiểu và quan sát những động lực, những vận động để chiêm nghiệm và đánh giá xem nó có đi đúng đường, phát triển đúng hướng hay không.
+Mô hình này không chỉ áp dụng cho sự phát triển của bản thân mà cũng có thể được dùng để lý giải sự phát triển của bất kỳ một sự vật, hiện tượng nào. Ví dụ như một quốc gia, một ngành nghề, hay 1 trend nào đó. Thế nên cậu có thể vận dụng mô hình này để quan sát đường đi, trạng thái phát triển của nó. Sau đó chiêm nghiệm và đánh giá xem nó có đi đúng đường, phát triển đúng hướng hay không.

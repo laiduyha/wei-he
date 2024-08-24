@@ -17,7 +17,7 @@ Người gảy đàn đất Long Thành không rõ họ tên là gì. Nghe nói 
 
 Sau đó vài năm, tôi rời nhà về Nam (Thái Bình), mấy năm liền không trở lại Long Thành. Mùa xuân năm nay (1813 - khoảng 47 tuổi) tôi lại phụng mệnh đi sứ sang Trung Quốc, đi qua Long Thành. Các bạn mở tiệc tiễn tôi ở dinh Tuyên phủ, có gọi tất cả vài chục nữ nhạc, tôi đều không biết mặt biết tên. Chị em thay nhau múa hát. Rồi nghe một khúc Cung Phụng (đàn Nguyễn) trong trẻo nổi lên, khác hẳn những khúc thường nghe, tôi lấy làm lạ, nhìn người gảy đàn thì thấy một chị gầy gò, vẻ tiều tuỵ, sắc mặt đen sạm, áo quần mặc toàn vải thô bạc thếch, vá nhiều mảnh trắng, ngồi im lặng ở cuối chiếu, chẳng hề nói cười, hình dáng thật khó tả. Tôi không biết nàng là ai, nhưng nghe tiếng đàn thì dường như đã quen biết, nên động lòng thương. Tiệc xong, hỏi thì chính là người cũ hai mươi năm trước. Than ôi! Người ấy sao đến nỗi thế! Tôi bồi hồi, không yên, ngửng lên cúi xuống, ngậm ngùi cho cảnh xưa và nay. Người ta trong cõi trăm năm, những sự vinh nhục buồn vui thật không lường được. Sau khi từ biệt trên đường đi, cảm thương vô hạn nên làm bài ca sau, để ghi lại nỗi niềm.
 
-## 阮攸《龙城琴者歌》
+## 龙城琴者歌
 龙城佳人，\
 Long thành giai nhân,\
 不记名字。\
