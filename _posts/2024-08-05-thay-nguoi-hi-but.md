@@ -32,22 +32,24 @@ Niên niên tự đắc phồn hoa thắng,\
 Bất quản Nam minh kỷ độ trần.
 
 ## Thay người hí bút
-Nhà cửa lô nhô bến Sông Hồng,\
-Trời xuân độc chiếm một khoảng không.\
-Hai bên mạn cầu nhà cao ngất,\
-Hồ Hán chia nhau một góc phường.
+Nhà cửa lô nhô cạnh bến Hồng,\ {% comment %} : __ T __ B __ TB{% endcomment %}
+Nghiễm nhiên độc chiếm cả thành không.\ {% comment %} : __ B __ T __ BB{% endcomment %}
+Hai bên cầu gác nhà cao ngất,\ {% comment %} : __ B __ T __ BT{% endcomment %}
+Hồ Hán chia nhau được mấy phường. {% comment %} : __ T __ B __ TB{% endcomment %}
 
-Ngựa thì thong thả rau với cỏ,\
-Người lại bí tỉ chốn lầu cao.\
-Phồn hoa đô hội theo năm tháng,\
-Quản chi gió bụi tận phương Nam!
+Ngựa xếp theo hàng nhai gặm cỏ,\ {% comment %} : __ T __ B __ TT{% endcomment %}
+Người thì bí tỉ chốn lầu cao.\ {% comment %} : __ B __ T __ BB{% endcomment %}
+Phồn hoa đô hội dài năm tháng,\ {% comment %} : __ B __ T __ BT{% endcomment %}
+Gió bụi phương Nam chẳng quản gì! {% comment %} : __ T __ B __ TB{% endcomment %}
+
+`Luật Trắc, thất vần`
 
 > <cite>
 <a target="_blank" href="https://wei-he.xyz">Wéi Hé dịch</a>
 </cite>
 
 ## Thay người viết đùa
-Nhà ai bến Nhị mọc lô nhô,\
+Nhà ai bến Nhị mọc lô nhô,\ 
 Chiếm cả bầu xuân hết một khu.\
 Tả hữu đôi bên cầu gác dựng,\
 Hán Hồ khác lối áo quần phô.
