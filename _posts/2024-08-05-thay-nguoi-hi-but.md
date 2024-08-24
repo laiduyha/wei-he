@@ -32,23 +32,27 @@ Niên niên tự đắc phồn hoa thắng,\
 Bất quản Nam minh kỷ độ trần.
 
 ## Thay người hí bút
-Nhà cửa lô nhô cạnh bến Hồng,
-{% comment %} : __ T __ B __ TB{% endcomment %}
-Nghiễm nhiên độc chiếm cả thành không.
-{% comment %} : __ B __ T __ BB{% endcomment %}
-Hai bên cầu gác nhà cao ngất,
-{% comment %} : __ B __ T __ BT{% endcomment %}
-Hồ Hán chia nhau được mấy phường.
-{% comment %} : __ T __ B __ TB{% endcomment %}
+{% comment %}
+__ T __ B __ TB
+__ B __ T __ BB
+__ B __ T __ BT
+__ T __ B __ TB
 
-Ngựa xếp theo hàng, nhai gặm cỏ,
-{% comment %} : __ T __ B __ TT{% endcomment %}
-Người thì bí tỉ, chốn lầu cao.
-{% comment %} : __ B __ T __ BB{% endcomment %}
-Phồn hoa đô hội, dài năm tháng,
-{% comment %} : __ B __ T __ BT{% endcomment %}
+__ T __ B __ TT
+__ B __ T __ BB
+__ B __ T __ BT
+__ T __ B __ TB
+{% endcomment %}
+
+Nhà cửa lô nhô cạnh bến Hồng,\
+Nghiễm nhiên độc chiếm cả thành không.\
+Hai bên cầu gác nhà cao ngất,\
+Hồ Hán chia nhau được mấy phường.
+
+Ngựa xếp theo hàng, nhai gặm cỏ,\
+Người thì bí tỉ, chốn lầu cao.\
+Phồn hoa đô hội, dài năm tháng,\
 Gió bụi phương Nam, chẳng quản gì!
-{% comment %} : __ T __ B __ TB{% endcomment %}
 
 > <cite>
 <a target="_blank" href="https://wei-he.xyz">Wéi Hé dịch</a>
