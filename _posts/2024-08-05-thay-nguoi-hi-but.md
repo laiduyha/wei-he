@@ -37,10 +37,10 @@ Nghiễm nhiên độc chiếm cả thành không.\ {% comment %} : __ B __ T __
 Hai bên cầu gác nhà cao ngất,\ {% comment %} : __ B __ T __ BT{% endcomment %}
 Hồ Hán chia nhau được mấy phường. {% comment %} : __ T __ B __ TB{% endcomment %}
 
-Ngựa xếp theo hàng nhai gặm cỏ,\ {% comment %} : __ T __ B __ TT{% endcomment %}
-Người thì bí tỉ chốn lầu cao.\ {% comment %} : __ B __ T __ BB{% endcomment %}
-Phồn hoa đô hội dài năm tháng,\ {% comment %} : __ B __ T __ BT{% endcomment %}
-Gió bụi phương Nam chẳng quản gì! {% comment %} : __ T __ B __ TB{% endcomment %}
+Ngựa xếp theo hàng, nhai gặm cỏ,\ {% comment %} : __ T __ B __ TT{% endcomment %}
+Người thì bí tỉ, chốn lầu cao.\ {% comment %} : __ B __ T __ BB{% endcomment %}
+Phồn hoa đô hội, dài năm tháng,\ {% comment %} : __ B __ T __ BT{% endcomment %}
+Gió bụi phương Nam, chẳng quản gì! {% comment %} : __ T __ B __ TB{% endcomment %}
 
 `Luật Trắc, thất vần`
 
