@@ -1,5 +1,5 @@
 ---
-title: 代人戏笔 - Thay người hí bút
+title: 阮攸《代人戏笔》- Nguyễn Du《Thay người hí bút》
 layout: single
 classes: wide
 tags: nguyen-du
@@ -31,7 +31,23 @@ Niên niên tự đắc phồn hoa thắng,\
 不管南溟几度尘。\
 Bất quản Nam minh kỷ độ trần.
 
-## Dịch thơ
+
+## Thay người hí bút
+Sông Hồng lô nhô nhà với cửa,\
+Tranh nhau chiếm cả góc trời xuân.\
+Hai bên mạn cầu nhà cao ngất,\
+Hồ Hán chia nhau một góc phường.
+
+Ngựa thì thong thả rau với cỏ,\
+Người thì bí tỉ chốn lầu xanh.\
+Phồn hoa đô hội dài năm tháng,\
+Quản chi gió bụi tận Phương Nam!
+
+> <cite>
+<a target="_blank" href="https://wei-he.xyz"> Wéi Hé dịch </a>
+</cite>
+
+## Thay người viết đùa
 Nhà ai bến Nhị mọc lô nhô,\
 Chiếm cả bầu xuân hết một khu.\
 Tả hữu đôi bên cầu gác dựng,\
@@ -48,19 +64,6 @@ Nguyễn Thạch Giang dịch
 </a>
 </cite>
 
-Sông Hồng lô nhô nhà với cửa,\
-Tranh nhau chiếm cả góc trời xuân.\
-Hai bên mạn cầu nhà cao ngất,\
-Hồ Hán chia nhau một góc phường.
-
-Ngựa thì thong thả rau với cỏ,\
-Người thì bí tỉ chốn lầu xanh.\
-Phồn hoa đô hội dài năm tháng,\
-Quản chi gió bụi tận Phương Nam!
-
-> <cite>
-<a target="_blank" href="https://wei-he.xyz"> Wéi Hé dịch </a>
-</cite>
 
 ## Thông tin tham khảo
 
