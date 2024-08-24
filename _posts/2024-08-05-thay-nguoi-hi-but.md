@@ -31,7 +31,6 @@ Niên niên tự đắc phồn hoa thắng,\
 不管南溟几度尘。\
 Bất quản Nam minh kỷ độ trần.
 
-
 ## Thay người hí bút
 Nhà cửa lô nhô bến Sông Hồng,\
 Trời xuân độc chiếm một khoảng không.\

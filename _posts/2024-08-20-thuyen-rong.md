@@ -1,5 +1,5 @@
 ---
-title: 空船理论 - Thuyền rỗng
+title: 庄子《空船理论》- Trang Tử《Lý luận Thuyền Rỗng》
 layout: single
 classes: wide
 tags: duong-cua-dao
@@ -12,7 +12,7 @@ tags: duong-cua-dao
 </a>
 </cite>
 
-## 空船理论
+##  空船理论
 一个人在乘船渡河的时候，前面一只船正要撞过来。\
 这个人喊了好几声没有人回应，于是破口大骂前面开船的人不长眼。\
 结果撞上来的竟是一只空船，于是刚才怒气冲冲的人，一下子怒火就消失得无影无踪了。\
@@ -25,7 +25,7 @@ tags: duong-cua-dao
 
 > <cite> 庄子：空船理论《山木》 - Trang Tử: Lý luận thuyền rỗng《Gốc Núi》</cite> 
 
-## Diễn giải
+## Lý luận Thuyền Rỗng
 Người cai trị mọi người, sống trong lẫn lộn.\
 Người bị người khác cai trị, sống trong buồn bã.
 {: .text-justify}

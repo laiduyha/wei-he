@@ -121,8 +121,6 @@ Song nhãn trừng trừng không tưởng tượng,\
 可怜对面不相知。\
 Khả liên đối diện bất tương tri.
 
-***
-
 ## Long Thành Cầm Giả Ca
 Người đẹp Long Thành\
 Họ tên không được biết\
