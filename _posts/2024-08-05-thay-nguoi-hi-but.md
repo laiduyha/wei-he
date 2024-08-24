@@ -32,17 +32,23 @@ Niên niên tự đắc phồn hoa thắng,\
 Bất quản Nam minh kỷ độ trần.
 
 ## Thay người hí bút
-Nhà cửa lô nhô cạnh bến Hồng,\ {% comment %} : __ T __ B __ TB{% endcomment %}
-Nghiễm nhiên độc chiếm cả thành không.\ {% comment %} : __ B __ T __ BB{% endcomment %}
-Hai bên cầu gác nhà cao ngất,\ {% comment %} : __ B __ T __ BT{% endcomment %}
-Hồ Hán chia nhau được mấy phường. {% comment %} : __ T __ B __ TB{% endcomment %}
+Nhà cửa lô nhô cạnh bến Hồng,
+{% comment %} : __ T __ B __ TB{% endcomment %}
+Nghiễm nhiên độc chiếm cả thành không.
+{% comment %} : __ B __ T __ BB{% endcomment %}
+Hai bên cầu gác nhà cao ngất,
+{% comment %} : __ B __ T __ BT{% endcomment %}
+Hồ Hán chia nhau được mấy phường.
+{% comment %} : __ T __ B __ TB{% endcomment %}
 
-Ngựa xếp theo hàng, nhai gặm cỏ,\ {% comment %} : __ T __ B __ TT{% endcomment %}
-Người thì bí tỉ, chốn lầu cao.\ {% comment %} : __ B __ T __ BB{% endcomment %}
-Phồn hoa đô hội, dài năm tháng,\ {% comment %} : __ B __ T __ BT{% endcomment %}
-Gió bụi phương Nam, chẳng quản gì! {% comment %} : __ T __ B __ TB{% endcomment %}
-
-`Luật Trắc, thất vần`
+Ngựa xếp theo hàng, nhai gặm cỏ,
+{% comment %} : __ T __ B __ TT{% endcomment %}
+Người thì bí tỉ, chốn lầu cao.
+{% comment %} : __ B __ T __ BB{% endcomment %}
+Phồn hoa đô hội, dài năm tháng,
+{% comment %} : __ B __ T __ BT{% endcomment %}
+Gió bụi phương Nam, chẳng quản gì!
+{% comment %} : __ T __ B __ TB{% endcomment %}
 
 > <cite>
 <a target="_blank" href="https://wei-he.xyz">Wéi Hé dịch</a>
@@ -64,7 +70,6 @@ Mặc cho Nam hải bụi bay mù!
 Nguyễn Thạch Giang dịch
 </a>
 </cite>
-
 
 ## Tham khảo thêm
 <a target="_blank" href="https://vanviet.info/nghien-cuu-phe-binh/h-bt-m-sao-buot-tm-can-ve-bi-tho-dai-nhn-h-bt-cua-nguyen-du/">
