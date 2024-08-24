@@ -33,18 +33,18 @@ Bất quản Nam minh kỷ độ trần.
 
 
 ## Thay người hí bút
-Sông Hồng lô nhô nhà với cửa,\
-Tranh nhau chiếm cả góc trời xuân.\
+Nhà cửa lô nhô bến Sông Hồng,\
+Trời xuân độc chiếm một khoảng không.\
 Hai bên mạn cầu nhà cao ngất,\
 Hồ Hán chia nhau một góc phường.
 
 Ngựa thì thong thả rau với cỏ,\
-Người thì bí tỉ chốn lầu xanh.\
-Phồn hoa đô hội dài năm tháng,\
-Quản chi gió bụi tận Phương Nam!
+Người lại bí tỉ chốn lầu cao.\
+Phồn hoa đô hội theo năm tháng,\
+Quản chi gió bụi tận phương Nam!
 
 > <cite>
-<a target="_blank" href="https://wei-he.xyz"> Wéi Hé dịch </a>
+<a target="_blank" href="https://wei-he.xyz">Wéi Hé dịch</a>
 </cite>
 
 ## Thay người viết đùa

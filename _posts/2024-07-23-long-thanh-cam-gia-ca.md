@@ -121,8 +121,9 @@ Song nhãn trừng trừng không tưởng tượng,\
 可怜对面不相知。\
 Khả liên đối diện bất tương tri.
 
+***
 
-## Dịch thơ
+## Long Thành Cầm Giả Ca
 Người đẹp Long Thành\
 Họ tên không được biết\
 Riêng thạo đàn huyền cầm\
@@ -149,7 +150,6 @@ Vẻ hào hoa hơn bậc vương hầu\
 Giới trẻ nơi Ngũ Lăng không đáng kể\
 Dường như ba mươi sáu cung xuân\
 Nay Tràng An đã hun đúc được một báu vật vô giá.
-
 
 Trong đầu nhớ lại đã hai mươi năm\
 Tây sơn thua bại, tôi vào Nam\
