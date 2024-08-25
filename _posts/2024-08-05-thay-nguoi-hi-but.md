@@ -2,6 +2,7 @@
 title: 阮攸《代人戏笔》- Nguyễn Du《Thay người hí bút》
 layout: single
 classes: wide
+breadcrumbs: true
 permalink: /nguyen-du/thay-nguoi-hi-but
 tags: nguyen-du
 ---
