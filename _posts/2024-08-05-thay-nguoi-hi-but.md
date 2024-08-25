@@ -44,15 +44,15 @@ __ B __ T __ BT
 __ T __ B __ TB
 {% endcomment %}
 
-Nhà cửa lô nhô cạnh bến Hồng,\
-Nghiễm nhiên độc chiếm cả thành không.\
+Nhà cửa lô nhô sát bến Hồng,\
+Nghiễm nhiên độc chiếm cả thành xuân.\
 Hai bên cầu gác nhà cao ngất,\
 Hồ Hán chia nhau được mấy phường.
 
-Ngựa xếp theo hàng, nhai gặm cỏ,\
-Người thì bí tỉ, chốn lầu cao.\
-Phồn hoa đô hội, dài năm tháng,\
-Gió bụi phương Nam, chẳng quản gì!
+Ngựa xếp theo hàng nhai gặm cỏ,\
+Người thì bí tỉ chốn lầu cao.\
+Phồn hoa đô hội dài năm tháng,\
+Gió bụi phương Nam chẳng quản gì!
 
 > <cite>
 <a target="_blank" href="https://wei-he.xyz">Wéi Hé dịch</a>
