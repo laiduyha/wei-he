@@ -1,6 +1,6 @@
 ---
 title: Nguyễn Du (阮攸)
-permalink: /nguyen-du/
+permalink: /nguyen-du
 classes: wide
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Đường của đạo
-permalink: /duong-cua-dao/
+permalink: /duong-cua-dao
 classes: wide
 ---
 

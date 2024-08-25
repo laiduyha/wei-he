@@ -2,6 +2,7 @@
 title: 阮攸《代人戏笔》- Nguyễn Du《Thay người hí bút》
 layout: single
 classes: wide
+permalink: /nguyen-du/thay-nguoi-hi-but
 tags: nguyen-du
 ---
 
@@ -45,7 +46,7 @@ __ T __ B __ TB
 {% endcomment %}
 
 Nhà cửa lô nhô sát bến Hồng,\
-Nghiễm nhiên độc chiếm cả thành xuân.\
+Nghiễm nhiên độc chiếm góc thành xuân.\
 Hai bên cầu gác nhà cao ngất,\
 Hồ Hán chia nhau được mấy phường.
 
@@ -59,7 +60,7 @@ Gió bụi phương Nam chẳng quản gì!
 </cite>
 
 ## Thay người viết đùa
-Nhà ai bến Nhị mọc lô nhô,\ 
+Nhà ai bến Nhị mọc lô nhô,\
 Chiếm cả bầu xuân hết một khu.\
 Tả hữu đôi bên cầu gác dựng,\
 Hán Hồ khác lối áo quần phô.

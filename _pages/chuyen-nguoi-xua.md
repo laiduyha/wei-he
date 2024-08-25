@@ -1,6 +1,6 @@
 ---
 title: Theo dấu người xưa
-permalink: /chuyen-nguoi-xua/
+permalink: /chuyen-nguoi-xua
 classes: wide
 ---
 

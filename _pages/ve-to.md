@@ -1,5 +1,5 @@
 ---
-permalink: /ve-to/
+permalink: /ve-to
 classes: wide
 ---
 
