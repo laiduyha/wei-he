@@ -2,7 +2,10 @@
 title: 庄子《空船理论》- Trang Tử《Lý luận Thuyền Rỗng》
 layout: single
 classes: wide
-tags: duong-cua-dao
+categories: duong-cua-dao
+parent:
+  label: Đường của đạo
+  url: duong-cua-dao
 ---
 
 ![alt]({{ 'assets/images/shi-tao-bai-li-kong-ming-tu-zhou-chuan.png' | absolute_url }})

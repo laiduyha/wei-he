@@ -2,7 +2,10 @@
 title: Đường mòn đi giữa Âm Dương
 layout: single
 classes: wide
-tags: duong-cua-dao
+categories: duong-cua-dao
+parent:
+  label: Đường của đạo
+  url: duong-cua-dao
 ---
 
 ![alt]({{ 'assets/images/long-guo-ping-deng-shan-ting-quan.jpg' | absolute_url }})

@@ -2,7 +2,11 @@
 title: 阮攸《龙城琴者歌》- Nguyễn Du《Long Thành Cầm Giả Ca》
 layout: single
 classes: wide
-tags: nguyen-du
+parent:
+    label: Nguyễn Du
+    url: nguyen-du
+categories: 
+    - Nguyen-Du
 ---
 
 ![alt]({{ 'assets/images/yang-shu-tao-gong-bi-shi-nu-hua.jpg' | absolute_url }})
@@ -173,3 +177,8 @@ Ta từ Nam trở lại, đầu bạc trắng\
 Trách làm sao được sắc đẹp cũng suy tàn.\
 Hai mắt trừng lên tưởng nhớ chuyện xưa\
 Thương cho đối mặt mà chẳng nhìn nhận ra nhau.
+
+## Tham khảo thêm
+- <a target="_blank" href="https://vnexpress.net/long-thanh-cam-gia-ca-tu-tho-den-man-anh-4593521.html">
+'Long thành cầm giả ca' - từ thơ đến màn ảnh
+</a>

@@ -2,7 +2,10 @@
 title: Cây kiến thức
 layout: single
 classes: wide
-tags: duong-cua-dao
+categories: duong-cua-dao
+parent:
+  label: Đường của đạo
+  url: duong-cua-dao
 ---
 
 ![alt]({{ 'assets/images/dong-xi-yuan-pan-yuan-gu-shu-yuan-ying-tian.jpg' | absolute_url }})

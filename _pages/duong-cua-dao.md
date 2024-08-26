@@ -17,7 +17,7 @@ Tớ không hẳn là một người theo bất kỳ tôn giáo nào, nhưng v�
 Và tớ cũng không muốn những thứ mà tớ thấy, những điều mà tớ ngộ sẽ mất đi khi tớ không còn nữa. Thế nên tớ lưu vết nơi đây, để dấu lại cho người có duyên.
 {: .text-justify}
 
-{% assign posts = site.posts | where_exp: "item", "item.tags contains 'duong-cua-dao'" %}
+{% assign posts = site.posts | where_exp: "item", "item.categories contains 'duong-cua-dao'" %}
 {% for post in posts %}
   {% include archive-single.html %}
 {% endfor %}

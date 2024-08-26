@@ -2,7 +2,10 @@
 title: Con đường phát triển thông minh
 layout: single
 classes: wide
-tags: duong-cua-dao
+categories: duong-cua-dao
+parent:
+  label: Đường của đạo
+  url: duong-cua-dao
 ---
 
 ![alt]({{ 'assets/images/zheng-wu-chang-deng-shan-guan-pu.jpg' | absolute_url }})

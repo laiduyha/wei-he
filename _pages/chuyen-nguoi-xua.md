@@ -1,5 +1,5 @@
 ---
-title: Theo dấu người xưa
+title: Chuyện người xưa
 permalink: /chuyen-nguoi-xua
 classes: wide
 ---

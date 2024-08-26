@@ -2,7 +2,11 @@
 title: 阮攸《代人戏笔》- Nguyễn Du《Thay người hí bút》
 layout: single
 classes: wide
-tags: nguyen-du
+parent:
+    label: Nguyễn Du
+    url: nguyen-du
+categories: 
+    - Nguyen-Du
 ---
 
 ![alt]({{ 'assets/images/qian-jian-chun-yang-shuo-shi-qiao-shuang-yue.jpeg' | absolute_url }})
@@ -76,6 +80,6 @@ Nguyễn Thạch Giang dịch
 </cite>
 
 ## Tham khảo thêm
-<a target="_blank" href="https://vanviet.info/nghien-cuu-phe-binh/h-bt-m-sao-buot-tm-can-ve-bi-tho-dai-nhn-h-bt-cua-nguyen-du/">
-《“Hí bút” mà sao buốt tâm can (Về bài thơ “đại nhân hí bút” của Nguyễn Du)》
+- <a target="_blank" href="https://vanviet.info/nghien-cuu-phe-binh/h-bt-m-sao-buot-tm-can-ve-bi-tho-dai-nhn-h-bt-cua-nguyen-du/">
+“Hí bút” mà sao buốt tâm can (Về bài thơ “đại nhân hí bút” của Nguyễn Du)
 </a>
