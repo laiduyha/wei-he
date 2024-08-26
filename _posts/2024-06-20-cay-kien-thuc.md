@@ -18,5 +18,5 @@ parent:
 *Musk: One bit of advice: it is important to view knowledge as sort of a semantic tree — make sure you understand the fundamental principles, ie the trunk and big branches, before you get into the leaves/details or there is nothing for them to hang on to.*
 
 > <cite><a target="_blank" href="https://fs.blog/elon-musk-knowledge/">
-《Elon Musk on How To Build Knowledge》
+Elon Musk on How To Build Knowledge
 </a></cite>
