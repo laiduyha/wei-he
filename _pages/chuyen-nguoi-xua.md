@@ -10,6 +10,9 @@ Trong tập này tớ sẽ lần theo vết của các danh nhân thời xưa. T
 Hy vọng cậu sẽ thấy được đâu đó những điểm thú vị của người xưa. Những con người mà trong trí óc của chúng ta chỉ đơn giản là tên đường, lâu lâu xui xẻo chạy qua lúc kẹt xe thì thường nhắc đến họ cùng với lời thì thầm gọi mẹ, gọi bà ^^.
 {: .text-justify}
 
-- [Nguyễn Du]({{ 'nguyen-du' | absolute_url}})
 
-*Do trình độ chữ Hán còn hạn chế, nên phần dịch có thể không diễn tả được hết ý của tác giả. Nếu có sai sót mong cậu thông cảm.*
+## Danh sách
+{% assign pages = site.pages | where_exp: "item", "item.categories contains 'chuyen-nguoi-xua'" %}
+{% for post in pages %}
+  {% include archive-single.html %}
+{% endfor %}
