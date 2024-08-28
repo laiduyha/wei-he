@@ -1,5 +1,6 @@
 ---
 title: Nguyễn Du (阮攸)
+layout: single
 permalink: /nguyen-du
 classes: wide
 parent:
