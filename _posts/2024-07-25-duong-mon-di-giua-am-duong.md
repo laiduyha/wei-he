@@ -17,7 +17,7 @@ parent:
 Chuyện trên đời phân trái phải, trắng đen.\
 Chọn cho mình giới tuyến để đứng về.\
 Chẳng khác nào tự đào hố chôn mình.\
-Không thể thấy, cũng chẳng hiểu được thế gian.\
+Không thể thấy, cũng chẳng hiểu được thế gian.
 
 Chỉ muốn biết những gì mình đã biết,\
 Chỉ muốn nghe những gì mình đã nghe.\
@@ -40,5 +40,5 @@ Thì đường mòn rồi cũng sẽ hiện ra,\
 Để dẫn cậu `chảy` được giữa dòng đời.
 
 > <cite>
-<a target="_blank" href="https://wei-he.xyz">Wéi Hé dịch</a>
+<a target="_blank" href="https://wei-he.xyz">Wéi Hé</a>
 </cite>
