@@ -13,3 +13,27 @@ parent:
 <a target="_blank" href="https://www.nipic.com/show/3095904.html">
 龙国屏《登山听泉》- Long Quốc Bình《Lên Núi Nghe Nguồn》
 </a>
+
+Chuyện trên đời phân trái phải, trắng đen.\
+Chọn cho mình giới tuyến để đứng về.\
+Chẳng khác nào tự đào hố chôn mình.\
+Không thể thấy, cũng chẳng hiểu được thế gian.\
+
+Chỉ muốn biết những gì mình đã biết,\
+Chỉ muốn nghe những gì mình đã nghe.\
+Để rồi tin những gì mình vẫn tin,\
+Thế thì đường của cậu chỉ một màu.
+
+Đi luẩn quẩn trong vòng lặp của chính mình,\
+Rồi đi lạc khi không còn sao bắc đẩu,\
+Nguy hại hơn khi ánh sáng mình từng theo đuổi,\
+Lại tan thành mây khói ngay trước vũng bùn lầy.
+
+Kỳ thực thế gian chẳng phải là một màu.\
+Chẳng có đúng mà cũng chẳng có gì sai,\
+Chỉ như thế đường mòn sẽ hiện ra,\
+Để giúp cậu đi được giữa dòng đời.
+
+> <cite>
+<a target="_blank" href="https://wei-he.xyz">Wéi Hé dịch</a>
+</cite>
