@@ -27,12 +27,17 @@ Thế thì đường của cậu chỉ một màu.
 Đi luẩn quẩn trong vòng lặp của chính mình,\
 Rồi đi lạc khi không còn sao bắc đẩu,\
 Nguy hại hơn khi ánh sáng mình từng theo đuổi,\
-Lại tan thành mây khói ngay trước vũng bùn lầy.
+Lại tan thành mây khói trước vũng bùn lầy.
 
-Kỳ thực thế gian chẳng phải là một màu.\
-Chẳng có đúng mà cũng chẳng có gì sai,\
-Chỉ như thế đường mòn sẽ hiện ra,\
-Để giúp cậu đi được giữa dòng đời.
+Kỳ thực thế gian lại muôn màu,\
+Không có đúng mà cũng chẳng có gì sai.\
+Vì trong đen có trắng, mà trong trắng lại có đen,\
+Hà cớ gì phải phân ra hai nửa?
+
+Đến khi cậu thấy được bản nguyên,\
+Trong thế giới nhị nguyên đầy rẫy.\
+Thì đường mòn rồi cũng sẽ hiện ra,\
+Để dẫn cậu `chảy` được giữa dòng đời.
 
 > <cite>
 <a target="_blank" href="https://wei-he.xyz">Wéi Hé dịch</a>
