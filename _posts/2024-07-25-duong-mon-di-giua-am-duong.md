@@ -10,7 +10,7 @@ url: duong-cua-dao
 
 ![alt]({{ 'assets/images/long-guo-ping-deng-shan-ting-quan.jpg' | absolute_url }})
 > <cite>
-<a target="_blank" href="https://www.nipic.com/show/3095904.html">
+<a target="_blank" href="https://www.baike.com/wikiid/5644319668872120399">
 龙国屏《登山听泉》- Long Quốc Bình《Lên Núi Nghe Nguồn》
 </a>
 
