@@ -37,7 +37,7 @@ Hà cớ gì cậu lại tách làm hai?
 Chỉ đến khi cậu thấy được bản nguyên,\
 Trong thế giới của nhị nguyên làm chủ.\
 Thì đường mòn rồi cũng sẽ hiện ra,\
-Dẫn lối cậu thoát mê cung nhận thức.
+Dẫn lối cậu khỏi mê cung nhận thức.
 
 > <cite>
 <a target="_blank" href="https://wei-he.xyz">Wéi Hé</a>
