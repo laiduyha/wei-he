@@ -45,7 +45,7 @@ Một số lưu ý cần nhớ:
 - <a target="_blank" href="https://martinfowler.com/bliki/ShuHaRi.html">Shu Ha Ri</a>: giúp cậu hiểu được quá trình theo từng giai đoạn một cách cụ thể.
 - <a target="_blank" href="https://wei-he.xyz/5w">5W (Why --> How, What --> When, Where)</a>: giúp cậu tìm ra cấu trúc định hình ra được những kiến thức nào cần phải chú ý, cần phải nhớ và có thể quên trong suốt quá trình học.
 
-*Ví dụ sửa được các xe tay ga, cậu có thể học trước với sửa 1 dòng xe cụ thể như Lead của Honda hoặc Grade của Yamaha và C# rồi sau đó tổng quát hóa nó lên thành Sửa xe tay ga.*
+*Ví dụ sửa được các xe tay ga, cậu có thể học trước với sửa 1 dòng xe cụ thể như Lead, SH của Honda rồi sau đó tổng quát hóa nó lên thành Sửa xe tay ga.*
 
 ```mermaid
 ---
@@ -55,7 +55,7 @@ config:
 ---
 
 flowchart LR
-  subgraph Ý tưởng
+  subgraph 1[Cây kiến thức]
     direction TB
     tayga[Xe Tay Ga]
     lead[Honda Lead]
@@ -67,7 +67,7 @@ flowchart LR
     style tayga fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
   end
 
-  subgraph process Quá trình
+  subgraph 2[Quá trình]
     direction LR
     tayga2[Xe Tay Ga]
     lead2[Honda Lead]
@@ -76,8 +76,7 @@ flowchart LR
     lead2-- Tổng quát (bottom up) ---tayga2
     sh2-- Tổng quát (bottom up) ---tayga2
 
-    lead2<-.Tham chiếu lẫn nhau.->sh2
-    style OOP2 fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
+    style tayga2 fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
   end
 ```
 
@@ -87,7 +86,7 @@ flowchart LR
 - Dùng những kiến thức đã biết để tổng quát hóa lên nhánh cha (bottom up).
 - Dùng kiến thức tổng quát đã được xây dựng và kiến thức chi tiết đã biết để liên hệ khi học một nhánh mới.
 
-*Ví dụ để học sửa 1 loại xe mới như Yamaha Grande, sau khi đã biết sửa xe tay ga và Lead, SH. Trong quá trình học Python, có thể dùng Java hay C# là tham chiếu.*
+*Ví dụ để học sửa 1 loại xe mới như Yamaha Grande, sau khi đã biết sửa xe tay ga và Lead, SH.*
 
 ```mermaid
 ---
@@ -97,7 +96,7 @@ config:
 ---
 
 flowchart LR
- subgraph Ý tưởng
+ subgraph 1[Cây kiến thức]
     direction TB
     tayga[Xe Tay Ga]
     lead[Honda Lead]
@@ -111,7 +110,7 @@ flowchart LR
     style grande fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
   end
 
-  subgraph process Quá trình
+  subgraph 2[Quá trình]
     direction LR
     tayga2[Xe Tay Ga]
     lead2[Honda Lead]
@@ -130,7 +129,7 @@ flowchart LR
 ## Tương phản (Jump)
 Nếu với topdown và bottom up cậu sẽ mở rộng hay phát triển kiến thức ở gần mình. Mình sẽ là chuyên gia trong lĩnh vực của mình. Thì với tương phản, cậu sẽ chủ động mở rộng được kiến thức ở một nhánh cây hoàn toàn mới. Việc này sẽ giúp cậu không rơi vào trạng thái Tối ưu hóa cục bộ (local optimize). Mà sẽ giúp cho cậu có một cái nhìn nhiều chiều hơn một vấn đề nào đấy.
 
-Tuy nhiên đây là một phương pháp nguy hiểm, vì nó không chỉ đòi hỏi nhiều thời gian công sức. Mà có thể dẫn người học tới trạng thái không có gì ra hồn (Một nghề cho chín còn hơn chín nghề). Không chỉ vậy nó còn đòi hỏi cậu tại một số thời điểm quên đi những gì mình đã biết, và mình được dạy để có thể tiếp nhận được cái mới. Đây là một kỹ thuật khó nó trái ngược hoàn toàn với phản ứng tự nhiên của người học khi dùng những kiến thức đã biết để liên hệ lại (top down approach). Câu nói nổi tiếng giải thích phương pháp này đó là <a target="_blank" href="https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/ch02.html">Emptying the Cup</a>
+Tuy nhiên đây là một phương pháp nguy hiểm, vì nó không chỉ đòi hỏi nhiều thời gian công sức. Mà có thể dẫn người học tới trạng thái không có gì ra hồn (Một nghề cho chín còn hơn chín nghề). Không chỉ vậy nó còn đòi hỏi cậu tại một số thời điểm quên đi những gì mình đã biết, và mình được dạy để có thể tiếp nhận được cái mới. Đây là một kỹ thuật khó nó trái ngược hoàn toàn với phản ứng tự nhiên của người học khi dùng những kiến thức đã biết để liên hệ lại (top down approach). Câu nói nổi tiếng giải thích phương pháp này đó là <a target="_blank" href="https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/ch02.html">Emptying the Cup</a>.
 
 Thế nên tớ nghĩ phương pháp này chỉ phù hợp với những ai đã có một kiến thức nền nhất định và có ước muốn và động lực để tìm hiểu cái mới.
 
@@ -142,7 +141,7 @@ config:
   look: handDrawn
 ---
 
-flowchart TD
+flowchart
   d[Đạo] --- kt[Kỹ Thuật]
   kt[Kỹ Thuật] --- it[IT]
   kt[Kỹ Thuật] --- kt1[...]
@@ -150,7 +149,6 @@ flowchart TD
   d[Đạo] --- kte[Kinh Tế]
   kte[Kinh Tế] --- macro[Vĩ Mô]
   kte[Kinh Tế] --- kte1[...]
-  kte[Kinh Tế] --- behavior[Tài chính]
 
   d[Đạo] --- d1[...]
 
@@ -158,12 +156,10 @@ flowchart TD
   xh[Xã hội] --- xh1[...]
   xh[Xã hội] --- cs[Chính sách]
 
-  d[Đạo] --- d2[...]
-
   style d fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
 ```
 
 ## Kết
-Mỗi người đều có cho mình một hoặc nhiều cây kiến thức khác nhau. Mong cậu đừng trở thành 1 con người bảo thủ, phiến diện hoặc ngược lại cái gì cũng biết mà thực ra là chả biết gì. Đó chính là đi loanh quanh, luẩn quẩn trên đường của Đạo.
+Mỗi người đều có cho mình một hoặc nhiều cây kiến thức khác nhau. Mong cậu đừng trở thành một người bảo thủ, phiến diện hoặc ngược lại trở thành một người cái gì cũng biết mà thực ra là chả biết gì.
 
-Hy vọng là cậu sẽ nhìn thấy, xây dựng được cây kiến thức của riêng mình. Cây đó chính là bản đồ trên con đường mòn của Đạo.
+Hy vọng là cậu sẽ nhìn thấy, xây dựng được cây kiến thức của riêng mình. Tìm thấy được bản đồ trên con đường của Đạo.
