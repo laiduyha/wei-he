@@ -28,9 +28,8 @@ Các nhánh con thì có những điểm chung và được tổng quát dần l
 
 Cha con chỉ mang tính chất tương đối, và không chỉ có 1 cây duy nhất.\
 Một nhánh con bên này có thể chung tính chất với 1 nhánh nào ở bên kia.\
-Như vậy bọn chúng có thế chung một nhánh ở một cây khác. Cái này khá giống khái niệm chiều không gian song song.
 
-Mục tiêu của người là càng lên cao càng tốt.\
+Mục tiêu của người theo Đạo là càng lên cao càng tốt.\
 Hoặc phủ càng nhiều càng tốt, tuy nhiên phủ nhiều ở lá mà không đi được lên cao thì cũng nguy hại đối với việc phát triển tư duy kiến thức.
 
 Dưới đây là một số phương pháp có thể được dùng để bao phủ hay tiến tới mục tiêu.
@@ -43,7 +42,7 @@ Một số lưu ý cần nhớ:
 - Nhớ rằng cậu đang ở các nút lá, cố gắng tìm ra mục tiêu là nút cha phía trên, đừng để những chi tiết làm mờ đi mục tiêu tổng quát hóa cuối cùng.
 - Để tổng quát hóa lên có thể cần phải tìm hiểu nhiều hơn 1 nút lá.
 - <a target="_blank" href="https://martinfowler.com/bliki/ShuHaRi.html">Shu Ha Ri</a>: giúp cậu hiểu được quá trình theo từng giai đoạn một cách cụ thể.
-- <a target="_blank" href="https://wei-he.xyz/5w">5W (Why --> How, What --> When, Where)</a>: giúp cậu tìm ra cấu trúc định hình ra được những kiến thức nào cần phải chú ý, cần phải nhớ và có thể quên trong suốt quá trình học.
+- <a target="_blank" href="https://wei-he.xyz/5w">5W (Why --> How, What --> When, Where)</a>: giúp cậu định hình ra được những kiến thức nào cần phải chú ý, cần phải nhớ và có thể quên trong suốt quá trình học.
 
 *Ví dụ sửa được các xe tay ga, cậu có thể học trước với sửa 1 dòng xe cụ thể như Lead, SH của Honda rồi sau đó tổng quát hóa nó lên thành Sửa xe tay ga.*
 
@@ -129,11 +128,11 @@ flowchart LR
 ## Tương phản (Jump)
 Nếu với topdown và bottom up cậu sẽ mở rộng hay phát triển kiến thức ở gần mình. Mình sẽ là chuyên gia trong lĩnh vực của mình. Thì với tương phản, cậu sẽ chủ động mở rộng được kiến thức ở một nhánh cây hoàn toàn mới. Việc này sẽ giúp cậu không rơi vào trạng thái Tối ưu hóa cục bộ (local optimize). Mà sẽ giúp cho cậu có một cái nhìn nhiều chiều hơn một vấn đề nào đấy.
 
-Tuy nhiên đây là một phương pháp nguy hiểm, vì nó không chỉ đòi hỏi nhiều thời gian công sức. Mà có thể dẫn người học tới trạng thái không có gì ra hồn (Một nghề cho chín còn hơn chín nghề). Không chỉ vậy nó còn đòi hỏi cậu tại một số thời điểm quên đi những gì mình đã biết, và mình được dạy để có thể tiếp nhận được cái mới. Đây là một kỹ thuật khó nó trái ngược hoàn toàn với phản ứng tự nhiên của người học khi dùng những kiến thức đã biết để liên hệ lại (top down approach). Câu nói nổi tiếng giải thích phương pháp này đó là <a target="_blank" href="https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/ch02.html">Emptying the Cup</a>.
+Tuy nhiên đây là một phương pháp nguy hiểm, vì nó không chỉ đòi hỏi nhiều thời gian công sức. Mà có thể dẫn người học tới trạng thái không có gì học ra hồn. Không chỉ vậy nó còn đòi hỏi cậu tại một số thời điểm quên đi những gì mình đã biết để có thể tiếp nhận được cái mới (mà có khi ngược lại hoàn toàn với cái cũ). Đây là một kỹ thuật khó vì nó trái ngược hoàn toàn với phản ứng tự nhiên của người học khi dùng những kiến thức đã biết để liên hệ lại (top down). <a target="_blank" href="https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/ch02.html">Emptying the Cup</a> là kim chỉ nam với phương pháp này.
 
 Thế nên tớ nghĩ phương pháp này chỉ phù hợp với những ai đã có một kiến thức nền nhất định và có ước muốn và động lực để tìm hiểu cái mới.
 
-Tuy nhiên thành quả nhận lại sẽ rất tuyệt, cậu sẽ hiểu hơn về Đạo. Cậu sẽ tìm được sự cân bằng và một góc nhìn đa chiều hơn đối với 1 vấn đề cụ thể. Có thể thực hành được phương pháp này khả năng để thấy được đường mòn của Đạo sẽ cao hơn ^^. 
+Tuy nhiên thành quả nhận lại sẽ rất tuyệt, cậu sẽ hiểu hơn về Đạo. Cậu sẽ tìm được sự cân bằng và một góc nhìn đa chiều hơn đối với 1 vấn đề cụ thể. Có thể thực hành được phương pháp này khả năng để thấy được đường của Đạo sẽ cao hơn ^^. 
 
 ```mermaid
 ---
