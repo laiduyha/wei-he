@@ -45,7 +45,7 @@ Một số lưu ý cần nhớ:
 - <a target="_blank" href="https://martinfowler.com/bliki/ShuHaRi.html">Shu Ha Ri</a>: giúp cậu hiểu được quá trình theo từng giai đoạn một cách cụ thể.
 - <a target="_blank" href="https://wei-he.xyz/5w">5W (Why --> How, What --> When, Where)</a>: giúp cậu tìm ra cấu trúc định hình ra được những kiến thức nào cần phải chú ý, cần phải nhớ và có thể quên trong suốt quá trình học.
 
-*Ví dụ tổng quá hóa đc OOP, cậu có thể học trước với Java và C# rồi sau đó tổng quát hóa nó lên thành OOP.*
+*Ví dụ sửa được các xe tay ga, cậu có thể học trước với sửa 1 dòng xe cụ thể như Lead của Honda hoặc Grade của Yamaha và C# rồi sau đó tổng quát hóa nó lên thành Sửa xe tay ga.*
 
 ```mermaid
 ---
@@ -55,41 +55,39 @@ config:
 ---
 
 flowchart LR
-  subgraph concept[Ý tưởng]
+  subgraph Ý tưởng
     direction TB
-    OOP[OOP]
-    Java[Java]
-    C#[C#]
+    tayga[Xe Tay Ga]
+    lead[Honda Lead]
+    sh[Honda SH]
 
-    OOP-.-Java
-    OOP-.-C#
+    tayga-.-lead
+    tayga-.-sh
 
-    style OOP fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
+    style tayga fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
   end
 
-  subgraph process[Quá trình]
+  subgraph process Quá trình
     direction LR
-    OOP2[OOP]
-    Java2[Java]
-    C#2[C#]
+    tayga2[Xe Tay Ga]
+    lead2[Honda Lead]
+    sh2[Honda SH]
 
-    Java2-- Tổng quát (bottom up) ---OOP2
-    C#2-- Tổng quát (bottom up) ---OOP2
+    lead2-- Tổng quát (bottom up) ---tayga2
+    sh2-- Tổng quát (bottom up) ---tayga2
 
-    Java2<-.Tham chiếu lẫn nhau.->C#2
+    lead2<-.Tham chiếu lẫn nhau.->sh2
     style OOP2 fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
   end
-
-  concept---process
 ```
 
 ## Trên xuống (Top down)
-Để học hay tìm hiểu 1 kiến thức mới, nếu may mắn bạn có thể áp dụng phương pháp top down. Thông thường đây là quá trình được diễn ra, hay thành qua đạt được sau khi bạn tổng quá hóa thành công. Đây là phương pháp rất phổ biến với những người đã học xong một chuyên môn nào đó và có đủ kinh nghiệm. Quá trình học một cái mới là quá trình gồm 2 bước chính:
+Để học hay tìm hiểu 1 kiến thức mới, nếu may mắn bạn có thể áp dụng phương pháp top down. Thông thường đây là quá trình được diễn ra, hay thành quả đạt được sau khi bạn tổng quá hóa thành công. Đây là phương pháp rất phổ biến với những người đã học xong một chuyên môn nào đó và có đủ kinh nghiệm. Quá trình học một cái mới là quá trình gồm 2 bước chính:
 
 - Dùng những kiến thức đã biết để tổng quát hóa lên nhánh cha (bottom up).
 - Dùng kiến thức tổng quát đã được xây dựng và kiến thức chi tiết đã biết để liên hệ khi học một nhánh mới.
 
-*Ví dụ để học mới Python, sau khi đã biết OOP và Java, C#. Trong quá trình học Python, có thể dùng Java hay C# là tham chiếu.*
+*Ví dụ để học sửa 1 loại xe mới như Yamaha Grande, sau khi đã biết sửa xe tay ga và Lead, SH. Trong quá trình học Python, có thể dùng Java hay C# là tham chiếu.*
 
 ```mermaid
 ---
@@ -99,39 +97,34 @@ config:
 ---
 
 flowchart LR
-  subgraph concept[Ý tưởng]
+ subgraph Ý tưởng
     direction TB
-    OOP[OOP]
-    Java[Java]
-    C#[C#]
-    Python[Python]
+    tayga[Xe Tay Ga]
+    lead[Honda Lead]
+    sh[Honda SH]
+    grande[Yamaha Grande]
 
-    OOP-.-Java
-    OOP-.-C#
-    OOP-.-Python
+    tayga-.-lead
+    tayga-.-sh
+    tayga-.-grande
 
-    style Python fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
+    style grande fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
   end
 
-  subgraph process[Quá trình]
+  subgraph process Quá trình
     direction LR
-    OOP2[OOP]
-    Java2[Java]
-    C#2[C#]
-    Python2[Python]
+    tayga2[Xe Tay Ga]
+    lead2[Honda Lead]
+    sh2[Honda SH]
+    grande2[Yamaha Grande]
 
-    OOP-.-Java
-    OOP-.-C#
-    OOP-.-Python
-    OOP2-- Trên xuống (topdown) ---Python2
+    tayga2-- Trên xuống (topdown) ---grande2
 
-    Java2-. Tham chiếu .-Python2
-    C#2-.Tham chiếu .-Python2
+    lead2-. Tham chiếu .-grande2
+    sh2-.Tham chiếu .-grande2
 
-    style Python2 fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
+    style grande2 fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
   end
-
-  concept---process
 ```
 
 ## Tương phản (Jump)
@@ -153,7 +146,6 @@ flowchart TD
   d[Đạo] --- kt[Kỹ Thuật]
   kt[Kỹ Thuật] --- it[IT]
   kt[Kỹ Thuật] --- kt1[...]
-  kt[Kỹ Thuật] --- xd[Xây Dựng]
 
   d[Đạo] --- kte[Kinh Tế]
   kte[Kinh Tế] --- macro[Vĩ Mô]
@@ -163,19 +155,15 @@ flowchart TD
   d[Đạo] --- d1[...]
 
   d[Đạo] --- xh[Xã hội]
-  xh[Xã hội] --- vh[Văn hóa]
   xh[Xã hội] --- xh1[...]
   xh[Xã hội] --- cs[Chính sách]
 
-  d[Đạo] --- tl[Tâm Lý]
-  tl[Tâm Lý] --- dd[Đám đông]
-  tl[Tâm Lý] --- tl1[...]
-  tl[Tâm Lý] --- ct[Cá thể]
+  d[Đạo] --- d2[...]
 
   style d fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
 ```
 
 ## Kết
-Mỗi người đều có cho mình một hoặc nhiều cây kiến thức khác nhau. Mong cậu đừng trở thành 1 con người bảo thủ, phiến diện hoặc ngược lại cái gì cũng biết mà thực ra là chả biết gì. Đó chính là đi loanh quanh, luẩn quẩn trên đường của Đạo. 
+Mỗi người đều có cho mình một hoặc nhiều cây kiến thức khác nhau. Mong cậu đừng trở thành 1 con người bảo thủ, phiến diện hoặc ngược lại cái gì cũng biết mà thực ra là chả biết gì. Đó chính là đi loanh quanh, luẩn quẩn trên đường của Đạo.
 
 Hy vọng là cậu sẽ nhìn thấy, xây dựng được cây kiến thức của riêng mình. Cây đó chính là bản đồ trên con đường mòn của Đạo.
