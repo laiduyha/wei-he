@@ -34,13 +34,12 @@ Hoặc phủ càng nhiều càng tốt, tuy nhiên phủ nhiều ở lá mà kh�
 
 Dưới đây là một số phương pháp có thể được dùng để bao phủ hay tiến tới mục tiêu.
 
-## Tổng quá hóa (Bottom up)
+## Tổng quát hóa (Bottom up)
 Đây là phương pháp mà hay được áp dụng vào những năm đầu đi học khi người học chưa hề biết gì. Lúc này mọi kiến thức đều là mới. Quá trình này hầu hết mọi người đều rất quen thuộc và cũng rất ngán, vì nó là quá trình học cày ải. Đối với những người trẻ với việc học là ưu tiên số một thì đây là chuyện chấp nhận được.\
 Tuy nhiên, với những người đã có công việc, việc phải học cái mới theo phương pháp này luôn là sự đánh đổi giữa trạng thái an toàn, và sự kỷ luật, cày ải của bản thân.
 
 Một số lưu ý cần nhớ:
-- Nhớ rằng cậu đang ở các nút lá, cố gắng tìm ra mục tiêu là nút cha phía trên, đừng để những chi tiết làm mờ đi mục tiêu tổng quát hóa cuối cùng.
-- Để tổng quát hóa lên có thể cần phải tìm hiểu nhiều hơn 1 nút lá.
+- Nhớ rằng cậu đang ở các nút lá, cố gắng tìm ra mục tiêu là nút cha phía trên, đừng để những chi tiết rối rắm làm mờ đi mục tiêu tổng quát hóa cuối cùng.
 - <a target="_blank" href="https://martinfowler.com/bliki/ShuHaRi.html">Shu Ha Ri</a>: giúp cậu hiểu được quá trình theo từng giai đoạn một cách cụ thể.
 - <a target="_blank" href="https://wei-he.xyz/5w">5W (Why --> How, What --> When, Where)</a>: giúp cậu định hình ra được những kiến thức nào cần phải chú ý, cần phải nhớ và có thể quên trong suốt quá trình học.
 
