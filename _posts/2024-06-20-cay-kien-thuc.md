@@ -82,11 +82,10 @@ flowchart LR
 ```
 
 ## Trên xuống (Top down)
-Để học hay tìm hiểu 1 kiến thức mới, nếu may mắn cậu có thể áp dụng phương pháp top down. Thông thường đây là quá trình được diễn ra, hay thành quả đạt được sau khi cậu tổng quá hóa thành công. Đây là phương pháp rất phổ biến với những người đã học xong một chuyên môn nào đó và có đủ kinh nghiệm. Quá trình học một cái mới là quá trình gồm hai bước chính:
-{: style="text-align: justify"}
-
-- Dùng những kiến thức đã biết để tổng quát hóa lên nhánh cha (bottom up).
-- Dùng kiến thức tổng quát đã được xây dựng và kiến thức chi tiết đã biết để liên hệ khi học một nhánh mới.
+Để học hay tìm hiểu 1 kiến thức mới, nếu may mắn cậu có thể áp dụng phương pháp top down. 
+Thông thường đây là thành quả đạt được sau khi cậu tổng quá hóa thành công.
+Đây là phương pháp rất phổ biến với những người đã học xong một chuyên môn nào đó và có đủ kinh nghiệm, 
+vì chỉ cần sử kiến thức tổng quát đã được xây dựng và kiến thức chi tiết đã biết để liên hệ khi học một nhánh mới.
 
 *Ví dụ để học sửa 1 loại xe mới như Yamaha Grande, sau khi đã biết sửa xe tay ga và Lead, SH.*
 
@@ -103,13 +102,13 @@ flowchart LR
     tayga[Xe Tay Ga]
     lead[Honda Lead]
     sh[Honda SH]
-    grande[Yamaha Grande]
+    vision[Honda Vision]
 
     tayga-.-lead
     tayga-.-sh
-    tayga-.-grande
+    tayga-.-vision
 
-    style grande fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
+    style vision fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
   end
 
   subgraph 2[Quá trình]
@@ -117,14 +116,14 @@ flowchart LR
     tayga2[Xe Tay Ga]
     lead2[Honda Lead]
     sh2[Honda SH]
-    grande2[Yamaha Grande]
+    vision2[Honda Vision]
 
-    tayga2-- Trên xuống (topdown) ---grande2
+    tayga2-- Trên xuống (topdown) ---vision2
 
-    lead2-. Tham chiếu .-grande2
-    sh2-.Tham chiếu .-grande2
+    lead2-. Tham chiếu .-vision2
+    sh2-.Tham chiếu .-vision2
 
-    style grande2 fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
+    style vision2 fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
   end
 ```
 
@@ -146,25 +145,25 @@ config:
 
 flowchart
   subgraph 1[Ví dụ hình thái của một cây kiến thức]
-    d[Đạo] --- kt[Kỹ Thuật]
-    kt[Kỹ Thuật] --- it[IT]
-    kt[Kỹ Thuật] --- kt1[...]
-    kt[Kỹ Thuật] --- ktruc[Kiến trúc]
+    d[Đạo]-.-kt[Kỹ Thuật]
+    kt[Kỹ Thuật]-.-it[IT]
+    kt[Kỹ Thuật]-.-kt1[...]
+    kt[Kỹ Thuật]-.-ktruc[Kiến trúc]
 
-    d[Đạo] --- kte[Kinh Tế]
-    kte[Kinh Tế] --- macro[Vĩ Mô]
-    kte[Kinh Tế] --- kte1[...]
-    kte[Kinh Tế] --- finance[Tài chính]
+    d[Đạo]-.-kte[Kinh Tế]
+    kte[Kinh Tế]-.-macro[Vĩ Mô]
+    kte[Kinh Tế]-.-kte1[...]
+    kte[Kinh Tế]-.-finance[Tài chính]
 
-    d[Đạo] --- d1[...]
+    d[Đạo]-.-d1[...]
 
-    d[Đạo] --- xh[Xã hội]
-    xh[Xã hội] --- ds[Lịch sử, văn hóa]
-    xh[Xã hội] --- xh1[...]
-    xh[Xã hội] --- cs[Chính sách]
+    d[Đạo] -.- society[Xã hội]
+    society[Xã hội]-.-ds[Lịch sử, văn hóa]
+    society[Xã hội]-.-society1[...]
+    society[Xã hội]-.-cs[Chính sách]
 
-    d[Đạo] --- tt[Tâm thức]
-    tt[Tâm thức] --- tt1[...]
+    d[Đạo]-.-tt[Tâm thức]
+    tt[Tâm thức]-.-tt1[...]
 
     style d fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
   end
