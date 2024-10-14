@@ -129,10 +129,15 @@ flowchart LR
 ```
 
 ## Nhảy (Jump)
-Nếu với phương pháp từ trên xuống và từ dưới lên cậu sẽ mở rộng hay phát triển kiến thức ở gần mình, sẽ đạt được chuyên môn trong một số lĩnh vực nhất định. Thì với phương pháp nhảy, cậu sẽ chủ động mở rộng được kiến thức ở một nhánh cây hoàn toàn mới. Việc này không chỉ sẽ giúp cậu không rơi vào trạng thái Tối ưu cục bộ (local optimize), mà còn cho cậu có một cái nhìn nhiều chiều hơn một vấn đề nào đấy.
+Nếu với phương pháp từ trên xuống và từ dưới lên cậu sẽ mở rộng hay phát triển kiến thức ở gần mình, sẽ đạt được chuyên môn trong một số lĩnh vực nhất định. 
+Thì với phương pháp nhảy, cậu sẽ chủ động mở rộng được kiến thức ở một nhánh cây hoàn toàn mới. 
+Việc này không chỉ sẽ giúp cậu không rơi vào trạng thái Tối ưu cục bộ (local optimize), mà còn cho cậu có một cái nhìn nhiều chiều hơn một vấn đề nào đấy.
 {: style="text-align: justify"}
 
-Tuy nhiên đây là một phương pháp nguy hiểm, vì nó không chỉ đòi hỏi nhiều thời gian công sức, mà có thể dẫn người học tới trạng thái không có gì học ra hồn. Không chỉ vậy nó còn đòi hỏi cậu tại một số thời điểm quên đi những gì cậu đã biết để có thể tiếp nhận được cái mới (mà có khi ngược lại hoàn toàn với cái cũ). Đây là một kỹ thuật khó vì nó trái ngược hoàn toàn với phản ứng tự nhiên của người học khi dùng những kiến thức đã biết để liên hệ lại (Top down). <a target="_blank" href="https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/ch02.html">Emptying the Cup</a> là kỹ thuật giúp cậu rèn luyện tư duy khi áp dụng phương pháp này.
+Tuy nhiên đây là một phương pháp nguy hiểm, vì nó không chỉ đòi hỏi nhiều thời gian công sức, mà có thể dẫn người học tới trạng thái không có gì học ra hồn.
+Không chỉ vậy nó còn đòi hỏi cậu tại một số thời điểm có thể sẽ phải quên đi những gì cậu đã biết để có thể tiếp nhận được cái mới mà có khi ngược lại hoàn toàn với cái cũ. 
+Đây là một kỹ thuật khó vì nó trái ngược hoàn toàn với phản ứng tự nhiên của người học khi dùng những kiến thức đã biết để liên hệ lại (Top down). 
+<a target="_blank" href="https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/ch02.html">Emptying the Cup</a> là kỹ thuật giúp cậu rèn luyện tư duy khi áp dụng phương pháp này.
 {: style="text-align: justify"}
 
 Thế nên tớ nghĩ phương pháp này chỉ phù hợp với những ai đã có một kiến thức nền nhất định đủ vững, có khả năng suy nghĩ phản biện và đặc biệt là có động lực để tìm hiểu cái mới.
