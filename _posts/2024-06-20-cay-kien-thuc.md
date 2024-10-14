@@ -34,7 +34,10 @@ Dưới đây là một số phương pháp có thể được dùng để bao p
 {: style="text-align: justify"}
 
 ## Tổng quát hóa (Bottom up)
-Đây là phương pháp mà hay được áp dụng vào những năm đầu đi học khi người học chưa hề biết gì. Lúc này mọi kiến thức đều là mới. Quá trình này hầu hết mọi người đều rất quen thuộc và cũng rất ngán, vì nó là quá trình học ở phổ thông. Đối với những người trẻ với việc học là ưu tiên số một thì đây là chuyện chấp nhận được. Tuy nhiên, với những người đã có công việc, việc phải học cái mới theo phương pháp này luôn là sự đánh đổi giữa trạng thái an toàn, và sự kỷ luật, cày ải của bản thân.
+Đây là phương pháp mà hay được áp dụng vào những năm đầu đi học khi người học chưa hề biết gì. Lúc này mọi kiến thức đều là mới.
+Quá trình này hầu hết mọi người đều rất quen thuộc vì nó là quá trình học ở phổ thông. 
+Đối với những người trẻ do việc học là ưu tiên số một nên đây là chuyện chấp nhận được. 
+Tuy nhiên, với những người đã có công việc, việc phải học kiến thức mới theo phương pháp này luôn là sự đánh đổi giữa trạng thái an toàn, thoải mái với sự cực khổ đôi khi mang chút hoang mang của bản thân.
 {: style="text-align: justify"}
 
 
