@@ -84,7 +84,7 @@ flowchart LR
 
 ## Trên xuống (Top down)
 Để học hay tìm hiểu 1 kiến thức mới, nếu may mắn cậu có thể áp dụng phương pháp top down. 
-Thông thường đây là thành quả đạt được sau khi cậu tổng quá hóa thành công.
+Thông thường đây là thành quả đạt được sau khi cậu tổng quát hóa thành công.
 Đây là phương pháp rất phổ biến với những người đã học xong một chuyên môn nào đó và có đủ kinh nghiệm, 
 vì chỉ cần sử kiến thức tổng quát đã được xây dựng và kiến thức chi tiết đã biết để liên hệ khi học một nhánh mới.
 
