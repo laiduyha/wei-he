@@ -22,7 +22,7 @@ Trói cả chân và che cả mắt mình.
 Chỉ muốn biết những gì cậu đã biết,\
 Luôn muốn nghe những gì cậu vẫn nghe.\
 Để rồi tin những gì cậu hằng tin,\
-Thì là cậu cứ đứng im tại chỗ.
+Thì là cậu cứ dậm chân tại chỗ.
 
 Đi loanh quanh trong mê cung nhận thức,\
 Bước luẩn quẩn mà không biết điểm ra.\
