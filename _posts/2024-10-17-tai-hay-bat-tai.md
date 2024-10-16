@@ -14,11 +14,11 @@ parent:
 Một hôm Trang Tử cùng với học trò đi chơi ở trong núi. Thấy một cây to, cành lá rườm rà, có người đốn gỗ chống búa đứng bên mà không chặt.\
 Trang Tử hỏi: “Sao không chặt cây này thế?”\
 Người đốn gỗ đáp: “Cây này tuy thế mà gỗ xấu không dùng được việc”.\
-Trang Tử nói: “Cây này chỉ vì không ra gì mà sống lâu được mãi”.\
+Trang Tử nói: “Cây này chỉ vì không ra gì mà sống lâu được mãi”.
 
 Ra khỏi núi, Trang Tử vào chơi nhà một người quen. Chủ nhà vui mừng, bảo người nhà đem chim nhạn làm thịt.\
 Người nhà hỏi: “Một con gáy được, một con không gáy được thì làm thịt con nào?”\
-Chủ bảo: “Làm con không gáy”.\
+Chủ bảo: “Làm con không gáy”.
 
 Hôm sau, học trò hỏi Trang Tử rằng:
 “Cái cây ở núi vì bất tài mà được sống lâu, con nhạn ở nhà chủ vì bất tài mà phải giết chết. 
