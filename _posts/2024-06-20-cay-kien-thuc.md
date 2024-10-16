@@ -3,10 +3,10 @@ title: Cây kiến thức
 layout: single
 classes: wide
 mermaid: true
-categories: duong-cua-dao
+categories: hoc-hanh
 parent:
-  label: Đường của đạo
-  url: duong-cua-dao
+  label: Học hành
+  url: hoc-hanh
 ---
 
 ![alt]({{ 'assets/images/dong-xi-yuan-pan-yuan-gu-shu-yuan-ying-tian.jpg' | absolute_url }})
@@ -24,10 +24,12 @@ Elon Musk on How To Build Knowledge
 </a></cite>
 
 ## Tính chất
-Càng ở nhánh thì càng chi tiết. Càng lên cao thì càng trừu tượng, tổng quát. Các nhánh con thì có những điểm chung và được tổng quát dần lên nhánh cha.
+Càng xuống gần lá thì càng chi tiết. Càng lên cao thì càng trừu tượng, tổng quát.
+Các nhánh con thì có những điểm chung và được tổng quát dần lên nhánh cha.
 {: style="text-align: justify"}
 
-Cha con chỉ mang tính chất tương đối, và không chỉ có một cây duy nhất. Một nhánh con bất kỳ có thể chung tính chất với một nhánh nào đó khác trong một cây kiến thức khác.
+Cha con chỉ mang tính chất tương đối, và không chỉ có một cây duy nhất.
+Một nhánh con bất kỳ có thể chung tính chất với một nhánh nào đó khác trong một cây kiến thức khác.
 {: style="text-align: justify"}
 
 Dưới đây là một số phương pháp có thể được dùng để bao phủ và leo dần lên cây.
@@ -44,7 +46,7 @@ Tuy nhiên, với những người đã có công việc, việc phải học ki
 Một số điểm cần lưu ý:
 - Nhớ rằng cậu đang ở các nút lá, cố gắng tìm ra mục tiêu là các nút phía trên, đừng để những chi tiết rối rắm làm mờ đi mục tiêu tổng quát hóa cuối cùng.
 - <a target="_blank" href="/shu-ha-ri">Shu Ha Ri</a>: giúp cậu hiểu được quá trình theo từng giai đoạn một cách cụ thể.
-- <a target="_blank" href="/5w">5W (Why --> [How, What] --> [When, Where])</a>: giúp cậu định hình ra được những kiến thức nào cần phải chú ý, cần phải nhớ và có thể quên trong suốt quá trình học.
+- <a target="_blank" href="/5w1h">5W (Why --> [How, What] --> [When, Where])</a>: giúp cậu định hình ra được những kiến thức nào cần phải chú ý, cần phải nhớ và có thể quên trong suốt quá trình học.
 {: style="text-align: justify"}
 
 *Ví dụ sửa được các xe tay ga, cậu có thể học trước với sửa 1 dòng xe cụ thể như Lead, SH rồi sau đó tổng quát hóa nó lên thành Sửa xe tay ga.*
@@ -83,7 +85,7 @@ flowchart LR
 ```
 
 ## Trên xuống (Top down)
-Để học hay tìm hiểu 1 kiến thức mới, nếu may mắn cậu có thể áp dụng phương pháp top down. 
+Để học hay tìm hiểu 1 kiến thức mới, nếu may mắn cậu có thể áp dụng phương pháp từ trên xuống. 
 Thông thường đây là thành quả đạt được sau khi cậu tổng quát hóa thành công.
 Đây là phương pháp rất phổ biến với những người đã học xong một chuyên môn nào đó và có đủ kinh nghiệm, 
 vì chỉ cần sử kiến thức tổng quát đã được xây dựng và kiến thức chi tiết đã biết để liên hệ khi học một nhánh mới.
@@ -176,5 +178,5 @@ flowchart
 ```
 
 ## Kết
-Hy vọng là cậu sẽ nhìn thấy, xây dựng được cây kiến thức cho riêng mình. Tìm thấy được bản đồ trên con đường của Đạo.
+Hy vọng là cậu sẽ nhìn thấy, xây dựng được cây kiến thức để từ đó vẽ ra được bản đồ cho riêng mình.
 {: style="text-align: justify"}
