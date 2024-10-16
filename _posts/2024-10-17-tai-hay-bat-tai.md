@@ -9,7 +9,7 @@ parent:
   url: duong-cua-dao
 ---
 
-## Trang Tử Tuyết
+## Theo Trang Tử Tuyết
 
 Một hôm Trang Tử cùng với học trò đi chơi ở trong núi. Thấy một cây to, cành lá rườm rà, có người đốn gỗ chống búa đứng bên mà không chặt.
 
