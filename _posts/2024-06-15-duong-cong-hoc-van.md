@@ -1,5 +1,5 @@
 ---
-title: Đường học hành
+title: Đường cong học vấn
 layout: single
 classes: wide
 categories: hoc-hanh
@@ -8,14 +8,14 @@ parent:
   url: hoc-hanh
 ---
 
-![alt]({{ 'assets/images/kajikazawa-in-kai-province.jpg' | absolute_url }})
+![alt]({{ 'assets/images/hokusai-the-great-wave-off-kanagawa.jpg' | absolute_url }})
 > <cite>
-<a target="_blank" href="https://en.wikipedia.org/wiki/Kajikazawa_in_Kai_Province">
-葛飾 北斎《甲州石班澤》- Katsushika Hokusai《Kajikazawa in Kai Province》
+<a target="_blank" href="https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa">
+葛飾 北斎《神奈川沖浪裏》- Katsushika Hokusai《The Great Wave off Kanagawa》
 </a>
 </cite>
 
-## Đường cong học thức
+## Đường cong học vấn
 
 ![alt]({{ 'assets/images/whitney-johnson-smart-grow-curve.gif' | absolute_url }})
 > <cite>
