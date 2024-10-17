@@ -47,4 +47,4 @@ Trang Tử cười rồi nói:\
 </cite>
 
 ## Lời Bàn
-Ngu thì chắc chắn chết, mà khôn quá cũng chết, chỉ còn kẻ *biết* thì mới sống.
+Tài thì chết mà Bất Tài thì cũng khó sống, vậy chỉ còn kẻ *biết* thì thoát ly được.
