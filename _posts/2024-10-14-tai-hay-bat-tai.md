@@ -9,14 +9,12 @@ parent:
   url: duong-cua-dao
 ---
 
-![alt]({{ 'assets/images/rooster-and-hen-by-kwan-y-jung.jpeg' | absolute_url }})
+![alt]({{ 'assets/images/huang-zhou-zhi-ji-tu.jpg' | absolute_url }})
 > <cite>
-<a target="_blank" href="https://www.artworkarchive.com/profile/jungsstudio/artwork/rooster-and-hen-jung-s-studio-art-collection-e6633e">
-Kwan Y.Jung《A rooster and hen underneath a tree branch》
+<a target="_blank" href="https://www.invaluable.com/artist/huang-zhou-64t7i7xo0r/sold-at-auction-prices/?page=8&srsltid=AfmBOop1KkyqCyGcGhZdYkA_V87kVBtl0O_tu-wCBkCOhj5weHffOJpk">
+黄胄《稚鸡图》- Hoàng Châu《Tranh Gà Con》
 </a>
 </cite>
-
-
 
 ## Tài hay Bất Tài
 
@@ -47,4 +45,4 @@ Trang Tử cười rồi nói:\
 </cite>
 
 ## Lời Bàn
-Tài thì chết mà Bất Tài thì cũng khó sống, vậy chỉ còn kẻ *biết* thì thoát ly được.
+Tài thì chết mà bất tài thì cũng khó sống, vậy chỉ còn kẻ *biết* thì thoát ly được.

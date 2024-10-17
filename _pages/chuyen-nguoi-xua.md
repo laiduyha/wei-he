@@ -4,8 +4,6 @@ permalink: /chuyen-nguoi-xua
 classes: wide
 ---
 
-
-
 ![alt]({{ 'assets/images/zhang-da-qian-kan-song-tu.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://en.wikipedia.org/wiki/Chang_Dai-chien">
