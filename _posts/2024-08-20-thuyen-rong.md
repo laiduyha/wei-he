@@ -8,10 +8,10 @@ parent:
   url: duong-cua-dao
 ---
 
-![alt]({{ 'assets/images/shi-tao-bai-li-kong-ming-tu-zhou-chuan.png' | absolute_url }})
+![alt]({{ 'assets/images/wu-xian-gang-shan-shui-zhong-chuan.jpeg' | absolute_url }})
 > <cite>
-<a target="_blank" href="https://www.hcsartmuseum.com/projects/21804/">
-石濤《百里空明圖軸 局部 - 船》- Thạch Đào《Trời Xanh Trăm Dặm - Thuyền》
+<a target="_blank" href="https://www.sohu.com/a/521172764_121124708">
+吴显刚《山水中船》- Ngô Hướng Cương《Vẽ Thuyền》
 </a>
 </cite>
 

@@ -39,7 +39,7 @@ Giá như tiên sinh thì xử vào địa vị tài hay bất tài?”
 {: .text-justify}
 
 Trang Tử cười rồi nói:\
-“Ta xử vào trong cái khoảng giữa tài và bất tài. Như vậy thì tránh khỏi được tai nạn song chưa phải là kế vẹn toàn. Chỉ những bậc đạo đức cao siêu, không quản khen chê, lúc như rồng lúc như rắn, không hẳn rõ ra tài hay bất tài, lúc lên lúc xuống chỉ lấy đức hòa làm mực. siêu việt cả muôn vật, tuy là người ma lại khác người… Những bậc như thế thì còn gì lụy đến thân được! Còn thói đời thường tình nào có thế? Hợp với người thì có lúc lìa tan, làm nên việc thì có người nghị luận; ngay thẳng thì bị đè nén; tôn trọng thì bị chê bai; làm thì có kẻ phá; giỏi thì có người ghen; không ra gì thì thiên hạ lại khinh bỉ… Nhân tình như thế thì làm thế nào được? Thương ôi! Các người nên ghi lấy, chỉ có đạo đức mới khỏi lụy mà thôi.
+“Ta xử vào trong cái khoảng giữa tài và bất tài. Như vậy thì tránh khỏi được tai nạn song chưa phải là kế vẹn toàn. Chỉ những bậc đạo đức cao siêu, không quản khen chê, lúc như rồng lúc như rắn, không hẳn rõ ra tài hay bất tài, lúc lên lúc xuống chỉ lấy đức hòa làm mực. siêu việt cả muôn vật, tuy là người mà lại khác người… Những bậc như thế thì còn gì lụy đến thân được! Còn thói đời thường tình nào có thế? Hợp với người thì có lúc lìa tan, làm nên việc thì có người nghị luận; ngay thẳng thì bị đè nén; tôn trọng thì bị chê bai; làm thì có kẻ phá; giỏi thì có người ghen; không ra gì thì thiên hạ lại khinh bỉ… Nhân tình như thế thì làm thế nào được? Thương ôi! Các người nên ghi lấy, chỉ có đạo đức mới khỏi lụy mà thôi.
 {: .text-justify}
 
 > <cite>
