@@ -16,20 +16,22 @@ parent:
 </a>
 </cite>
 
-
-## Emptying the Cup
-
-A Zen master of great renown was visited by a young philosopher who had traveled from a distant land to meet him. The master agreed to see him because the philosopher came with high recommendations by his teachers. The two sat under a tree to converse and the subject hastily turned to what the master could teach the young philosopher. Recognizing the flame of youth, the master smiled warmly and started to describe his meditation techniques. He was cut short by the philosopher, who said: “Yes, I understand what you are talking about! We did a similar technique at the temple, but instead we used images to focus!”
+## Đổ đi tách trà của chính mình
+Vào một ngày nọ, tại nhà của một vị hiền triết, có một cậu môn sinh từ một nơi rất xa mang theo thư giới thiệu của thầy mình đến gặp. Cậu môn sinh này được người thầy viết thư giới thiệu nhờ vị hiền triết giúp đỡ, chỉ dạy cậu trên con đường học Đạo. 
 {: .text-justify}
 
-Once the philosopher was done explaining to the master how he was taught and practiced his meditation, the master spoke again. This time he tried to tell the young man about how one should be attuned to nature and the universe. He didn’t get two sentences in when the philosopher cut him short again and started talking about how he had been taught meditation and so on and so on.
+Sau khi gặp nhau cả hai ngồi dưới gốc cây và vị hiền triết bắt đầu miêu tả các kỹ thuật hành thiền của ông ta. Cậu trai trẻ, với lòng nhiệt huyết của mình, sau khi nghe giảng giải đã nói ngay: "Đúng rồi thưa thầy, con nghĩ là con hiểu thầy đang nói gì! Tại thiền viện, chúng con cũng tập những kỹ thuật tương tự, nhưng ở đó bọn con dùng hình ảnh để dẫn lối sự tập trung!"
 {: .text-justify}
 
-Once again, the master patiently waited for the young philosopher to end his excited explanations. When the philosopher was quiet again, the master spoke of seeing humor in every situation. The young man didn’t lose any time and started to talk about his favorite jokes and how he thought they could relate to situations he had faced.
+Khi cậu môn sinh giải thích xong cách thức hành thiền cậu đã học, thì lúc này đến lượt vị hiền triết khẽ cười và bắt đầu diễn giải tiếp về cách thức vận hành của tự nhiên và vũ trụ, cũng như làm cách nào ta có thể vận dụng được chúng. Nhưng khi vị giáo già chưa kịp nói xong hai câu thì cậu môn sinh lại ngắt lời và tiếp tục kể về những gì cậu đã được học. Một lần nữa, nhà hiền triết vẫn kiên nhẫn lắng nghe. Trong khi đó cậu trai vẫn tiếp tục huyên thuyên về những gì cậu được học, những phương pháp cậu đã luyện và cả những tình huống mà cậu phải trải qua.
 {: .text-justify}
 
-Once the philosopher was done, the Zen master invited him inside for a tea ceremony. The philosopher accepted gladly, having heard of how the master performed the ceremony like no other. Such a moment was always a privileged one with such a man. Once inside, the master performed flawlessly up to the point where he started to pour the tea in the cup. As the master was pouring, the philosopher noticed that the cup was being filled more than usual. The master kept pouring tea and the cup was soon full to the brim. Not knowing what to say, the young man stared at the master in astonishment. The master kept pouring as if nothing was wrong, and the cup started to overflow, spilling hot tea on the floor mattresses and the master’s hakama. Not believing what he was seeing, the philosopher finally exclaimed: “Stop pouring! Can’t you see the cup is already full and overflowing?”
+Khi xong buổi đàm dạo, nhà hiền triết mời cậu vào trong uống trà. Đây được coi là một vinh dự của cậu môn sinh vì kỹ thuật pha trà của vị hiền triết rất nổi tiếng và rất hiếm người được ông mời thưởng trà cùng. Khi bắt đầu, vị hiền triết liền rót trà vào tách, tuy nhiên một điều lạ là trà vẫn cứ tiếp tục được rót đến khi đã gần đầy và sắp tràn. Ban đầu cậu môn sinh hơi ngạc nhiên nhưng nhanh chóng sau đó liền hối hả nói: "Thầy ơi, trà đã đầy rồi, đừng rót nữa, nếu không sẽ đổ tràn ra ngoài. Lãng phí trà lắm."
 {: .text-justify}
 
-With those words, the master gently placed the teapot back on the fire and looked at the young philosopher with his ever-present warm smile and said: “If you come to me with a cup that is already full, how can you expect me to give you something to drink?”
+Sau khi nghe câu đó xong, nhà hiền triết nhẹ nhàng đặt ấm trà lên lại bếp lửa và nhìn cậu môn sinh rồi nói: "Nếu con đến với ta cùng tách trà đã đầy, thì làm sao con mong đợi ta sẽ rót được thêm gì vào tách của con?"
 {: .text-justify}
+
+> <cite>
+<a target="_blank" href="https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/ch02.html">Theo《Chapter 2: Emptying the Cup》-《Apprenticeship Patterns by Dave Hoover, Adewale Oshineye》</a>
+</cite>
