@@ -136,7 +136,7 @@ Thì với phương pháp nhảy, cậu sẽ chủ động mở rộng được 
 Việc này không chỉ sẽ giúp cậu không rơi vào trạng thái Tối ưu cục bộ (local optimize), mà còn cho cậu có một cái nhìn nhiều chiều hơn một vấn đề nào đấy.
 {: .text-justify}
 
-Tuy nhiên đây là một phương pháp nguy hiểm, vì nó không chỉ đòi hỏi nhiều thời gian công sức, mà có thể dẫn người học tới trạng thái không có gì học ra hồn.
+Tuy nhiên đây là một phương pháp không dễ áp dụng, vì nó không chỉ đòi hỏi nhiều thời gian công sức, mà có thể dẫn người học lạc vào mê cung, dẫn tới trạng thái không có gì học ra hồn.
 Không chỉ vậy nó còn đòi hỏi cậu tại một số thời điểm có thể sẽ phải quên đi những gì cậu đã biết để có thể tiếp nhận được cái mới mà có khi ngược lại hoàn toàn với cái cũ. 
 Đây là một kỹ thuật khó vì nó trái ngược hoàn toàn với phản ứng tự nhiên của người học khi dùng những kiến thức đã biết để liên hệ lại (Top down). 
 <a target="_blank" href="/do-tra">Đổ Trà (Emptying the Cup)</a> là kỹ thuật giúp cậu rèn luyện tư duy khi áp dụng phương pháp này.

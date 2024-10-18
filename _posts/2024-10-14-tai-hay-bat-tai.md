@@ -45,4 +45,4 @@ Trang Tử cười rồi nói:\
 </cite>
 
 ## Lời Bàn
-Tài thì chết mà bất tài thì cũng khó sống, vậy chỉ còn kẻ *biết* thì thoát ly được.
+Tài thì chết mà bất tài thì cũng khó sống. Chỉ còn kẻ **biết** thì mới thoát ly được.
