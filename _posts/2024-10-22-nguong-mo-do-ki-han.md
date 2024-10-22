@@ -20,8 +20,8 @@ Theo tới theo lui, có được gì?\
 Rồi bỗng một ngày chợt nhận thấy,
 Bong bóng vỡ rồi, lại hận nhau.
 
-Còn giả là người đang tỏa sáng,\
-Có kẻ ngưỡng mộ, lẫn tung hô.\
+Ngược lại nếu mà đang tỏa sáng,\
+Có người ngưỡng mộ, kẻ tung hô.\
 Bỗng đến một ngày ngoảnh đầu lại,\
 Ganh ghét, thù hận bám đằng sau.
 
