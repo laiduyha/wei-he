@@ -18,7 +18,7 @@ parent:
 Nhìn người ngưỡng mộ để làm chi?\
 Theo tới theo lui, có được gì?\
 Rồi đến một ngày chợt nhận thấy,\
-Bong bóng vỡ rồi, lại hận nhau.
+Mộng ảo vỡ rồi, lại hận nhau.
 
 Còn mà vận hội đang đà tiến,\
 Có người ngưỡng mộ, kẻ tung hô.\
