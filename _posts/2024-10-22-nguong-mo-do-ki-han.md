@@ -1,5 +1,5 @@
 ---
-title: Ngưỡng mộ, đố kị,hận - 羡慕、嫉妒、很
+title: Ngưỡng mộ, đố kị, hận - 羡慕、嫉妒、很
 layout: single
 classes: wide
 categories: duong-cua-dao
@@ -17,17 +17,17 @@ parent:
 
 Nhìn người ngưỡng mộ để làm chi?\
 Tính toán so đo, lại thấy phiền.\
-Nếu không với tới đành an phận,\
-Còn mà như được, lại đua tranh.
+Nếu như không tới, đành an phận,\
+Còn mà thấy được, lại đua tranh.
 
-Gắng sức truy cầu hình bóng ấy,\
+Gắng sức bám đuổi hình bóng ấy,\
 Mệt mỏi đã đành, lại còn soi.\
 Giả như phát hiện vài góc khuất,\
 Giấc mộng tan thành, lại hận nhau.
  
-Còn nếu như là thích tỏa sáng,\
+Ngược lại nếu mà thích tỏa sáng,\
 Có người ngưỡng mộ, kẻ tung hô.\
-Rồi đến một ngày ngoảnh đầu lại,\
+Bỗng đến một ngày ngoảnh đầu lại,\
 Ganh ghét, thù hận bám đằng sau.
 
 Sự đời cứ thế mà luẩn quẩn,\
