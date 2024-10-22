@@ -15,20 +15,20 @@ parent:
   </a>
 </cite>
 
-Nhìn người ngưỡng mộ để làm chi?\
-Theo tới theo lui, có được gì?\
-Rồi đến một ngày chợt nhận thấy,\
-Mộng ảo vỡ rồi, lại hận nhau.
+Ngưỡng mộ cho lắm để làm chi?\
+Nhắm mắt mộng theo chẳng biết gì.\
+Lỡ mà đến lúc mộng tan biến,\
+Thì lại hận ngược kẻ mình theo.
 
 Còn mà vận hội đang đà tiến,\
-Có người ngưỡng mộ, kẻ tung hô.\
-Bỗng chốc giật mình ngoảnh đầu lại,\
-Đố kỵ, hận thù đuổi theo sau.
+Lắm người ngưỡng mộ, lẫn tung hô.\
+Một thoáng bất giác đầu ngoảnh lại,\
+Quanh mình lắm kẻ đố kỵ a.
 
 Sự đời cứ thế mà luẩn quẩn,\
-Ganh qua, ghét lại mãi không nguôi.\
-Lắm lúc vẩn vơ ngồi tự hỏi,\
-Sân si cho lắm để làm gì?
+Ganh qua, ghét lại mãi không thôi.\
+Có lúc ngẩn ngơ ngồi tự hỏi,\
+Sân si, tranh đấu để được gì?
 
 > <cite>
 <a target="_blank" href="https://wei-he.xyz">Wéi Hé</a>
