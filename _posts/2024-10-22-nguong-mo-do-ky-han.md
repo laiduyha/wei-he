@@ -28,7 +28,7 @@ Bỗng chốc giật mình ngoảnh đầu lại,\
 Sự đời cứ thế mà luẩn quẩn,\
 Ganh qua, ghét lại mãi không nguôi.\
 Lắm lúc vẩn vơ ngồi tự hỏi,\
-Sân si cho lắm để làm chi?
+Sân si cho lắm để làm gì?
 
 > <cite>
 <a target="_blank" href="https://wei-he.xyz">Wéi Hé</a>
