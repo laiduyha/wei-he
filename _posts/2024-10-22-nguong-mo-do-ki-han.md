@@ -16,17 +16,12 @@ parent:
 </cite>
 
 Nhìn người ngưỡng mộ để làm chi?\
-Tính toán so đo, lại thấy phiền.\
-Nếu như không tới, đành an phận,\
-Còn mà thấy được, lại đua tranh.
+Theo tới theo lui, chẳng được gì.\
+Rồi bỗng một ngày chợt nhận thấy,
+Bong bóng vỡ rồi, lại hận nhau.
 
-Gắng sức bám đuổi hình bóng ấy,\
-Mệt mỏi đã đành, lại còn soi.\
-Giả như phát hiện vài góc khuất,\
-Giấc mộng tan thành, lại hận nhau.
- 
-Ngược lại nếu mà thích tỏa sáng,\
-Có người ngưỡng mộ, kẻ tung hô.\
+Còn giả là người đang tỏa sáng,\
+Có kẻ ngưỡng mộ, lẫn tung hô.\
 Bỗng đến một ngày ngoảnh đầu lại,\
 Ganh ghét, thù hận bám đằng sau.
 
