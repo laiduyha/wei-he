@@ -3,10 +3,10 @@ title: 阮攸《代人戏笔》- Nguyễn Du《Thay người hí bút》
 layout: single
 classes: wide
 parent:
-    label: Nguyễn Du
-    url: nguyen-du
+  label: Nguyễn Du
+  url: nguyen-du
 categories: 
-    - Nguyen-Du
+  - Nguyen-Du
 ---
 
 ![alt]({{ 'assets/images/qian-jian-chun-yang-shuo-shi-qiao-shuang-yue.jpeg' | absolute_url }})
