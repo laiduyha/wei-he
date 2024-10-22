@@ -17,7 +17,7 @@ parent:
 
 Nhìn người ngưỡng mộ để làm chi?\
 Theo tới theo lui, có được gì?\
-Rồi bỗng một ngày chợt nhận thấy,
+Rồi bỗng một ngày chợt nhận thấy,\
 Bong bóng vỡ rồi, lại hận nhau.
 
 Ngược lại nếu mà đang tỏa sáng,\
