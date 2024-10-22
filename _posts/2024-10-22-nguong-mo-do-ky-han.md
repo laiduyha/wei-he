@@ -17,13 +17,13 @@ parent:
 
 Nhìn người ngưỡng mộ để làm chi?\
 Theo tới theo lui, có được gì?\
-Rồi bỗng một ngày chợt nhận thấy,\
+Rồi đến một ngày chợt nhận thấy,\
 Bong bóng vỡ rồi, lại hận nhau.
 
-Ngược lại nếu mà đang tỏa sáng,\
+Ngược lại vận hội đang đà tiến,\
 Có người ngưỡng mộ, kẻ tung hô.\
-Bỗng đến một ngày ngoảnh đầu lại,\
-Đố kỵ, thù hận bám đằng sau.
+Bỗng chốc giật mình ngoảnh đầu lại,\
+Đố kỵ, hận thù đuổi theo sau.
 
 Sự đời cứ thế mà luẩn quẩn,\
 Ganh qua, ghét lại mãi không nguôi.\
