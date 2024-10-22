@@ -20,7 +20,7 @@ Theo tới theo lui, có được gì?\
 Rồi đến một ngày chợt nhận thấy,\
 Bong bóng vỡ rồi, lại hận nhau.
 
-Ngược lại vận hội đang đà tiến,\
+Còn mà vận hội đang đà tiến,\
 Có người ngưỡng mộ, kẻ tung hô.\
 Bỗng chốc giật mình ngoảnh đầu lại,\
 Đố kỵ, hận thù đuổi theo sau.
