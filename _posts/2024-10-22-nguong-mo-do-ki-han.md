@@ -16,7 +16,7 @@ parent:
 </cite>
 
 Nhìn người ngưỡng mộ để làm chi?\
-Theo tới theo lui, chẳng được gì.\
+Theo tới theo lui, có được gì?\
 Rồi bỗng một ngày chợt nhận thấy,
 Bong bóng vỡ rồi, lại hận nhau.
 
