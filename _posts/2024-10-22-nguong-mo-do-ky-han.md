@@ -13,7 +13,7 @@ parent:
 ![alt]({{ 'assets/images/liu-xue-duo-hong-lou-meng-mei-nu.jpg' | absolute_url }})
 > <cite>
   <a href="https://www.inkdancechinesepaintings.com/chinese-artists/liu-xue-duo_1.html" target="_blank">
-  刘学多《红楼梦美女》- Lưu Học Đa《Mỹ Nữ Hồng Lâu Mộng》 
+  刘学多《红楼梦美女》- Lưu Học Đa《Mỹ Nữ Hồng Lâu Mộng》
   </a>
 </cite>
 
