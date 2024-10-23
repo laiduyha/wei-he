@@ -30,7 +30,7 @@ Quanh mình lắm kẻ đố kỵ a!
 Thói đời cứ thế mà luẩn quẩn,\
 Ganh qua, ghét lại mãi không thôi.\
 Đôi khi ngẩn ngơ rồi tự hỏi,\
-Ta tranh ta đấu để được gì?
+Tranh hơn, đấu thắng được ích gì?
 
 > <cite>
 <a target="_blank" href="https://wei-he.xyz">Wéi Hé</a>
