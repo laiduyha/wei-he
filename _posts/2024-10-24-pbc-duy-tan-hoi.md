@@ -212,5 +212,5 @@ Ai nấy bàn bạc nhất định như vậy rồi, bèn tính cử một ngư�
 Hồi đó công việc trong đảng đang cần người có tài làm sứ, nên chi toàn-hội cùng cử tôi làm chức đại biểu đi Nhật.
 {: .text-justify}
 > <cite>
-<a target="_blank" href="https://vi.m.wikisource.org/wiki/T%C3%A1c_gia:Phan_B%E1%BB%99i_Ch%C3%A2u">Theo Phan Bội Châu《Ngục trung thư》- Đào Trinh Nhất dịch</a>
+<a target="_blank" href="https://vi.wikisource.org/wiki/%C4%90%E1%BB%9Di_c%C3%A1ch_m%E1%BA%A1ng_Phan_B%E1%BB%99i_Ch%C3%A2u">Theo Phan Bội Châu《Ngục trung thư》- Đào Trinh Nhất dịch</a>
 </cite>
