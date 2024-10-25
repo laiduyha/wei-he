@@ -34,7 +34,7 @@ Nước ta từ xưa phụ thuộc vào nước Tầu, địa lý, lịch sử, 
 Tôi từ nhỏ tới lớn, vốn có tư chất thông minh, công phu đèn sách dùi mài cũng không bê trễ, nhưng kể đến sự kết quả, chẳng qua chỉ là sự học khoa cử mà thôi.
 {: .text-justify}
 
-Vì lúc bấy giờ, lối học khoa cử của nhà Thanh, đang sôi nổi như gió cuốn mây bay, người nước mình bắt bỏng theo chân, chỉ sợ không giống y ​người Tàu. Bà con ta muốn cỡi mây lướt gió, không thể nào không mượn con đường khoa-cử, dầu ai có muốn chẳng theo thời đi nữa, cũng không có đường học nào khác hơn mà đi. Than ôi! chổi cùn trong nhà, tự mình xem là của quý, sự ưa thích lâu đời đã thành thói quen thành ra rốt cuộc tôi cũng bị thời-trang trói buộc, đến đỗi tiêu hao ngày tháng về nghiệp khoa cữ gần hết nửa đời người. Đó là một vết nhơ rất lớn trong đời tôi vậy.
+Vì lúc bấy giờ, lối học khoa cử của nhà Thanh, đang sôi nổi như gió cuốn mây bay, người nước mình bắt bỏng theo chân, chỉ sợ không giống y ​người Tàu. Bà con ta muốn cỡi mây lướt gió, không thể nào không mượn con đường khoa cử, dầu ai có muốn chẳng theo thời đi nữa, cũng không có đường học nào khác hơn mà đi. Than ôi! chổi cùn trong nhà, tự mình xem là của quý, sự ưa thích lâu đời đã thành thói quen thành ra rốt cuộc tôi cũng bị thời-trang trói buộc, đến đỗi tiêu hao ngày tháng về nghiệp khoa cữ gần hết nửa đời người. Đó là một vết nhơ rất lớn trong đời tôi vậy.
 {: .text-justify}
 
 ## Cùng anh em Đồng Chí tổ chức ra Đội Sĩ Tử Cần Vương
