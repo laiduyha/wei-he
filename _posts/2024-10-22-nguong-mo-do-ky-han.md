@@ -8,7 +8,8 @@ parent:
   url: duong-cua-dao
 ---
 
-*羡慕、嫉妒、很*
+羡慕、嫉妒、很
+{: .notice}
 
 ![alt]({{ 'assets/images/liu-xue-duo-hong-lou-meng-mei-nu.jpg' | absolute_url }})
 > <cite>

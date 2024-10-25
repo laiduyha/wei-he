@@ -1,5 +1,5 @@
 ---
-title: Buổi đầu tìm đường khởi nghĩa
+title: 2 - Buổi đầu
 permalink: /pbc-buoi-dau
 layout: single
 classes: wide
@@ -16,13 +16,14 @@ Chim chóc hãy còn nương cửa tổ\
 Bướm ong chưa thấy lượn vườn hoa\
 Nào ai là kẻ tìm ta đó\
 Đốt đuốc mà soi kẻo lẫn nhà!
-{: .notice--warning}
+{: .notice}
 
 > <cite>
 Tú Xương《Đêm dài》
 </cite>
 
-![alt]({{ 'assets/images/the-battle-of-tsushima-strait.jpg' | absolute_url }})
+
+![alt]({{ 'assets/images/phan-boi-chau-va-cuong-de.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://baotanglichsu.vn/vi/Articles/3097/14624/phong-trao-djong-du-1905-1908-mot-hinh-thuc-xay-dung-luc-luong-cach-mang-nhung-nam-djau-the-ky-xx.html">
 《Phan Bội Châu (người ngồi) và Kỳ Ngoại Hầu Cường Để》
@@ -45,14 +46,14 @@ Việc chúng tôi mưu tính lần hồi chín chắn, gần tới ngày hẹn 
 Song ông bạn thân là Đặng Quân Thái Thân nói với tôi:
 {: .text-justify}
 
-Xem kỹ lại thời-thế chưa có chỗ nào mình ​đảng thừa cơ làm việc lớn. Bọn ta vội vã làm càn, chắc là không xong việc gì được đâu. Nhưng ta cũng phải làm sao để chỉ tỏ cho người Pháp biết rằng quốc dân ta chẳng phải toàn là hạng người quá hèn, vậy thì ta cứ mạo hiểm làm một phen cũng được, có điều là mong ước sao chúng ta cất tiếng lên trước rồi phải có người nối lời sau mới được.
-{: .notice}
+Xem kỹ lại thời thế chưa có chỗ nào mình ​đảng thừa cơ làm việc lớn. Bọn ta vội vã làm càn, chắc là không xong việc gì được đâu. Nhưng ta cũng phải làm sao để chỉ tỏ cho người Pháp biết rằng quốc dân ta chẳng phải toàn là hạng người quá hèn, vậy thì ta cứ mạo hiểm làm một phen cũng được, có điều là mong ước sao chúng ta cất tiếng lên trước rồi phải có người nối lời sau mới được.
+{: .notice .text-justify}
 
 Nhưng nếu ta chỉ khởi sự trong khoảng Nghệ Tĩnh mà thôi, tôi e như chuyện cái thai đứa nhỏ khó đẻ, ở trong bụng mẹ lọt ra chưa kịp khóc oa oa mấy tiếng thì đã chết non mất rồi. Tôi trộm suy nghĩ mà lo ngại dùm cho tiên-sinh chỗ đó.
-{: .notice}
+{: .notice .text-justify}
 
 Theo ý tôi tưởng, trước hết ta nên vô Nam ra Bắc, cầu anh em hào kiệt ở hai nơi cùng làm việc với ta. Đất Bắc Kỳ vốn nihều nghĩa sĩ, từ Quảng Nam trở vô Nam Trung cũng không thiếu gì hạng người khảng khái bi ca. Ta lấy nghĩa đề huê với họ rồi tất cã anh em ba nơi đồng thời khởi nghỉa, để chia bớt sức mạnh của bên địch, mà vây cánh đồ đảng chúng ta đông, như vậy họa chăng mới làm nên công việc.
-{: .notice}
+{: .notice .text-justify}
 
 Đặng Quân vốn người hăng hái, gan dạ, nhân phẩm lại cao, trải 10 năm vừa là thầy vừa là bạn tôi. Nay nghe lời ông nói rất nhằm, tôi mới tỉnh-ngộ, liền bàn định trước hết hãy vô Nam Trung, rồi sau sẽ ra ngoài Bắc, liên kết với các phe đảng anh em toàn quốc, để sắp đặt khởi ​nghĩa sau.
 {: .text-justify}
@@ -81,13 +82,13 @@ Tôi đem chí muốn ra phân trần. Cụ vỗ tay, nói:
 {: .text-justify}
 
 Hay dữ! Thuở nay, ai muốn mưu toan đại sự, trước hết phải cần ba điều này: một là thu phục lòng người, hai là góp số tiền lớn, ba là sắp đặt mua sắm quân khí cho đủ. Hể lòng người ta đã chịu tin phục thì số tiền lớn có thể góp được. Có tiền thì vấn đề quân giới, không khó giải quyết đâu.
-{: .notice}
+{: .notice .text-justify}
 
 Nhưng phải hiểu dân trí và tập quán cũa dân nước nhà, không thể nào bắt chước làm theo châu Âu cho được. Bọn ta muốn có cách kêu gọi nhân tâm cho dễ, nếu không mượn tiếng phò vua giúp chúa thì những nhà sang họ lớn kia, ai chịu phụ họa theo mình. Vậy thì ta dầu có bụng cứu nước mặc lòng, chẵng qua chỉ chết thân mình cho tròn được một tiếng vậy thôi, ngoài ra không ăn thua lợi ích gì cho việc lớn.
-{: .notice}
+{: .notice .text-justify}
 
 Vua Hàm Nghi trốn tránh ở chốn nào, đã lâu không nghe tin tức ra sao. Còn vua Thành Thái hiện tại thì ở trong tay người Pháp kiềm chế, anh em ta không làm cách gì ra vào thân cận bên mình ngài đặng. Sẵn có dòng dõi của đức Đông Cung Cảnh là đích tự Cao Hoàng, hiện nay ​đang còn. Chúng ta khởi nghĩa, nên trước hết tôn ngài lên làm cung chủ; có thế thì danh nghỉa mới thuận, hiệu lịnh được chuyên, mỗi khi ta cất tiếng kêu gào, thuận theo chiều gió, tất nhiên có tiếng vang bóng sâu xa lắm vậy. Các ông tính sao?.
-{: .notice}
+{: .notice .text-justify}
 
 Tôi với hai ông Đặng, Lê, ban đầu thật chúng tôi chưa hề suy tính tới việc tôn người dòng dõi nhà vua. Tới đây nghe Nguyễn Quân, chúng tôi cho là phải lẽ lắm.
 {: .text-justify}

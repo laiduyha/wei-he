@@ -1,5 +1,5 @@
 ---
-title: Duy Tân Hội những ngày đầu
+title: 3 - Duy Tân Hội
 permalink: /pbc-duy-tan-hoi
 layout: single
 classes: wide
@@ -8,10 +8,10 @@ parent:
   url: phan-boi-chau
 ---
 
-![alt]({{ 'assets/images/phan-boi-chau-va-cuong-de.jpg' | absolute_url }})
+![alt]({{ 'assets/images/russo-japanese-war-batte-sha-river-taizi-yoshikuni.jpg' | absolute_url }})
 > <cite>
-<a target="_blank" href="https://www.history.com/this-day-in-history/the-battle-of-tsushima-strait">
-《The Battle of Tsushima Strait》History.com
+<a target="_blank" href="https://www.thecollector.com/russo-japanese-war-global-asian-power/">
+Yoshikuni, November 1904《In the Battle of the Sha River, a Company of Our Forces Drives a Strong Enemy Force to the Left Bank of the Taizi River”》 - Yoshikuni, Tháng 11 năm 1904《 Trong trận chiến sông Sa, một đại đội của chúng ta đã đẩy lùi lực lượng địch đến bờ trái sông Thái Tử》
 </a>
 </cite>
 
