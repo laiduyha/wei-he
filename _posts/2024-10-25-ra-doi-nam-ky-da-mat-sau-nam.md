@@ -13,7 +13,7 @@ categories:
 
 ![alt]({{ 'assets/images/luu-day-robert-aldrich.jpg' | absolute_url }})
 > <cite>
-<a href="https://ordi.vn/nhung-hoang-de-bi-luu-day-thuc-dan-phap-va-tinh-canh-luu-vong-cua-cac-vi-vua-nuoc-viet-ky-1.html">
+<a href="https://ordi.vn/nhung-hoang-de-bi-luu-day-thuc-dan-phap-va-tinh-canh-luu-vong-cua-cac-vi-vua-nuoc-viet-ky-1.html" target="_blank">
 Robert Aldrich《Cuộc gặp gỡ hoàng gia: Chúng ta đều là bạn!》
 </a>
 </cite>
