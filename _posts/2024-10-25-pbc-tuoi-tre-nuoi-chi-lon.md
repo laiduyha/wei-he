@@ -22,7 +22,7 @@ Robert Aldrich《Cuộc gặp gỡ hoàng gia: Chúng ta đều là bạn!》
 Triều vua Tự Đức thứ 15, năm Nhâm-tuất (Tây lịch 1862), binh Pháp chiếm lĩnh đất Nam kỳ ta.
 {: .text-justify}
 
-Nam-kỳ là kho tàng thiên nhiên của nước ta; cửa biển Sài Gòn thật là cuống họng ta, nay đã vào tay người Pháp rồi, ta chưa mất hết cả nước, chỉ là chuyện thời gian sớm muộn đó thôi. Chén ​vàng đã ụp, nhà lớn sắp tiêu, thương thay cho ta, lại nhè giữa lúc ấy mà sinh ra đời. Thiệt ta sinh ra đời giữa năm Đinh-Mão, niên hiệu Tự-Đức thứ 20, nghĩa là lúc Nam Kỳ đã mất 6 năm rồi. Đầu xanh nào đã biết gì, con thơ chưa lìa bọc mẹ, thế mà tấn kịch biển khóc non gào, sửa soạn đem mi mà liệng vào giữa tấm màn thảm đạm ấy. Lồng lộng trời xanh, kẻ ấy là ai đó tá?
+Nam-kỳ là kho tàng thiên nhiên của nước ta; cửa biển Sài Gòn thật là cuống họng ta, nay đã vào tay người Pháp rồi, ta chưa mất hết cả nước, chỉ là chuyện thời gian sớm muộn đó thôi. Chén ​vàng đã ụp, nhà lớn sắp tiêu, thương thay cho ta, lại nhè giữa lúc ấy mà sinh ra đời. Thiệt ta sinh ra đời giữa năm Đinh Mão, niên hiệu Tự Đức thứ 20, nghĩa là lúc Nam Kỳ đã mất 6 năm rồi. Đầu xanh nào đã biết gì, con thơ chưa lìa bọc mẹ, thế mà tấn kịch biển khóc non gào, sửa soạn đem mi mà liệng vào giữa tấm màn thảm đạm ấy. Lồng lộng trời xanh, kẻ ấy là ai đó tá?
 {: .text-justify}
 
 Lúc đầu thế kỷ 18, ngọn sóng mới của Âu-học, vọt lên cao muôn trượng; những tiếng dội phú cường, hầu như vang động tràn lan cả hoàn cầu. Phải chi ta sớm được đầu thai ở giữa khoảng đó, có lẽ ta không đến đỗi mù mù mịt mịt như ta ngày hôm nay. Nhưng tiếc thay, ta chẳng may sinh ra ở nước Nam ta.
