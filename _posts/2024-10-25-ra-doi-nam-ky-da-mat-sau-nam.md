@@ -9,12 +9,15 @@ categories:
   - Phan-Boi-Chau
 ---
 
+*Một bức tranh biếm họa của Pháp vẽ vua Hàm Nghi, nữ hoàng Ranavalona III của Madagascar và vua Béhanzin của Dahomey, đều là những vị hoàng đế bị lưu đày.*
+
 ![alt]({{ 'assets/images/luu-day-robert-aldrich.jpg' | absolute_url }})
 > <cite>
 <a href="https://ordi.vn/nhung-hoang-de-bi-luu-day-thuc-dan-phap-va-tinh-canh-luu-vong-cua-cac-vi-vua-nuoc-viet-ky-1.html">
-Một bức tranh biếm họa của Pháp vẽ vua Hàm Nghi, nữ hoàng Ranavalona III của Madagascar và vua Béhanzin của Dahomey, đều là những vị hoàng đế bị lưu đày. Chú thích tranh: 《Cuộc gặp gỡ hoàng gia: Chúng ta đều là bạn!》. Nguồn: Sách《Banished Potentates: dethroning and exiling indigenous monarchs under British and French colonial rule, 1815-1955》của tác giả Robert Aldrich, NXB Đại học Oxford, 18/1/2018.
+Robert Aldrich《Cuộc gặp gỡ hoàng gia: Chúng ta đều là bạn!》
 </a>
 </cite>
+
 
 Triều vua Tự-Đức thứ 15, năm Nhâm-Tuất (Tây–lịch 1862), binh Pháp chiếm lĩnh đất Nam kỳ ta.
 
