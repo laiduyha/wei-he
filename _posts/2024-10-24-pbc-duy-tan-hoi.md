@@ -8,8 +8,9 @@ parent:
   url: phan-boi-chau
 ---
 
-*Sực tỉnh trông ra ngỡ sáng òa,*
+*Sực tỉnh trông ra ngỡ sáng òa,*\
 *Đêm sao đêm mãi thế ru mà?*
+
 > <cite>
 Tú Xương, Đêm dài, đầu thế kỷ XX
 </cite>
@@ -34,19 +35,17 @@ Nhà tôi là nhà làm nghề dậy học, nhưng mà học trò chỉ ở nhà
 Việc chúng tôi mưu tính lần hồi chín chắn, gần tới ngày hẹn nhau phát lên rồi.
 {: .text-justify}
 
-Song ông bạn thân là Đặng uân Thái Thân nói với tôi:
+Song ông bạn thân là Đặng Quân Thái Thân nói với tôi:
 {: .text-justify}
 
-> <cite>
-Xem kỹ lại thời-thế chưa có chỗ nào mình ​đảng thừa cơ làm việc lớn. Bọn ta vội vã làm càn, chắc là không xong việc gì được đâu. Nhưng ta cũng phải làm sao để chỉ tỏ cho người Pháp biết rằng quốc dân ta chẳng phải toàn là hạng người quá hèn, vậy thì ta cứ mạo hiểm làm một phen cũng được, có điều là mong ước sao chúng ta cất tiếng lên trước rồi phải có người nối lời sau mới được.
+> Xem kỹ lại thời-thế chưa có chỗ nào mình ​đảng thừa cơ làm việc lớn. Bọn ta vội vã làm càn, chắc là không xong việc gì được đâu. Nhưng ta cũng phải làm sao để chỉ tỏ cho người Pháp biết rằng quốc dân ta chẳng phải toàn là hạng người quá hèn, vậy thì ta cứ mạo hiểm làm một phen cũng được, có điều là mong ước sao chúng ta cất tiếng lên trước rồi phải có người nối lời sau mới được.
 {: .text-justify}
 
-Nhưng nếu ta chỉ khởi sự trong khoảng Nghệ Tĩnh mà thôi, tôi e như chuyện cái thai đứa nhỏ khó đẻ, ở trong bụng mẹ lọt ra chưa kịp khóc oa-oa mấy tiếng thì đã chết non mất rồi. Tôi trộm suy nghĩ mà lo ngại dùm cho tiên-sinh chỗ đó.
+> Nhưng nếu ta chỉ khởi sự trong khoảng Nghệ Tĩnh mà thôi, tôi e như chuyện cái thai đứa nhỏ khó đẻ, ở trong bụng mẹ lọt ra chưa kịp khóc oa-oa mấy tiếng thì đã chết non mất rồi. Tôi trộm suy nghĩ mà lo ngại dùm cho tiên-sinh chỗ đó.
 {: .text-justify}
 
-Theo ý tôi tưởng, trước hết ta nên vô Nam ra Bắc, cầu anh em hào-kiệt ở hai nơi cùng làm việc với ta. Đất Bắc-kỳ vốn nihều nghĩa-sĩ, từ Quảng-nam trở vô Nam-trung cũng không thiếu gì hạng người khảng-khái bi-ca. Ta lấy nghĩa đề huê với họ rồi tất cã anh em ba nơi đồng-thời khởi-nghỉa, để chia bớt sức mạnh của bên địch, mà vây cánh đồ đảng chúng ta đông, như vậy họa chăng mới làm nên công việc.
+> Theo ý tôi tưởng, trước hết ta nên vô Nam ra Bắc, cầu anh em hào-kiệt ở hai nơi cùng làm việc với ta. Đất Bắc-kỳ vốn nihều nghĩa-sĩ, từ Quảng-nam trở vô Nam-trung cũng không thiếu gì hạng người khảng-khái bi-ca. Ta lấy nghĩa đề huê với họ rồi tất cã anh em ba nơi đồng-thời khởi-nghỉa, để chia bớt sức mạnh của bên địch, mà vây cánh đồ đảng chúng ta đông, như vậy họa chăng mới làm nên công việc.
 {: .text-justify}
-</cite>
 
 Đặng Quân vốn người hăng hái, gan dạ, nhân phẩm lại cao, trải 10 năm vừa là thầy vừa là bạn tôi. Nay nghe lời ông nói rất nhằm, tôi mới tỉnh-ngộ, liền bàn định trước hết hãy vô Nam Trung, rồi sau sẽ ra ngoài Bắc, liên-kết với các phe đảng anh em toàn quốc, để sắp đặt khởi ​nghĩa sau.
 {: .text-justify}
@@ -62,7 +61,7 @@ Tôi vô Nam chuyến này, nghe nói trong đảng Cần Vương hai tỉnh Qu�
 Mùa xuân, tháng hai năm Quý Mão, tôi với hai họ Đặng cùng vô Quảng Nam. Lúc đi ngang Huế, gặp ông Lê Võ từ Bình Định trở về tới đó.
 {: .text-justify}
 
-Lê-quân vốn con nhà làm tướng. Bốn người anh đều chết vì nạn nước. Ông nhỏ tuổi nhất trong nhà, thành ra may mắn chưa chết. Khi gặp tôi ở kinh thành, Lê Quân tỏ bầy chí khí như phơi gan trải mật. Chúng tôi hôm sớm quấn quýt với nhau, trở nên thân thiết. Rồi cùng chúng tôi đi vô Quảng Nam, tìm đến ra mặt cụ Nguyễn Thành.
+Lê Quân vốn con nhà làm tướng. Bốn người anh đều chết vì nạn nước. Ông nhỏ tuổi nhất trong nhà, thành ra may mắn chưa chết. Khi gặp tôi ở kinh thành, Lê Quân tỏ bầy chí khí như phơi gan trải mật. Chúng tôi hôm sớm quấn quýt với nhau, trở nên thân thiết. Rồi cùng chúng tôi đi vô Quảng Nam, tìm đến ra mặt cụ Nguyễn Thành.
 {: .text-justify}
 
 Ông cụ này, hồi khởi nghĩa binh mới có 18 tuổi, đã xông pha hùng hổ, nhiều lần đánh bên địch phải thua; họ khen cụ biết cách cầm quân. Cụ chính là người trội nhất của nghĩa đảng vậy.
@@ -74,16 +73,14 @@ Lê-quân vốn con nhà làm tướng. Bốn người anh đều chết vì n�
 Tôi đem chí muốn ra phân trần. Cụ vỗ tay, nói:
 {: .text-justify}
 
-> <cite>
-Hay dữ! Thuở nay, ai muốn mưu toan đại-sự, trước hết phải cần ba điều này: một là thu phục lòng người, hai là góp số tiền lớn, ba là sắp đặt mua sắm quân-khí cho đủ. Hể lòng người ta đã chịu tin phục thì số tiền lớn có thể góp được. Có tiền thì vấn đề quân-giới, không khó giải quyết đâu.
+> Hay dữ! Thuở nay, ai muốn mưu toan đại-sự, trước hết phải cần ba điều này: một là thu phục lòng người, hai là góp số tiền lớn, ba là sắp đặt mua sắm quân-khí cho đủ. Hể lòng người ta đã chịu tin phục thì số tiền lớn có thể góp được. Có tiền thì vấn đề quân-giới, không khó giải quyết đâu.
 {: .text-justify}
 
-Nhưng phải hiểu dân trí và tập-quán cũa dân nước nhà, không thể nào bắt chước làm theo châu Âu cho được. Bọn ta muốn có cách kêu gọi nhân-tâm cho dễ, nếu không mượn tiếng phò vua giúp chúa thì những nhà sang họ lớn kia, ai chịu phụ-họa theo mình. Vậy thì ta dầu có bụng cứu nước mặc lòng, chẵng qua chỉ chết thân mình cho tròn được một tiếng vậy thôi, ngoài ra không ăn thua lợi ích gì cho việc lớn.
+> Nhưng phải hiểu dân trí và tập-quán cũa dân nước nhà, không thể nào bắt chước làm theo châu Âu cho được. Bọn ta muốn có cách kêu gọi nhân-tâm cho dễ, nếu không mượn tiếng phò vua giúp chúa thì những nhà sang họ lớn kia, ai chịu phụ-họa theo mình. Vậy thì ta dầu có bụng cứu nước mặc lòng, chẵng qua chỉ chết thân mình cho tròn được một tiếng vậy thôi, ngoài ra không ăn thua lợi ích gì cho việc lớn.
 {: .text-justify}
 
-Vua Hàm-Nghi trốn tránh ở chốn nào, đã lâu không nghe tin tức ra sao. Còn vua Thành-Thái hiện tại thì ở trong tay người Pháp kiềm chế, anh em ta không làm cách gì ra vào thân cận bên mình ngài đặng. Sẵn có dòng dõi của đức Đông-cung Cảnh là đích-tự Cao-hoàng, hiện nay ​đang còn. Chúng ta khởi nghĩa, nên trước hết tôn ngài lên làm cung-chủ; có thế thì danh nghỉa mới thuận, hiệu lịnh được chuyên, mỗi khi ta cất tiếng kêu gào, thuận theo chiều gió, tất-nhiên có tiếng vang bóng sâu xa lắm vậy. Các ông tính sao? ».
+>  Vua Hàm-Nghi trốn tránh ở chốn nào, đã lâu không nghe tin tức ra sao. Còn vua Thành-Thái hiện tại thì ở trong tay người Pháp kiềm chế, anh em ta không làm cách gì ra vào thân cận bên mình ngài đặng. Sẵn có dòng dõi của đức Đông-cung Cảnh là đích-tự Cao-hoàng, hiện nay ​đang còn. Chúng ta khởi nghĩa, nên trước hết tôn ngài lên làm cung-chủ; có thế thì danh nghỉa mới thuận, hiệu lịnh được chuyên, mỗi khi ta cất tiếng kêu gào, thuận theo chiều gió, tất-nhiên có tiếng vang bóng sâu xa lắm vậy. Các ông tính sao? ».
 {: .text-justify}
-</cite>
 
 Tôi với hai ông Đặng, Lê, ban đầu thật chúng tôi chưa hề suy tính tới việc tôn người dòng dõi nhà vua. Tới đây nghe Nguyễn Quân, chúng tôi cho là phải lẽ lắm.
 {: .text-justify}
