@@ -1,5 +1,5 @@
 ---
-title: Phan Bội Châu (阮攸)
+title: Phan Bội Châu
 layout: single
 permalink: /phan-boi-chau
 classes: wide
