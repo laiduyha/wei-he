@@ -18,16 +18,16 @@ Chân dung Phan Bội Châu
 
 ## Cuộc đời Phan Bội Châu
 
-### <a href="/pbc-tuoi-tre-nuoi-chi-lon" target="_blank">1. Tuổi trẻ nuôi chí lớn</a>
+### <a href="/pbc-tuoi-tre-nuoi-chi-lon">1. Tuổi trẻ nuôi chí lớn</a>
 * 1862: Pháp chiếm Nam Kỳ
 * 1867: Ra đời giữa lúc mất Nam Kỳ đã 6 năm
 * 1884 (17 tuổi) - Pháp chiếm Hà Nội và các tỉnh Bắc Kỳ
 * 1886 (19 tuổi) - Lập Sĩ tử Cần Vương đội nhưng thất bại. Sau ở nhà dạy học, săn sóc bịnh cha (9 năm).
 
-### <a href="/pbc-duy-tan-hoi" target="_blank">2. Duy Tân Hội</a>
+### <a href="/pbc-duy-tan-hoi">2. Duy Tân Hội</a>
 * 1896 (29 tuổi) - Vào Huế dạy học, tạo liên kết với các chí sĩ yêu nước.
 * 1903 (36 tuổi) - Tìm đường khởi nghĩa, tôn Kỳ Ngoại Hầu Cường Để làm minh chủ.
 * 1904 (37 tuổi) - Viết《Lưu Cầu Huyết Lệ Tân Thư》; Lập hội Duy Tân.
 * 1905 (38 tuổi) - Nhật thắng Nga trong chiến tranh Nga-Nhật. Được đảng đề cử đi Nhật để xin viện trợ.
 
-### <a href="/pbc-xuat-ngoai" target="_blank">3. Xuất ngoại</a>
+### <a href="/pbc-xuat-ngoai">3. Xuất ngoại</a>

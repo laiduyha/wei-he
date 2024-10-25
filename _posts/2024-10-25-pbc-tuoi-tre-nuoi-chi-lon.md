@@ -9,6 +9,7 @@ parent:
 ---
 
 *Một bức tranh biếm họa của Pháp vẽ vua Hàm Nghi, nữ hoàng Ranavalona III của Madagascar và vua Béhanzin của Dahomey, đều là những vị hoàng đế bị lưu đày.*
+{: .text-justify}
 
 ![alt]({{ 'assets/images/luu-day-robert-aldrich.jpg' | absolute_url }})
 > <cite>
