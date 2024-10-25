@@ -1,5 +1,5 @@
 ---
-title: Ra đời giữa lúc mất Nam Kỳ đã 6 năm - Phan Bội Châu
+title: Ra đời giữa lúc mất Nam Kỳ đã 6 năm
 layout: single
 classes: wide
 parent:
