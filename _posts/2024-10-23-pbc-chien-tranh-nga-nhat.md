@@ -1,6 +1,6 @@
 ---
-title: 3 - Duy Tân Hội
-permalink: /pbc-duy-tan-hoi
+title: 3 - Chiến tranh Nga Nhật
+permalink: /pbc-chien-tranh-nga-nhat
 layout: single
 classes: wide
 parent:

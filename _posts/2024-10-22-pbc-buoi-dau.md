@@ -22,12 +22,9 @@ Nào ai là kẻ tìm ta đó\
 Tú Xương《Đêm dài》
 </cite>
 
-
-![alt]({{ 'assets/images/phan-boi-chau-va-cuong-de.jpg' | absolute_url }})
+![alt]({{ 'assets/images/liu-yong-he-chong-tian.jpeg' | absolute_url }})
 > <cite>
-<a target="_blank" href="https://baotanglichsu.vn/vi/Articles/3097/14624/phong-trao-djong-du-1905-1908-mot-hinh-thuc-xay-dung-luc-luong-cach-mang-nhung-nam-djau-the-ky-xx.html">
-《Phan Bội Châu (người ngồi) và Kỳ Ngoại Hầu Cường Để》
-</a>
+柳永《鹤冲天·黄金榜上》- Lục Diên《Hạc bay lên trời》
 </cite>
 
 ## Tôn Cường Để lên làm minh chủ
