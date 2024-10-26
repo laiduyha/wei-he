@@ -1,5 +1,5 @@
 ---
-title: 1 -Tuổi trẻ nuôi chí lớn
+title: Kỳ 1 - Tuổi trẻ nuôi chí lớn
 permalink: /pbc-tuoi-tre-nuoi-chi-lon
 layout: single
 classes: wide
@@ -38,7 +38,7 @@ Vì lúc bấy giờ, lối học khoa cử của nhà Thanh, đang sôi nổi n
 {: .text-justify}
 
 ## Cùng anh em Đồng Chí tổ chức ra Đội Sĩ Tử Cần Vương
-Năm tôi 17 tuổi tức là năm Tự Đức 36, Quý Mùi, binh Pháp chiếm lấy Hà Nội và các tỉnh Bắc Kỳ. Đến năm tôi 19 tuổi, nhằm năm Ất Dậu, Hàm Nghi nguyên niên, binh Pháp chiếm kinh thành Huế, vua Hàm Nghi phải chạy: cung điện bầy ra cảnh hoang lương, nhởn nhơ bầy nai, đầy dăng ổ quạ, tấn kịch vong quốc mở ra từ tháng 7 Hàm Nghi năm đầu trở đi vậy. Ôi! Trời nghiêng đất ngã, lúc nầy kẻ làm trai đội trời đạp đất, ai nỡ dòm non sông bằng con mắt gỗ đá, trơ trơ cho đành!
+Năm tôi 17 tuổi tức là năm Tự Đức 36, Quý Mùi, binh Pháp chiếm lấy Hà Nội và các tỉnh Bắc Kỳ. Đến năm tôi 19 tuổi, nhằm năm Ất Dậu, Hàm Nghi nguyên niên, binh Pháp chiếm kinh thành Huế, vua Hàm Nghi phải chạy: cung điện bầy ra cảnh hoang lương, nhởn nhơ bầy nai, đầy dăng ổ quạ, tấn kịch vong quốc mở ra từ tháng 7 Hàm Nghi năm đầu trở đi vậy. Ôi! Trời nghiêng đất ngã, lúc này kẻ làm trai đội trời đạp đất, ai nỡ dòm non sông bằng con mắt gỗ đá, trơ trơ cho đành!
 {: .text-justify}
 
 ​Tôi được trời phú cho máu nóng không vừa, ngay từ hồi còn là thằng trẻ con đọc sách của ông cha để lại, mỗi khi đọc tới chuyện người xưa hăng hái thành nhân tựu nghĩa, tôi thường nhỏ nước mắt ròng ròng, thấm ướt cả sách. Những chuyện Trương công Văn Định chết theo Nam Kỳ và Nguyễn công Tri Phương tuẫn thành Hà Nội, tôi hay đàm đạo nhắc nhớ tới luôn, mà mỗi lần nhắc tới, khiến tôi vung tay vỗ ngực, tự thẹn cho mình thua sút hai ông đó. Vì tính chất trời sinh cho tôi như thế, không thể nào làm bộ khác hơn được.
@@ -50,10 +50,10 @@ Sau lúc kinh thành thất thủ, vua Hàm Nghi ngự giá ra đóng tại sơn
 Suy đi tính lại, không biết làm cách gì, chỉ còn có cách kêu gào bọn đồng môn, tổ chức ra một đội quân học trò giúp vua, gọi là《Sĩ tử Cần Vương đội》Tôi với cậu bạn thân Trần Văn Lương là người ​phát khởi, cùng tôn ông cử nhân Đinh Xuân Sung lên làm đội trưởng; tôi thì làm phó đội. Đội này chỉ có lối ngoài một trăm người.
 {: .text-justify}
 
-Công việc sắp đặt hơi yên, duy có binh lương khí giới chưa có cách tìm đâu cho ra. Vừa gặp lúc người Pháp đem đại binh tới hạ thành Nghệ An, rồi thừa thắng tiến binh đánh giẹp các phủ huyện. Đội quân cũa chúng tôi tổ chức, cả lương hướng súng đạn đều không có, thành ra chỉ trong giây lát, như bầy muông chim vỡ lở tứ tán. Tôi phải trà trộn trong đám nạn dân mà chạy thoát thân. Tới nay nhớ lại việc tôi đã làm đó, không khác gì trẻ con làm nhà bằng giấy để chơi, không bõ cho bực người kiến thức chê cười. Tuy vậy, tôi cũng cứ chép ngay ra đây, vì tấm lòng tôi mưu toan cứu quốc, thật là phôi thai từ việc mà ra. Nghĩ mình bầy trò tuy giả, nhưng mà lòng vốn thẳng ngay, cho nên tôi không dám dấu diếm chỗ dở của tôi.
+Công việc sắp đặt hơi yên, duy có binh lương khí giới chưa có cách tìm đâu cho ra. Vừa gặp lúc người Pháp đem đại binh tới hạ thành Nghệ An, rồi thừa thắng tiến binh đánh dẹp các phủ huyện. Đội quân của chúng tôi tổ chức, cả lương lẫn súng đạn đều không có, thành ra chỉ trong giây lát, như bầy muông chim vỡ lở tứ tán. Tôi phải trà trộn trong đám nạn dân mà chạy thoát thân. Tới nay nhớ lại việc tôi đã làm đó, không khác gì trẻ con làm nhà bằng giấy để chơi, không bõ cho bực người kiến thức chê cười. Tuy vậy, tôi cũng cứ chép ngay ra đây, vì tấm lòng tôi mưu toan cứu quốc, thật là phôi thai từ việc mà ra. Nghĩ mình bầy trò tuy giả, nhưng mà lòng vốn thẳng ngay, cho nên tôi không dám dấu diếm chỗ dở của tôi.
 {: .text-justify}
 
-Lúc bấy giờ cửa nhà tôi bị tiêu hủy vì họa binh đao, thân phụ tôi ở giữa cơn hoạn nạn, lại mang bịnh nặng. Tôi không còn mẹ, cũng không có anh em nào, thành ra không dám bỏ cha mình mà ngó tới việc gì khác. Tôi đành nương náu ở nhà dạy học trò, để chuyên lo săn sóc bịnh cha, cả thãy 9 năm.
+Lúc bấy giờ cửa nhà tôi bị tiêu hủy vì họa binh đao, thân phụ tôi ở giữa cơn hoạn nạn, lại mang bịnh nặng. Tôi không còn mẹ, cũng không có anh em nào, thành ra không dám bỏ cha mình mà ngó tới việc gì khác. Tôi đành nương náu ở nhà dạy học trò, để chuyên lo săn sóc bịnh cha, cả thảy 9 năm.
 {: .text-justify}
 
 > <cite>

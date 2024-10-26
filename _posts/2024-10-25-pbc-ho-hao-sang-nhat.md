@@ -1,5 +1,5 @@
 ---
-title: 5 - Hô Hào sang nhật
+title: Kỳ 5 - Hô hào thanh niên sang Nhật
 permalink: /pbc-ho-hao-sang-nhat
 layout: single
 classes: wide
@@ -17,25 +17,25 @@ parent:
 </cite>
 
 ## Về nước
-Ban đầu tôi xuất dương chỉ cố chú ý vào vấn đề quân giới. Trong khoảng mấy tháng cơm hàng ngủ trọ ở Đông Kinh, tôi được nhân dịp biết rõ câu chuyện Nhật Nga đánh nhau và thấy được cái hiện trạng của nước Nhật về chính trị, giáo dục, ngoại giao, công thương nghiệp.
+Ban đầu tôi xuất dương chỉ cố chú ý vào vấn đề quân giới. Trong khoảng mấy tháng cơm hàng ngủ trọ ở Tokyo, tôi được nhân dịp biết rõ câu chuyện Nhật Nga đánh nhau và thấy được cái hiện trạng của nước Nhật về chính trị, giáo dục, ngoại giao, công thương nghiệp.
 {: .text-justify}
 
-Thấy người ta rồi, mình hết sức hổ thầm cho mình lúc trước kia chỉ ngồi co ro trong nước, hèn nào chẳng kiến văn mù mờ, tư tưởng bế tắc không, biết gì cả. Hết thảy anh em đồng chí với tôi cũng đều như tôi cả; tôi nghĩ lấy làm tiếc sao không dời được tất cả bà con mình qua ở Anh hoa tam đảo (tức là Nhật Bản) để cho khối óc và tầm con mắt thay đổi mới lạ hẳn đi!
+Thấy người ta rồi, mình hết sức hổ thầm cho mình lúc trước kia chỉ ngồi co ro trong nước, hèn gì mà chẳng kiến văn mù mờ, tư tưởng bế tắc, không biết gì cả. Hết thảy anh em đồng chí với tôi cũng đều như tôi cả; tôi nghĩ lấy làm tiếc sao không dời được tất cả bà con mình qua ở Anh hoa tam đảo (tức là Nhật Bản) để cho khối óc và tầm nhìn thay đổi mới lạ hẳn đi!
 {: .text-justify}
 
 Sau khi quyết định rước Hội chủ xuất dương, tôi tính phải về nước một chuyến mới được. Thượng tuần tháng 7 năm Ất Tị (1905) tôi với ông Đặng Tử Kính đáp tàu ở Yokohama về nước. Tôi qua Nhật Bản chuyến này, đối với việc đảng sai khiến phó thác, mà tôi bỏ dở dang nửa đường như vầy, thật không khỏi tự lấy làm hổ thẹn. Nhưng có hai việc, có thể gỡ tội cho mình.
 {: .text-justify}
 
-Một là mưu phò được Hội chủ xuất dương, thì càng thêm vững lòng khuynh hướng của anh em trong nước, mà lại khỏi lo có sự gì nguy hiểm gì xẩy tới.
+Một là mưu phò được Hội chủ xuất dương, thì càng thêm vững lòng khuynh hướng của anh em trong nước, mà lại khỏi lo có sự gì nguy hiểm gì xảy tới.
 {: .text-justify}
 
 Hai là đem những sự tai nghe mắt thấy mới lạ, cùng là việc mình mưu toan, dễ bộc bạch với anh em đồng bào, chắc hẳn có phần bổ ích cho cuộc cải lương tấn phát mai sau.
 {: .text-justify}
 
-Vịn vào hai lẽ đó, tôi mạnh bạo trở về.
+Vịn vào hai lẽ đó, tôi mạnh dạn trở về.
 {: .text-justify}
 
-Tháng 8, về tới Hải Phòng, ở nhà một người bạn trong đảng. Sự vui mừng không tả ra cho hết. Là vì lúc tôi đến Bắc Hải, đánh liều đáp xuống một chiếc tàu Tây, nhờ cậy được một người đồng bào đốt than trong tàu che chở dùm. Tới lúc người Tây xuống tàu khám xét thới va giấu tôi ở khoang tàu dưới chót, chung quanh chất đầy than đá, tôi nằm lọt vô giữa im lìm không giám hó hé. Nhờ vậy mà người Tây không hay, tôi mới lén về trong nước đặng. Đó cũng là một việc mạo hiểm mà thành công.
+Tháng 8, về tới Hải Phòng, ở nhà một người bạn trong đảng. Sự vui mừng không tả ra cho hết. Là vì lúc tôi đến Bắc Hải, Quảng Tây, đánh liều đáp xuống một chiếc tàu Tây, nhờ cậy được một người đồng bào đốt than trong tàu che chở dùm. Tới lúc người Tây xuống tàu khám xét thì bèn giấu tôi ở khoang tàu dưới chót, chung quanh chất đầy than đá, tôi nằm lọt vô giữa im lìm không giám hó hé. Nhờ vậy mà người Tây không hay, tôi mới lén về trong nước được. Đó cũng là một việc mạo hiểm mà thành công.
 {: .text-justify}
 
 ---
@@ -67,13 +67,13 @@ Lý Tuệ là người có gan dạ, mưu mô, thâm hiểu nghĩa lớn. Về s
 {: .text-justify}
 
 ## Quay lại Yokohama gặp Lương Khải Siêu
-Tháng 10 năm ấy, tôi đến Yokohama, vô ở nhà trọ cũ, thấy một vị thanh niên học sinh ta, là Lương Quân Lập Nham đã tới ở đó trước rồi. Tôi xem ra người có khí phách hăng hái, đầu tóc đang để bờm sờm; dò hỏi mới biết ông ta bỏ nhà vượt biển trốn sang Nhật có một mình, lúc lên bờ trong túi chỉ còn vỏn vẹn có ba đồng xu.
+Tháng 10 năm ấy, tôi đến Yokohama, vô ở nhà trọ cũ, thấy một vị thanh niên học sinh ta, là Lương quân Lập Nham đã tới ở đó trước rồi. Tôi xem ra người có khí phách hăng hái, đầu tóc đang để bờm xờm; dò hỏi mới biết cậu ta bỏ nhà vượt biển trốn sang Nhật có một mình, lúc lên bờ trong túi chỉ còn vỏn vẹn có ba đồng xu.
 {: .text-justify}
 
-Thấy vậy, tôi vừa vui mừng vừa chưng hửng. Vì bạn tuổi nhỏ ở nước nhà, một thân một bóng mà dám liều mạng xông pha sóng gió muôn trùng, tới một nước thuở nay chưa nghe biết bao giờ, Lương quân chính là người thứ nhất vậy. Té ra Lương Quân vốn là người chứa sẵn kỳ khí, chỉ nghe nói tôi qua Đông, thành ra mạnh bạo bỏ nhà bỏ nước ra đi. Bạn thiếu niên anh tuấn của ta sau này, có mấy người được như Lương Quân?
+Thấy vậy, tôi vừa vui mừng vừa chưng hửng. Vì bạn tuổi nhỏ ở nước nhà, một thân một bóng mà dám liều mạng xông pha sóng gió muôn trùng, tới một nước thuở nay chưa nghe biết bao giờ, Lương quân chính là người thứ nhất vậy. Té ra Lương quân vốn là người chứa sẵn kỳ khí, chỉ nghe nói tôi qua Đông, thành ra mạnh bạo bỏ nhà bỏ nước ra đi. Bạn thiếu niên anh tuấn của ta sau này, có mấy người được như Lương quân?
 {: .text-justify}
 
-Kế đó tôi bôn tẩu giữa khoảng Đông Kinh và Yokohama, thường thường cùng những người tai mắt trong dân đảng nước Nhật nối liền thinh khí, nhờ họ chỉ vẻ điều hay việc phải cho mình rất nhiều.
+Kế đó tôi bôn tẩu giữa khoảng Tokyo và Yokohama, thường thường cùng những người tai mắt trong dân đảng nước Nhật nối liền thinh khí, nhờ họ chỉ vẽ điều hay việc phải cho mình rất nhiều.
 {: .text-justify}
 
 Nhân đấy tôi nghĩ lại dân trí nước mình còn quá thấp thói, mà nhân tài cũng thiếu thốn không có. Chừng ấy tôi tự ăn năn việc mình lo toan lúc trước là nông nổi, chỉ bo bo về vấn đề quân giới, nào có phải đó là cái kế tuyệt hay để mưu tính công cuộc độc-lập cho nước mình được đâu!
@@ -114,7 +114,7 @@ Bài văn《Khuyên Thanh Niên du học》viết xong rồi, thuê in ra mấy 
 Không bao lâu, tiếng vang dội của bài văn tôi làm rung động xôn xao cả trong nước. Tháng giêng năm Bính Ngọ (1906), tôi đến nhà ông Khuyển Dưỡng Nghị để bàn tính về việc đưa học sinh Việt Nam sang học, sắp đặt cho anh em cả trường học chổ ở sẵn sàng.
 {: .text-justify}
 
-Lúc đó ông Phước Đão đang làm hiệu trưởng Chân Võ học hiện tại Đông Kinh, tôi liền xin cho Trần Hữu Công (tức Nguyễn Thức Canh), Lương Lập Nham và Nguyễn Điển 3 người vô học trường ấy. Còn 1 người nữa là Lương Nghị Khanh thì vô học Đồng Văn thư viện. Nước ta 4 ngàn năm nay chưa hề có người nào du học ngoại quốc, có chăng là tự 4 người này trước hết. Ôi! lịch sử quốc dân ta như thế ai bảo là thằng bé con lụ khụ 100 tuổi cũng phải.
+Lúc đó ông Phước Đão đang làm hiệu trưởng Chân Võ học hiện tại Tokyo, tôi liền xin cho Trần Hữu Công (tức Nguyễn Thức Canh), Lương Lập Nham và Nguyễn Điển 3 người vô học trường ấy. Còn 1 người nữa là Lương Nghị Khanh thì vô học Đồng Văn thư viện. Nước ta 4 ngàn năm nay chưa hề có người nào du học ngoại quốc, có chăng là tự 4 người này trước hết. Ôi! lịch sử quốc dân ta như thế ai bảo là thằng bé con lụ khụ 100 tuổi cũng phải.
 {: .text-justify}
 
 ## Đón hội chủ sang Nhật
@@ -124,7 +124,7 @@ Tháng 2 năm đó, bọn ông Tử Kính đã phò tá Hội chủ Kỳ ngoại
 Tôi nóng nảy muốn biết tình hình trong nước gần đây ra sao, lại sẵn có dịp đi nghinh tiếp Hội chủ, nên chi hạ tuần tháng hai, tôi đáp tàu ở Nhật sang Hồng Kong. Tới đây, vừa gặp Phan Quân Châu Trinh mới từ nước nhà qua.
 {: .text-justify}
 
-Phan Quân đi chuyến này, cốt muốn xem xét tình trạng văn minh của Nhật. Sau khi gặp mặt tôi rồi, ông cùng tôi và Hội chủ cùng xuống tầu sang Nhật. Chúng tôi đến Yokohama vào hồi hạ tuần tháng 4. Tôi dẫn Phan Quân đi xem khắp các trướng học và các nơi danh tiếng ở thành Đông Kinh lại giáp mặt nhiều danh nhân nước Nhật. 
+Phan Quân đi chuyến này, cốt muốn xem xét tình trạng văn minh của Nhật. Sau khi gặp mặt tôi rồi, ông cùng tôi và Hội chủ cùng xuống tầu sang Nhật. Chúng tôi đến Yokohama vào hồi hạ tuần tháng 4. Tôi dẫn Phan Quân đi xem khắp các trướng học và các nơi danh tiếng ở thành Tokyo lại giáp mặt nhiều danh nhân nước Nhật. 
 {: .text-justify}
 
 Cách sau mấy tuần, ông nói với tôi:
