@@ -49,7 +49,7 @@ Lên bến Hải Phòng rồi, tôi đáp xe lửa đi về Nghệ An. Trên xe 
 Tôi hơi lo. Nhưng cái mục đích mình trở về nước nhà chưa đạt được, thì chưa có thể nào đào tẩu, ta cứ việc ở nhà đã, ra sao thì ra. Tôi bèn trốn trở về Hà Tĩnh, ước hẹn những anh em kín đáo tới hội họp tại nhà Đặng Quân. Còn Tử Kính thì đem giấy tờ trọng yếu vô Huế trước để yết kiến Hội chủ, rồi đi thẳng vô Quảng Nam, nói việc mình định mưu tính vậy vậy cho đồng chí hai tỉnh Nam Nghĩa hay.
 {: .text-justify}
 
-Tôi ở quanh quẩn trong miền Nghệ Tĩnh, ngày ngày cùng các đảng hữu bàn định việc làm. Kế đó có thư của đồng chí ở Kinh và Quảng gởi tới thôi thúc tôi nên gấp đi ra ngoài. Vì đất Nghệ Tĩnh là đất người Tây để ý dòm nom coi chừng hơn hết, cho nên các đồng chí không muốn tôi ở lần lựa trong chỗ nguy hiểm đó lâu.
+Tôi ở quanh quẩn trong miền Nghệ Tĩnh, ngày ngày cùng các đảng hữu bàn định việc làm. Kế đó có thư của đồng chí ở Kinh và Quảng gởi tới thôi thúc tôi nên gấp đi ra ngoài. Vì đất Nghệ Tĩnh là đất người Tây để ý dòm ngó, coi chừng hơn hết, cho nên các đồng chí không muốn tôi ở lần lựa trong chỗ nguy hiểm đó lâu.
 {: .text-justify}
 
 Vừa may gặp ông Trần Đông Phong đem lại 15 nén bạc và 200 đồng tặng tôi làm lộ phí, và giục tôi khởi trình. Thế là tôi lại từ giã non nước Hồng Lam, lên đường bô bá.
