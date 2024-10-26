@@ -46,7 +46,7 @@ Nghĩ xem mình đã sinh nhằm non sông còn ấu trĩ, nòi giống còn u m
 * 1905 (38 tuổi) - Nhật thắng Nga; Được hội đề cử đi Nhật để xin viện trợ
 
 ### <a href="/pbc-xuat-duong">Kỳ 4. Xuất dương</a>
-* 1905 (38 tuổi) - Lần đầu xuất dương ; Gặp Lương Khải Siêu
+* 1905 (38 tuổi) - Lần đầu xuất dương; Gặp Lương Khải Siêu
 
 ### <a href="/pbc-ho-hao-sang-nhat">Kỳ 5. Hô hào thanh niên sang Nhật Học</a>
 * 1906 (39 tuổi) - Thu xếp cho lứa du học sinh đầu tiên sang Nhật học
