@@ -16,6 +16,18 @@ categories:
 Chân dung Phan Bội Châu
 </cite>
 
+Phan Bội Châu Sinh 1867 mất 1940 thọ 73 tuổi. Cuộc đời cách mạng của ông hoạt động chủ yếu vào những năm 35-50 tuổi. Ông như một con vụ xoay vòng tìm cách đưa đất nước thoát ra khỏi những gông cùm, sắp đặt của bọn thực dân, đế quốc thời đó. 
+{: .text-justify}
+
+Có người sau khi tìm hiểu về ông có thể sẽ nói ông ngây thơ, và ngay cả chính ông cũng tự nhận mình ngu muội. Nhưng ta vẫn phải luôn khâm phục cốt cách của một con người yêu nước can đảm, dám thoát ra khỏi xiềng xích không chỉ của thực dân mà cả của chính gốc rễ Nho giáo của chính mình.
+{: .text-justify}
+
+Nghĩ xem mình đã sinh nhằm non sông còn ấu trĩ, nòi giống còn u mê, chưa được mở mang cho nên vừa ở trong bọc mẹ lọt ra, không ai chỉ vẽ dìu dắt để mở trí cho mình, lại gặp phải cái cảnh giam hãm xiềng khóa đêm ngày, người ta chỉ sợ mắt mình được thấy, tai mình được nghe, như thế bảo sao mình không ngu muội cho được!
+{: .notice .text-justify}
+> <cite>
+<a target="_blank" href="https://vi.wikisource.org/wiki/%C4%90%E1%BB%9Di_c%C3%A1ch_m%E1%BA%A1ng_Phan_B%E1%BB%99i_Ch%C3%A2u">Theo Phan Bội Châu《Ngục trung thư》- Đào Trinh Nhất dịch</a>
+</cite>
+
 ## Đời cách mạng của Phan Bội Châu
 
 ### <a href="/pbc-tuoi-tre-nuoi-chi-lon">1. Tuổi trẻ nuôi chí lớn</a>
@@ -35,4 +47,6 @@ Chân dung Phan Bội Châu
 
 ### <a href="/pbc-xuat-duong">4. Xuất Dương</a>
 * 1905 (38 tuổi) - Xuất dương sang Trung Quốc
-* 1906 (39 tuổi) - Gặp Lương Khải Siêu và Khuyến Dưỡng Nghị
+* 1907 (40 tuổi) - Gặp Lương Khải Siêu và Khuyến Dưỡng Nghị
+
+## Ánh sáng của cậu thanh niên ấy
