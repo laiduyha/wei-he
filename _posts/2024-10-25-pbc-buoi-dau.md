@@ -16,7 +16,7 @@ Chim chóc hãy còn nương cửa tổ\
 Bướm ong chưa thấy lượn vườn hoa\
 Nào ai là kẻ tìm ta đó\
 Đốt đuốc mà soi kẻo lẫn nhà!
-{: .notice}
+{: .notice--warning}
 
 > <cite>
 Tú Xương《Đêm dài》

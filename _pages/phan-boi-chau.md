@@ -33,4 +33,6 @@ Chân dung Phan Bội Châu
 * 1904 (37 tuổi) - Lập Duy Tân Hội và nỗi lo khí giới.
 * 1905 (38 tuổi) - Nhật thắng Nga; Được hội đề cử đi Nhật để xin viện trợ.
 
-### <a href="/pbc-cau-nhat">4. Cầu Nhật</a>
+### <a href="/pbc-xuat-duong">4. Xuất Dương</a>
+* 1905 (38 tuổi) - Xuất dương sang Trung Quốc
+* 1906 (39 tuổi) - Gặp Lương Khải Siêu và Khuyến Dưỡng Nghị
