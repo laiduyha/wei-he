@@ -67,7 +67,7 @@ Lý Tuệ là người có gan dạ, mưu mô, thâm hiểu nghĩa lớn. Về s
 {: .text-justify}
 
 ## Quay lại Yokohama gặp Lương Khải Siêu
-Tháng 10 năm ấy, tôi đến Yokohama, vô ở nhà trọ cũ, thấy một vị thanh niên học sinh ta, là Lương quân Lập Nham đã tới ở đó trước rồi. Tôi xem ra người có khí phách hăng hái, đầu tóc đang để bờm xờm; dò hỏi mới biết cậu ta bỏ nhà vượt biển trốn sang Nhật có một mình, lúc lên bờ trong túi chỉ còn vỏn vẹn có ba đồng xu.
+Tháng 10 năm ấy, tôi đến Yokohama, vô ở nhà trọ cũ, thấy một vị thanh niên học sinh ta, là Lương quân Lập Nham đã tới ở đó trước rồi. Tôi xem ra người có khí phách hăng hái, đầu tóc đang để bờm xờm; dò hỏi mới biết cậu bỏ nhà vượt biển trốn sang Nhật có một mình, lúc lên bờ trong túi chỉ còn vỏn vẹn có ba đồng xu.
 {: .text-justify}
 
 Thấy vậy, tôi vừa vui mừng vừa chưng hửng. Vì bạn tuổi nhỏ ở nước nhà, một thân một bóng mà dám liều mạng xông pha sóng gió muôn trùng, tới một nước thuở nay chưa nghe biết bao giờ, Lương quân chính là người thứ nhất vậy. Té ra Lương quân vốn là người chứa sẵn kỳ khí, chỉ nghe nói tôi qua Đông, thành ra mạnh bạo bỏ nhà bỏ nước ra đi. Bạn thiếu niên anh tuấn của ta sau này, có mấy người được như Lương quân?
@@ -76,13 +76,13 @@ Thấy vậy, tôi vừa vui mừng vừa chưng hửng. Vì bạn tuổi nhỏ 
 Kế đó tôi bôn tẩu giữa khoảng Tokyo và Yokohama, thường thường cùng những người tai mắt trong dân đảng nước Nhật nối liền thinh khí, nhờ họ chỉ vẽ điều hay việc phải cho mình rất nhiều.
 {: .text-justify}
 
-Nhân đấy tôi nghĩ lại dân trí nước mình còn quá thấp thói, mà nhân tài cũng thiếu thốn không có. Chừng ấy tôi tự ăn năn việc mình lo toan lúc trước là nông nổi, chỉ bo bo về vấn đề quân giới, nào có phải đó là cái kế tuyệt hay để mưu tính công cuộc độc-lập cho nước mình được đâu!
+Nhân đấy tôi nghĩ lại dân trí nước mình còn quá thấp thói, mà nhân tài cũng thiếu thốn không có. Chừng ấy tôi tự ăn năn việc mình lo toan lúc trước là nông nổi, chỉ bo bo về vấn đề quân giới, nào có phải đó là cái kế tuyệt hay để mưu tính công cuộc độc lập cho nước mình được đâu!
 {: .text-justify}
 
 Một bữa nọ, tôi đến nhà Lương Khải Siêu, trong lúc bút đàm, có đem ý kiến ấy ra nói, Lương bảo tôi như vầy:
 {: .text-justify}
 
-Cái kế hoạch độc lập của quý-quốc có ba đề mục lớn. Một là thực lực riêng ở trong nước các ông. Hai là nhờ hai tỉnh Quảng nước tôi cứu viện. Ba là nhờ sức cứu viện của Nhật. Hai tỉnh Quảng giúp chỉ là giúp dùm khí giới. Mà Nhật có giúp cũng chỉ là giúp về mặt ngoại giao. Còn thì nhất thiết đều trông cậy ở thực lực của quý quốc mà thôi.
+Cái kế hoạch độc lập của quý quốc có ba đề mục lớn. Một là thực lực riêng ở trong nước các ông. Hai là nhờ hai tỉnh Quảng nước tôi cứu viện. Ba là nhờ sức cứu viện của Nhật. Hai tỉnh Quảng giúp chỉ là giúp dùm khí giới. Mà Nhật có giúp cũng chỉ là giúp về mặt ngoại giao. Còn thì nhất thiết đều trông cậy ở thực lực của quý quốc mà thôi.
 {: .notice .text-justify}
 
 Lương Khải Siêu nói tiếp:
@@ -92,10 +92,10 @@ Thực lực hệ trọng hơn hết, không gì cho bằng nhân tài. Vậy th
 
 Tôi rất phục lời họ Lương nói phải lắm. Trở về nhà trọ rồi tôi thao thức suy nghỉ cả đêm, không sao nhắm mắt ngủ được.
 
-Dòm quanh thế giới như rồng bay hổ thét, như điện chớp mây tuôn, nhân tài có ngàn thử muôn thử, không có vẻ nào mà không mới lạ. Ngay đến một xó Đông Dương này, nước nhà mình so sánh đã đủ thua kém, người ta muôn phần, mình chẳng có một, còn nói Âu Mỹ làm gì? Bởi vậy nuôi dựng nhân tài là việc cần kíp của mình, không đợi phải nói nữa. Song muốn nuôi dựng nhân tài, ta phải làm sao bây giờ, vì cái thực quyền giáo dục nắm cả trong tay chính phủ Pháp bảo hộ? 
+Dòm quanh thế giới như rồng bay hổ thét, như điện chớp mây tuôn, nhân tài có ngàn thu muôn thuở, không có vẻ nào mà không mới lạ. Ngay đến một xó Đông Dương này, nước nhà mình so sánh đã đủ thua kém, người ta muôn phần, mình chẳng có một, còn nói Âu Mỹ làm gì? Bởi vậy nuôi dựng nhân tài là việc cần kíp của mình, không đợi phải nói nữa. Song muốn nuôi dựng nhân tài, ta phải làm sao bây giờ, vì cái thực quyền giáo dục nắm cả trong tay chính phủ Pháp bảo hộ? 
 {: .text-justify}
 
-Dầu vậy mặc lòng, anh em chúng tôi còn đây, không lẽ nào chịu bó tay đợi chết cho đành. Giờ chỉ có cách là kêu gào bọn thiếu niên trong nước tỉnh dậy, liều mình trốn ra nước ngoài học tập, như thế thì ta được tự do mở mang trí khôn, mà nước nhà mới trông có nhân tài đẻ ra được nhiều.
+Dầu vậy mặc lòng, anh em chúng tôi còn đây, không lẽ nào chịu bó tay đợi chết cho đành. Giờ chỉ có cách là kêu gào bọn thiếu niên trong nước tỉnh dậy, liều mình trốn ra nước ngoài học tập, như thế thì ta được tự do mở mang trí khôn, mà nước nhà mới trông có nhân tài sinh ra được nhiều.
 {: .text-justify}
 
 ## Hô hào thanh niên qua Nhật cầu học
@@ -105,26 +105,26 @@ Tôi bèn đặt ra bài văn cổ động bà con trong nước giúp tiền ch
 Là vì công việc tôi sắp đặt lo toan từ trước đến giờ, đều chuyên chú vào hiện tượng trước mắt: đến sự mưu đồ sự nghiệp lâu dài bền vững cho nước nhà, thời chỉ có bài văn này thôi. Nếu như có hiệu quả, người nước ta du học ngày thêm đông, nhân tài ngày thêm nhiều, dân trí ngày thêm cao, thì không gì nước Nam ta không có cơ sống lại.
 {: .text-justify}
 
-Nhưng thủ đoạn người ta áp bức nặng nề dữ tợn, khiến cho làn sóng du học chưa được năm sáu năm, đã làm cái đích cho muôn ngàn mủi tên nhằm vào nó mà bắn, sự ấy trước kia tôi có dè đâu. Than ôi! Tài hèn sức mỏng, trăm việc làm đều không được như lòng mình muốn, thành ra đá hết rồi mà biển hận vẫn chưa lấp đầy, oan hồn Tinh vệ, đêm ngày chỉ linh đinh chìm nổi với ba đào, đau đớn thay!
+Nhưng thủ đoạn người ta áp bức nặng nề dữ tợn, khiến cho làn sóng du học chưa được năm sáu năm, đã làm cái đích cho muôn ngàn mũi tên nhằm vào nó mà bắn, sự ấy trước kia tôi có dè đâu. Than ôi! Tài hèn sức mỏng, trăm việc làm đều không được như lòng mình muốn, thành ra đá hết rồi mà biển hận vẫn chưa lấp đầy, oan hồn Tinh vệ, đêm ngày chỉ lênh đênh chìm nổi với ba đào, đau đớn thay!
 {: .text-justify}
 
-Bài văn《Khuyên Thanh Niên du học》viết xong rồi, thuê in ra mấy ngàn tập, giao cho Tăng Quân Bạt Hổ đem về nước phát hành. Mùa đông tháng chạp năm Ất Tị (1906), Tăng Quân về nước, cốt lo cổ động anh em qua học bên Nhật. Vừa khi đó ông Nguyễn Hải Thần ở nước nhà trốn qua tới Nhật, gặp tôi ở Yokohama, được đọc bài văn của tôi, ông lấy làm mừng lắm, tình nguyện gánh vác khoản tiền tổn phí cổ động du học sinh.
+Bài văn《Khuyên Thanh Niên du học》viết xong rồi, thuê in ra mấy ngàn tập, giao cho Tăng quân Bạt Hổ đem về nước phát hành. Mùa đông tháng chạp năm Ất Tị (1906), Tăng quân về nước, cốt lo cổ động anh em qua học bên Nhật. Vừa khi đó ông Nguyễn Hải Thần ở nước nhà trốn qua tới Nhật, gặp tôi ở Yokohama, được đọc bài văn của tôi, ông lấy làm mừng lắm, tình nguyện gánh vác khoản tiền tổn phí cổ động du học sinh.
 {: .text-justify}
 
-Không bao lâu, tiếng vang dội của bài văn tôi làm rung động xôn xao cả trong nước. Tháng giêng năm Bính Ngọ (1906), tôi đến nhà ông Khuyển Dưỡng Nghị để bàn tính về việc đưa học sinh Việt Nam sang học, sắp đặt cho anh em cả trường học chổ ở sẵn sàng.
+Không bao lâu, tiếng vang dội của bài văn tôi làm rung động xôn xao cả trong nước. Tháng giêng năm Bính Ngọ (1906), tôi đến nhà ông Khuyển Dưỡng Nghị để bàn tính về việc đưa học sinh Việt Nam sang học, sắp đặt cho anh em trường học, chổ ở sẵn sàng.
 {: .text-justify}
 
-Lúc đó ông Phước Đão đang làm hiệu trưởng Chân Võ học hiện tại Tokyo, tôi liền xin cho Trần Hữu Công (tức Nguyễn Thức Canh), Lương Lập Nham và Nguyễn Điển 3 người vô học trường ấy. Còn 1 người nữa là Lương Nghị Khanh thì vô học Đồng Văn thư viện. Nước ta 4 ngàn năm nay chưa hề có người nào du học ngoại quốc, có chăng là tự 4 người này trước hết. Ôi! lịch sử quốc dân ta như thế ai bảo là thằng bé con lụ khụ 100 tuổi cũng phải.
+Lúc đó ông Phước Đảo đang làm hiệu trưởng Chân Võ học hiện tại Tokyo, tôi liền xin cho Trần Hữu Công (tức Nguyễn Thức Canh), Lương Lập Nham và Nguyễn Điển 3 người vô học trường ấy. Còn 1 người nữa là Lương Nghị Khanh thì vô học Đồng Văn thư viện. Nước ta 4 ngàn năm nay chưa hề có người nào du học ngoại quốc, có chăng là tự 4 người này trước hết. Ôi! lịch sử quốc dân ta như thế ai bảo là thằng bé con lụ khụ trăm tuổi cũng phải.
 {: .text-justify}
 
 ## Đón hội chủ sang Nhật
-Tháng 2 năm đó, bọn ông Tử Kính đã phò tá Hội chủ Kỳ ngoại hầu đến Hồng Kong, viết thơ sang Nhật gọi tôi qua. Lúc bấy giờ, 4 người thiếu niên vừa mới được vô học trường Nhật, lại được nghe tin Hội chủ xuất dương yên ổn, thật mấy năm nay chỉ có chuyện này tôi thấy vui mừng khoan khoái hết sức.
+Tháng 2 năm đó, bọn ông Tử Kính đã phò tá Hội chủ Kỳ Ngoại Hầu đến Hồng Kong, viết thơ sang Nhật gọi tôi qua. Lúc bấy giờ, 4 người thiếu niên vừa mới được vô học trường Nhật, lại được nghe tin Hội chủ xuất dương yên ổn, thật mấy năm nay chỉ có chuyện này tôi thấy vui mừng khoan khoái hết sức.
 {: .text-justify}
 
-Tôi nóng nảy muốn biết tình hình trong nước gần đây ra sao, lại sẵn có dịp đi nghinh tiếp Hội chủ, nên chi hạ tuần tháng hai, tôi đáp tàu ở Nhật sang Hồng Kong. Tới đây, vừa gặp Phan Quân Châu Trinh mới từ nước nhà qua.
+Tôi nóng lòng muốn biết tình hình trong nước gần đây ra sao, lại sẵn có dịp đi nghinh tiếp Hội chủ, nên chi hạ tuần tháng hai, tôi đáp tàu ở Nhật sang Hồng Kong. Tới đây, vừa gặp Phan quân Châu Trinh mới từ nước nhà qua.
 {: .text-justify}
 
-Phan Quân đi chuyến này, cốt muốn xem xét tình trạng văn minh của Nhật. Sau khi gặp mặt tôi rồi, ông cùng tôi và Hội chủ cùng xuống tầu sang Nhật. Chúng tôi đến Yokohama vào hồi hạ tuần tháng 4. Tôi dẫn Phan Quân đi xem khắp các trướng học và các nơi danh tiếng ở thành Tokyo lại giáp mặt nhiều danh nhân nước Nhật. 
+Phan quân đi chuyến này, cốt muốn xem xét tình trạng văn minh của Nhật. Sau khi gặp mặt tôi rồi, ông cùng tôi và Hội chủ cùng xuống tàu sang Nhật. Chúng tôi đến Yokohama vào hồi hạ tuần tháng 4. Tôi dẫn Phan quân đi xem khắp các trường học và các nơi danh tiếng ở thành Tokyo lại giáp mặt nhiều danh nhân nước Nhật. 
 {: .text-justify}
 
 Cách sau mấy tuần, ông nói với tôi:
@@ -133,16 +133,16 @@ Cách sau mấy tuần, ông nói với tôi:
 Xem dân trí Nhật Bản rồi đem dân trí ta ra so sánh, thật không khác gì muốn đem con gà con đọ với con chim cắt già. Giờ bác ở đây, nên chuyên tâm ra sức vào việc văn thức tỉnh đồng bào cho khải tai điếc mắt đui, còn việc mở mang dìu dắt ở trong nước nhà thì tôi xin lãnh. Lưỡi tôi đang còn, người Pháp chẳng làm gì tôi được mà lo.
 {: .notice .text-justify}
 
-Tôi cho lời ông nói rất phải. Rồi tôi viết ra tập đầu《Hải ngoại Huyết thư》. Nhân lúc Phan Quân về nước, tôi gởi đem Huyết thư đã về. Đối với bà con trong nước, tôi làm một người khua động chuông chiều trống sớm để thức tỉnh, thật là tập văn này nối gót《Huyết lệ Tân thư》 mà ra đời vậy.
+Tôi cho lời ông nói rất phải. Rồi tôi viết ra tập đầu《Hải Ngoại Huyết Thư》. Nhân lúc Phan quân về nước, tôi gởi đem Huyết thư đã về. Đối với bà con trong nước, tôi làm một người khua động chuông chiều trống sớm để thức tỉnh, thật là tập văn này nối gót《Huyết lệ Tân Thư》 mà ra đời vậy.
 {: .text-justify}
 
 Cách không bao lâu, bọn anh em trong phái quá khích ở Nghệ Tĩnh, như mấy ông Đại Đẩu, Thần Sơn, phần nhiều viết thư hối thúc tôi về việc quân giới. Chỉ một vấn đề đó, khiến cho tôi hao tổn không biết bao nhiêu tâm huyết mà gây ra lắm nỗi thất bại thê thảm, thật là khổ não cho tôi!
 {: .text-justify}
 
-Các ông về phái quá khích, có bầu máu nóng đáng kính, nhưng đầu óc các cụ chỉ lo xông pha bôn tẩu trên một con đường bạo động mà thôi. Chính tôi chưa bỏ nước ra đi, cũng chỉ có tư tưởng giống y như thế; chừng sau ra ngoài được rộng kiến văn và nhờ người ngoài giáo huấn, tôi mới biết sự nghiệp quang phúc nước nhà, không sao có cơ sở cho thật bền vững thì không làm nên.
+Các ông trong phái quá khích, có bầu máu nóng đáng kính, nhưng đầu óc các cụ chỉ lo xông pha bôn tẩu trên một con đường bạo động mà thôi. Chính tôi chưa bỏ nước ra đi, cũng chỉ có tư tưởng giống y như thế; chừng sau ra ngoài được rộng kiến văn và nhờ người ngoài giáo huấn, tôi mới biết sự nghiệp quang phục nước nhà, không sao có cơ sở cho thật bền vững thì không làm nên.
 {: .text-justify}
 
-Bởi vậy, một mặt tôi cổ vũ thanh niên du học, một mặt muốn mở mang tư tưởng ái quốc cho toàn quốc dân, tôi bèn viết ra《Tân Việt Nam kỷ niệm lực》, 《Việt Nam sử khảo》, và tập《Hải ngoại huyết thư》nối theo. Mấy thứ sách này lời lẽ thống thiết lâm ly, chỉ có chủ ý là trông mong quốc dân ta lấy Chiêm Thành, Chân Lạp làm dấu xe nên tranh và ráng theo chân nối gót cũa Trưng Vương. Lê Hoàng, mà phát phần hăng hái, tìm lấy sự sống ở trong lúc chủng tộc chưa tiêu, tánh mạng chưa tuyệt, bằng không thì trễ mất.
+Bởi vậy, một mặt tôi cổ vũ thanh niên du học, một mặt muốn mở mang tư tưởng ái quốc cho toàn quốc dân, tôi bèn viết ra《Tân Việt Nam Kỷ Niệm Lực》, 《Việt Nam Sử Khảo》, và tập《Hải Ngoại Huyết Thư》nối theo. Mấy thứ sách này lời lẽ thống thiết lâm ly, chỉ có chủ ý là trông mong quốc dân ta lấy Chiêm Thành, Chân Lạp làm dấu xe nên tránh và ráng theo chân nối gót cũa Trưng Vương, Lê Hoàng mà phát phần hăng hái, tìm lấy sự sống ở trong lúc chủng tộc chưa tiêu, tánh mạng chưa tuyệt, bằng không thì trễ mất.
 {: .text-justify}
 
 > <cite>
