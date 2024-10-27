@@ -8,7 +8,7 @@ parent:
   url: phan-boi-chau
 ---
 
-**出洋留別**\
+**出洋留別 - 潘佩珠**\
  \
 生爲男子要希奇\
 Sinh vi nam tử yếu hy kỳ\
@@ -26,10 +26,9 @@ Hiền thánh liêu nhiên tụng riệc si\
 願逐長風東海去\
 Nguyện trục trường phong Đông hải khứ.\
 千重白浪一齊飛\
-Thiên trùng bạch lãng nhất tề phi.
-{: .notice--warning}
-
-**Xuất dương lưu biệt**\
+Thiên trùng bạch lãng nhất tề phi.\
+ \
+**Xuất dương lưu biệt - Phan Bội Châu**\
  \
 Khác thường bay nhảy mới là trai,\
 Chẳng chịu vần xoay mặc ý trời!\
@@ -41,10 +40,6 @@ Hiền thánh đâu còn, học cũng hoài.\
 Đông Hải xông pha nương cánh gió,\
 Nghìn làn sóng bạc múa ngoài khơi.
 {: .notice--warning}
-
-> <cite>
-潘佩珠《出洋留別》- Phan Bội Châu《Xuất dương lưu biệt》
-</cite>
 
 ![alt]({{ 'assets/images/early-20th-century-photograph-view-at-hong-kong-street-scene.jpg' | absolute_url }})
 > <cite>

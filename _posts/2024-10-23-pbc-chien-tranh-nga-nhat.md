@@ -8,7 +8,7 @@ parent:
   url: phan-boi-chau
 ---
 
-**Đêm dài**\
+**Đêm Dài - Trần Tế Xương**\
  \
 Sực tỉnh trông ra ngỡ sáng loà,\
 Đêm sao đêm mãi thế ru mà?\
@@ -19,10 +19,6 @@ Bướm ong chưa thấy lượn vườn hoa.\
 Nào ai là kẻ tìm ta đó,\
 Đốt đuốc mà soi kẻo lẫn nhà!
 {: .notice--warning}
-
-> <cite>
-Tú Xương《Đêm dài》
-</cite>
 
 ![alt]({{ 'assets/images/russo-japanese-war-batte-sha-river-taizi-yoshikuni.jpg' | absolute_url }})
 > <cite>

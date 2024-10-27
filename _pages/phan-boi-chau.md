@@ -29,7 +29,7 @@ Nghĩ xem mình đã sinh nhằm non sông còn ấu trĩ, nòi giống còn u m
 </cite>
 
 ## Hồi I: Thuật theo《Ngục Trung Thư》
-《Ngục Trung Thư》(Sách viết trong tù) là một bản văn do Phan Bội Châu viết lúc ở tù tại Quảng Châu năm 1913, lúc ông 46 tuổi. Sách thuật lại chí hướng và những hoạt động cách mạng trong thời gian lưu vong của ông trước đó, cùng lời nhắn gửi tới những người đồng chí hướng.
+Phan Bội Châu viết《Ngục Trung Thư - Sách viết trong tù》lúc ở trong tù tại Quảng Châu năm 1913 (46 tuổi). Sách thuật lại chí hướng và những hoạt động cách mạng trong thời gian lưu vong của ông trước đó, cùng lời nhắn gửi tới những người đồng chí hướng sau này.
 {: .notice .text-justify}
 
 ### <a href="/pbc-tuoi-tre-nuoi-chi-lon">Kỳ 1. Tuổi trẻ nuôi chí lớn</a>
@@ -67,7 +67,7 @@ Nghĩ xem mình đã sinh nhằm non sông còn ấu trĩ, nòi giống còn u m
 ## Hồi II: Thuật theo《Tự Phán》
 Năm 1925 (58 tuổi), Phan Bội Châu bị bắt ở Thượng Hải (Trung Quốc), thực dân Pháp lén lút đưa về Hà Nội. Nhân dân cả nước đấu tranh đòi ân xá cho ông. Thế là chúng an trí cho ông ở Bến Ngự, Huế. Ông sống ở đây trong suốt 15 năm cho đến lúc qua đời, được người dân gọi là “Ông già Bến Ngự”. Tại đây Phan Bội Châu viết《Tự Phán》vào năm 1929 (62 tuổi). Mở đầu tựa sách ông viết.\
  \
-"Tôi bị bắt ở nước ngoài đem về, bị giam trong ngục; nhờ quốc dân quá thương nên mới giữ được mạng sống tới nay. Tôi xa nước, xa đồng bào mấy chục năm, nay may được cùng nhau nhắc nhớ chuyện xưa. Có người yêu tôi, có người ghét tôi, có người mong đợi ở tôi, nhưng dù biết tôi hay không biết tôi, ai cũng muốn biết rõ đầu đuôi cái lịch sử của Phan Bội Châu này."
+*"Tôi bị bắt ở nước ngoài đem về, bị giam trong ngục; nhờ quốc dân quá thương nên mới giữ được mạng sống tới nay. Tôi xa nước, xa đồng bào mấy chục năm, nay may được cùng nhau nhắc nhớ chuyện xưa. Có người yêu tôi, có người ghét tôi, có người mong đợi ở tôi, nhưng dù biết tôi hay không biết tôi, ai cũng muốn biết rõ đầu đuôi cái lịch sử của Phan Bội Châu này."*
 {: .notice .text-justify}
 
 Còn tiếp....

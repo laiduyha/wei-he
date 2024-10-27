@@ -8,7 +8,7 @@ parent:
   url: phan-boi-chau
 ---
 
-**Ái quốc**\
+**Ái quốc - Phan Bội Châu**\
  \
 Nay ta hát một thiên ái quốc,\
 Yêu gì hơn yêu nước nhà ta.\
@@ -40,15 +40,11 @@ Nông nỗi này, non nước cũng oan.\
  \
 Hồn ơi về với giang san,\
 Muôn người muôn tiếng hát ran câu này:\
-“Hợp muôn sức ra tay quang phục;\
-Quyết có phen rửa nhục báo thù...”\
+*“Hợp muôn sức ra tay quang phục;*\
+*Quyết có phen rửa nhục báo thù...”*\
 Mấy câu ái quốc reo hò,\
 Chữ đồng tâm ấy phải cho một lòng.
 {: .notice--warning}
-
-> <cite>
-Phan Bội Châu《Ái quốc》
-</cite>
 
 ![alt]({{ 'assets/images/phan-boi-chau-va-cuong-de.jpg' | absolute_url }})
 > <cite>

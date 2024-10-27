@@ -8,7 +8,7 @@ parent:
   url: phan-boi-chau
 ---
 
-**Sống**\
+**Sống - Phan Bội Châu**\
  \
 Sống tủi làm chi đứng chật trời,\
 Sống nhìn thế giới hổ chăng ai?\
@@ -19,10 +19,6 @@ Sống lo phú quý, chẳng lo đời\
 Sống mà như thế đừng nên sống,\
 Sống tủi làm chi đứng chật trời.
 {: .notice--warning}
-
-> <cite>
-Phan Bội Châu《Sống》
-</cite>
 
 ![alt]({{ 'assets/images/du-hoc-sinh-dong-du.jpg' | absolute_url }})
 
@@ -154,7 +150,7 @@ Họ tắm gội nắng mưa, xông pha sương gió, liều mạng đi tìm h�
 Bởi vậy chúng tôi bèn đặt ra tại Hồng Kong một cơ quan của đảng ta, để có nơi tiếp rước học sanh và thâu nhập bạc tiền cùng các giấy tờ bí mật. Chúng tôi để ông Đặng Tử Kính trông coi.
 {: .text-justify}
 
-Tôi lại lập ra ở Hồng Kong một nhà Hội gọi là《Việt Nam Thương đoàn Công hội》để giúp đỡ việc cho đảng. Công hội này ông Võ Mẫn Kiến làm người chủ trì.
+Tôi lại lập ra ở Hồng Kong một nhà Hội gọi là《Việt Nam Thương Đoàn Công Hội》để giúp đỡ việc cho đảng. Công Hội này ông Võ Mẫn Kiến làm người chủ trì.
 {: .text-justify}
 
 Lúc đó những bà con mình theo người Pháp qua làm ăn tại Hồng Kong, cũng động lòng vì nghĩa lớn, rủ nhau vô hội một cách hăm hở vô cùng. Chẳng phải vậy là dấu tỏ ra nhân tâm nước mình chưa chết hẳn đó sao?

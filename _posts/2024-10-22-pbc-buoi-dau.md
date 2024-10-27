@@ -8,9 +8,9 @@ parent:
   url: phan-boi-chau
 ---
 
-*Phan Bội Châu kể lại rằng:*\
+Phan Bội Châu kể lại rằng:\
  \
-Lúc còn bé đi học, tôi cũng thông hiểu chút ít đại nghĩa, vẫn không thích làm người tầm thường, thỉnh thoảng lại ngâm câu thơ trong sách Tùy Viên:\
+*Lúc còn bé đi học, tôi cũng thông hiểu chút ít đại nghĩa, vẫn không thích làm người tầm thường, thỉnh thoảng lại ngâm câu thơ trong sách Tùy Viên:*\
  \
 Túc dạ bất vong duy trúc bạch,\
 Lập thân tối hạ thị văn chương.\
@@ -19,7 +19,7 @@ Lập thân tối hạ thị văn chương.\
 Khuya sớm những mong ghi tên vào sử sách,\
 Lập thân hèn nhát ấy văn chương.\
  \
-Ông Nguyễn Ái Quốc lúc lên 10 tuổi, nghe tôi lúc rượu say ngâm câu này, đến bây giờ ông vẫn còn thuật lại.
+*Ông Nguyễn Ái Quốc lúc lên 10 tuổi, nghe tôi lúc rượu say ngâm câu này, đến bây giờ ông vẫn còn thuật lại.*
 {: .notice--warning .text-justify}
 
 ![alt]({{ 'assets/images/fh-schneider-quan-lai-o-bac-ky.jpg' | absolute_url }})

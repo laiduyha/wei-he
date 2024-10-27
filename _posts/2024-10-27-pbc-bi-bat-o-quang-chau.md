@@ -8,18 +8,19 @@ parent:
   url: phan-boi-chau
 ---
 
-
-Xưa nước ta chỉ có cờ Hoàng Đế mà không có cờ nước cũng là một việc đáng quái gở. Hội Việt Nam Quang Phục mới chế định ra quốc kỳ bằng cờ ngũ tinh, dạng huy thức dùng bằng cách ngũ tinh liên châu.\
+Phan Bội Châu trong《Tự Phán》có mô tả:\
  \
-Nhân vì nước ta có năm địa bộ, sở dĩ dùng thức này để tỏ rõ cái ý năm đại bộ liên lạc làm một.\
+*Xưa nước ta chỉ có cờ Hoàng Đế mà không có cờ nước cũng là một việc đáng quái gở. Hội Việt Nam Quang Phục mới chế định ra quốc kỳ bằng cờ ngũ tinh, dạng huy thức dùng bằng cách ngũ tinh liên châu.*\
  \
-Sắc cờ dùng hoàng địa, hồng tinh làm cờ nước; hồng địa bạch tinh làm cờ quân. Hoàng là để biểu thị nhân chủng ta. Hồng là biểu thị sắc nước ta: Nam phương thuộc hỏa, hỏa sắc hồng. Quân kỳ sở dĩ dùng bạch tinh là tỏ rõ mục đích quân, cốt đánh đổ chính phủ người da trắng.
+*Nhân vì nước ta có năm địa bộ, sở dĩ dùng thức này để tỏ rõ cái ý năm đại bộ liên lạc làm một.*\
+ \
+*Sắc cờ dùng hoàng địa, hồng tinh làm cờ nước; hồng địa bạch tinh làm cờ quân. Hoàng là để biểu thị nhân chủng ta. Hồng là biểu thị sắc nước ta: Nam phương thuộc hỏa, hỏa sắc hồng. Quân kỳ sở dĩ dùng bạch tinh là tỏ rõ mục đích quân, cốt đánh đổ chính phủ người da trắng.*
 {: .notice--warning .text-justify}
 
 ![alt]({{ 'assets/images/viet-nam-quang-phuc-hoi-ngu-lien-tinh-chau.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://nghiencuulichsu.com/2016/05/23/la-quoc-ky-dau-tien-cua-viet-nam-nam-1917-ngu-lien-tinh-chau/">
-Lá Quốc Kỳ đầu tiên của Việt Nam : Ngũ Liên Tinh Châu
+Lá Quốc Kỳ đầu tiên của Việt Nam: Ngũ Liên Tinh Châu
 </a>
 </cite>
 
@@ -91,7 +92,7 @@ Chúng tôi có thuê một căn nhà ở ngoài thành để làm cơ quan, anh
 Đảng viên xã hội Tàu ở Quảng Đông là bọn các ông Đặng Cảnh Á và Lưu Sư Phục, cũng ra tay giúp sức đảng cách mạng Việt Nam mà vận động dùm với các giới.
 {: .text-justify}
 
-Chính phủ Quảng Đông lúc bấy giờ vốn đã sẵn lòng ngó lơ cho ta, thành ra đảng ta tiến hành mọi việc hoạt động được thong thả tự nhiên, không bị trở ngăn lo ngại gì cả. Nhờ vậy mà đảng cách mạng ta có vẻ phấn khởi khá lắm.
+Chính phủ Quảng Đông lúc bấy giờ vốn đã sẵn lòng ngó lơ cho ta, thành ra đảng ta tiến hành mọi việc hoạt động được thong thả tự nhiên, không bị trở ngăn lo ngại gì cả. Nhờ vậy mà đảng cách mạng ta có vẻ phấn khởi lắm.
 {: .text-justify}
 
 Anh em đồng chí ngó thấy vậy, đều khuyên nhủ thúc giục tôi nên thừa cơ hội này mà cử đồ đại sự. Bình sinh tôi vốn ôm chủ nghĩa quá khích nay lại được đa số anh em đồng chí thúc hối tán thành, cho nên tôi càng quả quyết làm, vì đó mới có cái màn thất bại thê thảm lại hiện ra một lần thứ hai nữa.
@@ -107,7 +108,7 @@ Các đồng chí cử tôi giữ quyền tổng lý; Hoàng quân Trọng Mậu
 Chúng tôi thảo ra thể lệ cách thức đạo quân Việt Nam Quang Phục, lại in ra phiếu quân dụng riêng cho Việt Nam Quang Phục quân dùng với nhau. Một mặt khác, chúng tôi muợn in vô số sách vở văn bài cổ động, như là truyện《Hà thành Liệt sĩ》và bài văn《Khuyên bảo lính tập》, rồi sai người chuyển vận về nước, rải phát tứ tung.
 {: .text-justify}
 
-Tháng hai năm Quý Sửu (1913), chúng tôi ủy ông Nguyễn Hải Thần làm chi bộ bộ trưởng hội Việt Nam Quang Phục ở Quế Biên (giáp giới tỉnh Quế, tức tỉnh Quảng Tây); ông Trần Văn Kiện làm chi bộ bộ trưởng ở Thái biên; còn ngả Điền biên (Điền là tên tắt của tỉnh Vân Nam) thì Đổ quân Chơn Thiết tự nguyện phụ trách.
+Tháng hai, năm Quý Sửu (1913), chúng tôi ủy ông Nguyễn Hải Thần làm chi bộ bộ trưởng hội Việt Nam Quang Phục ở Quế Biên (giáp giới tỉnh Quế, tức tỉnh Quảng Tây); ông Trần Văn Kiện làm chi bộ bộ trưởng ở Thái biên; còn ngả Điền biên (Điền là tên tắt của tỉnh Vân Nam) thì Đổ quân Chơn Thiết tự nguyện phụ trách.
 {: .text-justify}
 
 Chúng tôi bàn định lúc nào cử sự thì cả ba mặt cùng tiến, cho nên sắp đặt từ trước sẵn sàng chỉ còn đợi ngày giờ đến thì làm việc.
@@ -146,7 +147,7 @@ Ban đầu mới bị bắt, tôi vẫn tự nghĩ rằng mình không đến n�
 Từ khi xuất dương tới giờ, tôi được nếm mùi ở tù, lần này là lần thứ nhất. Nhưng Mai quân hơn tôi, lần này ông ta vào ngục là lần thứ ba rồi.
 {: .text-justify}
 
-Vào ngục bữa đầu hết, tôi với Mai quân ở chung một xà lim. Đêm hôm ấy tôi đọc miệng một bài thơ để an ủi Mai quân như vầy:
+Vào ngục bữa đầu, tôi với Mai quân ở chung một xà lim. Đêm hôm ấy tôi đọc miệng một bài thơ để an ủi Mai quân như vầy:
 {: .text-justify}
 
 飃蓬我輩各他鄉\
@@ -197,7 +198,7 @@ Làm xong hai bài thơ, tôi ngâm nga lớn tiếng rồi cả cười, vang �
 Qua ngày thứ nhì, người ta nhốt riêng tôi và Mai quân mỗi người ở cách biệt nhau một nơi. Thế là từ hôm nay, tôi là thằng tù bơ vơ trơ trọi ở chốn tha hương khách địa.
 {: .text-justify}
 
-Những nỗi khổ nhục ở trong khám, cố nhiên mình chẳng nên xót xa than thở làm gì. Duy có một điều đau đớn là mình phải cách trở anh em, tuyệt hẳn tin tức, mà ở trong ngục chỉ có một mình nói tiếng Việt Nam cho mình nghe thôi, nghĩ thấy tự buồn rầu cho thân phận, rồi lại chạnh lòng nhớ tới công việc thất bại, khiến tôi phải đau lòng mà khóc, nước mắt tầm tã như mưa. Thật là từ lúc cha mẹ đẻ tôi ra đến nay chưa hề lúc nào biết mùi đau đớn như bây giờ.
+Những nỗi khổ nhục ở trong khám, cố nhiên mình chẳng nên xót xa than thở làm gì. Duy có một điều đau đớn là mình phải cách trở anh em, tuyệt hẳn tin tức, mà ở trong ngục chỉ có một mình nói tiếng Việt cho mình nghe thôi, nghĩ thấy tự buồn rầu cho thân phận, rồi lại chạnh lòng nhớ tới công việc thất bại, khiến tôi phải đau lòng mà khóc, nước mắt tầm tã như mưa. Thật là từ lúc cha mẹ đẻ tôi ra đến nay chưa hề lúc nào biết mùi đau đớn như bây giờ.
 {: .text-justify}
 
 Mà từ lúc cha mẹ đẻ ra, tôi chưa hề nếm mùi đau đớn như vầy, đầu giây mối nhợ là vì cái chí tôi hoài bão từ 30 năm trước.

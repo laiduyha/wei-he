@@ -8,7 +8,7 @@ parent:
   url: phan-boi-chau
 ---
 
-**花开不及春**\
+**花开不及春 - 潘佩珠**\
 *Hoa khai bất cập xuân*\
  \
 東皇曾酌眼,\
@@ -18,20 +18,15 @@ Dĩ hứa bách hoa khôi.\
 只爲謙謙意，\
 Chỉ vị khiêm khiêm ý,\
 番交漸漸開。\
-Phiên giao tiệm tiệm khai.
-{: .notice--warning}
-
-**Hoa nở không kịp mùa xuân**\
+Phiên giao tiệm tiệm khai.\
+ \
+**Hoa nở không kịp mùa xuân - Phan Bội Châu**\
  \
 Nhờ chúa xuân lưu ý,\
 Xếp hàng đầu trăm hoa.\
 Chỉ vì lòng khiêm tốn,\
 Nên để nở dần dà.
 {: .notice--warning}
-
-> <cite>
-潘佩珠《花开不及春》- Phan Bội Châu《Hoa nở không kịp mùa xuân》
-</cite>
 
 Năm Quý Mùi (1883), Phan Bội Châu lúc ấy họ tên Phan Văn San mới 16 tuổi. Tại tỉnh Nghệ An, sau khi thi Hương, bài được chấm hạng ưu, Phan phải cùng 6 sĩ tử khác dự kỳ sát hạch để xếp vị thứ cao thấp ở phủ Anh Sơn. Đích thân tri phủ là Hoàng Giáp Phạm Như Xương (1844-1919) ngồi ghế chính chủ khảo.\
  \
