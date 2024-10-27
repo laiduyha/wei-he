@@ -12,14 +12,14 @@ classes: wide
 </cite>
 
 Người xưa chí lớn hào hùng,\
-Người xưa muôn kiếp, muôn đường trầm luân.\
+Người xưa số kiếp trăm đường trầm luân.\
 Người xưa trác tuyệt phong vân,\
-Người xưa với cõi hồng trần oán than.\
+Người xưa với cõi hồng trần trách than.\
  \
 Ta lần theo vết mây tan,\
 Vết xưa khắc lại giới quan của người.\
 Giờ đây vật đổi sao dời,\
-Vết xưa, dấu ấy vẫn còn ở đây!
+Vết xưa, dấu ấy vẫn còn nơi đây!
 
 > <cite>
 <a target="_blank" href="https://wei-he.xyz">Wéi Hé</a>
