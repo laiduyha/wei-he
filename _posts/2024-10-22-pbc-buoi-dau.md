@@ -16,6 +16,10 @@ Lập thân hèn nhất ấy văn chương.
 Viên Mai《Tùy Viên Thi Thoại - Vịnh Hoài》
 </cite>
 
+Phan Bội Châu kể lại rằng: “Lúc còn bé đi học, tôi cũng thông hiểu chút ít đại nghĩa, vẫn không thích làm người tầm thường, thỉnh thoảng lại ngâm câu thơ trong sách Tùy Viên: Túc dạ bất vong duy trúc bạch; lập thân tối hạ thị văn chương (tức là: Khuya sớm những mong ghi tên vào sử sách; lập thân hèn nhát ấy văn chương). Ông Nguyễn Ái Quốc lúc lên 10 tuổi, nghe tôi lúc rượu say ngâm câu này, đến bây giờ ông vẫn còn thuật lại”.
+{: .notice .text-justify}
+
+
 ![alt]({{ 'assets/images/liu-yong-he-chong-tian.jpeg' | absolute_url }})
 > <cite>
 柳永《鹤冲天·黄金榜上》- Lục Diên《Hạc bay lên trời》

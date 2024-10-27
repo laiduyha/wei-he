@@ -8,6 +8,26 @@ parent:
   url: phan-boi-chau
 ---
 
+**出洋留別**\
+生爲男子要希奇\
+Sinh vi nam tử yếu hy kỳ\
+肯許乾坤自轉移\
+Khẳng hứa càn khôn tự chuyển di.\
+於百年中湏有我\
+Ư bách niên trung tu hữu ngã,\
+豈千載下竟無誰\
+Khởi thiên tải hạ cánh vô thùy.\
+江山死矣生徒贅\
+Giang sơn tử hĩ sinh đồ nhuế.\
+賢聖寥然頌亦痴\
+Hiền thánh liêu nhiên tụng riệc si\
+願逐長風東海去\
+Nguyện trục trường phong Đông hải khứ.\
+千重白浪一齊飛\
+Thiên trùng bạch lãng nhất tề phi.
+{: .notice--warning}
+
+**Xuất dương lưu biệt**\
 Khác thường bay nhảy mới là trai,\
 Chẳng chịu vần xoay mặc ý trời!\
 Trong cuộc trăm năm đành có tớ,\
@@ -19,7 +39,7 @@ Nghìn làn sóng bạc múa ngoài khơi.
 {: .notice--warning}
 
 > <cite>
-Phan Bội Châu《出洋留別》-《Xuất dương lưu biệt》Đào Trinh Nhất dịch
+潘佩珠《出洋留別》- Phan Bội Châu《Xuất dương lưu biệt》
 </cite>
 
 
@@ -55,38 +75,8 @@ Cùng đi với tôi có hai người, là ông Tăng Bạt Hổ và ông Đặn
 Tháng 4 năm đó, Tăng quân mới ở hải ngoại về, nay lại cùng tôi lo lắng việc đảng, và đảng lựa chọn cùng xuất dương với tôi, thật là xứng đáng. 
 {: .text-justify}
 
-Mùng hai tháng riêng năm Ất Tị (1905) chúng tôi ra Hải Phòng để xuất dương. Lúc xuống tàu, tôi ứng khẩu bài thơ từ giã anh em:
+Mùng hai tháng riêng năm Ất Tị (1905) chúng tôi ra Hải Phòng để xuất dương. Lúc xuống tàu, tôi ứng khẩu bài thơ《Xuất dương lưu biệt》từ giã anh em.
 {: .text-justify}
-
-**出洋留別**\
-生爲男子要希奇\
-Sinh vi nam tử yếu hy kỳ\
-肯許乾坤自轉移\
-Khẳng hứa càn khôn tự chuyển di.\
-於百年中湏有我\
-Ư bách niên trung tu hữu ngã,\
-豈千載下竟無誰\
-Khởi thiên tải hạ cánh vô thùy.\
-江山死矣生徒贅\
-Giang sơn tử hĩ sinh đồ nhuế.\
-賢聖寥然頌亦痴\
-Hiền thánh liêu nhiên tụng riệc si\
-願逐長風東海去\
-Nguyện trục trường phong Đông hải khứ.\
-千重白浪一齊飛\
-Thiên trùng bạch lãng nhất tề phi.
-{: .notice--warning}
-
-**Xuất dương lưu biệt**\
-Khác thường bay nhảy mới là trai,\
-Chẳng chịu vần xoay mặc ý trời!\
-Trong cuộc trăm năm đành có tớ,\
-Rồi sau muôn thuở há không ai?\
-Non sông đã mất, mình khôn sống,\
-Hiền thánh đâu còn, học cũng hoài.\
-Đông Hải xông pha nương cánh gió,\
-Nghìn làn sóng bạc múa ngoài khơi.
-{: .notice--warning}
 
 Từ đây trở đi, chúng tôi để chân vào con đường nguy hiểm rồi.
 

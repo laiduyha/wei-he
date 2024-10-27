@@ -50,8 +50,8 @@ Phan Bội Châu《Ái quốc》
 
 ![alt]({{ 'assets/images/phan-boi-chau-va-cuong-de.jpg' | absolute_url }})
 > <cite>
-<a target="_blank" href="https://baotanglichsu.vn/vi/Articles/3097/14624/phong-trao-djong-du-1905-1908-mot-hinh-thuc-xay-dung-luc-luong-cach-mang-nhung-nam-djau-the-ky-xx.html">
-《Phan Bội Châu (người ngồi) và Kỳ Ngoại Hầu Cường Để ở Nhật》
+<a target="_blank" href="https://www.facebook.com/photo/?fbid=2155769948056414&set=pcb.2155770238056385">
+Trung tâm Lưu trữ quốc gia《Phan Bội Châu và Kỳ Ngoại Hầu Cường Để ở Nhật》
 </a>
 </cite>
 

@@ -8,10 +8,37 @@ parent:
   url: phan-boi-chau
 ---
 
+
+**花开不及春**\
+東皇曾酌眼,\
+Đông hoàng tằng chước nhãn,\
+以許百花魁。\
+Dĩ hứa bách hoa khôi.\
+只爲謙謙意，\
+Chỉ vị khiêm khiêm ý,\
+番交漸漸開。\
+Phiên giao tiệm tiệm khai.
+{: .notice--warning}
+
+**Hoa khai bất cập xuân**\
+Nhờ chúa xuân lưu ý,\
+Xếp hàng đầu trăm hoa.\
+Chỉ vì lòng khiêm tốn,\
+Nên để nở dần dà.
+{: .notice--warning}
+
+> <cite>
+潘佩珠《花开不及春》- Phan Bội Châu《Hoa khai bất cập xuân》
+</cite>
+
+> Năm Quý Mùi 1883, Phan Bội Châu (1867-1940) lúc ấy họ tên Phan Văn San mới 16 tuổi. Tại tỉnh Nghệ An, sau khi thi Hương, bài được chấm hạng ưu, Phan phải cùng 6 sĩ tử khác dự kỳ sát hạch để xếp vị thứ cao thấp ở phủ Anh Sơn. Đích thân tri phủ là hoàng giáp Phạm Như Xương (1844-1919) ngồi ghế chánh chủ khảo. Các thí sinh nhận đề rồi cắm cúi làm bài hồi lâu thì Phan mới đến. Chánh chủ khảo gốc Quảng Nam cho Phan vào, nhưng buộc Phan nhận đề thi riêng. Tiết cuối xuân, trông thấy cây mai bên hiên chỉ còn lưa thưa dăm đoá, quan Hoàng giáp liền ra đề: “Hoa khai bất cập xuân” 花开不及春 (Hoa nở không kịp mùa xuân). Đề thi ngụ ý phê bình tội trễ tràng của chàng trai huyện Nam Đàn nổi tiếng thông minh. Phan nhoẻn cười, nhanh nhẹn phóng bút 4 dòng trên. Liếc mắt, Phạm Hoàng giáp sững sờ, bảo Phan: “Khỏi làm bài nữa. Chỉ cần 4 dòng mở đầu thế này dư sức đỗ đầu xứ rồi.”
+{: .notice .text-justify}
+
+![alt]({{ 'assets/images/luu-day-robert-aldrich.jpg' | absolute_url }})
+
 Một bức tranh biếm họa của Pháp vẽ vua Hàm Nghi, nữ hoàng Ranavalona III của Madagascar và vua Béhanzin của Dahomey, đều là những vị hoàng đế bị lưu đày.
 {: .notice}
 
-![alt]({{ 'assets/images/luu-day-robert-aldrich.jpg' | absolute_url }})
 > <cite>
 <a href="https://ordi.vn/nhung-hoang-de-bi-luu-day-thuc-dan-phap-va-tinh-canh-luu-vong-cua-cac-vi-vua-nuoc-viet-ky-1.html" target="_blank">
 Robert Aldrich《Cuộc gặp gỡ hoàng gia: Chúng ta đều là bạn!》
