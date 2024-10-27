@@ -41,6 +41,7 @@ Muôn người muôn tiếng hát ran câu này:\
 Quyết có phen rửa nhục báo thù...”\
 Mấy câu ái quốc reo hò,\
 Chữ đồng tâm ấy phải cho một lòng.
+{: .notice--warning}
 
 > <cite>
 Phan Bội Châu《Ái quốc》
