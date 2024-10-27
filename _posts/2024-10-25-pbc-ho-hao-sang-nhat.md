@@ -9,6 +9,44 @@ parent:
 ---
 
 
+Nay ta hát một thiên ái quốc,\
+Yêu gì hơn yêu nước nhà ta.\
+Trang nghiêm bốn mặt sơn hà,\
+Ông cha để lại cho ta lọ vàng.\
+Trải mấy lớp tiền vương dựng mở,\
+Bốn ngàn năm giãi gió dầm mưa,\
+Biết bao công của người xưa,\
+Gang sông, tấc núi, dạ thưa, ruột tằm.\
+Hào Đại Hải âm thầm trước mặt,\
+Dải Cửu Long quanh quất miền Tây,\
+Một toà san sát xinh thay,\
+Bên kia Vân, Quảng, bên này Côn Lôn.\
+Vẻ gấm vóc nước non thêm đẹp.\
+Rắp những mong cơ nghiệp dài lâu.\
+Giống khôn há phải đàn trâu,\
+Giang sơn nỡ để người đâu vẫy vùng?\
+Hai mươi triệu dân cùng của hết,\
+Bốn mươi năm nước mất quyền không.\
+Thương ôi! công nghiệp tổ tông,\
+Nước tanh máu đỏ, non chồng thịt cao.\
+Non nước ấy biết bao máu mủ.\
+Nỡ nào đem nuôi lũ sài lang?\
+Cờ ba sắc, xứ Đông Dương,\
+Trông càng thêm nhục, nói càng thêm đau!\
+Nhục vì nước, mà đau người trước,\
+Nông nỗi này, non nước cũng oan.\
+Hồn ơi về với giang san,\
+Muôn người muôn tiếng hát ran câu này:\
+“Hợp muôn sức ra tay quang phục;\
+Quyết có phen rửa nhục báo thù...”\
+Mấy câu ái quốc reo hò,\
+Chữ đồng tâm ấy phải cho một lòng.
+
+> <cite>
+Phan Bội Châu《Ái quốc》
+</cite>
+
+
 ![alt]({{ 'assets/images/phan-boi-chau-va-cuong-de.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://baotanglichsu.vn/vi/Articles/3097/14624/phong-trao-djong-du-1905-1908-mot-hinh-thuc-xay-dung-luc-luong-cach-mang-nhung-nam-djau-the-ky-xx.html">
