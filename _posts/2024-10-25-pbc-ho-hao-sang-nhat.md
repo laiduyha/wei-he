@@ -46,7 +46,10 @@ Lên bến Hải Phòng rồi, tôi đáp xe lửa đi về Nghệ An. Trên xe 
 Ông trốn đi chưa đầy tuần lễ, mật thám đã bủa khắp nơi. Vậy ông sớm liệu đào tẩu cho mau, không thì nguy đấy.
 {: .notice .text-justify}
 
-Tôi hơi lo. Nhưng cái mục đích mình trở về nước nhà chưa đạt được, thì chưa có thể nào đào tẩu, ta cứ việc ở nhà đã, ra sao thì ra. Tôi bèn trốn trở về Hà Tĩnh, ước hẹn những anh em kín đáo tới hội họp tại nhà Đặng Quân. Còn Tử Kính thì đem giấy tờ trọng yếu vô Huế trước để yết kiến Hội chủ, rồi đi thẳng vô Quảng Nam, nói việc mình định mưu tính vậy vậy cho đồng chí hai tỉnh Nam Nghĩa hay.
+Tôi hơi lo. Nhưng cái mục đích mình trở về nước nhà chưa đạt được, thì chưa có thể nào đào tẩu, ta cứ việc ở nhà đã, ra sao thì ra. 
+{: .text-justify}
+
+Tôi bèn trốn trở về Hà Tĩnh, ước hẹn những anh em kín đáo tới hội họp tại nhà Đặng Quân. Còn Tử Kính thì đem giấy tờ trọng yếu vô Huế trước để yết kiến Hội chủ, rồi đi thẳng vô Quảng Nam, nói việc mình định mưu tính vậy vậy cho đồng chí hai tỉnh Nam Nghĩa hay.
 {: .text-justify}
 
 Tôi ở quanh quẩn trong miền Nghệ Tĩnh, ngày ngày cùng các đảng hữu bàn định việc làm. Kế đó có thư của đồng chí ở Kinh và Quảng gởi tới thôi thúc tôi nên gấp đi ra ngoài. Vì đất Nghệ Tĩnh là đất người Tây để ý dòm ngó, coi chừng hơn hết, cho nên các đồng chí không muốn tôi ở lần lựa trong chỗ nguy hiểm đó lâu.
@@ -76,7 +79,7 @@ Thấy vậy, tôi vừa vui mừng vừa chưng hửng. Vì bạn tuổi nhỏ 
 Kế đó tôi bôn tẩu giữa khoảng Tokyo và Yokohama, thường thường cùng những người tai mắt trong dân đảng nước Nhật nối liền thinh khí, nhờ họ chỉ vẽ điều hay việc phải cho mình rất nhiều.
 {: .text-justify}
 
-Nhân đấy tôi nghĩ lại dân trí nước mình còn quá thấp thói, mà nhân tài cũng thiếu thốn không có. Chừng ấy tôi tự ăn năn việc mình lo toan lúc trước là nông nổi, chỉ bo bo về vấn đề quân giới, nào có phải đó là cái kế tuyệt hay để mưu tính công cuộc độc lập cho nước mình được đâu!
+Nhân đấy tôi nghĩ lại dân trí nước mình còn quá thấp, mà nhân tài cũng thiếu thốn không có. Chừng ấy tôi tự ăn năn việc mình lo toan lúc trước là nông nổi, chỉ bo bo về vấn đề quân giới, nào có phải đó là cái kế tuyệt hay để mưu tính công cuộc độc lập cho nước mình được đâu!
 {: .text-justify}
 
 Một bữa nọ, tôi đến nhà Lương Khải Siêu, trong lúc bút đàm, có đem ý kiến ấy ra nói, Lương bảo tôi như vầy:
@@ -92,7 +95,10 @@ Thực lực hệ trọng hơn hết, không gì cho bằng nhân tài. Vậy th
 
 Tôi rất phục lời họ Lương nói phải lắm. Trở về nhà trọ rồi tôi thao thức suy nghỉ cả đêm, không sao nhắm mắt ngủ được.
 
-Dòm quanh thế giới như rồng bay hổ thét, như điện chớp mây tuôn, nhân tài có ngàn thu muôn thuở, không có vẻ nào mà không mới lạ. Ngay đến một xó Đông Dương này, nước nhà mình so sánh đã đủ thua kém, người ta muôn phần, mình chẳng có một, còn nói Âu Mỹ làm gì? Bởi vậy nuôi dựng nhân tài là việc cần kíp của mình, không đợi phải nói nữa. Song muốn nuôi dựng nhân tài, ta phải làm sao bây giờ, vì cái thực quyền giáo dục nắm cả trong tay chính phủ Pháp bảo hộ? 
+Dòm quanh thế giới như rồng bay hổ thét, như điện chớp mây tuôn, nhân tài có ngàn thu muôn thuở, không có vẻ nào mà không mới lạ. Ngay đến một xó Đông Dương này, nước nhà mình so sánh đã đủ thua kém. Người ta muôn phần, mình chẳng có một, còn nói Âu Mỹ làm gì?
+{: .text-justify}
+
+Bởi vậy nuôi dựng nhân tài là việc cần kíp của mình, không đợi phải nói nữa. Song muốn nuôi dựng nhân tài, ta phải làm sao bây giờ, vì cái thực quyền giáo dục nắm cả trong tay chính phủ Pháp bảo hộ? 
 {: .text-justify}
 
 Dầu vậy mặc lòng, anh em chúng tôi còn đây, không lẽ nào chịu bó tay đợi chết cho đành. Giờ chỉ có cách là kêu gào bọn thiếu niên trong nước tỉnh dậy, liều mình trốn ra nước ngoài học tập, như thế thì ta được tự do mở mang trí khôn, mà nước nhà mới trông có nhân tài sinh ra được nhiều.
@@ -105,7 +111,10 @@ Tôi bèn đặt ra bài văn cổ động bà con trong nước giúp tiền ch
 Là vì công việc tôi sắp đặt lo toan từ trước đến giờ, đều chuyên chú vào hiện tượng trước mắt: đến sự mưu đồ sự nghiệp lâu dài bền vững cho nước nhà, thời chỉ có bài văn này thôi. Nếu như có hiệu quả, người nước ta du học ngày thêm đông, nhân tài ngày thêm nhiều, dân trí ngày thêm cao, thì không gì nước Nam ta không có cơ sống lại.
 {: .text-justify}
 
-Nhưng thủ đoạn người ta áp bức nặng nề dữ tợn, khiến cho làn sóng du học chưa được năm sáu năm, đã làm cái đích cho muôn ngàn mũi tên nhằm vào nó mà bắn, sự ấy trước kia tôi có dè đâu. Than ôi! Tài hèn sức mỏng, trăm việc làm đều không được như lòng mình muốn, thành ra đá hết rồi mà biển hận vẫn chưa lấp đầy, oan hồn Tinh vệ, đêm ngày chỉ lênh đênh chìm nổi với ba đào, đau đớn thay!
+Nhưng thủ đoạn người ta áp bức nặng nề dữ tợn, khiến cho làn sóng du học chưa được năm sáu năm, đã làm cái đích cho muôn ngàn mũi tên nhằm vào nó mà bắn, sự ấy trước kia tôi có dè đâu.
+{: .text-justify}
+
+Than ôi! Tài hèn sức mỏng, trăm việc làm đều không được như lòng mình muốn, thành ra đá hết rồi mà biển hận vẫn chưa lấp đầy, oan hồn Tinh vệ, đêm ngày chỉ lênh đênh chìm nổi với ba đào, đau đớn thay!
 {: .text-justify}
 
 Bài văn《Khuyên Thanh Niên du học》viết xong rồi, thuê in ra mấy ngàn tập, giao cho Tăng quân Bạt Hổ đem về nước phát hành. Mùa đông tháng chạp năm Ất Tị (1906), Tăng quân về nước, cốt lo cổ động anh em qua học bên Nhật. Vừa khi đó ông Nguyễn Hải Thần ở nước nhà trốn qua tới Nhật, gặp tôi ở Yokohama, được đọc bài văn của tôi, ông lấy làm mừng lắm, tình nguyện gánh vác khoản tiền tổn phí cổ động du học sinh.
@@ -114,7 +123,10 @@ Bài văn《Khuyên Thanh Niên du học》viết xong rồi, thuê in ra mấy 
 Không bao lâu, tiếng vang dội của bài văn tôi làm rung động xôn xao cả trong nước. Tháng giêng năm Bính Ngọ (1906), tôi đến nhà ông Khuyển Dưỡng Nghị để bàn tính về việc đưa học sinh Việt Nam sang học, sắp đặt cho anh em trường học, chổ ở sẵn sàng.
 {: .text-justify}
 
-Lúc đó ông Phước Đảo đang làm hiệu trưởng Chân Võ học hiện tại Tokyo, tôi liền xin cho Trần Hữu Công (tức Nguyễn Thức Canh), Lương Lập Nham và Nguyễn Điển 3 người vô học trường ấy. Còn 1 người nữa là Lương Nghị Khanh thì vô học Đồng Văn thư viện. Nước ta 4 ngàn năm nay chưa hề có người nào du học ngoại quốc, có chăng là tự 4 người này trước hết. Ôi! lịch sử quốc dân ta như thế ai bảo là thằng bé con lụ khụ trăm tuổi cũng phải.
+Lúc đó ông Phước Đảo đang làm hiệu trưởng Chân Võ học hiện tại Tokyo, tôi liền xin cho Trần Hữu Công (tức Nguyễn Thức Canh), Lương Lập Nham và Nguyễn Điển 3 người vô học trường ấy. Còn 1 người nữa là Lương Nghị Khanh thì vô học Đồng Văn thư viện. Nước ta 4 ngàn năm nay chưa hề có người nào du học ngoại quốc, có chăng là tự 4 người này trước hết.
+{: .text-justify}
+
+Ôi! lịch sử quốc dân ta như thế ai bảo là thằng bé con lụ khụ trăm tuổi cũng phải.
 {: .text-justify}
 
 ## Đón hội chủ sang Nhật
@@ -133,7 +145,7 @@ Cách sau mấy tuần, ông nói với tôi:
 Xem dân trí Nhật Bản rồi đem dân trí ta ra so sánh, thật không khác gì muốn đem con gà con đọ với con chim cắt già. Giờ bác ở đây, nên chuyên tâm ra sức vào việc văn thức tỉnh đồng bào cho khải tai điếc mắt đui, còn việc mở mang dìu dắt ở trong nước nhà thì tôi xin lãnh. Lưỡi tôi đang còn, người Pháp chẳng làm gì tôi được mà lo.
 {: .notice .text-justify}
 
-Tôi cho lời ông nói rất phải. Rồi tôi viết ra tập đầu《Hải Ngoại Huyết Thư》. Nhân lúc Phan quân về nước, tôi gởi đem Huyết thư đã về. Đối với bà con trong nước, tôi làm một người khua động chuông chiều trống sớm để thức tỉnh, thật là tập văn này nối gót《Huyết lệ Tân Thư》 mà ra đời vậy.
+Tôi cho lời ông nói rất phải. Rồi tôi viết ra tập đầu《Hải Ngoại Huyết Thư》. Nhân lúc Phan quân về nước, tôi gởi đem Huyết Thư về. Đối với bà con trong nước, tôi làm một người khua động chuông chiều trống sớm để thức tỉnh, thật là tập văn này nối gót《Huyết lệ Tân Thư》 mà ra đời vậy.
 {: .text-justify}
 
 Cách không bao lâu, bọn anh em trong phái quá khích ở Nghệ Tĩnh, như mấy ông Đại Đẩu, Thần Sơn, phần nhiều viết thư hối thúc tôi về việc quân giới. Chỉ một vấn đề đó, khiến cho tôi hao tổn không biết bao nhiêu tâm huyết mà gây ra lắm nỗi thất bại thê thảm, thật là khổ não cho tôi!

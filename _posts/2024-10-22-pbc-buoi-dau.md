@@ -8,18 +8,12 @@ parent:
   url: phan-boi-chau
 ---
 
-Sực tỉnh trông ra ngỡ sáng loà,\
-Đêm sao đêm mãi thế ru mà?\
-Lạnh lùng bốn bể ba phần tuyết,\
-Xao xác năm canh một tiếng gà,\
-Chim chóc hãy còn nương cửa tổ,\
-Bướm ong chưa thấy lượn vườn hoa.\
-Nào ai là kẻ tìm ta đó,\
-Đốt đuốc mà soi kẻo lẫn nhà!
+Khuya sớm những mong ghi sử sách,\
+Lập thân hèn nhất ấy văn chương.
 {: .notice--warning}
 
 > <cite>
-Tú Xương《Đêm dài》
+Viên Mai《Tùy Viên Thi Thoại - Vịnh Hoài》
 </cite>
 
 ![alt]({{ 'assets/images/liu-yong-he-chong-tian.jpeg' | absolute_url }})
@@ -28,13 +22,13 @@ Tú Xương《Đêm dài》
 </cite>
 
 ## Tôn Cường Để lên làm minh chủ
-Số là ban đầu tôi định chiêu nạp bọn anh hùng lục lâm và những người trong đảng Cần Vương còn sót lại để dựng cờ khởi nghĩa ở khoảng Nghệ Tĩnh. Bởi vậy có một lúc nhiều khách rượu làng chơi, cùng tôi giao du lui tới thân mật lắm.
+Số là ban đầu tôi định chiêu nạp bọn anh hùng lục lâm và những người trong đảng Cần Vương còn sót lại để dựng cờ khởi nghĩa ở khoảng Nghệ Tĩnh. Bởi vậy có một lúc nhiều khách rượu làng chơi cùng tôi giao du, lui tới thân mật lắm.
 {: .text-justify}
 
 Bộ hạ cũ của Phan Tướng Công là Quỳnh Quảng và môn hạ của Bạch Xỉ là bọn Kiễm và Cọng hay ra vào lui tới nhà tôi luôn.
 {: .text-justify}
 
-Nhà tôi là nhà làm nghề dạy học, nhưng mà học trò chỉ ở nhà ngoài, còn nhà trong thì chứa đầy khách hào kiệt sơn lâm. Các ông đồ nho trong xóm gặp lúc đi ngang chợt ngó thấy tình trạng như thế, đều lắc đầu lè lưỡi, đến nỗi lần sau các ông không dám day mặt ngó vào nhà tôi nữa.
+Nhà tôi là nhà làm nghề dạy học, nhưng mà học trò chỉ ở nhà ngoài, còn nhà trong thì chứa đầy khách hào kiệt, sơn lâm. Các ông đồ nho trong xóm gặp lúc đi ngang chợt ngó thấy tình trạng như thế, đều lắc đầu lè lưỡi, đến nỗi lần sau các ông không dám day mặt ngó vào nhà tôi nữa.
 {: .text-justify}
 
 Việc chúng tôi mưu tính lần hồi chín chắn, gần tới ngày hẹn nhau phát lên rồi. Song ông bạn thân là Đặng quân Thái Thân nói với tôi:

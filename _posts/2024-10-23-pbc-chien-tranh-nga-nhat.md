@@ -8,6 +8,20 @@ parent:
   url: phan-boi-chau
 ---
 
+Sực tỉnh trông ra ngỡ sáng loà,\
+Đêm sao đêm mãi thế ru mà?\
+Lạnh lùng bốn bể ba phần tuyết,\
+Xao xác năm canh một tiếng gà,\
+Chim chóc hãy còn nương cửa tổ,\
+Bướm ong chưa thấy lượn vườn hoa.\
+Nào ai là kẻ tìm ta đó,\
+Đốt đuốc mà soi kẻo lẫn nhà!
+{: .notice--warning}
+
+> <cite>
+Tú Xương《Đêm dài》
+</cite>
+
 ![alt]({{ 'assets/images/russo-japanese-war-batte-sha-river-taizi-yoshikuni.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://www.thecollector.com/russo-japanese-war-global-asian-power/">
@@ -65,7 +79,10 @@ Chúng tôi bôn tẩu quốc sự bao lâu, nghĩ có mất xác rụng đầu 
 Từ hồi bỏ nước đi ra ngoài, đầu óc mắt tai mình mới là bắt đầu biến đổi. Nhưng không thể nào không bảo được rằng đó là nhờ trận Nhật Nga đánh nhau đã làm vang bóng cho tâm não chúng tôi.
 {: .text-justify}
 
-Than ôi! Đến giữa thế kỷ 19, gió Mỹ mưa Âu đã làm ồn ào vũ trụ, vậy mà ngó lại nước ​mình vẫn còn đang ở trong cơn mơ mộng ngủ say. Lúc bấy giờ dân ta còn mù mịt chuyện đời đã đành, không trách gì được. Nhưng ngay đến hạng người trồi đầu khét tiếng như tôi mà cũng như ếch nằm đáy giếng, kiến ở trong hang, có hiểu biết chuyện đời là gì đâu. Nghĩ trong thế giới có thứ người đáng buồn cười mà cũng đáng thương xót, không còn ai hơn bà con nước mình.
+Than ôi! Đến giữa thế kỷ 19, gió Mỹ mưa Âu đã làm ồn ào vũ trụ, vậy mà ngó lại nước ​mình vẫn còn đang ở trong cơn mơ mộng ngủ say. Lúc bấy giờ dân ta còn mù mịt chuyện đời đã đành, không trách gì được.
+{: .text-justify}
+
+Nhưng ngay đến hạng người trồi đầu khét tiếng như tôi mà cũng như ếch nằm đáy giếng, kiến ở trong hang, có hiểu biết chuyện đời là gì đâu. Nghĩ trong thế giới có thứ người đáng buồn cười mà cũng đáng thương xót, không còn ai hơn bà con nước mình.
 {: .text-justify}
 
 Là bởi nước mình thuở trước chỉ đóng cửa ngồi nhà, trăm điều kiến văn gì, quanh quẩn trong vòng chữ nghĩa thi cử Hán học mà thôi; vậy cứ bảo ngay quốc dân mình là bọn tai điếc mắt đui, cũng không phải là nói quá đáng chút nào.
@@ -78,7 +95,10 @@ Sau lúc Nhật Nga khai chiến, giữa khoảng hai năm Giáp Thìn Ất Tỵ
 {: .text-justify}
 
 ### Quyết sang Nhật cầu viện
-Hạ tuần tháng 10 năm Giáp Thìn (1904) các tay lãnh tụ trong đảng mở cuộc đại hội ở tỉnh Quảng Nam, lấy sơn trang Nam Thạnh làm nơi khai hội. Nhận thấy chỗ này gần kinh đô Huế, tất ông Hội chủ chúng tôi có thể lén tới nhóm hội được. Lúc đó ông Tăng Bạt Hổ mới ở Hải Phòng vô, trong đảng thêm ra một tay kiện tướng, ai nấy vui vẻ hăng hái lạ thường.
+Hạ tuần tháng 10 năm Giáp Thìn (1904) các tay lãnh tụ trong đảng mở cuộc đại hội ở tỉnh Quảng Nam, lấy sơn trang Nam Thạnh làm nơi khai hội. Nhận thấy chỗ này gần kinh đô Huế, tất ông Hội chủ chúng tôi có thể lén tới nhóm hội được. 
+{: .text-justify}
+
+Lúc đó ông Tăng Bạt Hổ mới ở Hải Phòng vô, trong đảng thêm ra một tay kiện tướng, ai nấy vui vẻ hăng hái lạ thường.
 {: .text-justify}
 
 Các lãnh tụ đều nói vấn đề quân giới nếu không có nước ngoài giúp cho mình thì không xong. Lấy chỗ quan hệ về lịch sử, địa dư, nòi giống mà nói, có thể giúp ta được không ai khác hơn là Trung Quốc. Nhưng từ trận thua ở Lạng Sơn hồi năm Giáp Thân (1894) trở đi, Trung Quốc ký điều ước Bắc Kinh, đã phải đem cái chủ quyền phiên thuộc nước Nam mà nhường đứt cho Pháp rồi. Đến việc Hàm Nghi xuất bôn, trong khoảng mấy năm Dậu, Tuất, thiếu gì các cụ nhà ta chạy sang Trung Quốc cầu viện, nhưng đều bặt mất tin tức. Gương trước mới đó không xa, nước Tàu chẳng giúp gì cho ta được đâu mà mong, vô ích.
