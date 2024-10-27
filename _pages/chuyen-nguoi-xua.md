@@ -19,7 +19,7 @@ Người xưa với cõi hồng trần oán than.\
 Ta lần theo vết mây tan,\
 Vết xưa khắc lại giới quan của người.\
 Giờ đây vật đổi sao dời,\
-Vết xưa dấu ấy vẫn còn ở đây!
+Vết xưa, dấu ấy vẫn còn ở đây!
 
 > <cite>
 <a target="_blank" href="https://wei-he.xyz">Wéi Hé</a>
