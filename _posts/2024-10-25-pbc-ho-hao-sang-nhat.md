@@ -8,7 +8,6 @@ parent:
   url: phan-boi-chau
 ---
 
-
 Nay ta hát một thiên ái quốc,\
 Yêu gì hơn yêu nước nhà ta.\
 Trang nghiêm bốn mặt sơn hà,\
@@ -46,7 +45,6 @@ Chữ đồng tâm ấy phải cho một lòng.
 > <cite>
 Phan Bội Châu《Ái quốc》
 </cite>
-
 
 ![alt]({{ 'assets/images/phan-boi-chau-va-cuong-de.jpg' | absolute_url }})
 > <cite>

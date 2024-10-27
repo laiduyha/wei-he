@@ -8,7 +8,6 @@ parent:
   url: phan-boi-chau
 ---
 
-
 **花开不及春**\
 東皇曾酌眼,\
 Đông hoàng tằng chước nhãn,\

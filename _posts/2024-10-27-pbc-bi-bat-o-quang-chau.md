@@ -31,10 +31,10 @@ Tháng 2 năm Tân Hợi (1911), tôi lại qua Thái Lan. Lúc bấy giờ ngư
 Các ông viết thư sang Hồng Kong kêu tôi qua.
 {: .text-justify}
 
-Tôi suy nghĩ muốn băt chước Ngũ Tử Tư ngày xưa cày ruộng đợi thời, cũng là kế hay bèn đáp tàu sang Thái.
+Tôi suy nghĩ muốn bắt chước Ngũ Tử Tư ngày xưa cày ruộng đợi thời, cũng là kế hay bèn đáp tàu sang Thái.
 {: .text-justify}
 
-Sang đây, tôi tới ở sở ruộng Bạn Thầm, tắm gió gội sương, dầm mưa trải nắng, cùng mấy anh em thiếu niên cùng chia sớt đắng cay, hầu cho tiêu bớt nông nỗi đau thương, ăn không ngồi rồi.
+Sang đây, tôi tới ở sở ruộng Bạn Thầm (tỉnh Phichit, Thái Lan), tắm gió gội sương, dầm mưa trải nắng, cùng mấy anh em thiếu niên cùng chia sớt đắng cay, hầu cho tiêu bớt nông nỗi đau thương, ăn không ngồi rồi.
 {: .text-justify}
 
 Tôi sống cái đời nông phu cực nhọc trước sau 8 tháng.
@@ -43,13 +43,13 @@ Tôi sống cái đời nông phu cực nhọc trước sau 8 tháng.
 Nhưng trong 8 tháng đó, tôi thấy trong mình vui vẻ thơ thớt lạ lùng. Lúc khát gặp có suối nước thì uống, lúc đói vớ được trái cây thì ăn, cái ngày giờ cảm khái vô liêu của tôi lúc này, chôn đứt ở trong cảnh sống ăn sương hút gió, kể cũng là một cách sống thú vị của anh tráng sĩ đang cơn túng thế cùng đường. Bởi vậy, tôi cho câu chuyện đáng ghi chép là phải.
 {: .text-justify}
 
-Hồi này rảnh rang nhàn thích, tôi soạn ra được nhiều bài văn quốc ngữ. Nào truyện Lê Thái Tổ, nào truyện Trưng nữ vương. Nào là những khúc hát bài ca cổ vũ tấm lòng yêu nước, yêu nòi, yêu giống. Tôi đem những bài ấy ra dạy cho những người ở trong sở ruộng học thuộc lòng, sớm tối họ thường nghêu ngao ca hát làm vui. Ấy là tôi muốn gieo hột giống cách mạng ở giữa khoảng nước biếc non xanh vậy.
+Hồi này rảnh rang nhàn thích, tôi soạn ra được nhiều bài văn quốc ngữ. Nào truyện Lê Thái Tổ, nào truyện Trưng nữ Vương. Nào là những khúc hát bài ca cổ vũ tấm lòng yêu nước, yêu nòi, yêu giống. Tôi đem những bài ấy ra dạy cho những người ở trong sở ruộng học thuộc lòng, sớm tối họ thường nghêu ngao ca hát làm vui. Ấy là tôi muốn gieo hột giống cách mạng ở giữa khoảng nước biếc non xanh vậy.
 {: .text-justify}
 
 Tháng 10 năm ấy (Tân Hợi, 1911) Phan quân Bá Ngọc ở Hồng Kong sang Thái, đem cái tin Võ Xương khởi nghĩa nói cho tôi nghe. Tôi lấy làm động tâm hết sức.
 {: .text-justify}
 
-Hồi trước tôi còn ở bên Nhật, từng có cơ hội kết giao với bọn lãnh tụ cách mạng Tàu như Hoàng Khắc Cường, Chương Thái Viêm. Lại cùng bọn Trương Kế và chí sĩ các nước Triều Tiên, Nhật Bản, Ấn Độ và Philippines, tổ chức ra hội 《Đông Á Đồng Minh》. Chúng tôi với họ cũng là một hạng người đau lòng mất nước, mong phục nghiệp xưa, tôn chỉ vốn là tương hợp. Nay nghe tin quân cách mạng Trung Hoa dấy lên, khiến tôi có cái cảm giác tiếng đồng reo, tiếng chuông ứng.
+Hồi trước tôi còn ở bên Nhật, từng có cơ hội kết giao với bọn lãnh tụ cách mạng Tàu như Hoàng Khắc Cường, Chương Thái Viêm. Lại cùng bọn Trương Kế và chí sĩ các nước Triều Tiên, Nhật Bản, Ấn Độ và Philippines, tổ chức ra hội《Đông Á Đồng Minh》. Chúng tôi với họ cũng là một hạng người đau lòng mất nước, mong phục nghiệp xưa, tôn chỉ vốn là tương hợp. Nay nghe tin quân cách mạng Trung Hoa dấy lên, khiến tôi có cái cảm giác tiếng đồng reo, tiếng chuông ứng.
 {: .text-justify}
 
 Nhân đó Bá Ngọc khuyên tôi nên trở về nước Tàu.
@@ -59,11 +59,10 @@ Tôi liền từ giã sở ruộng ở Thái mà đi.
 {: .text-justify}
 
 ## Trần Kỳ Mỹ và Hồ Hán Dân giúp sức
-
 Hạ tuần tháng 11 tới Hồng Kong anh em đồng chí tản tác các nơi, giờ đều quần tụ lại đây.
 {: .text-justify}
 
-Lúc này tôi viết ra một bài chánh kiến, tựa là《Liên Á xổ ngôn》, cốt bày tỏ kêu gào hai nước Trung Hoa, Nhật Bản nên đấu sức cùng lòng, để sửa sang gây dựng đại cuộc châu Á.
+Lúc này tôi viết ra một bài chính kiến, tựa là《Liên Á xổ ngôn》, cốt bày tỏ kêu gào hai nước Trung Hoa, Nhật Bản nên đấu sức cùng lòng, để sửa sang gây dựng đại cuộc châu Á.
 {: .text-justify}
 
 Bài này truyền ra những người kiến thức đều khen ngợi tán thành.
@@ -72,35 +71,35 @@ Bài này truyền ra những người kiến thức đều khen ngợi tán th�
 Song thời cuộc Đông Á, đến nay, xoay đổi khác hẳn sự trông mong của mình lúc đó. Thế mới biết việc đời lý luận đi tới sự thật, không phải là chuyện dễ dàng. Bọn mình hay ngồi nói ngông tưởng hão, chỉ tổ làm trò cười cho người ta đó thôi.
 {: .text-justify}
 
-Mùa xuân năm Nhâm Tý (1912), nước Trung Hoa Dân quốc thành lập, cuộc cách mạng thế là xong xuôi; tôi bèn đi Thượng Hải, tìm thăm người bạn hào hiệp quen nhau thuở trước là Trần quân Kỳ Mỹ.
+Mùa xuân năm Nhâm Tý (1912), nước Trung Hoa Dân Quốc thành lập, cuộc cách mạng thế là xong xuôi; tôi bèn đi Thượng Hải, tìm thăm người bạn hào hiệp quen nhau thuở trước là Trần quân Kỳ Mỹ.
 {: .text-justify}
 
 Giữa lúc này Trần Kỳ Mỹ đang làm Đốc quân Thượng Hải giúp cho tôi một số tiền lớn. Lâu nay tôi khốn khổ về cảnh túng bấn nghèo nàn, không khác gì người hết gạo nhịn ăn lâu lắm rồi, bây giờ được Trần Kỳ Mỹ vác một số tiền lớn lao mà cho mình, khiến mình vui mừng yên ủi, vì lại có tiền để hoạt động.
 {: .text-justify}
 
-Vừa gặp lúc Dân đảng ở Quảng Đông cũng thành công đắc chí, Hồ Hán Dân làm Đô Đốc, cùng với Cảnh Sát cảnh trưởng Trần Cảnh Hoa, vốn tỏ ý đồng tình với đảng cách mạng nước ta, cho nên tôi nhân dịp lại đi Quảng Châu và định ở luôn tại đó.
+Vừa gặp lúc Dân đảng ở Quảng Đông cũng thành công đắc chí, Hồ Hán Dân làm Đô Đốc, cùng với cảnh sát trưởng Trần Cảnh Hoa, vốn tỏ ý đồng tình với đảng cách mạng nước ta, cho nên tôi nhân dịp lại đi Quảng Châu và định ở luôn tại đó.
 {: .text-justify}
 
-Trung Hoa Dân quốc dựng lên, như có luồng gió tiếng vang, rung động tới nước mình nhiều. Dân khí ta lại phấn chấn đáo để. Những hạng chí khí lại rủ nhau bỏ nước mạo hiểm trốn ra ngoài, chân nối gót nhau tới Quảng Châu đông lắm.
+Trung Hoa Dân Quốc dựng lên, như có luồng gió tiếng vang, rung động tới nước mình nhiều. Dân khí ta lại phấn chấn đáo để. Những hạng chí khí lại rủ nhau bỏ nước mạo hiểm trốn ra ngoài, chân nối gót nhau tới Quảng Châu đông lắm.
 {: .text-justify}
 
-Bọn ông Liệt Sanh ở Nam Kỳ qua; bọn ông Hải Thần ở Bắc Kỳ tới: bọn Đặng Tử Kính và Đặng Hồng Phấn thì ở Thái sang. Cho tới mấy anh em học tốt nghiệp ở trường Lục quân Quảng Tây lớp nọ, nay cũng đồng thời kéo đến Quảng Châu để hội họp nhau.
+Bọn ông Liệt Sanh ở Nam Kỳ qua; bọn ông Hải Thần ở Bắc Kỳ tới; bọn Đặng Tử Kính và Đặng Hồng Phấn thì ở Thái sang. Cho tới mấy anh em học tốt nghiệp ở trường Lục quân Quảng Tây lớp nọ, nay cũng đồng thời kéo đến Quảng Châu để hội họp nhau.
 {: .text-justify}
 
 Chúng tôi có thuê một căn nhà ở ngoài thành để làm cơ quan, anh em tới ở đông quá, đến nỗi chật chỗ.
 {: .text-justify}
 
-Đẳng viên xã hội Tàu ở Quảng Đông là bọn các ông Đặng Cảnh Á và Lưu Sư Phục, cũng ra tay giúp sức đảng cách mạng Việt Nam mà vận động dùm với các giới.
+Đảng viên xã hội Tàu ở Quảng Đông là bọn các ông Đặng Cảnh Á và Lưu Sư Phục, cũng ra tay giúp sức đảng cách mạng Việt Nam mà vận động dùm với các giới.
 {: .text-justify}
 
-Chính phủ Quảng Đông lúc bấy giờ vốn đã sẵn lòng ngó lơ cho ta, thành ra đảng ta tấn hành mọi việc hoạt động được thong thả tự nhiên, không bị trở ngăn lo ngại gì cả. Nhờ vậy mà đảng cách mạng ta có vẻ phấn khởi khá lắm.
+Chính phủ Quảng Đông lúc bấy giờ vốn đã sẵn lòng ngó lơ cho ta, thành ra đảng ta tiến hành mọi việc hoạt động được thong thả tự nhiên, không bị trở ngăn lo ngại gì cả. Nhờ vậy mà đảng cách mạng ta có vẻ phấn khởi khá lắm.
 {: .text-justify}
 
-Anh em đồng chí ngó thấy vậy, đều khuyên nhủ thúc giục tôi nên thừa cơ hội này mà cử đồ đại sự. Bình sinh tôi vốn ôm chủ nghĩa quá khích nay lại được đa số anh em đồng chí thúc hối tán thành, cho nên tôi càng quả quyết làm, vì đó mới có cái màn thất bại thê thảm lại diện ra một lần thứ hai nữa.
+Anh em đồng chí ngó thấy vậy, đều khuyên nhủ thúc giục tôi nên thừa cơ hội này mà cử đồ đại sự. Bình sinh tôi vốn ôm chủ nghĩa quá khích nay lại được đa số anh em đồng chí thúc hối tán thành, cho nên tôi càng quả quyết làm, vì đó mới có cái màn thất bại thê thảm lại hiện ra một lần thứ hai nữa.
 {: .text-justify}
 
 ## Long Tế Quang bắt tôi hạ ngục
-Cùng năm tháng năm Nhâm Tý (1912), anh em trong đảng sửa sang tổ chức lại, thành ra hội《Việt Nam Quang Phục - 會復光南越》.
+Tháng năm Nhâm Tý (1912), anh em trong đảng sửa sang tổ chức lại, thành ra hội《Việt Nam Quang Phục - 會復光南越》.
 {: .text-justify}
 
 Các đồng chí cử tôi giữ quyền tổng lý; Hoàng quân Trọng Mậu thì làm bí thư.
@@ -109,16 +108,16 @@ Các đồng chí cử tôi giữ quyền tổng lý; Hoàng quân Trọng Mậu
 Chúng tôi thảo ra thể lệ cách thức đạo quân Việt Nam Quang Phục, lại in ra phiếu quân dụng riêng cho Việt Nam Quang Phục quân dùng với nhau. Một mặt khác, chúng tôi muợn in vô số sách vở văn bài cổ động, như là truyện《Hà thành Liệt sĩ》và bài văn《Khuyên bảo lính tập》, rồi sai người chuyển vận về nước, rải phát tứ tung.
 {: .text-justify}
 
-Tháng hai năm Quý Sửu (1913), chúng tôi ủy ông Nguyễn Hải Thần làm chi bộ bộ trưởng hội Việt Nam Quang Phục ở Quế Biên (giáp giới tỉnh Quế, tức tỉnh Quảng Tây); ông Trần Văn Kiện làm chi bộ bộ trưởng ở Thái biên, còn ngả Điền biên (Điền là tên tắt của tỉnh Vân Nam) thì Đổ quân Chơn Thiết tự nguyện phụ trách.
+Tháng hai năm Quý Sửu (1913), chúng tôi ủy ông Nguyễn Hải Thần làm chi bộ bộ trưởng hội Việt Nam Quang Phục ở Quế Biên (giáp giới tỉnh Quế, tức tỉnh Quảng Tây); ông Trần Văn Kiện làm chi bộ bộ trưởng ở Thái biên; còn ngả Điền biên (Điền là tên tắt của tỉnh Vân Nam) thì Đổ quân Chơn Thiết tự nguyện phụ trách.
 {: .text-justify}
 
-Chúng tôi bàn định lúc nào cử sự thì cả ba mặt cùng tiến, cho nên sắp đặt từ trước sẳn sàng chỉ còn đợi ngày giờ đến thì làm việc.
+Chúng tôi bàn định lúc nào cử sự thì cả ba mặt cùng tiến, cho nên sắp đặt từ trước sẵn sàng chỉ còn đợi ngày giờ đến thì làm việc.
 {: .text-justify}
 
 Tuy vậy, lúc ấy đảng ta vẫn có một vấn đề khó nỗi giải quyết, là vấn đề kinh tế.
 {: .text-justify}
 
-Khó quá, kinh tế chưa được sung túc, mà đến khí giới với quân lương cũng đều lo ngại thiếu thốn nửa mới khổ. Nhưng nếu đừng có việc tai biến gì xẩy ra một cách bất ngờ, để chúng tôi còn có ngày giờ thì vấn đề ấy dầu khó mặc lòng, họa may có thể trù tính xong được. Song chẳng may thuyền xuôi gió ngược, tai biến xẩy ra không ngờ, làm cho toàn cuộc mưu tính của chúng tôi hư hỏng tiêu tan như bọt nước bóng mây. Hán Vỏ hầu Gia Cát Khổng Minh than rằng việc đời khó được như ý, thật đúng lắm thay!
+Khó quá, kinh tế chưa được sung túc, mà đến khí giới với quân lương cũng đều lo ngại thiếu thốn nửa mới khổ. Nhưng nếu đừng có việc tai biến gì xảy ra một cách bất ngờ, để chúng tôi còn có ngày giờ thì vấn đề ấy dầu khó mặc lòng, họa may có thể trù tính xong được. Song chẳng may thuyền xuôi gió ngược, tai biến xẩy ra không ngờ, làm cho toàn cuộc mưu tính của chúng tôi hư hỏng tiêu tan như bọt nước bóng mây. Hán Vỏ Hầu Gia Cát Khổng Minh than rằng việc đời khó được như ý, thật đúng lắm thay!
 {: .text-justify}
 
 Mùa hạ năm Quý Sửu (1913), ở tỉnh thành Quảng Đông có việc quân lính nổi dậy gây biến, cốt đánh đổ Đô đốc Trần Cảnh Hoa, làm cho Trần phải chạy. Long Tế Quang kéo binh tới, tự lãnh chức Đô đốc Quảng Đông.
@@ -145,10 +144,10 @@ Cách không bao lâu, có tin báo rằng quan Toàn quyền Đông Pháp sắp
 Ban đầu mới bị bắt, tôi vẫn tự nghĩ rằng mình không đến nỗi nào phải chết. Đến lúc thấy cách thức người ta áp giải mình đi dọc đường, nào xiềng tay, nào trói chặt, dẫn về tới ngục thất, họ lại giam trong ngục thất chung một chỗ với bọn tù xử tử, bấy giờ tôi mới biết rằng Đô đốc Long Tế Quang không đãi tôi là hạng tù chính trị, vậy thì ngày giờ tôi chết gần đến nơi mất rồi!
 {: .text-justify}
 
-Từ khi xuất dương tới giờ, tôi được nếm mùi ở tù, lần này là lần thứ nhất. Nhưng Mai quân hơn tôi: lần này ông ta vào ngục là lần thứ ba rồi.
+Từ khi xuất dương tới giờ, tôi được nếm mùi ở tù, lần này là lần thứ nhất. Nhưng Mai quân hơn tôi, lần này ông ta vào ngục là lần thứ ba rồi.
 {: .text-justify}
 
-Vào ngục bữa đầu hết, tôi với Mai quân ở chung một săn-lim. Đêm hôm ấy tôi đọc miệng một bài thơ để an ủi Mai quân như vầy:
+Vào ngục bữa đầu hết, tôi với Mai quân ở chung một xà lim. Đêm hôm ấy tôi đọc miệng một bài thơ để an ủi Mai quân như vầy:
 {: .text-justify}
 
 飃蓬我輩各他鄉\
@@ -175,10 +174,10 @@ Bơ vơ đất khách bác cùng tôi;\
 Riêng bác cay chua nếm đủ mùi.\
 Tính mạng bao phen gần chết hụt.\
 Mày râu ba lượt bị giam rồi!\
-Trời toan đại-dụng nên rèn chí.\
-Chúa giúp thành-công tất có hồi.\
+Trời toan đại dụng nên rèn chí.\
+Chúa giúp thành công tất có hồi.\
 Nếu phải đường đời bằng phẳng hết.\
-Anh hùng hào kiệt có hơn ai.\
+Anh hùng hào kiệt có hơn ai.
 {: .notice--warning .text-justify}
 
 Còn tôi thì tự an ủi mình bằng một bài thơ nôm như sau này:
@@ -212,7 +211,7 @@ Cái chí tôi hoài bão ra thế nào?
 Thì chí muốn đổ máu ra mua sự tự do, đánh đổi cái kiếp tôi tớ lấy quyền tự chủ đó thôi.
 {: .text-justify}
 
-Ôi! cái chí tôi hoài bão như thế, cứ lấy thiên chức quốc dân ta mà nói, có ai dám bảo rằng: không nên. Song ôm cái chí đó mà có làm thành việc lớn chăng, thì phải nhờ có bắp thịt cứng ra thế nào, học thức giỏi ra thế nào, thủ đoạn có tài thao túng ra thế nào, thời thế có khéo xoay chuyển thế nào mới được. Đằng này tôi tự hỏi lấy tôi, bất quá như anh mù cỡi con ngựa đui vậy thôi. Bây giờ kết quả thất bại như thế này, chính vì tôi dở mà ra, còn than trách gì nữa!
+Ôi! Cái chí tôi hoài bão như thế, cứ lấy thiên chức quốc dân ta mà nói, có ai dám bảo rằng: không nên. Song ôm cái chí đó mà có làm thành việc lớn chăng, thì phải nhờ có bắp thịt cứng ra thế nào, học thức giỏi ra thế nào, thủ đoạn có tài thao túng ra thế nào, thời thế có khéo xoay chuyển thế nào mới được. Đằng này tôi tự hỏi lấy tôi, bất quá như anh mù cỡi con ngựa đui vậy thôi. Bây giờ kết quả thất bại như thế này, chính vì tôi dở mà ra, còn than trách gì nữa!
 {: .text-justify}
 
 Tuy vậy, tôi nghĩ trong thế giới chẳng lẽ nào có một con nước hễ đã xuống rồi thì không bao giờ nó lại lên, chẳng lẽ nào có một cuộc đời hễ đã thành rồi thì không có lúc thay đổi; bởi vậy cái cuộc thất bại của tôi tạo ra ngày nay, biết đâu không phải là cái phước cho quốc dân ta sau này?
