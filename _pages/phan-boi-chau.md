@@ -60,6 +60,7 @@ Sách được in lần đầu tiên năm 1914 và tái bản năm 1938. Nguyên
 ### <a href="/pbc-dan-than-bao-luc-cach-mang">Kỳ 6. Dấn thân vào làm bạo lực cách mạng</a>
 * 1908 (41 tuổi) - Lập《Tân Việt Nam Cống Hiến》ở Hồng Kong
 * 1909 (42 tuổi) - Pháp Nhật câu kết, bị trục xuất khỏi Nhật
+* 1910 (43 tuổi) - Tìm đường chuyển vũ khí từ Trung Quốc về nước nhưng thất bại
 
 ## Hồi II: Tiền đồ đen tối sẽ xuất hiện ánh sáng ban mai
 
