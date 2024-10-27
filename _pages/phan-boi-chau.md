@@ -28,12 +28,12 @@ Nghĩ xem mình đã sinh nhằm non sông còn ấu trĩ, nòi giống còn u m
 <a target="_blank" href="https://vi.wikisource.org/wiki/%C4%90%E1%BB%9Di_c%C3%A1ch_m%E1%BA%A1ng_Phan_B%E1%BB%99i_Ch%C3%A2u">Theo Phan Bội Châu《Ngục trung thư》- Đào Trinh Nhất dịch</a>
 </cite>
 
-## Hồi I: Ngục Trung Thư 1913 (46 tuổi)
+## Hồi I: Thuật theo《Ngục Trung Thư》 1913 (46 tuổi)
 Ngục trung thư (Sách viết trong tù) là một bản văn do Phan Bội Châu viết lúc ở tù tại Quảng Châu năm 1913. Sách thuật lại chí hướng và những hoạt động cách mạng trong thời gian lưu vong của ông trước đó, cùng nhắn gửi những người cùng chí hướng.
-{: .text-justify}
+{: .notice .text-justify}
 
 Sách được in lần đầu tiên năm 1914 và tái bản năm 1938. Nguyên tác bằng chữ Hán và chữ Nôm. Sau này được Đào Trinh Nhất dịch ra tiếng Việt, Nippon-Bunka-Kaikan xuất bản ở Hà Nội năm 1945, đề tên là Đời cách mạng Phan Bội Châu.
-{: .text-justify}
+{: .notice .text-justify}
 
 ### <a href="/pbc-tuoi-tre-nuoi-chi-lon">Kỳ 1. Tuổi trẻ nuôi chí lớn</a>
 * 1862: Pháp chiếm Nam Kỳ
@@ -67,6 +67,12 @@ Sách được in lần đầu tiên năm 1914 và tái bản năm 1938. Nguyên
 * 1912 (45 tuổi) - Lập《Việt Nam Quang Phục》hội ở Quảng Châu
 * 1913 (46 tuổi) - Bị Long Tế Quang bắt ở Quảng Châu
 
-## Hồi II: Tiền đồ đen tối sẽ xuất hiện ánh sáng ban mai
+## Hồi II: Thuật theo《Tự phán》1929 (62 tuổi)
+Phan Bội Châu viết Tự phán vào năm 1929 theo lời tựa của cụ Huỳnh Thúc Kháng viết năm 1946, bằng chữ Hán. 
+{: .notice .text-justify}
 
-* 1925 (58 tuổi): bị Pháp bắt và giam lỏng ở Bến Ngự, Huế; được dân gọi là <a href="/pbc-ong-gia-ben-ngu">"Ông Già Bến Ngự"</a>
+Tựa sách Tự Phê, Tự Phán. Tác giả Phan Bội Châu viết.\
+Tôi bị bắt ở nước ngoài đem về, bị giam trong ngục; nhờ quốc dân quá thương nên mới giữ được mạng sống tới nay. Tôi xa nước, xa đồng bào mấy chục năm, nay may được cùng nhau nhắc nhớ chuyện xưa. Có người yêu tôi, có người ghét tôi, có người mong đợi ở tôi, nhưng dù biết tôi hay không biết tôi, ai cũng muốn biết rõ đầu đuôi cái lịch sử của Phan Bội Châu này.
+{: .notice .text-justify}
+
+* 1925 (58 tuổi): bị Pháp bắt và an trí ở Bến Ngự, Huế.
