@@ -26,9 +26,9 @@ Phan Bội Châu《Sống》
 
 ![alt]({{ 'assets/images/du-hoc-sinh-dong-du.jpg' | absolute_url }})
 
-Một số lưu học sinh phong trào Đông Du:\
-Hàng thứ nhất (ngồi) từ trái qua phải: Trần Đông, Hà Đương Nghiêu, Hải Thần, Phan Bá Ngọc, Đặng tử Mẫn\
-Hàng thứ 2 (đứng) từ trái qua phải: Nguyễn Thái Bạt, Trương Hưng, Hải Thạc (tức Nguyễn Quỳnh Chi), con trai thứ hai của Tán Thuật, Hoàng Trọng Mậu, Đặng Tử Võ, Quỳnh Lâm, Trần Hữu Lực
+Hàng thứ nhất (ngồi) từ trái qua phải: Trần Đông, Hà Đương Nghiêu, Hải Thần, Phan Bá Ngọc, Đặng Tử Mẫn.\
+ \
+Hàng thứ 2 (đứng) từ trái qua phải: Nguyễn Thái Bạt, Trương Hưng, Hải Thạc (tức Nguyễn Quỳnh Chi), con trai thứ hai của Tán Thuật, Hoàng Trọng Mậu, Đặng Tử Võ, Quỳnh Lâm, Trần Hữu Lực.
 {: .notice}
 
 > <cite>
@@ -44,7 +44,7 @@ Nhưng mà tôi thật là ngu!
 Chớ chi dân ta đều khôn thì ai bắt mình làm trâu ngựa được, dân ta mà đều biết yêu nòi thương nước thì ai bắt mình làm nô lệ được? Nghĩ lại mình ở trong tay người ta ràng buộc mà toan cất tiếng cả lời, nói bàn về chuyện ái quốc bảo chủng, có khác nào ngồi trước mặt đạo tặc mà bàn cách khu trừ đạo tặc đâu. Ai người kiến thức cũng đã sớm liệu cái mưu ấy của tôi tất phải thấi bại rồi.
 {: .text-justify}
 
-Tuy là lúc bấy giờ tôi ôm cái kế hoạch như thế mặc lòng, nhưng đối với sự yêu cầu của anh em trong phe quá khích, không thể nào nghảnh mặt làm lơ cho được.
+Tuy là lúc bấy giờ tôi ôm cái kế hoạch như thế mặc lòng, nhưng đối với sự yêu cầu của anh em trong phe quá khích, không thể nào ngoảnh mặt làm ngơ cho được.
 {: .text-justify}
 
 Bởi vậy tôi lại tính phải trở về nước lần thứ nhì nữa. Lần này về nước có hai mục đích.
@@ -68,7 +68,7 @@ Phan quân còn nhỏ tuổi mà người thông minh anh tuấn. Lúc tôi còn
 Sau khi từ biệt Phan quân rồi tôi vội vàng đi Khâm Châu, tìm kiếm một người trong nghĩa đảng hồi trước, tên là Tiền Đức, để nhờ cậy làm người hướng đạo. Chúng tôi đi men một dọc bờ cõi dưới Tư Châu, qua phủ Thái Bình, đến Long Châu, rồi vượt qua cửa ải Trấn Nam quan. Trước sau cả thẩy 5 tuần lễ, bao nhiêu địa thế hiểm trở, tôi đều xem xét kỹ lưỡng. Tiền Đức cũng có công trong việc này nhiều lắm.
 {: .text-justify}
 
-Qua ải Trấn nam, tới chợ Văn Uyên. Chợ này có đồn lính một viên quan binh tây 4 lon chỉ huy. Hễ ai không có thông hành hộ chiếu của lãnh sự Pháp cấp cho thì không đi qua lọt.
+Qua ải Trấn Nam, tới chợ Văn Uyên. Chợ này có đồn lính một viên quan binh tây 4 lon chỉ huy. Hễ ai không có thông hành hộ chiếu của lãnh sự Pháp cấp cho thì không đi qua lọt.
 {: .text-justify}
 
 Tôi mua được một tờ thông hành của một chú khách buôn, mạo danh là Hoa thương mà đi. Lúc này trên giấy thông hành chưa có lệ phải dán hình ảnh thành ra tôi được bình an vô sự, lên xe lửa ở Đồng Đăng mà đi Hà Nội.
@@ -79,7 +79,7 @@ Hồi này là thượng tuần tháng 9.
 Xe lửa tới ga Gia Lâm thì tôi xuống, đi đường bộ lên Thái Nguyên, tới Chợ Chu vào thăm Lương Tam Kỳ. Nguyên là lúc tôi đi ngang qua Thái Bình Phủ, đã có dịp vào ra mắt quan Thống lãnh Trần Thế Hoa, xin ông giới thiệu tôi với Lương Tam Kỳ, bởi Lương là bộ hạ cũ của ông. Ông Trần lại sai một viên thuộc hạ dẫn đường cho tôi đi tới đồn điền của Lương.
 {: .text-justify}
 
-Lương ở Thái Nguyên, có thế lực khá lớn, cầy ruộng nuôi trâu, gần chiếm hết 8 phần mười của toàn tỉnh. Bộ hạ rất đông quân giới cũng hơi khá, chính phủ Pháp phong làm chức Chiếu phủ đại sứ để dễ ràng buộc họ Lương.
+Lương ở Thái Nguyên, có thế lực khá lớn, cầy ruộng nuôi trâu, gần chiếm hết 8 phần mười của toàn tỉnh. Bộ hạ rất đông quân giới cũng hơi khá, chính phủ Pháp phong làm chức Chiếu Phủ Đại Sứ để dễ ràng buộc họ Lương.
 {: .text-justify}
 
 Lúc tôi và người của ông Trần đến đây Lương Tam Kỳ hoan nghênh hết sức. Nhân dịp, tôi thuyết họ Lương phản chánh và giúp sức chúng tôi.
@@ -108,7 +108,7 @@ Rồi đó chúng tôi xin Hoàng tướng quân cắt đất làm đồn, tính
 Giữa hồi này ông Đại Đẩu cũng đang ở trên đồn. Tôi căn dặn ông về nói với anh em trong đảng nên tính cách làm ruộng chờ thời.
 {: .text-justify}
 
-Không bao lâu có đồn《Tú Nghệ》lập ra. Việc tôi làm chuyến này, là một cái kết quả nho nhỏ vậy.
+Không bao lâu có đồn Tú Nghệ lập ra. Việc tôi làm chuyến này, là một cái kết quả nho nhỏ vậy.
 {: .text-justify}
 
 ## Chính phủ Lâm thời Tân Việt Nam
@@ -133,7 +133,7 @@ Hồi này tiếng tăm vang dậy, lũ sói chồn bủa vây khắp tứ vi, a
 Khoảng trung tuần tháng chạp, qua cửa ải Nam Quan, do đường Quảng Tây mà đến Ngô Châu, để xuống ghe Ngô Châu đi Hồng Kong (Hương Cảng).
 {: .text-justify}
 
-Thượng tuần tháng hai năm Đinh Mùi (1907) tới nơi.
+Thượng tuần tháng hai, năm Đinh Mùi (1907) tới nơi.
 {: .text-justify}
 
 Bài văn khuyến học của tôi, truyền bá rồi. Thiếu niên nước nhà trốn người Pháp mà xuất dương, tấp nập trên đường.
@@ -203,7 +203,10 @@ Tôi với Hội chủ Kỳ Ngoại Hầu cũng bị chính phủ Nhật buộc 
 Nhưng chúng tôi gặp phải cảnh ngộ này, không có tài sức nào tổ chức được học đoàn nữa. Duy có để cho anh em học sinh bền lòng gắng chí, tự lo lấy cách tìm đường cầu học mà thôi.
 {: .text-justify}
 
-Lúc bấy giờ có người chạy qua Bắc Kinh, như bọn Chung Hạo Sanh, Hồ Học Lãm. Có người tới Quảng Tây như Nguyễn Tiêu Đẩu (Bá Trác), Nguyễn Siêu, Huỳnh Trọng Mậu. Có người chạy sang Thái Lan (Xiêm La), như bọn Hồ Vĩnh Long, Đặng Quốc Kiều. Cũng có người vẫn lưu ở Nhật, giả mạo làm người Tàu để cầu học, như đám Trần Trọng Khắc, Hoàng Đình Tuân. Chân trời lênh đênh, ai lo thân nấy. Kể về tinh thần, anh em ta vẫn là một bọn ái quốc thanh niên, nhưng về hình thức thì bây giờ họ là một lũ học sinh bơ vơ trôi nổi.
+Lúc bấy giờ có người chạy qua Bắc Kinh, như bọn Chung Hạo Sanh, Hồ Học Lãm. Có người tới Quảng Tây như Nguyễn Tiêu Đẩu (Bá Trác), Nguyễn Siêu, Huỳnh Trọng Mậu. Có người chạy sang Thái Lan (Xiêm La), như bọn Hồ Vĩnh Long, Đặng Quốc Kiều. Cũng có người vẫn lưu ở Nhật, giả mạo làm người Tàu để cầu học, như đám Trần Trọng Khắc, Hoàng Đình Tuân. 
+{: .text-justify}
+
+Chân trời lênh đênh, ai lo thân nấy. Kể về tinh thần, anh em ta vẫn là một bọn ái quốc thanh niên, nhưng về hình thức thì bây giờ họ là một lũ học sinh bơ vơ trôi nổi.
 {: .text-justify}
 
 Lúc đó tôi làm thế nào?
@@ -247,7 +250,7 @@ Kinh nhân nhất chỉ ngọc sơn đồi.\
  \
 *Nghĩa là:*\
 Lo nước bao phen sa huyết lệ,\
-Tin quê đưa tới luống kinh tâm...\
+Tin quê đưa tới luống kinh tâm.\
  \
 *Lại còn một câu nữa:*\
 Khả vô mãnh hỏa thiêu sầu khứ,\

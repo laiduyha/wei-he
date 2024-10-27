@@ -19,7 +19,7 @@ Chân dung Phan Bội Châu
 Phan Bội Châu (潘佩珠) sinh 1867 mất 1940 thọ 73 tuổi. Cuộc đời cách mạng của ông hoạt động chủ yếu vào những năm 35-60 tuổi. Ông như một con vụ xoay vòng tìm cách đưa đất nước thoát ra khỏi những gông cùm, mưu toan, sắp đặt của thực dân, đế quốc thời đó. 
 {: .text-justify}
 
-Có người nói rằng ông ngây thơ, và ngay cả chính ông cũng tự nhận mình ngu muội. Tuy nhiên người tự nhận mình ngu muội nào có phải là người không biết suy nghĩ trước sau. Theo dấu ông, cậu sẽ thấy được cốt cách của một con người yêu nước can đảm, dám thoát ra khỏi xiềng xích không chỉ của thực dân mà cả của chính gốc rễ Nho giáo của chính mình.
+Có người nói rằng ông ngây thơ, và ngay cả chính ông cũng tự nhận mình ngu muội. Tuy nhiên, người tự nhận mình ngu muội nào có phải là người không biết suy nghĩ trước sau. Theo dấu ông, cậu sẽ thấy được cốt cách của một con người yêu nước can đảm, dám thoát ra khỏi xiềng xích không chỉ của thực dân mà của cả tư duy Nho giáo thủ cựu thời bấy giờ.
 {: .text-justify}
 
 Nghĩ xem mình đã sinh nhằm non sông còn ấu trĩ, nòi giống còn u mê, chưa được mở mang cho nên vừa ở trong bọc mẹ lọt ra, không ai chỉ vẽ dìu dắt để mở trí cho mình, lại gặp phải cái cảnh giam hãm xiềng khóa đêm ngày, người ta chỉ sợ mắt mình được thấy, tai mình được nghe, như thế bảo sao mình không ngu muội cho được!

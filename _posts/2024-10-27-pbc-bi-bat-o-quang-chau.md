@@ -16,10 +16,6 @@ Nhân vì nước ta có năm địa bộ, sở dĩ dùng thức này để tỏ
 Sắc cờ dùng hoàng địa, hồng tinh làm cờ nước; hồng địa bạch tinh làm cờ quân. Hoàng là để biểu thị nhân chủng ta. Hồng là biểu thị sắc nước ta: Nam phương thuộc hỏa, hỏa sắc hồng. Quân kỳ sở dĩ dùng bạch tinh là tỏ rõ mục đích quân, cốt đánh đổ chính phủ người da trắng.
 {: .notice--warning .text-justify}
 
-> <cite>
-Phan Bội Châu《Tự Phán》
-</cite>
-
 ![alt]({{ 'assets/images/viet-nam-quang-phuc-hoi-ngu-lien-tinh-chau.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://nghiencuulichsu.com/2016/05/23/la-quoc-ky-dau-tien-cua-viet-nam-nam-1917-ngu-lien-tinh-chau/">
@@ -46,7 +42,7 @@ Tôi sống cái đời nông phu cực nhọc trước sau 8 tháng.
 Nhưng trong 8 tháng đó, tôi thấy trong mình vui vẻ thơ thớt lạ lùng. Lúc khát gặp có suối nước thì uống, lúc đói vớ được trái cây thì ăn, cái ngày giờ cảm khái vô liêu của tôi lúc này, chôn đứt ở trong cảnh sống ăn sương hút gió, kể cũng là một cách sống thú vị của anh tráng sĩ đang cơn túng thế cùng đường. Bởi vậy, tôi cho câu chuyện đáng ghi chép là phải.
 {: .text-justify}
 
-Hồi này rảnh rang nhàn thích, tôi soạn ra được nhiều bài văn quốc ngữ. Nào truyện Lê Thái Tổ, nào truyện Trưng nữ Vương. Nào là những khúc hát bài ca cổ vũ tấm lòng yêu nước, yêu nòi, yêu giống. Tôi đem những bài ấy ra dạy cho những người ở trong sở ruộng học thuộc lòng, sớm tối họ thường nghêu ngao ca hát làm vui. Ấy là tôi muốn gieo hột giống cách mạng ở giữa khoảng nước biếc non xanh vậy.
+Hồi này rảnh rang nhàn thích, tôi soạn ra được nhiều bài văn Quốc Ngữ. Nào truyện Lê Thái Tổ, nào truyện Trưng nữ Vương. Nào là những khúc hát bài ca cổ vũ tấm lòng yêu nước, yêu nòi, yêu giống. Tôi đem những bài ấy ra dạy cho những người ở trong sở ruộng học thuộc lòng, sớm tối họ thường nghêu ngao ca hát làm vui. Ấy là tôi muốn gieo hột giống cách mạng ở giữa khoảng nước biếc non xanh vậy.
 {: .text-justify}
 
 Tháng 10 năm ấy (Tân Hợi, 1911) Phan quân Bá Ngọc ở Hồng Kong sang Thái, đem cái tin Võ Xương khởi nghĩa nói cho tôi nghe. Tôi lấy làm động tâm hết sức.

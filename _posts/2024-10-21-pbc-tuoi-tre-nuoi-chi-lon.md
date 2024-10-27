@@ -9,6 +9,7 @@ parent:
 ---
 
 **花开不及春**\
+*Hoa khai bất cập xuân*\
  \
 東皇曾酌眼,\
 Đông hoàng tằng chước nhãn,\
@@ -20,7 +21,7 @@ Chỉ vị khiêm khiêm ý,\
 Phiên giao tiệm tiệm khai.
 {: .notice--warning}
 
-**Hoa khai bất cập xuân**\
+**Hoa nở không kịp mùa xuân**\
  \
 Nhờ chúa xuân lưu ý,\
 Xếp hàng đầu trăm hoa.\
@@ -29,10 +30,14 @@ Nên để nở dần dà.
 {: .notice--warning}
 
 > <cite>
-潘佩珠《花开不及春》- Phan Bội Châu《Hoa khai bất cập xuân》
+潘佩珠《花开不及春》- Phan Bội Châu《Hoa nở không kịp mùa xuân》
 </cite>
 
-Năm Quý Mùi 1883, Phan Bội Châu (1867-1940) lúc ấy họ tên Phan Văn San mới 16 tuổi. Tại tỉnh Nghệ An, sau khi thi Hương, bài được chấm hạng ưu, Phan phải cùng 6 sĩ tử khác dự kỳ sát hạch để xếp vị thứ cao thấp ở phủ Anh Sơn. Đích thân tri phủ là hoàng giáp Phạm Như Xương (1844-1919) ngồi ghế chánh chủ khảo. Các thí sinh nhận đề rồi cắm cúi làm bài hồi lâu thì Phan mới đến. Chánh chủ khảo gốc Quảng Nam cho Phan vào, nhưng buộc Phan nhận đề thi riêng. Tiết cuối xuân, trông thấy cây mai bên hiên chỉ còn lưa thưa dăm đoá, quan Hoàng giáp liền ra đề: “Hoa khai bất cập xuân” 花开不及春 (Hoa nở không kịp mùa xuân). Đề thi ngụ ý phê bình tội trễ tràng của chàng trai huyện Nam Đàn nổi tiếng thông minh. Phan nhoẻn cười, nhanh nhẹn phóng bút 4 dòng trên. Liếc mắt, Phạm Hoàng giáp sững sờ, bảo Phan: “Khỏi làm bài nữa. Chỉ cần 4 dòng mở đầu thế này dư sức đỗ đầu xứ rồi.”
+Năm Quý Mùi (1883), Phan Bội Châu lúc ấy họ tên Phan Văn San mới 16 tuổi. Tại tỉnh Nghệ An, sau khi thi Hương, bài được chấm hạng ưu, Phan phải cùng 6 sĩ tử khác dự kỳ sát hạch để xếp vị thứ cao thấp ở phủ Anh Sơn. Đích thân tri phủ là Hoàng Giáp Phạm Như Xương (1844-1919) ngồi ghế chính chủ khảo.\
+ \
+Các thí sinh nhận đề rồi cắm cúi làm bài hồi lâu thì Phan mới đến. Chánh chủ khảo gốc Quảng Nam cho Phan vào, nhưng buộc Phan nhận đề thi riêng.\
+ \
+Tiết cuối xuân, trông thấy cây mai bên hiên chỉ còn lưa thưa dăm đoá, quan Hoàng Giáp liền ra đề: “Hoa khai bất cập xuân” 花开不及春 (Hoa nở không kịp mùa xuân). Đề thi ngụ ý phê bình tội trễ tràng của chàng trai huyện Nam Đàn nổi tiếng thông minh. Phan nhoẻn cười, nhanh nhẹn phóng bút 4 dòng trên. Liếc mắt, Phạm Hoàng Giáp sững sờ, bảo Phan: “Khỏi làm bài nữa. Chỉ cần 4 dòng mở đầu thế này dư sức đỗ đầu xứ rồi.”
 {: .notice .text-justify}
 
 ![alt]({{ 'assets/images/luu-day-robert-aldrich.jpg' | absolute_url }})
@@ -71,11 +76,14 @@ Vì lúc bấy giờ, lối học khoa cử của nhà Thanh, đang sôi nổi n
 Than ôi! Chổi cùn trong nhà, tự mình xem là của quý, sự ưa thích lâu đời đã thành thói quen thành ra rốt cuộc tôi cũng bị thời trang trói buộc, đến nỗi tiêu hao ngày tháng về nghiệp khoa cử gần hết nửa đời người. Đó là một vết nhơ rất lớn trong đời tôi vậy.
 {: .text-justify}
 
-## Cùng anh em Đồng Chí tổ chức ra Đội Sĩ Tử Cần Vương
+## Cùng anh em đồng Chí tổ chức ra《Đội Sĩ tử Cần Vương》
 Năm tôi 17 tuổi tức là năm Tự Đức 36, Quý Mùi (1884), binh Pháp chiếm lấy Hà Nội và các tỉnh Bắc Kỳ. 
 {: .text-justify}
 
-Đến năm tôi 19 tuổi, nhằm năm Ất Dậu (1886), Hàm Nghi nguyên niên, binh Pháp chiếm kinh thành Huế, vua Hàm Nghi phải chạy: cung điện bầy ra cảnh hoang lương, nhởn nhơ bầy nai, đầy dăng ổ quạ, tấn kịch vong quốc mở ra từ tháng 7 Hàm Nghi năm đầu trở đi vậy. Ôi! Trời nghiêng đất ngã, lúc này kẻ làm trai đội trời đạp đất, ai nỡ dòm non sông bằng con mắt gỗ đá, trơ trơ cho đành!
+Đến năm tôi 19 tuổi, nhằm năm Ất Dậu (1886), Hàm Nghi nguyên niên, binh Pháp chiếm kinh thành Huế, vua Hàm Nghi phải chạy: cung điện bầy ra cảnh hoang lương, nhởn nhơ bầy nai, đầy dăng ổ quạ, tấn kịch vong quốc mở ra từ tháng 7 Hàm Nghi năm đầu trở đi vậy. 
+{: .text-justify}
+
+Ôi! Trời nghiêng đất ngã, lúc này kẻ làm trai đội trời đạp đất, ai nỡ dòm non sông bằng con mắt gỗ đá, trơ trơ cho đành!
 {: .text-justify}
 
 ​Tôi được trời phú cho máu nóng không vừa, ngay từ hồi còn là thằng trẻ con đọc sách của ông cha để lại, mỗi khi đọc tới chuyện người xưa hăng hái thành nhân tựu nghĩa, tôi thường nhỏ nước mắt ròng ròng, thấm ướt cả sách. Những chuyện Trương công Văn Định chết theo Nam Kỳ và Nguyễn công Tri Phương tuẫn thành Hà Nội, tôi hay đàm đạo nhắc nhớ tới luôn, mà mỗi lần nhắc tới, khiến tôi vung tay vỗ ngực, tự thẹn cho mình thua sút hai ông đó. Vì tính chất trời sinh cho tôi như thế, không thể nào làm bộ khác hơn được.
@@ -84,14 +92,14 @@ Năm tôi 17 tuổi tức là năm Tự Đức 36, Quý Mùi (1884), binh Pháp 
 Sau lúc kinh thành thất thủ, vua Hàm Nghi ngự giá ra đóng tại sơn phòng tỉnh Hà Tĩnh, các bực quan thân đang ở nhà; như Nguyễn Xuân Ôn, Đinh Văn Chất, đua nhau dựng cờ Cần Vương, phong trào tràn lan khắp các phủ huyện đều có. Ngó lại tôi còn là một tên học trò nhỏ tuổi, nào đã có thế lực gì dám cùng các cụ cùng nổi lên làm việc lớn. Mình như con chim con, lông cánh chưa đủ, nanh vuốt còn non tự nghĩ mà buồn. Lại nhớ đến chuyện anh hùng của Phù Đổng Thiên Vương ngày xưa ba tuổi cỡi ngựa đánh giặc tôi nghĩ tôi thật là một thằng con trai hèn quá.
 {: .text-justify}
 
-Suy đi tính lại, không biết làm cách gì, chỉ còn có cách kêu gào bọn đồng môn, tổ chức ra một đội quân học trò giúp vua, gọi là《Sĩ tử Cần Vương đội》Tôi với cậu bạn thân Trần Văn Lương là người ​phát khởi, cùng tôn ông cử nhân Đinh Xuân Sung lên làm đội trưởng; tôi thì làm phó đội. Đội này chỉ có lối ngoài một trăm người.
+Suy đi tính lại, không biết làm cách gì, chỉ còn có cách kêu gào bọn đồng môn, tổ chức ra một đội quân học trò giúp vua, gọi là《Đội Sĩ tử Cần Vương》Tôi với cậu bạn thân Trần Văn Lương là người ​phát khởi, cùng tôn ông cử nhân Đinh Xuân Sung lên làm đội trưởng; tôi thì làm phó đội. Đội này chỉ có lối ngoài một trăm người.
 {: .text-justify}
 
 Công việc sắp đặt hơi yên, duy có binh lương khí giới chưa có cách tìm đâu cho ra. Vừa gặp lúc người Pháp đem đại binh tới hạ thành Nghệ An, rồi thừa thắng tiến binh đánh dẹp các phủ huyện. Đội quân của chúng tôi tổ chức, cả lương lẫn súng đạn đều không có, thành ra chỉ trong giây lát, như bầy muông chim vỡ lở tứ tán. Tôi phải trà trộn trong đám nạn dân mà chạy thoát thân.
 {: .text-justify}
 
 
-Tới nay nhớ lại việc tôi đã làm đó, không khác gì trẻ con làm nhà bằng giấy để chơi, không bõ cho bực người kiến thức chê cười. Tuy vậy, tôi cũng cứ chép ngay ra đây, vì tấm lòng tôi mưu toan cứu quốc, thật là phôi thai từ việc mà ra. Nghĩ mình bầy trò tuy giả, nhưng mà lòng vốn thẳng ngay, cho nên tôi không dám dấu diếm chỗ dở của tôi.
+Tới nay nhớ lại việc tôi đã làm đó, không khác gì trẻ con làm nhà bằng giấy để chơi. Không bõ cho bực người có kiến thức chê cười. Tuy vậy, tôi cũng cứ chép ngay ra đây, vì tấm lòng tôi mưu toan cứu quốc, thật là phôi thai từ việc mà ra. Nghĩ mình bầy trò tuy giả, nhưng mà lòng vốn thẳng ngay, cho nên tôi không dám giấu diếm chỗ dở của tôi.
 {: .text-justify}
 
 Lúc bấy giờ cửa nhà tôi bị tiêu hủy vì họa binh đao, thân phụ tôi ở giữa cơn hoạn nạn, lại mang bịnh nặng. Tôi không còn mẹ, cũng không có anh em nào, thành ra không dám bỏ cha mình mà ngó tới việc gì khác. Tôi đành nương náu ở nhà dạy học trò, để chuyên lo săn sóc bịnh cha, cả thảy 9 năm.

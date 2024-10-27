@@ -8,7 +8,18 @@ parent:
   url: phan-boi-chau
 ---
 
-Phan Bội Châu kể lại rằng: “Lúc còn bé đi học, tôi cũng thông hiểu chút ít đại nghĩa, vẫn không thích làm người tầm thường, thỉnh thoảng lại ngâm câu thơ trong sách Tùy Viên: Túc dạ bất vong duy trúc bạch; lập thân tối hạ thị văn chương (tức là: Khuya sớm những mong ghi tên vào sử sách; lập thân hèn nhát ấy văn chương). Ông Nguyễn Ái Quốc lúc lên 10 tuổi, nghe tôi lúc rượu say ngâm câu này, đến bây giờ ông vẫn còn thuật lại”.
+*Phan Bội Châu kể lại rằng:*\
+ \
+Lúc còn bé đi học, tôi cũng thông hiểu chút ít đại nghĩa, vẫn không thích làm người tầm thường, thỉnh thoảng lại ngâm câu thơ trong sách Tùy Viên:\
+ \
+Túc dạ bất vong duy trúc bạch,\
+Lập thân tối hạ thị văn chương.\
+ \
+*Tức là:*\
+Khuya sớm những mong ghi tên vào sử sách,\
+Lập thân hèn nhát ấy văn chương.\
+ \
+Ông Nguyễn Ái Quốc lúc lên 10 tuổi, nghe tôi lúc rượu say ngâm câu này, đến bây giờ ông vẫn còn thuật lại.
 {: .notice--warning .text-justify}
 
 ![alt]({{ 'assets/images/fh-schneider-quan-lai-o-bac-ky.jpg' | absolute_url }})
@@ -108,7 +119,7 @@ Các cụ đều khen lời nói cứng, văn viết hay, ​và ngầm cho ý k
 Lanh quanh hết mấy tháng trường như thế, rồi sau tôi biết rõ bọn cụ lớn kia, mình không cậy nhờ gì được mà trông. Ruột gan của họ, chỉ biết có sự phú quý của thân họ, nhà họ. Trước việc thì họ chỉ ngồi ngó thành bại, sau việc thì họ lựa sóng theo chiều. Nay ta mạo hiểm giãi bày tâm sự với họ nhưng thật không chỗ nào trông cậy họ được. 
 {: .text-justify}
 
-Tôi luống thẹn mình kém thần trí sáng, chẳng có tài làm cho tượng đá biết gật đầu, rồi càng nghỉ càng ăn năn trước kia mình tơ tưởng lợi dụng quan trường thật là bá láp. Nhưng việc này chẳng phải là không có kết quả gì.
+Tôi luống thẹn mình kém thần trí sáng, chẳng có tài làm cho tượng đá biết gật đầu, rồi càng nghĩ càng ăn năn trước kia mình tơ tưởng lợi dụng quan trường thật là bá láp. Nhưng việc này chẳng phải là không có kết quả gì.
 {: .text-justify}
 
 Sau khi《Lưu Cầu Huyết Lệ Tân Thư》ra đời rồi, các chí sĩ lẩn quất trong kinh đô, đều rõ biết ruột gan tôi ra thế nào. Ví dụ như ông Phan Châu Trinh và ông Trần Quý Cáp - về sau vì tội ái quốc mà bị tù, chết chém - lúc này làm quen thân mật với tôi, ấy chính là nhờ cuốn《Lưu Cầu Huyết Lệ Tân Thư》giới thiệu vậy.

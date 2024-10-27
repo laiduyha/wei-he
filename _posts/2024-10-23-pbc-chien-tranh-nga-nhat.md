@@ -65,8 +65,8 @@ Muốn mua khí giới ở ngoại quốc chở vào cho mình lại cũng khôn
 Anh em chúng tôi lo quanh tính quẩn, mất nhiều ngày giờ mà chỉ có vấn đề quân giới, mỗi khi nghĩ đến, ai nấy bức rức lo âu, cám cảnh mình thiếu mất một món thứ nhất cần dùng, rồi nhớ lại chuyện Châu Lang đời xưa nếu không có ngọn gió đông thì lấy gì mà đánh trận Xích Bích?
 {: .text-justify}
 
-## Chiến tranh Nga Nhật
-Cách không bao lâu, bỗng dưng có những tiếng súng nổ ở Lữ Thuận Liêu Đông, lướt theo ​sóng gió vang đội tới đây làm cho rung động, chói chát lỗ tai anh em chúng tôi.
+## Chiến tranh Nga-Nhật
+Cách không bao lâu, bỗng dưng có những tiếng súng nổ ở Lữ Thuận Liêu Đông (tỉnh Liêu Ninh, Trung Quốc), lướt theo ​sóng gió vang đội tới đây làm cho rung động, chói chát lỗ tai anh em chúng tôi.
 {: .text-justify}
 
 Trận Nga-Nhật chiến tranh mà Nhật đại thắng, thật có chỗ hay cho chúng tôi rất lớn. Trong óc chúng tôi đến đây có một thế giới mới lạ mở ra.
@@ -103,7 +103,10 @@ Hạ tuần tháng 10 năm Giáp Thìn (1904) các tay lãnh tụ trong đảng 
 Lúc đó ông Tăng Bạt Hổ mới ở Hải Phòng vô, trong đảng thêm ra một tay kiện tướng, ai nấy vui vẻ hăng hái lạ thường.
 {: .text-justify}
 
-Các lãnh tụ đều nói vấn đề quân giới nếu không có nước ngoài giúp cho mình thì không xong. Lấy chỗ quan hệ về lịch sử, địa dư, nòi giống mà nói, có thể giúp ta được không ai khác hơn là Trung Quốc. Nhưng từ trận thua ở Lạng Sơn hồi năm Giáp Thân (1894) trở đi, Trung Quốc ký điều ước Bắc Kinh, đã phải đem cái chủ quyền phiên thuộc nước Nam mà nhường đứt cho Pháp rồi. Đến việc Hàm Nghi xuất bôn, trong khoảng mấy năm Dậu, Tuất, thiếu gì các cụ nhà ta chạy sang Trung Quốc cầu viện, nhưng đều bặt mất tin tức. Gương trước mới đó không xa, nước Tàu chẳng giúp gì cho ta được đâu mà mong, vô ích.
+Các lãnh tụ đều nói vấn đề quân giới nếu không có nước ngoài giúp cho mình thì không xong. Lấy chỗ quan hệ về lịch sử, địa dư, nòi giống mà nói, có thể giúp ta được không ai khác hơn là Trung Quốc.
+{: .text-justify}
+
+Nhưng từ trận thua ở Lạng Sơn hồi năm Giáp Thân (1894) trở đi, Trung Quốc ký điều ước Bắc Kinh, đã phải đem cái chủ quyền phiên thuộc nước Nam mà nhường đứt cho Pháp rồi. Đến việc Hàm Nghi chạy trốn, trong khoảng mấy năm Dậu-Tuất (1897-1898), thiếu gì các cụ nhà ta chạy sang Trung Quốc cầu viện, nhưng đều bặt mất tin tức. Gương trước mới đó không xa, nước Tàu chẳng giúp gì cho ta được đâu mà mong, vô ích.
 {: .text-justify}
 
 Chúng tôi bàn định với nhau, chỉ có cầu viện Nhật Bản. Lúc ấy Nhật Bản mới phát lên hùng cường mà họ cũng là một dân tộc da vàng ở châu Á như ta, lại vừa mới đánh thắng Nga xong, không chừng họ có ý muốn làm bá chủ cả châu Á, vậy thì họ giúp ta để tước bớt khí lực của châu Âu đi, cũng có điều lợi cho họ vậy. Nếu ta sang ​kêu ca thống thiết với họ, tưởng gì chớ món quân giới, hoặc cho ta mượn, hoặc giúp ta mua, không khó khiếc chi!
