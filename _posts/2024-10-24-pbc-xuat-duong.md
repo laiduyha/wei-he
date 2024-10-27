@@ -44,7 +44,6 @@ Nghìn làn sóng bạc múa ngoài khơi.
 潘佩珠《出洋留別》- Phan Bội Châu《Xuất dương lưu biệt》
 </cite>
 
-
 ![alt]({{ 'assets/images/early-20th-century-photograph-view-at-hong-kong-street-scene.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://www.alamy.com/stock-photo/early-1900s-hong-kong.html">
