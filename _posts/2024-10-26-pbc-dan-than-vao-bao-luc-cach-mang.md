@@ -8,6 +8,8 @@ parent:
   url: phan-boi-chau
 ---
 
+**Sống**\
+ \
 Sống tủi làm chi đứng chật trời,\
 Sống nhìn thế giới hổ chăng ai?\
 Sống làm nô lệ cho người khiến,\
@@ -222,7 +224,7 @@ Tháng 4 mùa hạ năm Kỷ Dậu (1909), đảng ta phải trải muôn cay ng
 Quân giới mua xong rồi, do Đặng quân Tử Mẫn bí mật đem qua Hồng Kong. Lúc ấy là hạ tuần tháng 5 giữa lúc tôi cũng đang ở đó. Vừa nghe tin nước nhà đưa sang, nói rằng Hoàng Hoa Thám tướng quân đang giao chiến với Pháp binh gấp lắm, Chúng tôi thiết nghĩ việc cứu viện họ Hoàng là một việc nghĩa phải làm. không thế nào trì hoãn được. Bởi vậy chúng tôi nghĩ cách làm sao vận tải được khí giới về nước cho mau.
 {: .text-justify}
 
-Muốn chở quân giới vào đất Trung-kỳ tất phải mượn đường Thái Lan mới được. Vì đó tôi phải tức tốc lên đường đi tới Bangkok, kinh đô nước Thái tìm cách yết kiến nhà đương cuộc Thái cầu họ giúp đỡ cho mình.
+Muốn chở quân giới vào đất Trung Kỳ tất phải mượn đường Thái Lan mới được. Vì đó tôi phải tức tốc lên đường đi tới Bangkok, kinh đô nước Thái tìm cách yết kiến nhà đương cuộc Thái cầu họ giúp đỡ cho mình.
 {: .text-justify}
 
 Hai quan đại thần Lục quân và Ngoại giao Thái Lan lúc ấy, hơi có ý muốn giúp đảng cách mạnh ta, nhưng họ còn đang bàn tính với nhau chưa được nhất quyết.
@@ -240,23 +242,21 @@ Không ngờ đâu bụng mình tính một đằng, mà rồi việc làm trái
 Trời ơi! Tin hung báo đưa tới, không khác gì con dao đâm một mũi chí mạng vào trong cái kế bạo động của tôi. Nhân đó tôi có câu thơ cảm khái như vầy:
 {: .text-justify}
 
-```
-« Ưu thế kỷ hồ thương hải khấp,
-« Kinh nhân nhất chỉ ngọc sơn đồi.
-
-Nghĩa là:
-« Lo nước bao phen sa huyết lệ,
-« Tin quê đưa tới luống kinh tâm...
-
-Lại còn một câu nữa:
-
-« Khả vô mãnh hỏa thiêu sầu khứ,
-« Thiên hựu cuồng phong tống hận tai.
-
-Nghĩa là:
-« Đã không ngọn lửa thiêu sầu rụi,
-« Lại có cơn giông thổi giận thêm.
-```
+Ưu thế kỷ hồ thương hải khấp,\
+Kinh nhân nhất chỉ ngọc sơn đồi.\
+ \
+*Nghĩa là:*\
+Lo nước bao phen sa huyết lệ,\
+Tin quê đưa tới luống kinh tâm...\
+ \
+*Lại còn một câu nữa:*\
+Khả vô mãnh hỏa thiêu sầu khứ,\
+Thiên hựu cuồng phong tống hận tai.\
+ \
+*Nghĩa là:*\
+Đã không ngọn lửa thiêu sầu rụi,\
+Lại có cơn giông thổi giận thêm.
+{: .notice .text-justify}
 
 Ấy là những câu tả rõ tình hình cảnh ngộ của chúng tôi lúc bấy giờ vậy.
 {: .text-justify}
@@ -277,5 +277,5 @@ Tôi dời về ở tỉnh thành Quảng Châu, thế mà quan quyền Pháp l�
 {: .text-justify}
 
 > <cite>
-<a target="_blank" href="https://vi.wikisource.org/wiki/%C4%90%E1%BB%9Di_c%C3%A1ch_m%E1%BA%A1ng_Phan_B%E1%BB%99i_Ch%C3%A2u">Theo Phan Bội Châu《Ngục trung thư》- Đào Trinh Nhất dịch</a>
+<a target="_blank" href="https://vi.wikisource.org/wiki/%C4%90%E1%BB%9Di_c%C3%A1ch_m%E1%BA%A1ng_Phan_B%E1%BB%99i_Ch%C3%A2u">Theo Phan Bội Châu《Ngục Trung Thư》- Đào Trinh Nhất dịch</a>
 </cite>

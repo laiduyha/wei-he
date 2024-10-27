@@ -8,6 +8,8 @@ parent:
   url: phan-boi-chau
 ---
 
+**Đêm dài**\
+ \
 Sực tỉnh trông ra ngỡ sáng loà,\
 Đêm sao đêm mãi thế ru mà?\
 Lạnh lùng bốn bể ba phần tuyết,\
@@ -29,7 +31,7 @@ Yoshikuni, November 1904《In the Battle of the Sha River, a Company of Our Forc
 </a>
 </cite>
 
-### Làm sao mua được khí giới
+## Làm sao mua được khí giới
 Lúc bấy giờ, những nghĩa dân hiệp sĩ khắp trong nước đã liên lạc nhất trí với nhau rồi.
 {: .text-justify}
 
@@ -63,7 +65,7 @@ Muốn mua khí giới ở ngoại quốc chở vào cho mình lại cũng khôn
 Anh em chúng tôi lo quanh tính quẩn, mất nhiều ngày giờ mà chỉ có vấn đề quân giới, mỗi khi nghĩ đến, ai nấy bức rức lo âu, cám cảnh mình thiếu mất một món thứ nhất cần dùng, rồi nhớ lại chuyện Châu Lang đời xưa nếu không có ngọn gió đông thì lấy gì mà đánh trận Xích Bích?
 {: .text-justify}
 
-### Chiến tranh Nga Nhật
+## Chiến tranh Nga Nhật
 Cách không bao lâu, bỗng dưng có những tiếng súng nổ ở Lữ Thuận Liêu Đông, lướt theo ​sóng gió vang đội tới đây làm cho rung động, chói chát lỗ tai anh em chúng tôi.
 {: .text-justify}
 
@@ -94,7 +96,7 @@ Kịp đến khi có người Pháp sang xâm lược, dân ta cũng vẫn còn 
 Sau lúc Nhật Nga khai chiến, giữa khoảng hai năm Giáp Thìn Ất Tỵ (1904-1905), cuộc cạnh tranh phấn đấu giữa người Âu người Á, da trắng da vàng, làm cho chúng tôi phải giật mình tỉnh ngủ. Chí hướng chúng tôi càng thêm nồng nàn hăng hái. Song chỉ khổ một nỗi là bị vấn đề quân giới ngăn trở khó khăn, cho nên tới đây chúng tôi phải gấp tìm cách nào giải quyết mới xong.
 {: .text-justify}
 
-### Quyết sang Nhật cầu viện
+## Quyết sang Nhật cầu viện
 Hạ tuần tháng 10 năm Giáp Thìn (1904) các tay lãnh tụ trong đảng mở cuộc đại hội ở tỉnh Quảng Nam, lấy sơn trang Nam Thạnh làm nơi khai hội. Nhận thấy chỗ này gần kinh đô Huế, tất ông Hội chủ chúng tôi có thể lén tới nhóm hội được. 
 {: .text-justify}
 
@@ -113,5 +115,5 @@ Ai nấy bàn bạc nhất định như vậy rồi, bèn tính cử một ngư�
 Hồi đó công việc trong đảng đang cần người có tài làm sứ, nên toàn Hội cùng cử tôi làm chức đại biểu đi Nhật.
 {: .text-justify}
 > <cite>
-<a target="_blank" href="https://vi.wikisource.org/wiki/%C4%90%E1%BB%9Di_c%C3%A1ch_m%E1%BA%A1ng_Phan_B%E1%BB%99i_Ch%C3%A2u">Theo Phan Bội Châu《Ngục trung thư》- Đào Trinh Nhất dịch</a>
+<a target="_blank" href="https://vi.wikisource.org/wiki/%C4%90%E1%BB%9Di_c%C3%A1ch_m%E1%BA%A1ng_Phan_B%E1%BB%99i_Ch%C3%A2u">Theo Phan Bội Châu《Ngục Trung Thư》- Đào Trinh Nhất dịch</a>
 </cite>

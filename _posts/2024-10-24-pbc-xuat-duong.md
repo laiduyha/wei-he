@@ -9,6 +9,7 @@ parent:
 ---
 
 **出洋留別**\
+ \
 生爲男子要希奇\
 Sinh vi nam tử yếu hy kỳ\
 肯許乾坤自轉移\
@@ -28,6 +29,7 @@ Thiên trùng bạch lãng nhất tề phi.
 {: .notice--warning}
 
 **Xuất dương lưu biệt**\
+ \
 Khác thường bay nhảy mới là trai,\
 Chẳng chịu vần xoay mặc ý trời!\
 Trong cuộc trăm năm đành có tớ,\
@@ -50,7 +52,7 @@ Early 20th century photograph view at Hong Kong street scene - Đường phố H
 </a>
 </cite>
 
-### Tôi trốn sang Tàu, gặp cụ Nguyễn Thuật và Lưu Vĩnh Phúc ở Quảng Châu
+## Tôi trốn sang Tàu, gặp cụ Nguyễn Thuật và Lưu Vĩnh Phúc ở Quảng Châu
 Nay tôi vâng mạng của đảng sai khiến, xuất dương là lần đầu. Tôi đi đây, vốn lấy tư cách là đại biểu của đảng cách mạng một nước mà đi. cũng tức là đại biểu cho toàn quốc dân một nước mà đi.
 {: .text-justify}
 
@@ -114,7 +116,7 @@ Tôi bèn đi Quảng Đông, tìm tới viếng cụ. Thấy tôi, cụ hết s
 {: .text-justify}
 
 
-### Gặp Lương Khải Siêu và Khuyển Dưỡng Nghị
+## Gặp Lương Khải Siêu và Khuyển Dưỡng Nghị
 Lúc tôi đến tỉnh thành Quảng Đông, chính là lúc Sầm Xuân Huyền đang làm tổng đốc Lưỡng Quảng.
 {: .text-justify}
 
@@ -148,7 +150,9 @@ Thấy vậy lòng tôi rất cảm phục chính sách cảnh sát của Nhật
 Tuy là tôi với Lương chưa hề gặp mặt quen nhau lần nào, nhưng tôi nghĩ Lương là bực người mới, chắc có con mắt và tư tưởng không như bọn tầm thường, Tôi liền viết một bức thư xin ra mắt. Trong thư có câu như vầy: 
 
 Lạc địa nhất thinh khóc, tức dĩ tương tri, đọc thơ thập niên nhởn, toại thành thông gia.\
-Dịch là: ra đời khóc một tiếng, đã là tương tri, sách vở đọc mười năm, trở nên thông gia.
+ \
+*Dịch là:*\
+Ra đời khóc một tiếng, đã là tương tri, sách vở đọc mười năm, trở nên thông gia.
 {: .notice .text-justify}
 
 Tôi lấy mấy câu đó làm gốc để cầu ra mắt họ Lương.
@@ -160,9 +164,8 @@ Tiếp được thư Lương mời tôi vào lập tức. Chúng tôi lấy bút
 Sau khi họ Lương gặp tôi rồi, lấy cặp mắt xanh đãi tôi rất tử tế. Nhân đó tôi nói cho Lương nghe việc chúng tôi mưu tính cậy nhờ người Nhật giúp cho khí giới để khởi binh đánh đổ chính phủ Pháp. Lương nói:
 {: .text-justify}
 
-Nhiệt tâm của các ông như thế, sức tôi có được tới đâu tôi giúp liền tới đó, không hề chạy chối. Nhưng nghĩ lại sự giúp sức cho đảng cách mạng đánh đổ chính phủ, thuở nay các nước không có lệ đó bao giờ. Nếu có chăng nữa, chỉ là lúc nào hai nước có chuyện xích mích tới đánh nhau mà thôi. Nay hai nước Pháp Nhật chưa tới cơ hội xích mích đánh nhau, có khi nào chính phủ Nhật chịu giúp khí giới cho các ông.
-{: .notice .text-justify}
-
+Nhiệt tâm của các ông như thế, sức tôi có được tới đâu tôi giúp liền tới đó, không hề chạy chối. Nhưng nghĩ lại sự giúp sức cho đảng cách mạng đánh đổ chính phủ, thuở nay các nước không có lệ đó bao giờ. Nếu có chăng nữa, chỉ là lúc nào hai nước có chuyện xích mích tới đánh nhau mà thôi. Nay hai nước Pháp Nhật chưa tới cơ hội xích mích đánh nhau, có khi nào chính phủ Nhật chịu giúp khí giới cho các ông.\
+ \
 Nghĩ tới cách khác, duy có mấy chính đảng của dân họ đem sức riêng giúp ngầm các ông, họa chăng có thể, Trong mấy dân đảng ở nước Nhật hiện thời, chỉ có đảng Tấn bộ nhiều thế lực mà Bá tước Đại Ôi (大隈重信) và Khuyển Dưỡng Nghị (犬養毅) chính là hai người đầu đảng. Nếu các ông muốn làm quen hai người đó thì tôi giới thiệu dùm.
 {: .notice .text-justify}
 
@@ -192,5 +195,5 @@ Tôi nghĩ việc cầu viện, có thành hay không chưa biết. Nhưng tôi 
 {: .text-justify}
 
 > <cite>
-<a target="_blank" href="https://vi.wikisource.org/wiki/%C4%90%E1%BB%9Di_c%C3%A1ch_m%E1%BA%A1ng_Phan_B%E1%BB%99i_Ch%C3%A2u">Theo Phan Bội Châu《Ngục trung thư》- Đào Trinh Nhất dịch</a>
+<a target="_blank" href="https://vi.wikisource.org/wiki/%C4%90%E1%BB%9Di_c%C3%A1ch_m%E1%BA%A1ng_Phan_B%E1%BB%99i_Ch%C3%A2u">Theo Phan Bội Châu《Ngục Trung Thư》- Đào Trinh Nhất dịch</a>
 </cite>

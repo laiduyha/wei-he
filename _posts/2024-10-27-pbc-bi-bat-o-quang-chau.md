@@ -10,7 +10,10 @@ parent:
 
 
 Xưa nước ta chỉ có cờ Hoàng Đế mà không có cờ nước cũng là một việc đáng quái gở. Hội Việt Nam Quang Phục mới chế định ra quốc kỳ bằng cờ ngũ tinh, dạng huy thức dùng bằng cách ngũ tinh liên châu.\
-Nhân vì nước ta có năm địa bộ, sở dĩ dùng thức này để tỏ rõ cái ý năm đại bộ liên lạc làm một. Sắc cờ dùng hoàng địa, hồng tinh làm cờ nước; hồng địa bạch tinh làm cờ quân. Hoàng là để biểu thị nhân chủng ta. Hồng là biểu thị sắc nước ta: Nam phương thuộc hỏa, hỏa sắc hồng. Quân kỳ sở dĩ dùng bạch tinh là tỏ rõ mục đích quân, cốt đánh đổ chính phủ người da trắng.
+ \
+Nhân vì nước ta có năm địa bộ, sở dĩ dùng thức này để tỏ rõ cái ý năm đại bộ liên lạc làm một.\
+ \
+Sắc cờ dùng hoàng địa, hồng tinh làm cờ nước; hồng địa bạch tinh làm cờ quân. Hoàng là để biểu thị nhân chủng ta. Hồng là biểu thị sắc nước ta: Nam phương thuộc hỏa, hỏa sắc hồng. Quân kỳ sở dĩ dùng bạch tinh là tỏ rõ mục đích quân, cốt đánh đổ chính phủ người da trắng.
 {: .notice--warning .text-justify}
 
 > <cite>
@@ -165,11 +168,10 @@ Bất thế phong vân đế chủ trương.\
 假使前途盡夷坦\
 Giả-sử tiền đồ tận di thản.\
 英雄豪傑也庸常\
-Anh hùng hào kiệt giã dung thường
-{: .notice--warning .text-justify}
-
-Đại ý là:
-
+Anh hùng hào kiệt giã dung thường\
+ \
+*Đại ý là:*\
+ \
 Bơ vơ đất khách bác cùng tôi;\
 Riêng bác cay chua nếm đủ mùi.\
 Tính mạng bao phen gần chết hụt.\
@@ -178,7 +180,7 @@ Trời toan đại dụng nên rèn chí.\
 Chúa giúp thành công tất có hồi.\
 Nếu phải đường đời bằng phẳng hết.\
 Anh hùng hào kiệt có hơn ai.
-{: .notice--warning .text-justify}
+{: .notice .text-justify}
 
 Còn tôi thì tự an ủi mình bằng một bài thơ nôm như sau này:
 {: .text-justify}
@@ -191,7 +193,7 @@ Bủa tay ôm chặt bồ kinh tế,\
 Mở miệng cười tan cuộc oán thù.\
 Thân nọ vẫn còn, còn sự nghiệp,\
 Bao nhiêu nguy hiểm sợ gì đâu.
-{: .notice--warning .text-justify}
+{: .notice .text-justify}
 
 Làm xong hai bài thơ, tôi ngâm nga lớn tiếng rồi cả cười, vang động cả bốn vách, hầu như không biết thân mình đang bị nhốt trong ngục.
 {: .text-justify}
@@ -237,5 +239,5 @@ Sào Nam Tử viết tập《Ngục Trung Thư》này ở nhà ngục Quảng Ch
 {: .notice .text-justify}
 
 > <cite>
-<a target="_blank" href="https://vi.wikisource.org/wiki/%C4%90%E1%BB%9Di_c%C3%A1ch_m%E1%BA%A1ng_Phan_B%E1%BB%99i_Ch%C3%A2u">Theo Phan Bội Châu《Ngục trung thư》- Đào Trinh Nhất dịch</a>
+<a target="_blank" href="https://vi.wikisource.org/wiki/%C4%90%E1%BB%9Di_c%C3%A1ch_m%E1%BA%A1ng_Phan_B%E1%BB%99i_Ch%C3%A2u">Theo Phan Bội Châu《Ngục Trung Thư》- Đào Trinh Nhất dịch</a>
 </cite>

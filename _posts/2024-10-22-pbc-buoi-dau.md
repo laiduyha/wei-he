@@ -8,21 +8,14 @@ parent:
   url: phan-boi-chau
 ---
 
-Khuya sớm những mong ghi sử sách,\
-Lập thân hèn nhất ấy văn chương.
-{: .notice--warning}
-
-> <cite>
-Viên Mai《Tùy Viên Thi Thoại - Vịnh Hoài》
-</cite>
-
 > Phan Bội Châu kể lại rằng: “Lúc còn bé đi học, tôi cũng thông hiểu chút ít đại nghĩa, vẫn không thích làm người tầm thường, thỉnh thoảng lại ngâm câu thơ trong sách Tùy Viên: Túc dạ bất vong duy trúc bạch; lập thân tối hạ thị văn chương (tức là: Khuya sớm những mong ghi tên vào sử sách; lập thân hèn nhát ấy văn chương). Ông Nguyễn Ái Quốc lúc lên 10 tuổi, nghe tôi lúc rượu say ngâm câu này, đến bây giờ ông vẫn còn thuật lại”.
-{: .notice .text-justify}
+{: .notice--warning .text-justify}
 
-
-![alt]({{ 'assets/images/liu-yong-he-chong-tian.jpeg' | absolute_url }})
+![alt]({{ 'assets/images/fh-schneider-quan-lai-o-bac-ky.jpg' | absolute_url }})
 > <cite>
-柳永《鹤冲天·黄金榜上》- Lục Diên《Hạc bay lên trời》
+<a href="https://thanhnien.vn/quan-chuc-cap-cao-dau-thoi-phap-thuoc-lien-bang-dong-duong-va-chuc-danh-toan-quyen-1851445213.htm" target="_blank">
+F.H.Schneider《Quan lại ở Bắc Kỳ những năm 1880 - 1890》
+</a>
 </cite>
 
 ## Tôn Cường Để lên làm minh chủ
@@ -38,12 +31,10 @@ Nhà tôi là nhà làm nghề dạy học, nhưng mà học trò chỉ ở nhà
 Việc chúng tôi mưu tính lần hồi chín chắn, gần tới ngày hẹn nhau phát lên rồi. Song ông bạn thân là Đặng quân Thái Thân nói với tôi:
 {: .text-justify}
 
-Xem kỹ lại thời thế chưa có chỗ nào mình ​đảng thừa cơ làm việc lớn. Bọn ta vội vã làm càn, chắc là không xong việc gì được đâu. Nhưng ta cũng phải làm sao để chỉ tỏ cho người Pháp biết rằng quốc dân ta chẳng phải toàn là hạng người quá hèn, vậy thì ta cứ mạo hiểm làm một phen cũng được, có điều là mong ước sao chúng ta cất tiếng lên trước rồi phải có người nối lời sau mới được.
-{: .notice .text-justify}
-
-Nhưng nếu ta chỉ khởi sự trong khoảng Nghệ Tĩnh mà thôi, tôi e như chuyện cái thai đứa nhỏ khó đẻ, ở trong bụng mẹ lọt ra chưa kịp khóc oa oa mấy tiếng thì đã chết non mất rồi. Tôi trộm suy nghĩ mà lo ngại dùm cho tiên sinh chỗ đó.
-{: .notice .text-justify}
-
+Xem kỹ lại thời thế chưa có chỗ nào mình ​đảng thừa cơ làm việc lớn. Bọn ta vội vã làm càn, chắc là không xong việc gì được đâu. Nhưng ta cũng phải làm sao để chỉ tỏ cho người Pháp biết rằng quốc dân ta chẳng phải toàn là hạng người quá hèn, vậy thì ta cứ mạo hiểm làm một phen cũng được, có điều là mong ước sao chúng ta cất tiếng lên trước rồi phải có người nối lời sau mới được.\
+ \
+Nhưng nếu ta chỉ khởi sự trong khoảng Nghệ Tĩnh mà thôi, tôi e như chuyện cái thai đứa nhỏ khó đẻ, ở trong bụng mẹ lọt ra chưa kịp khóc oa oa mấy tiếng thì đã chết non mất rồi. Tôi trộm suy nghĩ mà lo ngại dùm cho tiên sinh chỗ đó.\
+ \
 Theo ý tôi tưởng, trước hết ta nên vô Nam ra Bắc, cầu anh em hào kiệt ở hai nơi cùng làm việc với ta. Đất Bắc Kỳ vốn nihều nghĩa sĩ, từ Quảng Nam trở vô Nam Trung cũng không thiếu gì hạng người khảng khái bi ca. Ta lấy nghĩa đề huê với họ rồi tất cả anh em ba nơi đồng thời khởi nghĩa, để chia bớt sức mạnh của bên địch, mà vây cánh đồ đảng chúng ta đông, như vậy họa chăng mới làm nên công việc.
 {: .notice .text-justify}
 
@@ -73,13 +64,11 @@ Lê Quân vốn con nhà làm tướng. Bốn người anh đều chết vì n�
 Tôi đem chí muốn ra phân trần. Cụ vỗ tay, nói:
 {: .text-justify}
 
-Hay dữ! Thuở nay, ai muốn mưu toan đại sự, trước hết phải cần ba điều này: một là thu phục lòng người, hai là góp số tiền lớn, ba là sắp đặt mua sắm quân khí cho đủ. Hễ lòng người ta đã chịu tin phục thì số tiền lớn có thể góp được. Có tiền thì vấn đề quân giới, không khó giải quyết đâu.
-{: .notice .text-justify}
-
-Nhưng phải hiểu dân trí và tập quán của dân nước nhà, không thể nào bắt chước làm theo châu Âu cho được. Bọn ta muốn có cách kêu gọi nhân tâm cho dễ, nếu không mượn tiếng phò vua giúp chúa thì những nhà sang họ lớn kia, ai chịu phụ họa theo mình. Vậy thì ta dầu có bụng cứu nước mặc lòng, chẳng qua chỉ chết thân mình cho tròn được một tiếng vậy thôi, ngoài ra không ăn thua lợi ích gì cho việc lớn.
-{: .notice .text-justify}
-
-Vua Hàm Nghi trốn tránh ở chốn nào, đã lâu không nghe tin tức ra sao. Còn vua Thành Thái hiện tại thì ở trong tay người Pháp kiềm chế, anh em ta không làm cách gì ra vào thân cận bên mình ngài đặng. Sẵn có dòng dõi của đức Đông Cung Cảnh là đích tự Cao Hoàng, hiện nay ​đang còn. Chúng ta khởi nghĩa, nên trước hết tôn ngài lên làm cung chủ; có thế thì danh nghỉa mới thuận, hiệu lịnh được chuyên, mỗi khi ta cất tiếng kêu gào, thuận theo chiều gió, tất nhiên có tiếng vang bóng sâu xa lắm vậy. Các ông tính sao?.
+Hay dữ! Thuở nay, ai muốn mưu toan đại sự, trước hết phải cần ba điều này: một là thu phục lòng người, hai là góp số tiền lớn, ba là sắp đặt mua sắm quân khí cho đủ. Hễ lòng người ta đã chịu tin phục thì số tiền lớn có thể góp được. Có tiền thì vấn đề quân giới, không khó giải quyết đâu.\
+ \
+Nhưng phải hiểu dân trí và tập quán của dân nước nhà, không thể nào bắt chước làm theo châu Âu cho được. Bọn ta muốn có cách kêu gọi nhân tâm cho dễ, nếu không mượn tiếng phò vua giúp chúa thì những nhà sang họ lớn kia, ai chịu phụ họa theo mình. Vậy thì ta dầu có bụng cứu nước mặc lòng, chẳng qua chỉ chết thân mình cho tròn được một tiếng vậy thôi, ngoài ra không ăn thua lợi ích gì cho việc lớn.\
+ \
+Vua Hàm Nghi trốn tránh ở chốn nào, đã lâu không nghe tin tức ra sao. Còn vua Thành Thái hiện tại thì ở trong tay người Pháp kiềm chế, anh em ta không làm cách gì ra vào thân cận bên mình ngài đặng. Sẵn có dòng dõi của đức Đông Cung Cảnh là đích tự Cao Hoàng, hiện nay ​đang còn. Chúng ta khởi nghĩa, nên trước hết tôn ngài lên làm cung chủ; có thế thì danh nghỉa mới thuận, hiệu lịnh được chuyên, mỗi khi ta cất tiếng kêu gào, thuận theo chiều gió, tất nhiên có tiếng vang bóng sâu xa lắm vậy. Các ông tính sao?
 {: .notice .text-justify}
 
 Tôi với hai ông Đặng, Lê, ban đầu thật chúng tôi chưa hề suy tính tới việc tôn người dòng dõi nhà vua. Tới đây nghe Nguyễn Quân, chúng tôi cho là phải lẽ lắm.
@@ -126,5 +115,5 @@ Sau khi《Lưu Cầu Huyết Lệ Tân Thư》ra đời rồi, các chí sĩ l�
 {: .text-justify}
 
 > <cite>
-<a target="_blank" href="https://vi.wikisource.org/wiki/%C4%90%E1%BB%9Di_c%C3%A1ch_m%E1%BA%A1ng_Phan_B%E1%BB%99i_Ch%C3%A2u">Theo Phan Bội Châu《Ngục trung thư》- Đào Trinh Nhất dịch</a>
+<a target="_blank" href="https://vi.wikisource.org/wiki/%C4%90%E1%BB%9Di_c%C3%A1ch_m%E1%BA%A1ng_Phan_B%E1%BB%99i_Ch%C3%A2u">Theo Phan Bội Châu《Ngục Trung Thư》- Đào Trinh Nhất dịch</a>
 </cite>
