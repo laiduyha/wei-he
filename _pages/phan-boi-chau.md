@@ -62,7 +62,11 @@ Sách được in lần đầu tiên năm 1914 và tái bản năm 1938. Nguyên
 * 1909 (42 tuổi) - Pháp Nhật câu kết, bị trục xuất khỏi Nhật
 * 1910 (43 tuổi) - Tìm đường chuyển vũ khí từ Trung Quốc về nước nhưng thất bại
 
+### <a href="/pbc-bi-bat-o-quang-chau">Kỳ 7. Bị bắt ở Quảng Châu</a>
+* 1911 (44 tuổi) - Qua Thái nương náu
+* 1912 (45 tuổi) - Lập《Việt Nam Quang Phục》hội ở Quảng Châu
+* 1913 (46 tuổi) - Bị Long Tế Quang bắt ở Quảng Châu
+
 ## Hồi II: Tiền đồ đen tối sẽ xuất hiện ánh sáng ban mai
 
-## Hồi III: Ông già Bến Ngự
 * 1925 (58 tuổi): bị Pháp bắt và giam lỏng ở Bến Ngự, Huế; được dân gọi là <a href="/pbc-ong-gia-ben-ngu">"Ông Già Bến Ngự"</a>
