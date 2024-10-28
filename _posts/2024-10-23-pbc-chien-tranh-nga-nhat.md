@@ -1,5 +1,5 @@
 ---
-title: Kỳ 3 - Chiến tranh Nga Nhật
+title: Kỳ 3 - Chiến tranh Nga-Nhật
 permalink: /pbc-chien-tranh-nga-nhat
 layout: single
 classes: wide

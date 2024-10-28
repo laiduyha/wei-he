@@ -11,7 +11,7 @@ classes: wide
 </a>
 </cite>
 
-Người xưa chí lớn hào hùng,\
+Người xưa chí lớn can trường,\
 Người xưa số kiếp trăm đường trầm luân.\
 Người xưa trác tuyệt phong vân,\
 Người xưa với cõi hồng trần trách than.\
