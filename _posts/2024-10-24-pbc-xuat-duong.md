@@ -112,7 +112,7 @@ Tôi bèn đi Quảng Đông, tìm tới viếng cụ. Thấy tôi, cụ hết s
 {: .text-justify}
 
 
-## Gặp Lương Khải Siêu và Khuyển Dưỡng Nghị
+## Gặp Lương Khải Siêu
 Lúc tôi đến tỉnh thành Quảng Đông, chính là lúc Sầm Xuân Huyền đang làm tổng đốc Lưỡng Quảng.
 {: .text-justify}
 
@@ -162,34 +162,12 @@ Sau khi họ Lương gặp tôi rồi, lấy cặp mắt xanh đãi tôi rất t
 
 Nhiệt tâm của các ông như thế, sức tôi có được tới đâu tôi giúp liền tới đó, không hề chạy chối. Nhưng nghĩ lại sự giúp sức cho đảng cách mạng đánh đổ chính phủ, thuở nay các nước không có lệ đó bao giờ. Nếu có chăng nữa, chỉ là lúc nào hai nước có chuyện xích mích tới đánh nhau mà thôi. Nay hai nước Pháp Nhật chưa tới cơ hội xích mích đánh nhau, có khi nào chính phủ Nhật chịu giúp khí giới cho các ông.\
  \
-Nghĩ tới cách khác, duy có mấy chính đảng của dân họ đem sức riêng giúp ngầm các ông, họa chăng có thể, Trong mấy dân đảng ở nước Nhật hiện thời, chỉ có đảng Tấn bộ nhiều thế lực mà Bá tước Đại Ôi (大隈重信) và Khuyển Dưỡng Nghị (犬養毅) chính là hai người đầu đảng. Nếu các ông muốn làm quen hai người đó thì tôi giới thiệu dùm.
+Nghĩ tới cách khác, duy có mấy chính đảng của dân họ đem sức riêng giúp ngầm các ông, họa chăng có thể, Trong mấy dân đảng ở nước Nhật hiện thời, chỉ có đảng Tấn bộ nhiều thế lực mà Bá tước Đại Ôi (大隈重信) và Khuyển Dưỡng Nghị (犬養毅) chính là hai người đầu đảng. Bá Tước từng hai phen làm Thủ Tướng, trước là công thần Duy Tân, mà hiện nay là đầu đảng Tấn bộ nước Nhật, rất có thế lực ở Thượng Nghị Viện. Còn Khuyển Dưỡng Nghị Tử Tước trước là Văn Bộ Đại Thần, mà hiện nay làm Tổng lý cho Tấn Bộ đảng, là tướng mạnh của Đại ô Bá Tước. Trong Dân đảng nước Nhật Bản hai người này rất có thế lực.
 {: .notice .text-justify}
 
-Rồi họ Lương cùng tôi đi Tokyo (Đông Kinh) yết kiến Khuyển Dưỡng Nghị. Sau Khuyển Dưỡng Nghị dẫn tôi tới ra mắt Đại Ôi Bá tước. Về sau đảng chúng tôi cùng dân đảng nước Nhật có quan hệ với nhau, đầu giây mối nhợ từ lúc này mà ra vậy.
-{: .text-justify}
 
-Mấy ngày sau Khuyển Dưỡng Nghị lại giới thiệu tôi với các vị yếu nhân trong dân đảng. Lúc này Phước đảo An Chánh đang làm tham mưu trưởng, Căn Tàn Nhất làm đầu Hội《Đông Á Đồng văn》, cả hai đều hoan nghênh tôi.
-{: .text-justify}
-
-Tôi liền nhân dịp tỏ bày ý muốn của đảng chúng tôi cầu viện. Họ nói:
-{: .text-justify}
-
-Phàm là nước đồng châu đồng chủng với Nhật Bản thì quốc dân Nhật Bản đều vui lòng giúp đỡ phò trì cho nhau. Nhưng mà việc này có quan hệ đến quốc tế, phải làm sao được chính phủ ngầm chịu giúp cho thì mới có thể làm. Rủi việc đánh Nga vừa mới xong, chính phủ nước tôi chưa rảnh mà ngó ngàng đến việc nào khác được. Các ông ráng đợi ít lúc, dân đảng chúng tôi xin hết lòng với các ông, thế nào cũng có ngày đạt tới mục đích đừng lo.
-{: .notice .text-justify}
-
-Họ lại hỏi tôn chỉ của đảng chúng tôi là quân chủ hay dân chủ? Tôi đáp:
-
-Mục đích của đảng chúng tôi bây giờ cấp thiết hơn hết là làm cách nào bắt buộc người Pháp trả quyền độc lập lại cho chúng tôi đã, còn như quân chủ hay dân chủ lại là một vấn đề khác, giờ chưa nghĩ đến. Song cứ theo lịch sử nước tôi xưa nay và dân trí hiện tại, thì quân chủ phải hơn. Bởi vậy đảng chúng tôi đã tôn một vị hoàng thân là ông Kỳ Ngoại Hầu lên làm Hội chủ, thế là chúng tôi sắp đặt quân chủ nay mai đó.
-{: .notice .text-justify}
-
-Người Nhật vốn tôn trọng đức Thiên Hoàng, tức là trợ tán thành chính thể quân chủ, cho nên họ cho lời tôi nói là phải. Họ lại nói với tôi:
-
-Nay các ông rước được vị Hoàng thân của quý quốc sang đây, thì giao tình của chúng ta càng thêm tốt đẹp. Các ông nghĩ có phải không?
-{: .notice .text-justify}
-
-Tôi nghĩ việc cầu viện, có thành hay không chưa biết. Nhưng tôi đã trốn nước ra ngoài như vậy, nếu tiếng tăm bay ra, rủi ro muôn một mà Hội chủ có hề gì, chắc là ảnh hưởng đến việc đảng lớn lắm. Bây giờ tôi bèn quyết kế trở về nước để mời Hội chủ xuất dương.
-{: .text-justify}
+## Gặp Khuyển Dưỡng Nghị, Đại Ôi
 
 > <cite>
-<a target="_blank" href="https://vi.wikisource.org/wiki/%C4%90%E1%BB%9Di_c%C3%A1ch_m%E1%BA%A1ng_Phan_B%E1%BB%99i_Ch%C3%A2u">Theo Phan Bội Châu《Ngục Trung Thư》- Đào Trinh Nhất dịch</a>
+ Thuật theo Phan Bội Châu《Ngục Trung Thư》và《Tự Phán》</a>
 </cite>

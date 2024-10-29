@@ -1,5 +1,5 @@
 ---
-title: Kỳ 5 - Hô hào thanh niên sang Nhật
+title: Kỳ 6 - Hô hào thanh niên sang Nhật
 permalink: /pbc-ho-hao-sang-nhat
 layout: single
 classes: wide
@@ -106,7 +106,7 @@ Thượng tuần tháng 9, tôi vời Nguyễn Quân Thức Canh từ bến đò
 Lý Tuệ là người có gan dạ, mưu mô, thâm hiểu nghĩa lớn. Về sau ông ta ngầm giúp công việc kia khác cho đảng chúng tôi được nhiều lắm. Lúc này tìm cách đưa tôi xuất dương, ấy là bước đường thứ nhứt của ông ta dấn mình vào quốc sự vậy. Thật là một người hăm hở làm việc nghĩa, gặp nạn coi chết như không. Tôi không ngờ giữa lúc mình gió bụi xông pha lại gặp được người như thế. Nghe nói bây giờ ông ta đã bị đày, còn sống hay chết rồi không rõ.
 {: .text-justify}
 
-## Quay lại Yokohama gặp Lương Khải Siêu
+## Quay lại Yokohama, gặp Tôn Trung Sơn
 Tháng 10 năm ấy, tôi đến Yokohama, vô ở nhà trọ cũ, thấy một vị thanh niên học sinh ta, là Lương quân Lập Nham đã tới ở đó trước rồi. Tôi xem ra người có khí phách hăng hái, đầu tóc đang để bờm xờm; dò hỏi mới biết cậu bỏ nhà vượt biển trốn sang Nhật có một mình, lúc lên bờ trong túi chỉ còn vỏn vẹn có ba đồng xu.
 {: .text-justify}
 
@@ -119,28 +119,19 @@ Kế đó tôi bôn tẩu giữa khoảng Tokyo và Yokohama, thường thườn
 Nhân đấy tôi nghĩ lại dân trí nước mình còn quá thấp, mà nhân tài cũng thiếu thốn không có. Chừng ấy tôi tự ăn năn việc mình lo toan lúc trước là nông nổi, chỉ bo bo về vấn đề quân giới, nào có phải đó là cái kế tuyệt hay để mưu tính công cuộc độc lập cho nước mình được đâu!
 {: .text-justify}
 
-Một bữa nọ, tôi đến nhà Lương Khải Siêu, trong lúc bút đàm, có đem ý kiến ấy ra nói, Lương bảo tôi như vầy:
+Lại cách vào ngày sau, Khuyển Dưỡng Nghị tiên sinh có giấy gọi tôi tới nhà, giới thiệu tô với Tôn Dật Tiên tiên sinh, là nhà đại thủ lĩnh cách mạng đản Trung Quốc. Tôn lúc đó mới ở Mỹ về Nhật Bản, hiện đương tổ chức hội Trung Quốc Đồng Minh, nên lưu lại Yokohama khá lâu. Ông Khuyển Dưỡng Nghị có nói với tôi rằng:
 {: .text-justify}
 
-Cái kế hoạch độc lập của quý quốc có ba đề mục lớn. Một là thực lực riêng ở trong nước các ông. Hai là nhờ hai tỉnh Quảng nước tôi cứu viện. Ba là nhờ sức cứu viện của Nhật.\
- \
-Hai tỉnh Quảng giúp chỉ là giúp dùm khí giới. Mà Nhật có giúp cũng chỉ là giúp về mặt ngoại giao. Còn thì nhất thiết đều trông cậy ở thực lực của quý quốc mà thôi.
+Quý quốc có độc lập nữa, tất sau Trung Quốc cách mạng thành công, đảng họ với các ngài đồng bệnh tương liên, ông nên gặp mặt người ấy làm địa bộ cho cho ngày sau.
 {: .notice .text-justify}
 
-Lương Khải Siêu nói tiếp:
-
-Thực lực hệ trọng hơn hết, không gì cho bằng nhân tài. Vậy thì tôi tính kế cho quý quốc bây giờ, trước hết ta hãy gắng công ra sức vun trồng nhân tài. Hễ nhân tài có đủ, thì chỉ đợi thời cơ đưa đến là ta làm việc lớn được dễ dàng.
-{: .notice .text-justify}
-
-Tôi rất phục lời họ Lương nói phải lắm. Trở về nhà trọ rồi tôi thao thức suy nghĩ cả đêm, không sao nhắm mắt ngủ được.
-
-Dòm quanh thế giới như rồng bay hổ thét, như điện chớp mây tuôn, nhân tài có ngàn thu muôn thuở, không có vẻ nào mà không mới lạ. Ngay đến một xó Đông Dương này, nước nhà mình so sánh đã đủ thua kém. Người ta muôn phần, mình chẳng có một, còn nói Âu Mỹ làm gì?
+Qua ngày sau tôi cầm danh thiếp ông Khuyển Dưỡng Nghị và giấy giới thiệu tới Trí Hòa Đường ở Yokohama yết kiến ông Tôn. Lúc đó đã 8 giờ đêm, ông Tôn đem giấy bộ ra nói chuyện. Vì đã đọc qua bản《Việt Nam Vong Quốc Sử》，ông biết trong óc tôi chưa thoát khỏi Quân chủ tư tưởng, nên ông hết sức bài bác đảng Quân Chủ lập hiến là ngư ngụy, mà kết thúc thì cốt muốn đảng nhân Việt Nam gia nhập đảng cách mạng Trung Quốc. Hễ đến lúc Trung Quốc cách mạng thành công thì đem cả truyền lực kéo dắt hết các nước bị bảo hộ ở Á Châu đồng thời được độc lập, mà nước thứ nhất được viện trợ là Việt Nam.
 {: .text-justify}
 
-Bởi vậy nuôi dựng nhân tài là việc cần kíp của mình, không đợi phải nói nữa. Song muốn nuôi dựng nhân tài, ta phải làm sao bây giờ, vì cái thực quyền giáo dục nắm cả trong tay chính phủ Pháp bảo hộ? 
+Còn đến lời đáp của tôi thì cũng thừa nhận Dân chủ - Cộng Hòa là hoàn mỹ, mà chủ ý lại muốn Trung Quốc cách mạng đảng trước trợ giúp cho Việt Nam, lúc Việt Nam độc lập rồi thì xin lấy Bắc Kỳ cho đảng Trung Quốc mượn làm căn cứ địa, sẽ tấn vào lưỡng Quảng mà lấy đến Trung Nguyên. Tôi với ông Tôn biện bác dằng nhau có hơn vài giờ đồng hồ. Đến 11 giờ, tôi đứng dậy từ biệt, ông Tân hẹn với tôi hội đàm lần thứ hai.
 {: .text-justify}
 
-Dầu vậy mặc lòng, anh em chúng tôi còn đây, không lẽ nào chịu bó tay đợi chết cho đành. Giờ chỉ có cách là kêu gào bọn thiếu niên trong nước tỉnh dậy, liều mình trốn ra nước ngoài học tập, như thế thì ta được tự do mở mang trí khôn, mà nước nhà mới trông có nhân tài sinh ra được nhiều.
+Qua ngày sau, tôi lại đến Trí Hòa Đường, hội Tôn lần nữa. Nhưng kết quả hai bên đều nhận lầm cả. Kỳ thực thì tôi, chưa biết nội dung Trung Quốc cách mạng đảng ra thế nào, mà ông Tôn cũng chưa biết chân tướng Việt Nam cách mạng đảng ra làm sao. Hai bên ve vuốt nhau chỉ là một đám mộng tưởng mà thôi, nhưng về phần tinh thần vẫn là đằm thắm. Ngày sau đảng ta gặp khi cùng khốn, được ở đảng họ giúp cũng nhiều, chính là từ hai hôm hội đàm này.
 {: .text-justify}
 
 ## Hô hào thanh niên qua Nhật cầu học
@@ -168,23 +159,44 @@ Lúc đó ông Phước Đảo đang làm hiệu trưởng Chân Võ học hiệ
 Ôi! Lịch sử quốc dân ta như thế ai bảo là thằng bé con lụ khụ trăm tuổi cũng phải.
 {: .text-justify}
 
-## Đón hội chủ sang Nhật
+## Đón hội chủ và gặp ông Tây Hồ Phan quân Châu Trinh
 Tháng 2 năm đó, bọn ông Tử Kính đã phò tá Hội chủ Kỳ Ngoại Hầu đến Hồng Kong, viết thơ sang Nhật gọi tôi qua. Lúc bấy giờ, 4 người thiếu niên vừa mới được vô học trường Nhật, lại được nghe tin Hội chủ xuất dương yên ổn, thật mấy năm nay chỉ có chuyện này tôi thấy vui mừng khoan khoái hết sức.
 {: .text-justify}
 
-Tôi nóng lòng muốn biết tình hình trong nước gần đây ra sao, lại sẵn có dịp đi nghinh tiếp Hội chủ, nên chi hạ tuần tháng hai, tôi đáp tàu ở Nhật sang Hồng Kong. Tới đây, vừa gặp Phan quân Châu Trinh mới từ nước nhà qua.
+Tôi nóng lòng muốn biết tình hình trong nước gần đây ra sao, lại sẵn có dịp đi nghinh tiếp Hội chủ, nên chi hạ tuần tháng hai, tôi đáp tàu ở Nhật sang Hồng Kong. 
 {: .text-justify}
 
-Phan quân đi chuyến này, cốt muốn xem xét tình hình văn minh của Nhật. Sau khi gặp mặt tôi rồi, ông cùng tôi và Hội chủ cùng xuống tàu sang Nhật. Chúng tôi đến Yokohama vào hồi hạ tuần tháng 4. Tôi dẫn Phan quân đi xem khắp các trường học và các nơi danh tiếng ở thành Tokyo lại giáp mặt nhiều danh nhân nước Nhật. 
+Tới đây, vừa gặp ông Tây Hồ, Phan quân Châu Trinh mới từ nước nhà qua. Ông Tây Hồ lúc mới gặp thì áo cụt, giày rác, đầu tóc bờm xờm, trông như phường lao động nước ta; bới vì ông thay lốt làm một tên nấu bếp ở dưới tàu, đây chắc hẳn là thủ đoạn của ông Lý Tuệ chỉ lối. Khi thấy chúng tôi, ông chưa chào đã cưới, tôi dậy bắt tay ông, vui không thể nói được.
 {: .text-justify}
 
-Cách sau mấy tuần, ông nói với tôi:
+Sau mấy câu chuyện thường, tôi đem《Duy Tân Hội Chương Trình》cho ông xem, ông lặng thinh, không trả lời, chỉ nói:
+{: .text-justify}
+
+Tôi rất muốn qua Nhật Bản một lần rồi liền về nước.
+{: .notice .text-justify}
+
+Trong suốt 10 ngày ở Quảng Đông, hai người chúng tôi hằng ngày bàn việc nước. Ý ông luôn hết sức công kích những tội ác của dân tặc độc phu; mà nói đến hiện triều quan chủ, họa quốc ương dân càng tỏ ra ý nghiến răng, rách mặt. Hình như ông nghĩ rằng cái tệ quân chủ chuyên chế không trừ thì tuy phục quốc cũng chưa phải là hạnh phúc.
+{: .text-justify}
+
+Trung tuần tháng ba thì chúng tôi tới Yokohama, rồi tới thương tuần tháng tư thì tôi đưa các học sinh lên Tokyo. Phan quan cũng đi với tôi và thăm quan khắp các học đường, vào khảo sát khắp các công việc chính trị, giáo dục Nhật Bản sau có bảo tôi rằng:
 {: .text-justify}
 
 Xem dân trí Nhật Bản rồi đem dân trí ta ra so sánh, thật không khác gì muốn đem con gà con đọ với con chim cắt già. Giờ bác ở đây, nên chuyên tâm ra sức vào việc văn thức tỉnh đồng bào cho khải tai điếc mắt đui, còn việc mở mang dìu dắt ở trong nước nhà thì tôi xin lãnh. Lưỡi tôi đang còn, người Pháp chẳng làm gì tôi được mà lo.
 {: .notice .text-justify}
 
-Tôi cho lời ông nói rất phải. Rồi tôi viết ra tập đầu《Hải Ngoại Huyết Thư》. Nhân lúc Phan quân về nước, tôi gởi đem Huyết Thư về. Đối với bà con trong nước, tôi làm một người khua động chuông chiều trống sớm để thức tỉnh, thật là tập văn này nối gót《Huyết Lệ Tân Thư》 mà ra đời vậy.
+Từ đó luôn 10 ngày hơn, tôi với Phan quân bàn bạc, ý kiến rất trái nhau: Phan quân thì muốn đánh đổ quân chủ, mà cốt vun trồng lấy nền tảng dân quyền, hãy dựa vào Pháp mà đánh đổ quan chủ. Còn ý tôi thì muốn đánh đổ người Pháp, chờ lúc nước nhà độc lập rồi mới bàn đến việc khác; đương lúc đánh với Pháp thì phải lợi dụng quân chủ. Chính kiến của hai rất phản đối nhau, cùng chung mục đích mà thủ đoạn thì khác nhau. Tuy vậy nhưng vẫn rất ưa nhau. Ở lại non nửa tháng thì ông đánh tiếng muốn về nước. Lần tiễn biệ, ông nói với tôi rằng:
+{: .text-justify}
+
+Bác hết sức cẩn trọng. Quốc dân hy vọng chỉ nơi mình ông. Kỳ Ngoại Hầu không cần gì đâu.
+{: .notice .text-justify}
+
+Lúc đó tôi đã giới thiệu Kỳ Ngoại Hầu với Phúc Đảo Đại Tướng Quân. Phúc Đảo nói với tôi rằng:
+{: .text-justify}
+
+Theo như lệ thường ngoại giao của liệt quốc thì Hoàng Tộc của quý quốc, nếu không có chính phủ Pháp thừa nhận thì nước Nhật Bản không thể minh bạch thu dụng được. Vậy nên đưa người ấy vào nhà học, trộn vào trong học sinh, làm như bao học sinh khác thì tốt hơn.
+{: .notice .text-justify}
+
+Vì vậy mà Kỳ Ngoại Hầu cũng lên Tokyo, vào nhà Chấn Võ học hiệu. Ở nhà học, cả thẩy 5 người chỉ duy Hầu là nộp học phí, bốn người kia thì Nhật Bản cấp phí cho. Âu đó cũng là một thủ đoạn của nước văn minh vậy.
 {: .text-justify}
 
 Cách không bao lâu, bọn anh em trong phái quá khích ở Nghệ Tĩnh, như mấy ông Đại Đẩu, Thần Sơn, phần nhiều viết thư hối thúc tôi về việc quân giới. Chỉ một vấn đề đó, khiến cho tôi hao tổn không biết bao nhiêu tâm huyết mà gây ra lắm nỗi thất bại thê thảm, thật là khổ não cho tôi!
@@ -197,5 +209,5 @@ Bởi vậy, một mặt tôi cổ vũ thanh niên du học, một mặt muốn 
 {: .text-justify}
 
 > <cite>
-<a target="_blank" href="https://vi.wikisource.org/wiki/%C4%90%E1%BB%9Di_c%C3%A1ch_m%E1%BA%A1ng_Phan_B%E1%BB%99i_Ch%C3%A2u">Theo Phan Bội Châu《Ngục Trung Thư》- Đào Trinh Nhất dịch</a>
+ Thuật theo Phan Bội Châu《Ngục Trung Thư》và《Tự Phán》</a>
 </cite>

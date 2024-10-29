@@ -28,10 +28,16 @@ Nghĩ xem mình đã sinh nhằm non sông còn ấu trĩ, nòi giống còn u m
 <a target="_blank" href="https://vi.wikisource.org/wiki/%C4%90%E1%BB%9Di_c%C3%A1ch_m%E1%BA%A1ng_Phan_B%E1%BB%99i_Ch%C3%A2u">Theo Phan Bội Châu《Ngục Trung Thư》- Đào Trinh Nhất dịch</a>
 </cite>
 
-## Hồi I: Thuật theo《Ngục Trung Thư》
+Các bài viết dưới đây được thuật theo hai cuốn tự truyện của Phan Bội Châu là《Ngục Trung Thư》và《Tự Phán》.
+{: .notice .text-justify}
+
 Phan Bội Châu viết《Ngục Trung Thư - Sách viết trong tù》lúc ở trong tù tại Quảng Châu năm 1913 (46 tuổi). Sách thuật lại chí hướng và những hoạt động cách mạng trong thời gian lưu vong của ông trước đó, cùng lời nhắn gửi tới những người đồng chí hướng sau này.
 {: .notice .text-justify}
 
+Năm 1925 (58 tuổi), Phan Bội Châu bị bắt ở Thượng Hải (Trung Quốc), thực dân Pháp lén lút đưa về Hà Nội. Nhân dân cả nước đấu tranh đòi ân xá cho ông. Thế là chúng an trí cho ông ở Bến Ngự, Huế. Ông sống ở đây trong suốt 15 năm cho đến lúc qua đời, được người dân gọi là “Ông già Bến Ngự”. Tại đây Phan Bội Châu viết《Tự Phán》vào năm 1929 (62 tuổi).
+{: .notice .text-justify}
+
+## Hồi I: Hoạt động cách mạng trong nước
 ### <a href="/pbc-tuoi-tre-nuoi-chi-lon">Kỳ 1. Tuổi trẻ nuôi chí lớn</a>
 * 1862: Pháp chiếm Nam Kỳ
 * 1867: Ra đời giữa lúc mất Nam Kỳ đã 6 năm
@@ -47,28 +53,28 @@ Phan Bội Châu viết《Ngục Trung Thư - Sách viết trong tù》lúc ở 
 * 1904 (37 tuổi) - Lập Duy Tân Hội
 * 1905 (38 tuổi) - Nhật thắng Nga; Được hội đề cử đi Nhật để xin viện trợ
 
-### <a href="/pbc-xuat-duong">Kỳ 4. Xuất dương</a>
-* 1905 (38 tuổi) - Lần đầu xuất dương; Gặp Lương Khải Siêu
+## Hồi II: Hoạt động cách mạng ở nước ngoài
 
-### <a href="/pbc-ho-hao-sang-nhat">Kỳ 5. Hô hào thanh niên sang Nhật Học</a>
-* 1906 (39 tuổi) - Thu xếp cho lứa du học sinh đầu tiên sang Nhật học
+### <a href="/pbc-xuat-duong">Kỳ 4. Xuất dương</a>
+* 1905 (38 tuổi) - Lần đầu xuất dương
+
+### <a href="/pbc-gap-luong-khai-sieu-va-cac-chinh-khach-nhat">Kỳ 5. Gặp Lương Khải Siêu và các chính khách Nhật</a>
+* 1905 (38 tuổi) - Gặp Lương Khải Siêu
+* 1905 (38 tuổi) - Gặp Khuyển Dưỡng Nghị, Bá Tước Đại Ôi
+
+### <a href="/pbc-ho-hao-sang-nhat">Kỳ 6. Hô hào thanh niên sang Nhật Học</a>
+* 1906 (39 tuổi) - Gặp Tôn Trung Sơn; Thu xếp cho lứa du học sinh đầu tiên sang Nhật học
 * 1907 (40 tuổi) - Đón Hội chủ Cường Để sang Nhật
 
-### <a href="/pbc-dan-than-bao-luc-cach-mang">Kỳ 6. Dấn thân vào làm bạo lực cách mạng</a>
+### <a href="/pbc-dan-than-bao-luc-cach-mang">Kỳ 7. Dấn thân vào làm bạo lực cách mạng</a>
 * 1908 (41 tuổi) - Lập《Tân Việt Nam Cống Hiến》ở Hồng Kong
 * 1909 (42 tuổi) - Pháp Nhật câu kết, bị trục xuất khỏi Nhật
 * 1910 (43 tuổi) - Tìm đường chuyển vũ khí từ Trung Quốc về nước nhưng thất bại
 
-### <a href="/pbc-bi-bat-o-quang-chau">Kỳ 7. Bị bắt ở Quảng Châu</a>
+### <a href="/pbc-bi-bat-o-quang-chau">Kỳ 8. Bị bắt ở Quảng Châu</a>
 * 1911 (44 tuổi) - Qua Thái nương náu
 * 1912 (45 tuổi) - Lập《Việt Nam Quang Phục》hội ở Quảng Châu
 * 1913 (46 tuổi) - Bị Long Tế Quang bắt ở Quảng Châu
-
-## Hồi II: Thuật theo《Tự Phán》
-Năm 1925 (58 tuổi), Phan Bội Châu bị bắt ở Thượng Hải (Trung Quốc), thực dân Pháp lén lút đưa về Hà Nội. Nhân dân cả nước đấu tranh đòi ân xá cho ông. Thế là chúng an trí cho ông ở Bến Ngự, Huế. Ông sống ở đây trong suốt 15 năm cho đến lúc qua đời, được người dân gọi là “Ông già Bến Ngự”. Tại đây Phan Bội Châu viết《Tự Phán》vào năm 1929 (62 tuổi). Mở đầu tựa sách ông viết.\
- \
-*"Tôi bị bắt ở nước ngoài đem về, bị giam trong ngục; nhờ quốc dân quá thương nên mới giữ được mạng sống tới nay. Tôi xa nước, xa đồng bào mấy chục năm, nay may được cùng nhau nhắc nhớ chuyện xưa. Có người yêu tôi, có người ghét tôi, có người mong đợi ở tôi, nhưng dù biết tôi hay không biết tôi, ai cũng muốn biết rõ đầu đuôi cái lịch sử của Phan Bội Châu này."*
-{: .notice .text-justify}
 
 Còn tiếp....
 {: .notice .text-justify}

@@ -102,5 +102,5 @@ Lúc bấy giờ cửa nhà tôi bị tiêu hủy vì họa binh đao, thân ph�
 {: .text-justify}
 
 > <cite>
-<a target="_blank" href="https://vi.wikisource.org/wiki/%C4%90%E1%BB%9Di_c%C3%A1ch_m%E1%BA%A1ng_Phan_B%E1%BB%99i_Ch%C3%A2u">Theo Phan Bội Châu《Ngục Trung Thư》- Đào Trinh Nhất dịch</a>
+ Thuật theo Phan Bội Châu《Ngục Trung Thư》và《Tự Phán》</a>
 </cite>
