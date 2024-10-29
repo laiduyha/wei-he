@@ -16,10 +16,10 @@ categories:
 Chân dung Phan Bội Châu
 </cite>
 
-Phan Bội Châu (潘佩珠) sinh 1867 mất 1940 thọ 73 tuổi. Cuộc đời cách mạng của ông hoạt động chủ yếu vào những năm 35-60 tuổi. Ông như một con vụ xoay vòng tìm cách đưa đất nước thoát ra khỏi những gông cùm, mưu toan, sắp đặt của thực dân, đế quốc thời đó. 
+Phan Bội Châu (潘佩珠) sinh 1867 mất 1940 thọ 73 tuổi. Cuộc đời cách mạng của ông hoạt động chủ yếu vào những năm 35-60 tuổi. Ông như một con vụ xoay vần tìm cách đưa đất nước thoát ra khỏi những gông cùm, mưu toan, sắp đặt của thực dân, đế quốc thời đó. 
 {: .text-justify}
 
-Có người nói rằng ông ngây thơ, và ngay cả chính ông cũng tự nhận mình ngu muội. Tuy nhiên, người tự nhận mình ngu muội nào có phải là người không biết suy nghĩ trước sau. Theo dấu ông, cậu sẽ thấy được cốt cách của một con người yêu nước can đảm, dám thoát ra khỏi xiềng xích không chỉ của thực dân mà của cả tư duy Nho giáo thủ cựu thời bấy giờ.
+Có người nói rằng ông ngây thơ, và ngay cả chính ông cũng tự nhận mình ngu muội. Tuy nhiên, người tự nhận mình ngu muội nào có phải là người không biết suy nghĩ trước sau! Theo dấu ông, cậu sẽ thấy được cốt cách của một con người yêu nước can đảm, dám thoát ra khỏi xiềng xích không chỉ của thực dân mà của cả tư duy Nho giáo thủ cựu thời bấy giờ.
 {: .text-justify}
 
 Nghĩ xem mình đã sinh nhằm non sông còn ấu trĩ, nòi giống còn u mê, chưa được mở mang cho nên vừa ở trong bọc mẹ lọt ra, không ai chỉ vẽ dìu dắt để mở trí cho mình, lại gặp phải cái cảnh giam hãm xiềng khóa đêm ngày, người ta chỉ sợ mắt mình được thấy, tai mình được nghe, như thế bảo sao mình không ngu muội cho được!
@@ -28,14 +28,14 @@ Nghĩ xem mình đã sinh nhằm non sông còn ấu trĩ, nòi giống còn u m
 <a target="_blank" href="https://vi.wikisource.org/wiki/%C4%90%E1%BB%9Di_c%C3%A1ch_m%E1%BA%A1ng_Phan_B%E1%BB%99i_Ch%C3%A2u">Theo Phan Bội Châu《Ngục Trung Thư》- Đào Trinh Nhất dịch</a>
 </cite>
 
-Các bài viết dưới đây được thuật theo hai cuốn tự truyện của Phan Bội Châu là《Ngục Trung Thư》và《Tự Phán》.
-{: .notice .text-justify}
+Các bài viết dưới đây đã được tổng hợp lại viết theo văn phong và từ ngữ thời bây giờ. Các câu chuyện chủ yếu được trích từ hai cuốn tự truyện của  ông là《Ngục Trung Thư》và《Tự Phán》.
+{: .text-justify}
 
-Phan Bội Châu viết《Ngục Trung Thư - Sách viết trong tù》lúc ở trong tù tại Quảng Châu năm 1913 (46 tuổi). Sách thuật lại chí hướng và những hoạt động cách mạng trong thời gian lưu vong của ông trước đó, cùng lời nhắn gửi tới những người đồng chí hướng sau này.
-{: .notice .text-justify}
+Phan Bội Châu viết《Ngục Trung Thư》lúc ở trong tù tại Quảng Châu năm 1913 (46 tuổi). Tại thời điểm đó ông nghĩ mình sẽ bị xử tử nên viết cuốn này coi như là di ngôn để lại cho thế hệ sau.
+{: .text-justify}
 
-Năm 1925 (58 tuổi), Phan Bội Châu bị bắt ở Thượng Hải (Trung Quốc), thực dân Pháp lén lút đưa về Hà Nội. Nhân dân cả nước đấu tranh đòi ân xá cho ông. Thế là chúng an trí cho ông ở Bến Ngự, Huế. Ông sống ở đây trong suốt 15 năm cho đến lúc qua đời, được người dân gọi là “Ông già Bến Ngự”. Tại đây Phan Bội Châu viết《Tự Phán》vào năm 1929 (62 tuổi).
-{: .notice .text-justify}
+Còn với《Tự Phán》thì ông viết vào năm 1929 (62 tuổi), sau khi bị bắt ở Thượng Hải vào năm 1925 (58 tuổi) và bị thực dân Pháp đưa về nước, giam lỏng ở Bến Ngự, Huế.
+{: .text-justify}
 
 ## Hồi I: Hoạt động cách mạng trong nước
 ### <a href="/pbc-tuoi-tre-nuoi-chi-lon">Kỳ 1. Tuổi trẻ nuôi chí lớn</a>

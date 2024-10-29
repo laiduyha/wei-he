@@ -234,7 +234,3 @@ Tóm lại, trong đời người thật không có ai ngu dại như tôi. Nế
 Lịch ta ngày 25 tháng chạp năm Quý Sửu (1913),\
 Sào Nam Tử viết tập《Ngục Trung Thư》này ở nhà ngục Quảng Châu, sau khi vào ngục 3 ngày.
 {: .notice .text-justify}
-
-> <cite>
- Thuật theo Phan Bội Châu《Ngục Trung Thư》và《Tự Phán》</a>
-</cite>

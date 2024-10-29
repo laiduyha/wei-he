@@ -113,7 +113,3 @@ Ai nấy bàn bạc nhất định như vậy rồi, bèn tính cử một ngư�
 
 Hồi đó công việc trong đảng đang cần người có tài làm sứ, nên toàn Hội cùng cử tôi làm chức đại biểu đi Nhật.
 {: .text-justify}
-
-> <cite>
- Thuật theo Phan Bội Châu《Ngục Trung Thư》và《Tự Phán》</a>
-</cite>

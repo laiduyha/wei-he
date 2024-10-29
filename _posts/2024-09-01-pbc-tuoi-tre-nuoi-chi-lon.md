@@ -100,7 +100,3 @@ Tới nay nhớ lại việc tôi đã làm đó, không khác gì trẻ con là
 
 Lúc bấy giờ cửa nhà tôi bị tiêu hủy vì họa binh đao, thân phụ tôi ở giữa cơn hoạn nạn, lại mang bịnh nặng. Tôi không còn mẹ, cũng không có anh em nào, thành ra không dám bỏ cha mình mà ngó tới việc gì khác. Tôi đành nương náu ở nhà dạy học trò, để chuyên lo săn sóc bịnh cha, cả thảy 9 năm.
 {: .text-justify}
-
-> <cite>
- Thuật theo Phan Bội Châu《Ngục Trung Thư》và《Tự Phán》</a>
-</cite>

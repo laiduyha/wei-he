@@ -62,23 +62,6 @@ Gió bụi phương Nam chẳng quản gì!
 <a target="_blank" href="https://wei-he.xyz">Wéi Hé dịch</a>
 </cite>
 
-## Thay người viết đùa
-Nhà ai bến Nhị mọc lô nhô,\
-Chiếm cả bầu xuân hết một khu.\
-Tả hữu đôi bên cầu gác dựng,\
-Hán Hồ khác lối áo quần phô.
-
-Giàm vàng ngựa kén mầm rau ngột,\
-Lầu ngọc người say thú rượu nho.\
-Cảnh đẹp năm năm riêng hưởng thú,\
-Mặc cho Nam hải bụi bay mù!
-
-> <cite>
-<a target="_blank" href="https://www.thivien.net/Nguy%E1%BB%85n-Th%E1%BA%A1ch-Giang/author-CvAZUU0eLlYNISop-HkZqA">
-Nguyễn Thạch Giang dịch
-</a>
-</cite>
-
 ## Tham khảo thêm
 - <a target="_blank" href="https://vanviet.info/nghien-cuu-phe-binh/h-bt-m-sao-buot-tm-can-ve-bi-tho-dai-nhn-h-bt-cua-nguyen-du/">
 “Hí bút” mà sao buốt tâm can (Về bài thơ “đại nhân hí bút” của Nguyễn Du)

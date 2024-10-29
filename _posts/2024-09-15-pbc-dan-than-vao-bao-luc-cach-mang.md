@@ -274,7 +274,3 @@ Hồi này người Pháp tính cách làm oai cho đảng nhân đang bô đào
 
 Tôi dời về ở tỉnh thành Quảng Châu, thế mà quan quyền Pháp lại bỏ tiền mua chuộc bọn trinh thám người Tàu để làm khó cho tôi. Đến nỗi tôi không dám lấy bút mực làm sinh kế nữa. Sớm tối tôi chỉ nương dựa vào một bà nữ sĩ nghĩa hiệp trên 70 tuổi đầu, làm như bà Phiếu mẫu nuôi cơm cho tôi ăn. Than ôi! Bà chiếu cố tôi trong chỗ gió bụi lênh đênh, nuôi tôi ăn không biết bao nhiêu bữa cơm mà nói, mà không hề nghĩ tới sự mai sau, trông mình đền đáp gì hết. Thật là Châu Mẫu Việt Thành, khiến cho tôi chết xuống đất cũng còn mang ơn ngậm vành kết cỏ vậy. Bà họ Châu, tên là Bách Linh.
 {: .text-justify}
-
-> <cite>
- Thuật theo Phan Bội Châu《Ngục Trung Thư》và《Tự Phán》</a>
-</cite>

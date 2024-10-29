@@ -48,7 +48,7 @@ Early 20th century photograph view at Hong Kong street scene - Đường phố H
 </a>
 </cite>
 
-## Tôi trốn sang Tàu, gặp cụ Nguyễn Thuật và Lưu Vĩnh Phúc ở Quảng Châu
+## Chuẩn bị xuất dương
 Nay tôi vâng mạng của đảng sai khiến, xuất dương là lần đầu. Tôi đi đây, vốn lấy tư cách là đại biểu của đảng cách mạng một nước mà đi. Cũng tức là đại biểu cho toàn quốc dân một nước mà đi.
 {: .text-justify}
 
@@ -84,6 +84,7 @@ Chính phủ Pháp không cho người Việt Nam mình có quyền tự do lai 
 Tăng quân đi trốn nhiều lần rồi, đường xá rất quen thuộc thông thạo, ông chỉ vẽ cho tôi cái kế thay hình đổi dạng để qua cửa quan ải cho lọt. Từ Hải Phòng ra Moncay, tôi giả làm chú khách đi buôn, cạo đầu kết bím, đáp một chiếc tàu buôn mà đi.
 {: .text-justify}
 
+## Đặt chân đến Trung Quốc
 Lúc tàu đến bến, chúng tôi đợi đêm khuya mới dám mướn một chiếc thuyền đánh cá nho nhỏ, lén qua Trúc Sơn, Trường Sơn là bờ cõi huyện Phong Thành nước Tàu.
 {: .text-justify}
 
@@ -108,11 +109,9 @@ Tại Hồng Kong thấy học trò đi học vui vẻ đông đảo, cảnh bu�
 Lúc này tôi nghe nói quan Hiệp đốc đại thần Nguyễn Thiện Thuật trước kia vì quốc nạn mà chạy sang Quảng Đông, giờ đang ngụ trong nhà thờ họ Lưu ở Sa Hà. Nguyễn công là người ngang hàng với bậc thân phụ tôi, lại là một tay Cần Vương ngày trước, nay tôi sang tới đây, chẳng lẽ không nói cho cụ biết.
 {: .text-justify}
 
-Tôi bèn đi Quảng Đông, tìm tới viếng cụ. Thấy tôi, cụ hết sức vui mừng, rồi dắt tôi đến yết kiến Uyên Đình Lưu Vĩnh Phúc. Lưu bây giờ đã già, nhưng cùng tôi nói lại chuyện cũ ở Bắc Kỳ, thỉnh thoảng Lưu còn vỗ bàn hàn hét lớn, khiến cho tôi tưởng thấy cái hùng phong như hồi đánh nhau với quân tây ở Cầu Giấy gần Hà Nội vậy.
+Tôi bèn đi Quảng Đông, tìm tới viếng cụ. Thấy tôi, cụ hết sức vui mừng, rồi dắt tôi đến yết kiến Uyên Đình Lưu Vĩnh Phúc. Lưu bây giờ đã già, nhưng cùng tôi nói lại chuyện cũ ở Bắc Kỳ, thỉnh thoảng Lưu còn vỗ bàn hàn hét lớn, khiến cho tôi tưởng thấy cái hùng phong như hồi đánh nhau với quân Tây ở Cầu Giấy gần Hà Nội vậy.
 {: .text-justify}
 
-
-## Gặp Lương Khải Siêu
 Lúc tôi đến tỉnh thành Quảng Đông, chính là lúc Sầm Xuân Huyền đang làm tổng đốc Lưỡng Quảng.
 {: .text-justify}
 
@@ -133,41 +132,3 @@ Than ôi! Sinh ra giữa thời đại là thế kỷ 19, 20 này, ai không có
 
 Tuy vậy, lúc đó tôi đã 40 tuổi, bị công việc của đảng ràng buộc nơi mình, mình phải vì đảng mà ra sức lo chạy, đến đỗi cơm không biết ngon, chiếu không biết ấm, bấy giờ dầu cho mình có muốn ôm sách đi học như hồi thi cử trước kia, cũng không có ngày giờ nào mà đi học được nữa. Than ôi! Sa đà ngày tháng, chớp mắt ra không, mài miệt công danh, hối mình đã lỡ, tôi khuyên tất cả thanh niên nước nhà, muôn vàn xin chớ bước lầm vào con đường của tôi.
 {: .text-justify}
-
-Thượng tuần tháng tư, tôi đáp tàu Nhật ở bến Thượng Hải, trung tuần thì đến Yokohama (Hoành Tân), tôi tạm ở lại đây hơn một tuần lễ.
-{: .text-justify}
-
-Lúc đầu tôi xuất dương không biết một tiếng Nhật nào. lại cũng không ai giới thiệu, thành ra lúc đi đường cần dùng chuyện chi, đều cậy chú lính gác đường; chú chỉ vẽ cho mình một cách rất tử tế.
-{: .text-justify}
-
-Thấy vậy lòng tôi rất cảm phục chính sách cảnh sát của Nhật Bản sắp đặt hẳn hoi, trọn vẹn; ngó lại chế độ cảnh sát ở xứ mình mà buồn. Lúc đó nhà văn học Trung Hoa là Lương nhiệm công Khải Siêu đang ở Yokohama làm chủ《Tân Dân tùng báo》. Nghe nói họ Lương ở Nhật lâu ngày hơi rõ công việc nước Nhật, tôi bèn quyết định trước hết tới ra mắt họ Lương để cầu họ Lương giới thiệu với người Nhật.
-{: .text-justify}
-
-Tuy là tôi với Lương chưa hề gặp mặt quen nhau lần nào, nhưng tôi nghĩ Lương là bực người mới, chắc có con mắt và tư tưởng không như bọn tầm thường, Tôi liền viết một bức thư xin ra mắt. Trong thư có câu như vầy: 
-
-Lạc địa nhất thinh khóc, tức dĩ tương tri, đọc thơ thập niên nhởn, toại thành thông gia.\
- \
-*Dịch là:*\
-Ra đời khóc một tiếng, đã là tương tri, sách vở đọc mười năm, trở nên thông gia.
-{: .notice .text-justify}
-
-Tôi lấy mấy câu đó làm gốc để cầu ra mắt họ Lương.
-{: .text-justify}
-
-Tiếp được thư Lương mời tôi vào lập tức. Chúng tôi lấy bút mực nói chuyện. Lương hỏi tôi qua đây có ý gì; lại hỏi tình hình người Pháp cai trị nước Việt ra sao. Tôi lấy làm tiếc lúc ấy chỉ kể đại khái, vì câu chuyện quá dài không thể một lúc bút thừa đàm mà nói cho Lương biết hết được. Rồi đó tôi viết ra cuốn《越南亡國史 - Việt Nam vong quốc sử》, đưa trọn bản thảo cho Lương đem ra in. Bước đầu tôi xuất dương mới viết sách là một lần thứ nhất.
-{: .text-justify}
-
-Sau khi họ Lương gặp tôi rồi, lấy cặp mắt xanh đãi tôi rất tử tế. Nhân đó tôi nói cho Lương nghe việc chúng tôi mưu tính cậy nhờ người Nhật giúp cho khí giới để khởi binh đánh đổ chính phủ Pháp. Lương nói:
-{: .text-justify}
-
-Nhiệt tâm của các ông như thế, sức tôi có được tới đâu tôi giúp liền tới đó, không hề chạy chối. Nhưng nghĩ lại sự giúp sức cho đảng cách mạng đánh đổ chính phủ, thuở nay các nước không có lệ đó bao giờ. Nếu có chăng nữa, chỉ là lúc nào hai nước có chuyện xích mích tới đánh nhau mà thôi. Nay hai nước Pháp Nhật chưa tới cơ hội xích mích đánh nhau, có khi nào chính phủ Nhật chịu giúp khí giới cho các ông.\
- \
-Nghĩ tới cách khác, duy có mấy chính đảng của dân họ đem sức riêng giúp ngầm các ông, họa chăng có thể, Trong mấy dân đảng ở nước Nhật hiện thời, chỉ có đảng Tấn bộ nhiều thế lực mà Bá tước Đại Ôi (大隈重信) và Khuyển Dưỡng Nghị (犬養毅) chính là hai người đầu đảng. Bá Tước từng hai phen làm Thủ Tướng, trước là công thần Duy Tân, mà hiện nay là đầu đảng Tấn bộ nước Nhật, rất có thế lực ở Thượng Nghị Viện. Còn Khuyển Dưỡng Nghị Tử Tước trước là Văn Bộ Đại Thần, mà hiện nay làm Tổng lý cho Tấn Bộ đảng, là tướng mạnh của Đại ô Bá Tước. Trong Dân đảng nước Nhật Bản hai người này rất có thế lực.
-{: .notice .text-justify}
-
-
-## Gặp Khuyển Dưỡng Nghị, Đại Ôi
-
-> <cite>
- Thuật theo Phan Bội Châu《Ngục Trung Thư》và《Tự Phán》</a>
-</cite>
