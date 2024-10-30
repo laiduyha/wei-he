@@ -179,7 +179,7 @@ Nếu phải đường đời bằng phẳng hết.\
 Anh hùng hào kiệt có hơn ai.
 {: .notice .text-justify}
 
-Còn tôi thì tự an ủi mình bằng một bài thơ nôm như sau này:
+Còn tôi thì tự an ủi mình bằng một bài thơ Nôm như sau này:
 {: .text-justify}
 
 Vẫn là hào kiệt vẫn phong lưu,\

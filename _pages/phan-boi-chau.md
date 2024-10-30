@@ -28,16 +28,15 @@ Nghĩ xem mình đã sinh nhằm non sông còn ấu trĩ, nòi giống còn u m
 <a target="_blank" href="https://vi.wikisource.org/wiki/%C4%90%E1%BB%9Di_c%C3%A1ch_m%E1%BA%A1ng_Phan_B%E1%BB%99i_Ch%C3%A2u">Theo Phan Bội Châu《Ngục Trung Thư》- Đào Trinh Nhất dịch</a>
 </cite>
 
-Các bài viết dưới đây đã được tổng hợp lại viết theo văn phong và từ ngữ thời bây giờ. Các câu chuyện chủ yếu được trích từ hai cuốn tự truyện của  ông là《Ngục Trung Thư》và《Tự Phán》.
+---
+
+Các bài viết dưới đây đã được tổng hợp lại viết theo văn phong và từ ngữ thời bây giờ. Các câu chuyện chủ yếu được trích từ hai cuốn tự truyện của ông là《Ngục Trung Thư》và《Tự Phán》.
 {: .text-justify}
 
-Phan Bội Châu viết《Ngục Trung Thư》lúc ở trong tù tại Quảng Châu năm 1913 (46 tuổi). Tại thời điểm đó ông nghĩ mình sẽ bị xử tử nên viết cuốn này coi như là di ngôn để lại cho thế hệ sau.
+Phan Bội Châu viết《Ngục Trung Thư》lúc ở trong tù tại Quảng Châu năm 1913 (46 tuổi). Tại thời điểm đó ông nghĩ mình sẽ bị xử tử nên viết cuốn này coi như là di ngôn để lại cho thế hệ sau. Còn với《Tự Phán》thì ông viết vào năm 1929 (62 tuổi), sau khi bị bắt ở Thượng Hải vào năm 1925 (58 tuổi) và bị thực dân Pháp đưa về nước, giam lỏng ở Bến Ngự, Huế.
 {: .text-justify}
 
-Còn với《Tự Phán》thì ông viết vào năm 1929 (62 tuổi), sau khi bị bắt ở Thượng Hải vào năm 1925 (58 tuổi) và bị thực dân Pháp đưa về nước, giam lỏng ở Bến Ngự, Huế.
-{: .text-justify}
-
-## Hồi I: Hoạt động cách mạng trong nước
+## Hồi I: Ở trong nước
 ### <a href="/pbc-tuoi-tre-nuoi-chi-lon">Kỳ 1. Tuổi trẻ nuôi chí lớn</a>
 * 1862: Pháp chiếm Nam Kỳ
 * 1867: Ra đời giữa lúc mất Nam Kỳ đã 6 năm
@@ -53,8 +52,7 @@ Còn với《Tự Phán》thì ông viết vào năm 1929 (62 tuổi), sau khi b
 * 1904 (37 tuổi) - Lập Duy Tân Hội
 * 1905 (38 tuổi) - Nhật thắng Nga; Được hội đề cử đi Nhật để xin viện trợ
 
-## Hồi II: Hoạt động cách mạng ở nước ngoài
-
+## Hồi II: Ra nước ngoài
 ### <a href="/pbc-xuat-duong">Kỳ 4. Xuất dương</a>
 * 1905 (38 tuổi) - Lần đầu xuất dương
 

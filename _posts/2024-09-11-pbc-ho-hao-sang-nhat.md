@@ -119,23 +119,35 @@ Kế đó tôi bôn tẩu giữa khoảng Tokyo và Yokohama, thường thườn
 Nhân đấy tôi nghĩ lại dân trí nước mình còn quá thấp, mà nhân tài cũng thiếu thốn không có. Chừng ấy tôi tự ăn năn việc mình lo toan lúc trước là nông nổi, chỉ bo bo về vấn đề quân giới, nào có phải đó là cái kế tuyệt hay để mưu tính công cuộc độc lập cho nước mình được đâu!
 {: .text-justify}
 
-Lại cách vào ngày sau, Inukai Tsuyoshi tiên sinh có giấy gọi tôi tới nhà, giới thiệu tôi với Tôn Dật Tiên tiên sinh, là nhà đại thủ lĩnh cách mạng đảng Trung Quốc. Tôn lúc đó mới ở Mỹ về Nhật Bản, hiện đương tổ chức hội Trung Quốc Đồng Minh, nên lưu lại Yokohama khá lâu. Ông Inukai Tsuyoshi có nói với tôi rằng:
+Lại cách vào ngày sau, Inukai Tsuyoshi tiên sinh có giấy gọi tôi tới nhà, giới thiệu tôi với Tôn Dật Tiên (Tôn Trung Sơn) tiên sinh, là nhà đại thủ lĩnh cách mạng đảng Trung Quốc. Tôn Trung Sơn lúc đó mới ở Mỹ về Nhật Bản, hiện đương tổ chức hội Trung Quốc Đồng Minh, nên lưu lại Yokohama khá lâu. Ông Inukai Tsuyoshi có nói với tôi rằng:
 {: .text-justify}
 
-Quý quốc có độc lập nữa, tất sau Trung Quốc cách mạng thành công, đảng họ với các ngài đồng bệnh tương liên, ông nên gặp mặt người ấy làm nền tảng cho ngày sau.
+Quý quốc có độc lập nữa, tất sau Trung Quốc cách mạng thành công, đảng họ với các ngài đồng bệnh tương liên. Ông nên gặp mặt người này cốt để làm nền tảng cho ngày sau.
 {: .notice .text-justify}
 
-Qua ngày hôm sau, tôi cầm danh thiếp ông Inukai Tsuyoshi và giấy giới thiệu tới Trí Hòa Đường ở Yokohama để yết kiến Tôn tiên sinh. Lúc đó đã 8 giờ đêm, Tôn Dật Tiên đem giấy bộ ra nói chuyện. Vì đã đọc qua bản《Việt Nam Vong Quốc Sử》，ông biết trong óc tôi chưa thoát khỏi Quân Chủ tư tưởng, nên ông hết sức bài bác đảng Quân Chủ Lập Hiến là ngư ngụy, mà kết thúc thì cốt muốn đảng cách mạng Việt Nam gia nhập đảng cách mạng Trung Quốc. Hễ đến lúc Trung Quốc cách mạng thành công thì theo đà kéo dắt hết các nước bị bảo hộ ở Á Châu đồng thời được độc lập, mà nước thứ nhất được viện trợ là Việt Nam.
+Qua ngày hôm sau, tôi cầm danh thiếp ông Inukai Tsuyoshi và giấy giới thiệu tới Trí Hòa Đường ở Yokohama để yết kiến Tôn tiên sinh. Lúc đó đã 8 giờ đêm, Tôn Dật Tiên đem giấy bộ ra nói chuyện.
 {: .text-justify}
 
-Còn đến lời đáp của tôi thì cũng thừa nhận Dân chủ - Cộng Hòa là hoàn mỹ, mà chủ ý lại muốn Trung Quốc cách mạng đảng trước trợ giúp cho Việt Nam, lúc Việt Nam độc lập rồi thì xin lấy Bắc Kỳ cho đảng Trung Quốc mượn làm căn cứ địa, sẽ tấn vào lưỡng Quảng mà lấy đến Trung Nguyên. Tôi với ông Tôn biện bút đàm đến hơn vài giờ đồng hồ. Đến 11 giờ, tôi đứng dậy từ biệt, ông Tôn hẹn với tôi hội đàm lần thứ hai.
+Vì đã đọc qua bản《Việt Nam Vong Quốc Sử》，ông biết trong óc tôi chưa thoát khỏi Quân Chủ tư tưởng, nên ông hết sức bài bác đảng Quân Chủ Lập Hiến coi nó là ngư ngụy, mà kết thúc thì cốt muốn đảng cách mạng Việt Nam gia nhập đảng cách mạng Trung Quốc. Hễ đến lúc Trung Quốc cách mạng thành công thì theo đà kéo dắt hết các nước bị bảo hộ ở Á Châu đồng thời được độc lập, mà nước thứ nhất được hỗ trợ là Việt Nam.
 {: .text-justify}
 
-Qua ngày sau, tôi lại đến Trí Hòa Đường, hội Tôn tiên sinh lần nữa. Nhưng kết quả hai bên đều nhận lầm cả. Kỳ thực thì tôi, chưa biết nội dung Trung Quốc cách mạng đảng ra thế nào, mà ông Tôn cũng chưa biết chân tướng Việt Nam cách mạng đảng ra làm sao. Hai bên ve vuốt nhau chỉ là một đám mộng tưởng mà thôi, nhưng về phần tinh thần vẫn là đằm thắm. Ngày sau đảng ta khi gặp nguy khốn, được đảng họ giúp cũng nhiều, chính là từ hai hôm hội đàm này.
+Còn đến lời đáp của tôi thì cũng thừa nhận Dân chủ - Cộng Hòa là hoàn mỹ, đồng thời lại có chủ ý muốn đảng cách mạng Trung Quốc trợ giúp cho Việt Nam. Lúc Việt Nam độc lập rồi thì xin lấy Bắc Kỳ cho đảng Trung Quốc mượn làm căn cứ địa, sẽ tấn vào lưỡng Quảng mà lấy đến Trung Nguyên.
+{: .text-justify}
+
+Tôi với Tôn tiên sinh bút đàm đến hơn vài giờ đồng hồ. Đến 11 giờ, tôi đứng dậy từ biệt, ông Tôn hẹn với tôi hội đàm lần thứ hai.
+{: .text-justify}
+
+Qua ngày sau, tôi lại đến Trí Hòa Đường, hội Tôn tiên sinh lần nữa. Nhưng kết quả hai bên đều nhận lầm cả. Kỳ thực thì tôi chưa biết nội dung Trung Quốc cách mạng đảng ra thế nào, mà ông Tôn cũng chưa biết chân tướng Việt Nam cách mạng đảng ra làm sao. Hai bên ve vuốt nhau chỉ là một đám mộng tưởng mà thôi, nhưng về phần tinh thần vẫn là đằm thắm.
+{: .text-justify}
+
+Ngày sau đảng ta khi gặp nguy khốn được đảng họ giúp cũng nhiều, chính là từ hai hôm hội đàm này.
 {: .text-justify}
 
 ## Hô hào thanh niên qua Nhật cầu học
-Tôi bèn đặt ra bài văn cổ động bà con trong nước giúp tiền cho thanh niên qua Nhật cầu học. Bài này chỉ viết lơ thơ có mấy ngàn chữ, nhưng thật là một bài văn bình sinh tôi lấy làm đắc ý nhất. 
+Sau những buổi gặp mặt này tôi đã xác định nuôi dựng nhân tài là việc cần kíp của mình, không đợi phải nói nữa. Song muốn nuôi dựng nhân tài ta phải làm sao bây giờ, vì cái thực quyền giáo dục nằm cả trong tay chính phủ Pháp bảo hộ? Dầu vậy mặc lòng, anh em chúng tôi còn đây, không lẽ nào bó tay chịu chết sao đành.
+{: .text-justify}
+
+Giờ chỉ có cách là kêu gào bọn thiếu niên trong nước tỉnh dậy, liều mình trốn ra nước ngoài học tập, như thế thì ta được tự do mở mang trí khôn, mà nước nhà mới chóng có nhân tài đẻ ra được nhiều. Tôi bèn đặt ra bài văn cổ động bà con trong nước giúp tiền cho thanh niên qua Nhật cầu học. Bài《Khuyên Thanh Niên du học》này chỉ viết có lơ thơ mấy ngàn chữ, nhưng thật là một bài văn sinh bình tôi lấy làm đắc ý thứ nhất.
 {: .text-justify}
 
 Là vì công việc tôi sắp đặt lo toan từ trước đến giờ, đều chuyên chú vào hiện tượng trước mắt: đến sự mưu đồ sự nghiệp lâu dài bền vững cho nước nhà, thời chỉ có bài văn này thôi. Nếu như có hiệu quả, người nước ta du học ngày thêm đông, nhân tài ngày thêm nhiều, dân trí ngày thêm cao, thì không gì nước Nam ta không có cơ sống lại.
@@ -147,13 +159,13 @@ Nhưng thủ đoạn người ta áp bức nặng nề dữ tợn, khiến cho l
 Than ôi! Tài hèn sức mỏng, trăm việc làm đều không được như lòng mình muốn, thành ra đá hết rồi mà biển hận vẫn chưa lấp đầy, oan hồn Tinh vệ, đêm ngày chỉ lênh đênh chìm nổi với ba đào, đau đớn thay!
 {: .text-justify}
 
-Bài văn《Khuyên Thanh Niên du học》viết xong rồi, thuê in ra mấy ngàn tập, giao cho Tăng quân Bạt Hổ đem về nước phát hành. Mùa đông tháng chạp năm Ất Tỵ (1906), Tăng quân về nước, cốt lo cổ động anh em qua học bên Nhật. Vừa khi đó ông Nguyễn Hải Thần ở nước nhà trốn qua tới Nhật, gặp tôi ở Yokohama, được đọc bài văn của tôi, ông lấy làm mừng lắm, tình nguyện gánh vác khoản tiền tổn phí cổ động du học sinh.
+Bài viết xong rồi, thuê in ra mấy ngàn tập, giao cho Tăng quân Bạt Hổ đem về nước phát hành. Mùa đông tháng chạp năm Ất Tỵ (1906), Tăng quân về nước, cốt lo cổ động anh em qua học bên Nhật. Vừa khi đó ông Nguyễn Hải Thần ở nước nhà trốn qua tới Nhật, gặp tôi ở Yokohama, được đọc bài văn của tôi, ông lấy làm mừng lắm, tình nguyện gánh vác khoản tiền tổn phí cổ động du học sinh.
 {: .text-justify}
 
 Không bao lâu, tiếng vang dội của bài văn tôi làm rung động xôn xao cả trong nước. Tháng giêng năm Bính Ngọ (1906), tôi đến nhà ông Inukai Tsuyoshi để bàn tính về việc đưa học sinh Việt Nam sang học, sắp đặt cho anh em trường học, chổ ở sẵn sàng.
 {: .text-justify}
 
-Lúc đó ông Phước Đảo đang làm hiệu trưởng Chân Võ học hiện tại Tokyo, tôi liền xin cho Trần Hữu Công (tức Nguyễn Thức Canh), Lương Lập Nham và Nguyễn Điển 3 người vô học trường ấy. Còn 1 người nữa là Lương Nghị Khanh thì vô học Đồng Văn thư viện. Nước ta 4 ngàn năm nay chưa hề có người nào du học ngoại quốc, có chăng là tự 4 người này trước hết.
+Lúc đó ông Phước Đảo đang làm hiệu trưởng Chấn Võ học hiệu tại Tokyo, tôi liền xin cho Trần Hữu Công (tức Nguyễn Thức Canh), Lương Lập Nham và Nguyễn Điển 3 người vô học trường ấy. Còn 1 người nữa là Lương Nghị Khanh thì vô học Đồng Văn thư viện. Nước ta 4 ngàn năm nay chưa hề có người nào du học ngoại quốc, có chăng là tự 4 người này trước hết.
 {: .text-justify}
 
 Ôi! Lịch sử quốc dân ta như thế ai bảo là thằng bé con lụ khụ trăm tuổi cũng phải.
@@ -163,10 +175,10 @@ Lúc đó ông Phước Đảo đang làm hiệu trưởng Chân Võ học hiệ
 Tháng 2 năm đó, bọn ông Tử Kính đã phò tá Hội chủ Kỳ Ngoại Hầu đến Hồng Kong, viết thơ sang Nhật gọi tôi qua. Lúc bấy giờ, 4 người thiếu niên vừa mới được vô học trường Nhật, lại được nghe tin Hội chủ xuất dương yên ổn, thật mấy năm nay chỉ có chuyện này tôi thấy vui mừng khoan khoái hết sức.
 {: .text-justify}
 
-Tôi nóng lòng muốn biết tình hình trong nước gần đây ra sao, lại sẵn có dịp đi nghinh tiếp Hội chủ, nên chi hạ tuần tháng hai, tôi đáp tàu ở Nhật sang Hồng Kong. 
+Tôi nóng lòng muốn biết tình hình trong nước gần đây ra sao, lại sẵn có dịp đi nghinh tiếp Hội Chủ, nên chi hạ tuần tháng hai, tôi đáp tàu ở Nhật sang Hồng Kong. 
 {: .text-justify}
 
-Tới đây, vừa gặp ông Tây Hồ, Phan quân Châu Trinh mới từ nước nhà qua. Lúc mới gặp, thì Phan Quân mặc áo cụt, đi giày rách, đầu tóc bờm xờm, trông như phường lao động nước ta; bởi vì ông thay lốt làm một tên nấu bếp ở dưới tàu, đây chắc hẳn là thủ đoạn của ông Lý Tuệ chỉ lối. Khi thấy chúng tôi, ông chưa chào đã cười, tôi dậy bắt tay ông, vui không thể nói được.
+Tới đây, vừa gặp ông Tây Hồ Phan quân Châu Trinh mới từ nước nhà qua. Lúc mới gặp, thì Phan quân mặc áo cụt, đi giày rách, đầu tóc bờm xờm, trông như phường lao động nước ta; bởi vì ông thay lốt làm một tên nấu bếp ở dưới tàu, đây chắc hẳn là thủ đoạn của ông Lý Tuệ chỉ lối. Khi thấy chúng tôi, ông chưa chào đã cười, tôi dậy bắt tay ông, vui không thể nói được.
 {: .text-justify}
 
 Sau mấy câu chuyện thường, tôi đem《Duy Tân Hội Chương Trình》cho ông xem, ông lặng thinh, không trả lời, chỉ nói:
@@ -175,25 +187,27 @@ Sau mấy câu chuyện thường, tôi đem《Duy Tân Hội Chương Trình》
 Tôi rất muốn qua Nhật Bản một lần rồi liền về nước.
 {: .notice .text-justify}
 
-Trong suốt 10 ngày ở Quảng Đông, hai người chúng tôi hằng ngày bàn việc nước. Ý ông luôn hết sức công kích hiện triều Quân Chủ, họa quốc ương dân càng tỏ ra ý nghiến răng, rách mặt. Hình như ông nghĩ rằng cái tệ Quân Chủ Chuyên Chế không trừ thì tuy phục quốc cũng chưa phải là hạnh phúc.
+Trong suốt 10 ngày ở Quảng Đông, hai người chúng tôi hằng ngày bàn việc nước. Ý ông luôn hết sức công kích triều đình đương thời, họa quốc cũng từ đó mà ra. Hình như ông nghĩ rằng cái tệ Quân Chủ Chuyên Chế không trừ thì giả có mà phục quốc cũng chưa phải là hạnh phúc.
 {: .text-justify}
 
 Trung tuần tháng ba thì chúng tôi tới Yokohama, rồi tới thượng tuần tháng tư thì tôi đưa các học sinh lên Tokyo. Phan quân cũng đi với tôi và thăm quan khắp các học đường, vào khảo sát khắp các công việc chính trị, giáo dục Nhật Bản. Sau có bảo tôi rằng:
 {: .text-justify}
 
-Xem dân trí Nhật Bản rồi đem dân trí ta ra so sánh, thật không khác gì muốn đem con gà con đọ với con chim cắt già. Giờ bác ở đây, nên chuyên tâm ra sức vào việc văn thức tỉnh đồng bào cho khải tai điếc mắt đui, còn việc mở mang dìu dắt ở trong nước nhà thì tôi xin lãnh. Lưỡi tôi đang còn, người Pháp chẳng làm gì tôi được mà lo.
+Xem dân trí Nhật Bản rồi đem dân trí ta ra so sánh, thật không khác gì muốn đem con gà con đọ với con chim cắt già. Trình độ dân Nhật như thế, mà trình độ dân ta như thế, không nô lệ làm sao được! Được bấy nhiêu học sinh vào nhà học Nhật Bản là thành tựu rất lớn của bác.\
+ \
+Giờ bác ở đây, nên chuyên tâm ra sức vào việc văn thức tỉnh đồng bào cho khải tai điếc mắt đui, còn việc mở mang dìu dắt ở trong nước nhà thì tôi xin lãnh. Lưỡi tôi đang còn, người Pháp chẳng làm gì tôi được mà lo.
 {: .notice .text-justify}
 
-Từ đó luôn 10 ngày hơn, tôi với Phan quân bàn bạc, ý kiến rất trái nhau: Phan quân thì muốn đánh đổ Quân Chủ, mà cốt vun trồng lấy nền tảng Dân Quyền, hãy dựa vào Pháp mà đánh đổ Quân Chủ. Còn ý tôi thì muốn đánh đổ người Pháp, chờ lúc nước nhà độc lập rồi mới bàn đến việc khác; đương lúc đánh với Pháp thì phải lợi dụng Quân Chủ. Chính kiến của hai rất đối nghịch nhau, cùng chung mục đích mà thủ đoạn thì khác nhau. Tuy vậy nhưng vẫn rất ưa nhau. Ở lại non nửa tháng thì ông đánh tiếng muốn về nước. Lúc tiễn biệt  ông nói với tôi rằng:
+Từ đó luôn 10 ngày hơn, tôi với Phan quân bàn bạc, ý kiến rất trái nhau: Phan quân thì muốn đánh đổ Quân Chủ, mà cốt vun trồng lấy nền tảng Dân Quyền, dựa vào Pháp mà đánh đổ Quân Chủ. Còn ý tôi thì muốn đánh đổ người Pháp, chờ lúc nước nhà độc lập rồi mới bàn đến việc khác; đương lúc đánh với Pháp thì phải lợi dụng Quân Chủ. Chính kiến của hai rất đối nghịch nhau, cùng chung mục đích mà thủ đoạn thì khác nhau. Tuy vậy nhưng vẫn rất ưa nhau. Ở lại non nửa tháng thì ông đánh tiếng muốn về nước. Lúc tiễn biệt ông nói với tôi rằng:
 {: .text-justify}
 
 Bác hết sức cẩn trọng. Quốc dân hy vọng chỉ nơi mình bác. Kỳ Ngoại Hầu không cần gì đâu.
 {: .notice .text-justify}
 
-Lúc đó tôi đã giới thiệu Kỳ Ngoại Hầu với Phúc Đảo Đại Tướng Quân. Phúc Đảo nói với tôi rằng:
+Lúc đó tôi đã giới thiệu Kỳ Ngoại Hầu với hiệu trưởng Chấn Võ học hiệu, Phước Đảo. Phước Đảo nói với tôi rằng:
 {: .text-justify}
 
-Theo như lệ thường ngoại giao của liệt quốc thì Hoàng Tộc của quý quốc, nếu không có chính phủ Pháp thừa nhận thì nước Nhật Bản không thể minh bạch thu dụng được. Vậy nên đưa người ấy vào nhà học, trộn vào trong học sinh, làm như bao học sinh khác thì tốt hơn.
+Theo như lệ thường ngoại giao của liệt quốc thì Hoàng Tộc của quý quốc, nếu không có Chính phủ Pháp thừa nhận thì nước Nhật Bản không thể minh bạch thu dụng được. Vậy nên đưa người ấy vào nhà học, trộn vào trong học sinh, làm như bao học sinh khác thì tốt hơn.
 {: .notice .text-justify}
 
 Vì vậy mà Kỳ Ngoại Hầu cũng lên Tokyo, vào nhà Chấn Võ học hiệu. Ở nhà học, cả thẩy 5 người, chỉ duy Hầu là nộp học phí, bốn người kia thì Nhật Bản cấp phí cho. Âu đó cũng là một thủ đoạn của nước văn minh vậy.
@@ -205,5 +219,5 @@ Cách không bao lâu, bọn anh em trong phái quá khích ở Nghệ Tĩnh, nh
 Các ông trong phái quá khích, có bầu máu nóng đáng kính, nhưng đầu óc các cụ chỉ lo xông pha bôn tẩu trên một con đường bạo động mà thôi. Chính tôi chưa bỏ nước ra đi, cũng chỉ có tư tưởng giống y như thế; chừng sau ra ngoài được rộng kiến văn và nhờ người ngoài giáo huấn, tôi mới biết sự nghiệp quang phục nước nhà, không sao có cơ sở cho thật bền vững thì không làm nên.
 {: .text-justify}
 
-Bởi vậy, một mặt tôi cổ vũ thanh niên du học, một mặt muốn mở mang tư tưởng ái quốc cho toàn quốc dân, tôi bèn viết ra《Tân Việt Nam Kỷ Niệm Lực》, 《Việt Nam Sử Khảo》, và tập《Hải Ngoại Huyết Thư》nối theo. Mấy thứ sách này lời lẽ thống thiết lâm ly, chỉ có chủ ý là trông mong quốc dân ta lấy Chiêm Thành, Chân Lạp làm dấu xe nên tránh và ráng theo chân nối gót cũa Trưng Vương, Lê Hoàng mà phát phần hăng hái, tìm lấy sự sống ở trong lúc chủng tộc chưa tiêu, tánh mạng chưa tuyệt, bằng không thì trễ mất.
+Bởi vậy, một mặt tôi cổ vũ thanh niên du học, một mặt muốn mở mang tư tưởng ái quốc cho toàn quốc dân, tôi bèn viết ra《Tân Việt Nam Kỷ Niệm Lực》, 《Việt Nam Sử Khảo》, và tập《Hải Ngoại Huyết Thư》nối theo. Mấy thứ sách này lời lẽ thống thiết lâm ly, chỉ có chủ ý là trông mong quốc dân ta lấy Chiêm Thành, Chân Lạp làm dấu xe nên tránh và ráng theo chân nối gót của Trưng Vương, Lê Hoàng mà phát phần hăng hái, tìm lấy sự sống ở trong lúc chủng tộc chưa tiêu, tánh mạng chưa tuyệt, bằng không thì trễ mất.
 {: .text-justify}

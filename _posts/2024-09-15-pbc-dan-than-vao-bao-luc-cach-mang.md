@@ -1,5 +1,5 @@
 ---
-title: Kỳ 6 - Dấn thân vào làm bạo lực cách mạng
+title: Kỳ 7 - Dấn thân vào làm bạo lực cách mạng
 permalink: /pbc-dan-than-bao-luc-cach-mang
 layout: single
 classes: wide
@@ -24,7 +24,7 @@ Sống tủi làm chi đứng chật trời.
 
 Hàng thứ nhất (ngồi) từ trái qua phải: Trần Đông, Hà Đương Nghiêu, Hải Thần, Phan Bá Ngọc, Đặng Tử Mẫn.\
  \
-Hàng thứ 2 (đứng) từ trái qua phải: Nguyễn Thái Bạt, Trương Hưng, Hải Thạc (tức Nguyễn Quỳnh Chi), con trai thứ hai của Tán Thuật, Hoàng Trọng Mậu, Đặng Tử Võ, Quỳnh Lâm, Trần Hữu Lực.
+Hàng thứ 2 (đứng) từ trái qua phải: Nguyễn Thái Bạt, Trương Hưng, Hải Thạc (tức Nguyễn Quỳnh Chi - con trai thứ hai của Tán Thuật), Hoàng Trọng Mậu, Đặng Tử Võ, Quỳnh Lâm, Trần Hữu Lực.
 {: .notice}
 
 > <cite>
@@ -189,7 +189,7 @@ Học sinh đoàn ta bị hai ách là kinh tế hết phương và ngoại giao
 Chẳng phải vậy thôi, cho đến bao nhiêu sách vở truyền đơn tôi in ra để cổ động quốc dân, nay đều bị chính phủ Nhật tịch biên hết.
 {: .text-justify}
 
-Tôi với Hội chủ Kỳ Ngoại Hầu cũng bị chính phủ Nhật buộc phải xuất cảnh. Cảnh thất bại của tôi lúc này thật là đau đớn, như con người bị lột da xé thịt không còn chỗ nào lành lặn nữa vậy.
+Tôi với Hội Chủ Kỳ Ngoại Hầu cũng bị chính phủ Nhật buộc phải xuất cảnh. Cảnh thất bại của tôi lúc này thật là đau đớn, như con người bị lột da xé thịt không còn chỗ nào lành lặn nữa vậy.
 {: .text-justify}
 
 ## Muốn chở khí giới về giúp Hoàng Hoa Thám
