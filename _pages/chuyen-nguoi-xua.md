@@ -16,10 +16,10 @@ Người xưa số kiếp trăm đường trầm luân.\
 Người xưa trác tuyệt phong vân,\
 Người xưa với cõi hồng trần trách than.\
  \
-Ta qua một kiếp mênh mang,\
-Ta mong thấu được kiến quang của người.\
-Ta lần theo vết mây trời,\
-Ta ghi dấu lại cho đời ngày sau!
+Ta trải qua kiếp mê man,\
+Ta đi theo vết kiến quang cõi đời.\
+Ta tìm trong khắp đất trời,\
+Ta ghi chép lại chuyện đời tích xưa.
 
 > <cite>
 <a target="_blank" href="https://wei-he.xyz">Wéi Hé</a>
