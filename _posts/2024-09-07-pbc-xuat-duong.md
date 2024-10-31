@@ -40,7 +40,7 @@ Cùng đi với tôi có hai người, là ông Tăng quân Bạt Hổ và ông 
 Tháng 4 năm đó, Tăng quân mới ở hải ngoại về, nay lại cùng tôi lo lắng việc đảng, và đảng lựa chọn cùng xuất dương với tôi, thật là xứng đáng. 
 {: .text-justify}
 
-Mùng hai tháng riêng năm Ất Tỵ (1905) chúng tôi ra Hải Phòng để xuất dương. Lúc xuống tàu, tôi ứng khẩu bài thơ《Xuất dương lưu biệt》từ giã anh em.
+Mùng hai tháng riêng năm Ất Tỵ (1905) chúng tôi ra Hải Phòng để xuất dương. Lúc xuống tàu, tôi ứng khẩu bài thơ *"Xuất dương lưu biệt"* từ giã anh em.
 {: .text-justify}
 
 **出洋留別**\

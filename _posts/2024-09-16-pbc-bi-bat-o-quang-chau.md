@@ -8,7 +8,7 @@ parent:
   url: phan-boi-chau
 ---
 
-Phan Bội Châu trong《Tự Phán》có mô tả:\
+Phan Bội Châu trong *"Tự Phán"* có mô tả:\
  \
 *Xưa nước ta chỉ có cờ Hoàng Đế mà không có cờ nước cũng là một việc đáng quái gở. Hội Việt Nam Quang Phục mới chế định ra quốc kỳ bằng cờ ngũ tinh, dạng huy thức dùng bằng cách ngũ tinh liên châu.*\
  \
@@ -49,7 +49,7 @@ Hồi này rảnh rang nhàn thích, tôi soạn ra được nhiều bài văn Q
 Tháng 10 năm ấy (Tân Hợi, 1911) Phan quân Bá Ngọc ở Hồng Kong sang Thái, đem cái tin Võ Xương khởi nghĩa nói cho tôi nghe. Tôi lấy làm động tâm hết sức.
 {: .text-justify}
 
-Hồi trước tôi còn ở bên Nhật, từng có cơ hội kết giao với bọn lãnh tụ cách mạng Tàu như Hoàng Khắc Cường, Chương Thái Viêm. Lại cùng bọn Trương Kế và chí sĩ các nước Triều Tiên, Nhật Bản, Ấn Độ và Philippines, tổ chức ra hội《Đông Á Đồng Minh》. Chúng tôi với họ cũng là một hạng người đau lòng mất nước, mong phục nghiệp xưa, tôn chỉ vốn là tương hợp. Nay nghe tin quân cách mạng Trung Hoa dấy lên, khiến tôi có cái cảm giác tiếng đồng reo, tiếng chuông ứng.
+Hồi trước tôi còn ở bên Nhật, từng có cơ hội kết giao với bọn lãnh tụ cách mạng Tàu như Hoàng Khắc Cường, Chương Thái Viêm. Lại cùng bọn Trương Kế và chí sĩ các nước Triều Tiên, Nhật Bản, Ấn Độ và Philippines, tổ chức ra hội *"Đông Á Đồng Minh"* . Chúng tôi với họ cũng là một hạng người đau lòng mất nước, mong phục nghiệp xưa, tôn chỉ vốn là tương hợp. Nay nghe tin quân cách mạng Trung Hoa dấy lên, khiến tôi có cái cảm giác tiếng đồng reo, tiếng chuông ứng.
 {: .text-justify}
 
 Nhân đó Bá Ngọc khuyên tôi nên trở về nước Tàu.
@@ -62,7 +62,7 @@ Tôi liền từ giã sở ruộng ở Thái mà đi.
 Hạ tuần tháng 11 tới Hồng Kong anh em đồng chí tản tác các nơi, giờ đều quần tụ lại đây.
 {: .text-justify}
 
-Lúc này tôi viết ra một bài chính kiến, tựa là《Liên Á xổ ngôn》, cốt bày tỏ kêu gào hai nước Trung Hoa, Nhật Bản nên đấu sức cùng lòng, để sửa sang gây dựng đại cuộc châu Á.
+Lúc này tôi viết ra một bài chính kiến, tựa là *"Liên Á xổ ngôn"* , cốt bày tỏ kêu gào hai nước Trung Hoa, Nhật Bản nên đấu sức cùng lòng, để sửa sang gây dựng đại cuộc châu Á.
 {: .text-justify}
 
 Bài này truyền ra những người kiến thức đều khen ngợi tán thành.
@@ -99,13 +99,13 @@ Anh em đồng chí ngó thấy vậy, đều khuyên nhủ thúc giục tôi n�
 {: .text-justify}
 
 ## Long Tế Quang bắt tôi hạ ngục
-Tháng năm Nhâm Tý (1912), anh em trong đảng sửa sang tổ chức lại, thành ra hội《Việt Nam Quang Phục - 會復光南越》.
+Tháng năm Nhâm Tý (1912), anh em trong đảng sửa sang tổ chức lại, thành ra hội *"Việt Nam Quang Phục - 會復光南越"* .
 {: .text-justify}
 
 Các đồng chí cử tôi giữ quyền tổng lý; Hoàng quân Trọng Mậu thì làm bí thư.
 {: .text-justify}
 
-Chúng tôi thảo ra thể lệ cách thức đạo quân Việt Nam Quang Phục, lại in ra phiếu quân dụng riêng cho Việt Nam Quang Phục quân dùng với nhau. Một mặt khác, chúng tôi muợn in vô số sách vở văn bài cổ động, như là truyện《Hà thành Liệt sĩ》và bài văn《Khuyên bảo lính tập》, rồi sai người chuyển vận về nước, rải phát tứ tung.
+Chúng tôi thảo ra thể lệ cách thức đạo quân Việt Nam Quang Phục, lại in ra phiếu quân dụng riêng cho Việt Nam Quang Phục quân dùng với nhau. Một mặt khác, chúng tôi muợn in vô số sách vở văn bài cổ động, như là truyện *"Hà thành Liệt sĩ"* và bài văn *"Khuyên bảo lính tập"* , rồi sai người chuyển vận về nước, rải phát tứ tung.
 {: .text-justify}
 
 Tháng hai, năm Quý Sửu (1913), chúng tôi ủy ông Nguyễn Hải Thần làm chi bộ bộ trưởng hội Việt Nam Quang Phục ở Quế Biên (giáp giới tỉnh Quế, tức tỉnh Quảng Tây); ông Trần Văn Kiện làm chi bộ bộ trưởng ở Thái biên; còn ngả Điền biên (Điền là tên tắt của tỉnh Vân Nam) thì Đổ quân Chơn Thiết tự nguyện phụ trách.
@@ -232,5 +232,5 @@ Tóm lại, trong đời người thật không có ai ngu dại như tôi. Nế
 {: .text-justify}
 
 Lịch ta ngày 25 tháng chạp năm Quý Sửu (1913),\
-Sào Nam Tử viết tập《Ngục Trung Thư》này ở nhà ngục Quảng Châu, sau khi vào ngục 3 ngày.
+Sào Nam Tử viết tập *"Ngục Trung Thư"* này ở nhà ngục Quảng Châu, sau khi vào ngục 3 ngày.
 {: .notice .text-justify}

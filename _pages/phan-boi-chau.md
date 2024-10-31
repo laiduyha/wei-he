@@ -30,10 +30,10 @@ Nghĩ xem mình đã sinh nhằm non sông còn ấu trĩ, nòi giống còn u m
 
 ---
 
-Các bài viết dưới đây đã được tổng hợp lại viết theo văn phong và từ ngữ thời bây giờ. Các câu chuyện chủ yếu được trích từ hai cuốn tự truyện của ông là《Ngục Trung Thư》và《Tự Phán》.
+Các bài viết dưới đây đã được tổng hợp lại viết theo văn phong và từ ngữ thời bây giờ. Các câu chuyện chủ yếu được trích từ hai cuốn tự truyện của ông là *"Ngục Trung Thư"* và *"Tự Phán"* .
 {: .text-justify}
 
-Phan Bội Châu viết《Ngục Trung Thư》lúc ở trong tù tại Quảng Châu năm 1913 (46 tuổi). Tại thời điểm đó ông nghĩ mình sẽ bị xử tử nên viết cuốn này coi như là di ngôn để lại cho thế hệ sau. Còn với《Tự Phán》thì ông viết vào năm 1929 (62 tuổi), sau khi bị bắt ở Thượng Hải vào năm 1925 (58 tuổi) và bị thực dân Pháp đưa về nước, giam lỏng ở Bến Ngự, Huế.
+Phan Bội Châu viết *"Ngục Trung Thư"* lúc ở trong tù tại Quảng Châu năm 1913 (46 tuổi). Tại thời điểm đó ông nghĩ mình sẽ bị xử tử nên viết cuốn này coi như là di ngôn để lại cho thế hệ sau. Còn với *"Tự Phán"* thì ông viết vào năm 1929 (62 tuổi), sau khi bị bắt ở Thượng Hải vào năm 1925 (58 tuổi) và bị thực dân Pháp đưa về nước, giam lỏng ở Bến Ngự, Huế.
 {: .text-justify}
 
 ## Hồi I: Ở trong nước
@@ -46,7 +46,7 @@ Phan Bội Châu viết《Ngục Trung Thư》lúc ở trong tù tại Quảng C
 ### <a href="/pbc-buoi-dau">Kỳ 2. Buổi đầu</a>
 * 1896 (29 tuổi) - Vào Huế dạy học; Tạo liên kết với các chí sĩ yêu nước
 * 1903 (36 tuổi) - Tìm đường khởi nghĩa; Tôn Kỳ Ngoại Hầu Cường Để làm minh chủ
-* 1904 (37 tuổi) - Viết《Lưu Cầu Huyết Lệ Tân Thư》
+* 1904 (37 tuổi) - Viết *"Lưu Cầu Huyết Lệ Tân Thư"* 
 
 ### <a href="/pbc-chien-tranh-nga-nhat">Kỳ 3. Chiến tranh Nga-Nhật</a>
 * 1904 (37 tuổi) - Lập Duy Tân Hội
@@ -64,14 +64,18 @@ Phan Bội Châu viết《Ngục Trung Thư》lúc ở trong tù tại Quảng C
 * 1906 (39 tuổi) - Gặp Tôn Trung Sơn; Thu xếp cho lứa du học sinh đầu tiên sang Nhật học
 * 1907 (40 tuổi) - Đón Hội chủ Cường Để sang Nhật
 
-### <a href="/pbc-dan-than-bao-luc-cach-mang">Kỳ 7. Dấn thân vào làm bạo lực cách mạng</a>
-* 1908 (41 tuổi) - Lập《Tân Việt Nam Cống Hiến》ở Hồng Kong
+### <a href="/pbc-phong-trao-dong-du">Kỳ 7. Phong trào Đông Du</a>
+* 1908 (41 tuổi) - Đính mật ước với cụ Hoàng Hoa Thám
+* 1908 (41 tuổi) - Lập *"Tân Việt Nam Cống Hiến"* ở Hồng Kong
+* 1908 (41 tuổi) - Thu xếp cho phong trào Đông Du
+
+### <a href="/pbc-dan-than-bao-luc-cach-mang">Kỳ 8. Dấn thân vào làm bạo lực cách mạng</a>
 * 1909 (42 tuổi) - Pháp Nhật câu kết, bị trục xuất khỏi Nhật
 * 1910 (43 tuổi) - Tìm đường chuyển vũ khí từ Trung Quốc về nước nhưng thất bại
 
-### <a href="/pbc-bi-bat-o-quang-chau">Kỳ 8. Bị bắt ở Quảng Châu</a>
+### <a href="/pbc-bi-bat-o-quang-chau">Kỳ 9. Bị bắt ở Quảng Châu</a>
 * 1911 (44 tuổi) - Qua Thái nương náu
-* 1912 (45 tuổi) - Lập《Việt Nam Quang Phục》hội ở Quảng Châu
+* 1912 (45 tuổi) - Lập *"Việt Nam Quang Phục"* hội ở Quảng Châu
 * 1913 (46 tuổi) - Bị Long Tế Quang bắt ở Quảng Châu
 
 Còn tiếp....

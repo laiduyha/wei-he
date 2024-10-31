@@ -20,7 +20,7 @@ Thượng tuần tháng tư, tôi đáp tàu Nhật ở bến Thượng Hải, t
 Lúc đầu tôi xuất dương không biết một tiếng Nhật nào, lại cũng không ai giới thiệu, thành ra lúc đi đường cần dùng chuyện chi, đều cậy chú lính gác đường; chú chỉ vẽ cho mình một cách rất tử tế. Thấy vậy lòng tôi rất cảm phục chính sách cảnh sát của Nhật Bản sắp đặt hẳn hoi, trọn vẹn; ngó lại chế độ cảnh sát ở xứ mình mà buồn. 
 {: .text-justify}
 
-Lúc đó nhà văn học Trung Hoa là Lương công Khải Siêu đang ở Yokohama làm chủ《Tân Dân tùng báo》. Nghe nói Lương công ở Nhật lâu ngày, rõ công việc nước Nhật, tôi bèn quyết định trước hết tới ra mắt họ Lương để cầu ông giới thiệu với người Nhật.
+Lúc đó nhà văn học Trung Hoa là Lương công Khải Siêu đang ở Yokohama làm chủ *"Tân Dân tùng báo"* . Nghe nói Lương công ở Nhật lâu ngày, rõ công việc nước Nhật, tôi bèn quyết định trước hết tới ra mắt họ Lương để cầu ông giới thiệu với người Nhật.
 {: .text-justify}
 
 Tuy là tôi với Lương công chưa hề gặp mặt quen nhau lần nào, nhưng tôi nghĩ ông là người cấp tiến, chắc có con mắt và tư tưởng không như bọn tầm thường. Tôi liền viết một bức thư xin ra mắt. Trong thư có câu như vầy: 
@@ -159,5 +159,5 @@ Mà tiếng súng nổ lần thứ nhất, tất nhiên là đối với Pháp �
 Tôi nghe được bấy nhiêu lời, óc và mắt tôi bây giờ mới tỉnh táo được nhiều. Bút đàm xong tôi từ biệt về nhà trọ, rồi thao thức suy nghĩ cả đêm, không sao nhắm mắt ngủ được. Dòm quanh thế giới như rồng bay hổ thét, như điện chớp mây tuôn, nhân tài có ngàn thứ muôn thứ, không có vẻ nào mà không mới lạ. Ngay đến một xó Đông Dương này, nước nhà mình so sánh đã đủ thua kém, người ta muôn phần, mình chẳng có một, còn nói Âu Mỹ làm gì?
 {: .text-justify}
 
-Sau đó tôi viết ra cuốn《越南亡國史 - Việt Nam Vong Quốc Sử》. Viết xong đem tới cho Lương công xem và nhờ ông xuất bản, ông đồng ý ngay. Từ ngày đầu xuất dương tới giờ, đây là cuốn sách đầu tiên tôi viết. Chỉ một tuần lễ sách in xong, tôi tới nhà Lương công xin từ biệt về nước.
+Sau đó tôi viết ra cuốn *"越南亡國史 - Việt Nam Vong Quốc Sử"* . Viết xong đem tới cho Lương công xem và nhờ ông xuất bản, ông đồng ý ngay. Từ ngày đầu xuất dương tới giờ, đây là cuốn sách đầu tiên tôi viết. Chỉ một tuần lễ sách in xong, tôi tới nhà Lương công xin từ biệt về nước.
 {: .text-justify}
