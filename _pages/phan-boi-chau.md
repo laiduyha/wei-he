@@ -69,8 +69,8 @@ Phan Bội Châu viết *"Ngục Trung Thư"* lúc ở trong tù tại Quảng C
 * 1908 (41 tuổi) - Lập *"Tân Việt Nam Cống Hiến"* ở Hồng Kong
 * 1908 (41 tuổi) - Thu xếp cho phong trào Đông Du
 
-### <a href="/pbc-dan-than-bao-luc-cach-mang">Kỳ 8. Dấn thân vào làm bạo lực cách mạng</a>
-* 1909 (42 tuổi) - Pháp Nhật câu kết, bị trục xuất khỏi Nhật
+### <a href="/pbc-bi-nguoi-phap-dan-ap">Kỳ 8. Bị người Pháp đàn áp</a>
+* 1908 (41 tuổi) - Pháp Nhật câu kết, bị trục xuất khỏi Nhật
 * 1910 (43 tuổi) - Tìm đường chuyển vũ khí từ Trung Quốc về nước nhưng thất bại
 
 ### <a href="/pbc-bi-bat-o-quang-chau">Kỳ 9. Bị bắt ở Quảng Châu</a>

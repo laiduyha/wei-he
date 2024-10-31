@@ -165,8 +165,8 @@ Tôi về lại Nhật Bản, thì được tin cụ Tăng tạ thế! Trời đ
 Nguyên lúc đầu cụ Tăng Bạt Hổ về nước vì có hai cớ:
 {: .text-justify}
 
-1. Thấy tình trạng khốn khổ của chúng tôi ở Đông Kinh.
-2. Lo vấn đề học phí khốn nạn, mà tính một cách giải quyết cho xong.
+1. Thấy tình trạng khốn khổ của chúng tôi ở Tokyo.
+2. Lo vấn đề học phí, mà tính một cách giải quyết cho xong.
 {: .text-justify}
 
 Ông về mới hơn một năm, vận động thiệt có công hiệu, Khoảng 1906-1907 chúng tôi ở ngoài, kể những lữ phí, học phí và hành động các phí. Hết thảy đều duy trì được là nhờ công đức của các nghĩa nhân chí sĩ ở Trung, Bắc hai Kỳ. Mà người kéo mối dắt giây ở trung gian chính là ông Tăng.
