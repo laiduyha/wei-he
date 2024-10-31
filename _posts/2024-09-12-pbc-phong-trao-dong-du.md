@@ -273,3 +273,20 @@ Chúng ta làm người quân nhân, nếu sợ vỏ khoai không dám ăn thì 
 Sau ngày đó tôi đến *"Đông Á Đồng Văn Hội"* để nhờ cậy sắp xếp. Được các ông chính khách Nhật Bản giúp đỡ mà một trường mà một trường riêng cho học sinh Việt Nam được lập ra có tên là *"Đông Á Đồng Văn Thư Viện"*. Hiệu trưởng là ông Bá nguyên Văn Thái Lang ở Hạ Nghị Viện. Nội quy học đường, chương trình học đều do người Nhật Bản quy định. Trong đó chương trình được chia làm hai đoạn lớn:
 - Thượng bán nhật công khóa: dạy Nhật văn, Nhật ngữ, khoa học phổ thông, toán học, vật lý, lịch sử, hóa học, tu thân, luân lý...
 - Hạ bán nhật công khóa: dạy kiến thức quân sự, luyện tập binh thao.
+
+## Lập *"Tân Việt Nam Cống Hiến"*
+Đồng thời chúng tôi lại dựng lên *"Tân Việt Nam Cống Hiến"* , bắt chước làm như một chính phủ lâm thời của nước Nam ở hải ngoại. Tuy là cách thức sắp đặt còn sơ sài, nhưng có ảnh hưởng tới dân khí trong nước mau lắm.
+{: .text-justify}
+
+*"Công Hiến Hội"* được thành lập, toàn thể thanh niên có chỗ học, có chỗ nuôi, trật tự ngó cũng nghiêm túc. Mỗi tuần lễ tất có vài ngày quan Đan Ba Thiếu Tá đem học sinh ra ngoài đồng tập thể thao bằng các trận đánh, học sinh thì vui vẻ như trong lòng tôi thì có hai việc lo:
+
+1. Lo làm sao cho toàn thể học sinh được bền chặt.
+2. Lo làm sao cho tài chính hậu viện được tiếp tục.
+
+Về phần học sinh, vì tam kỳ nhân sĩ xưa nay không tiếp xúc nhau, mà khí chất lại khác nhau:
+
+- Người Nam Kỳ có ý phác thành mà nóng gấp muốn chóng, lại khuynh hướng về phần vật chất quá sâu.
+- Người Trung Kỳ có ý trung dũng, ưa mạo hiểm, mà thái độ thường hay thô sơ, khó dung hợp được tình cảm.
+- Đến người Bắc Kỳ thì văn sức quá nhiều mà thành phác có ít.
+
+Tuy xứ nào cũng có phần tử ưu tú, nhưng mà tập hợp chung lại thì rất khó. Tôi ở trong một năm hơn, thiệt nhiều chỗ đau đầu không thể nói ra, mà cũng tự thẹn cho mình tài đức quá kém, không đủ cảm hóa.
