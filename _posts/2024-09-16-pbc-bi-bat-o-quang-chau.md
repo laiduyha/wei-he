@@ -1,5 +1,5 @@
 ---
-title: Kỳ 8 - Bị bắt ở Quảng Châu
+title: Kỳ 9 - Bị bắt ở Quảng Châu
 permalink: /pbc-bi-bat-o-quang-chau
 layout: single
 classes: wide
