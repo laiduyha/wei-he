@@ -119,13 +119,13 @@ Kế đó tôi bôn tẩu giữa khoảng Tokyo và Yokohama, thường thườn
 Nhân đấy tôi nghĩ lại dân trí nước mình còn quá thấp, mà nhân tài cũng thiếu thốn không có. Chừng ấy tôi tự ăn năn việc mình lo toan lúc trước là nông nổi, chỉ bo bo về vấn đề quân giới, nào có phải đó là cái kế tuyệt hay để mưu tính công cuộc độc lập cho nước mình được đâu!
 {: .text-justify}
 
-Lại cách vào ngày sau, Inukai Tsuyoshi tiên sinh có giấy gọi tôi tới nhà, giới thiệu tôi với Tôn Dật Tiên (Tôn Trung Sơn) tiên sinh, là nhà đại thủ lĩnh cách mạng đảng Trung Quốc. Tôn Trung Sơn lúc đó mới ở Mỹ về Nhật Bản, hiện đương tổ chức hội Trung Quốc Đồng Minh, nên lưu lại Yokohama khá lâu. Ông Inukai Tsuyoshi có nói với tôi rằng:
+Lại cách vào ngày sau, Inukai Tsuyoshi tiên sinh có giấy gọi tôi tới nhà, giới thiệu tôi với Tôn Dật Tiên (Tôn Trung Sơn) tiên sinh, là nhà đại thủ lĩnh cách mạng đảng Trung Quốc. Tôn Trung Sơn lúc đó mới ở Mỹ về Nhật Bản, hiện đương tổ chức hội Trung Quốc Đồng Minh, nên lưu lại Yokohama khá lâu.  Inukai có nói với tôi rằng:
 {: .text-justify}
 
 Quý quốc có độc lập nữa, tất sau Trung Quốc cách mạng thành công, đảng họ với các ngài đồng bệnh tương liên. Ông nên gặp mặt người này cốt để làm nền tảng cho ngày sau.
 {: .notice .text-justify}
 
-Qua ngày hôm sau, tôi cầm danh thiếp ông Inukai Tsuyoshi và giấy giới thiệu tới Trí Hòa Đường ở Yokohama để yết kiến Tôn tiên sinh. Lúc đó đã 8 giờ đêm, Tôn Dật Tiên đem giấy bộ ra nói chuyện.
+Qua ngày hôm sau, tôi cầm danh thiếp ông Inukai và giấy giới thiệu tới Trí Hòa Đường ở Yokohama để yết kiến Tôn tiên sinh. Lúc đó đã 8 giờ đêm, Tôn Dật Tiên đem giấy bộ ra nói chuyện.
 {: .text-justify}
 
 Vì đã đọc qua bản *"Việt Nam Vong Quốc Sử"* ，ông biết trong óc tôi chưa thoát khỏi Quân Chủ tư tưởng, nên ông hết sức bài bác đảng Quân Chủ Lập Hiến coi nó là ngư ngụy, mà kết thúc thì cốt muốn đảng cách mạng Việt Nam gia nhập đảng cách mạng Trung Quốc. Hễ đến lúc Trung Quốc cách mạng thành công thì theo đà kéo dắt hết các nước bị bảo hộ ở Á Châu đồng thời được độc lập, mà nước thứ nhất được hỗ trợ là Việt Nam.
@@ -162,7 +162,7 @@ Than ôi! Tài hèn sức mỏng, trăm việc làm đều không được như 
 Bài viết xong rồi, thuê in ra mấy ngàn tập, giao cho Tăng quân Bạt Hổ đem về nước phát hành. Mùa đông tháng chạp năm Ất Tỵ (1906), Tăng quân về nước, cốt lo cổ động anh em qua học bên Nhật. Vừa khi đó ông Nguyễn Hải Thần ở nước nhà trốn qua tới Nhật, gặp tôi ở Yokohama, được đọc bài văn của tôi, ông lấy làm mừng lắm, tình nguyện gánh vác khoản tiền tổn phí cổ động du học sinh.
 {: .text-justify}
 
-Không bao lâu, tiếng vang dội của bài văn tôi làm rung động xôn xao cả trong nước. Tháng giêng năm Bính Ngọ (1906), tôi đến nhà ông Inukai Tsuyoshi để bàn tính về việc đưa học sinh Việt Nam sang học, sắp đặt cho anh em trường học, chổ ở sẵn sàng.
+Không bao lâu, tiếng vang dội của bài văn tôi làm rung động xôn xao cả trong nước. Tháng giêng năm Bính Ngọ (1906), tôi đến nhà ông Inukai để bàn tính về việc đưa học sinh Việt Nam sang học, sắp đặt cho anh em trường học, chổ ở sẵn sàng.
 {: .text-justify}
 
 Lúc đó ông Phước Đảo đang làm hiệu trưởng Chấn Võ học hiệu tại Tokyo, tôi liền xin cho Trần Hữu Công (tức Nguyễn Thức Canh), Lương Lập Nham và Nguyễn Điển 3 người vô học trường ấy. Còn 1 người nữa là Lương Nghị Khanh thì vô học Đồng Văn thư viện. Nước ta 4 ngàn năm nay chưa hề có người nào du học ngoại quốc, có chăng là tự 4 người này trước hết.

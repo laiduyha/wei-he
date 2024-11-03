@@ -80,19 +80,19 @@ Bá Tước Okuma Shigenobu từng hai phen làm Thủ Tướng, trước là c�
 {: .notice .text-justify}
 
 ## Gặp Inukai Tsuyoshi, Bá tước Okuma Shigenobu
-Liền những ngày sau đó, Lương công đưa tôi tới Tokyo. Trước vào cáo Inukai Tsuyoshi, sau yết kiến Bá tước Okuma Shigenobu. Lúc đầu gặp mặt, khách chủ rất vui vẻ. Sau mấy câu ứng đối, liền nói đến việc cầu viện. Inukai Tsuyoshi hỏi:
+Liền những ngày sau đó, Lương công đưa tôi tới Tokyo. Trước vào cáo Inukai Tsuyoshi, sau yết kiến Bá tước Okuma Shigenobu. Lúc đầu gặp mặt, khách chủ rất vui vẻ. Sau mấy câu ứng đối, liền nói đến việc cầu viện. Inukai hỏi:
 {: .text-justify}
 
 Việc các ông đi cầu viện đây, có ý chỉ kẻ tôn trưởng trong nước không? Như nước quân chủ tất phải có một người trong Hoàng tộc. Các ông đã tính nước đó chưa?
 {: .notice .text-justify}
 
-Tôi nói có, rồi đem tờ thông hành của Kỳ Ngoại Hầu xin ở Khâm sứ, và bức ảnh ông Đông Cung lấy trong túi cho mọi người xem. Inukai Tsuyoshi nói:
+Tôi nói có, rồi đem tờ thông hành của Kỳ Ngoại Hầu xin ở Khâm sứ, và bức ảnh ông Đông Cung lấy trong túi cho mọi người xem. Inukai nói:
 {: .text-justify}
 
 Nên đưa người này ra khỏi nước, nếu không thế, e sẽ bị bắt vào tay người Pháp.
 {: .notice .text-justify}
 
-Tôi liền đồng ý. Lúc bấy giờ ba người: Bá tước Okuma Shigenobu, Inukai Tsuyoshi, Lương công bàn bạc với nhau. Ước chừng vài ba phút đông hồ, nói với tôi:
+Tôi liền đồng ý. Lúc bấy giờ ba người: Bá tước Okuma, Inukai, Lương công bàn bạc với nhau. Ước chừng vài ba phút đông hồ, nói với tôi:
 {: .text-justify}
 
 Lấy Dân đảng Nhật Bản giúp cho các ngài thì được; nếu giúp binh lực thì nay chưa phải là phút thích hợp. Hiện tình thế chiến tranh đời bây giờ, chẳng phải là vấn đề riêng Pháp với Nhật, mà là vấn đề Âu-Á đua hơn nhau.\
@@ -112,7 +112,7 @@ Các ngài tới đây, chúng tôi mới lần đầu biết người Việt Na
 Các ngài bây giờ, nếu cổ động được nhân sĩ trong nước, phần nhiều bỏ nước ra ngoài. Khiến cho lỗ tai con mắt mới mẻ một lần. Vô luận đến nước nào, làm công việc gì, đều có thể thay được không khí hô hấp, tinh thần không mắc lấy cái khổ chết nghẹt. Đó là việc khẩn cấp nhất ở trong đường cứu vong vậy.
 {: .notice .text-justify}
 
-Inukai Tsuyoshi lại hỏi tôi:
+Inukai lại hỏi tôi:
 
 Các ngài đã từng tổ chức một đảng cách mạng chưa?
 {: .notice .text-justify}

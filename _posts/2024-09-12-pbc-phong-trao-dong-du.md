@@ -146,7 +146,7 @@ Dân chi bất tồn, chủ ư hà hữu?\
  \
 *Nghĩa là:*\
 Nếu dân đã không còn, thì chủ có ở đâu?
-{: .notice .text-justify}
+{: .notice--warning .text-justify}
 
 Là cốt để hòa hoãn ý kiến của ông Tây Hồ. Tôi sau đó thương lượng với Kỳ Ngoại Hầu rằng:
 
@@ -234,7 +234,7 @@ Phước Đảo nói đến đó, thì ngó Inukai Tsuyoshi tiên sinh mà nói:
 Người Việt xuất dương ngày càng đông, kết quả tưởng ra thế nào?
 {: .notice .text-justify}
 
-Inukai Tsuyoshi nói:
+Inukai nói:
 
 Xem như hiện tại cảnh tượng khá tốt, nhưng không biết bọn họ có kiên trì nhẫn nại được không.
 {: .notice .text-justify}

@@ -16,8 +16,8 @@ Người xưa số kiếp trăm đường trầm luân.\
 Người xưa trác tuyệt phong vân,\
 Người xưa với cõi hồng trần trách than.\
  \
-Ta trải qua kiếp mê man,\
-Ta đi theo vết kiến quang cõi đời.\
+Ta qua một kiếp mê man,\
+Ta đi theo vết kiến quang trần đời.\
 Ta tìm trong khắp đất trời,\
 Ta ghi chép lại chuyện đời tích xưa.
 
