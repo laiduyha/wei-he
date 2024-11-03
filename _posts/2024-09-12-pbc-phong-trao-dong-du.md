@@ -128,7 +128,7 @@ Hồi này tiếng tăm vang dậy, lũ sói chồn bủa vây khắp tứ vi. T
 Khoảng trung tuần tháng chạp, qua cửa ải Nam Quan, theo đường Quảng Tây mà đến Long Châu. Long Châu khá nhiều người ta ở đó, nhưng hơn một nửa là bồi bếp của Tây luôn. Tây quan xứ này có lãnh sự quán của Pháp, vì thế tôi không dám ở lại lâu, tức khắc mướn thuyền buôn đi Nam Ninh.
 {: .text-justify}
 
-Thống lãnh Trần Thế Hoa thay thuyền đặc biệt cho tôi đến Nam Ninh. Đồ đạc trong thuyền hết thảy đều do ông cung ứng. Cảm tình của người Tàu đối với ta, âu đây cũng là một chứng cứ.
+Thống lãnh Trần Thế Hoa thay thuyền đặc biệt cho tôi đến Nam Ninh. Đồ đạc trong thuyền hết thảy đều do ông cung ứng. Cảm tình của người Trung Quốc đối với ta, âu đây cũng là một chứng cứ.
 {: .text-justify}
 
 Thuyền đến Nam Ninh rồi tới Hồng Kong, trên đường tại Lưỡng Quảng tôi gặp Lưu Ấm Sinh đang gấp gáp muốn qua Nhật gặp Kỳ Ngoại Hầu đưa một bản văn kiện để điều giải ý kiến trong nước.

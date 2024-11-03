@@ -60,13 +60,13 @@ Thiệt ta sinh ra đời giữa năm Đinh Mão (1867), niên hiệu Tự Đứ
 Lúc đầu thế kỷ 18, ngọn sóng mới của Âu học, vọt lên cao muôn trượng; những tiếng dội phú cường, hầu như vang động tràn lan cả hoàn cầu. Phải chi ta sớm được đầu thai ở giữa nơi đó, có lẽ ta không đến nỗi mù mù mịt mịt như ta ngày hôm nay. Nhưng tiếc thay, ta chẳng may sinh ra ở nước Nam ta.
 {: .text-justify}
 
-Nước ta từ xưa phụ thuộc vào nước Tàu, địa lý, lịch sử, gốc tích, trải mấy ngàn năm nay, như hai nước anh em đã lâu đời lắm vậy. Bởi đó, nước ta chỉ biết tôn sùng Hán học như thần thánh, mà Hán học xem trọng, chỉ có khoa cử, văn từ.
+Nước ta từ xưa phụ thuộc vào nước Trung Quốc, địa lý, lịch sử, gốc tích, trải mấy ngàn năm nay, như hai nước anh em đã lâu đời lắm vậy. Bởi đó, nước ta chỉ biết tôn sùng Hán học như thần thánh, mà Hán học xem trọng, chỉ có khoa cử, văn từ.
 {: .text-justify}
 
 Tôi từ nhỏ tới lớn, vốn có tư chất thông minh, công phu đèn sách dùi mài cũng không bê trễ, nhưng kể đến sự kết quả, chẳng qua chỉ là sự học khoa cử mà thôi.
 {: .text-justify}
 
-Vì lúc bấy giờ, lối học khoa cử của nhà Thanh, đang sôi nổi như gió cuốn mây bay, người nước mình bắt bỏng theo chân, chỉ sợ không giống y ​người Tàu. Bà con ta muốn cỡi mây lướt gió, không thể nào không mượn con đường khoa cử, dầu ai có muốn chẳng theo thời đi nữa, cũng không có đường học nào khác hơn mà đi.
+Vì lúc bấy giờ, lối học khoa cử của nhà Thanh, đang sôi nổi như gió cuốn mây bay, người nước mình bắt bỏng theo chân, chỉ sợ không giống y ​người Trung Quốc. Bà con ta muốn cỡi mây lướt gió, không thể nào không mượn con đường khoa cử, dầu ai có muốn chẳng theo thời đi nữa, cũng không có đường học nào khác hơn mà đi.
 {: .text-justify}
 
 Than ôi! Chổi cùn trong nhà, tự mình xem là của quý, sự ưa thích lâu đời đã thành thói quen thành ra rốt cuộc tôi cũng bị thời trang trói buộc, đến nỗi tiêu hao ngày tháng về nghiệp khoa cử gần hết nửa đời người. Đó là một vết nhơ rất lớn trong đời tôi vậy.

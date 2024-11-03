@@ -86,7 +86,7 @@ Tăng quân đi trốn nhiều lần rồi, đường xá rất quen thuộc th�
 {: .text-justify}
 
 ## Đặt chân đến Trung Quốc
-Lúc tàu đến bến, chúng tôi đợi đêm khuya mới dám mướn một chiếc thuyền đánh cá nho nhỏ, lén qua Trúc Sơn, Trường Sơn là bờ cõi huyện Phong Thành nước Tàu.
+Lúc tàu đến bến, chúng tôi đợi đêm khuya mới dám mướn một chiếc thuyền đánh cá nho nhỏ, lén qua Trúc Sơn, Trường Sơn là bờ cõi huyện Phong Thành nước Trung Quốc.
 {: .text-justify}
 
 Chuyến đi này tuy là nguy hiểm, nhưng mà vui thú lạ thường. Ra khỏi bờ cõi rồi, các món giấy tờ quan hệ và tiền bạc của chúng tôi đều còn nguyên lành. Ôi người ta nghiêm cấm mình chừng nào, kết quả bà con mình càng thêm giỏi cái ngón phá cũi sổ lồng chừng nấy, không riêng gì một mình tôi, theo chân nối gót chúng tôi đi ra hải ngoại, còn thiếu chi người!
@@ -125,7 +125,7 @@ Nhưng tôi gửi thư mấy ngày, chẳng thấy họ Sầm trả lời gì h�
 Trở về Hồng Kong, đợi tàu qua Nhật. Song vì hồi này cuộc hòa giữa Nga với Nhật bàn định chưa xong, thành ra ở Hồng Kong không có tàu đi Nhật, tôi phải đáp tàu Chiêu Thương đi lên Thượng Hải.
 {: .text-justify}
 
-Lúc ấy đã sau ngày rằm tháng ba. Tới Thượng Hải, mới thấy cuộc lữ hành của mình có lắm nông nổi khó khăn đẻ ra lần hồi. Việc khó khăn thứ nhất, là ngôn ngữ. Cả tiếng Anh lẫn tiếng Tàu, tôi chưa từng học tập bao giờ. Cũng may cho mình giao tiếp đều là người Tàu. Nếu biết chữ Tàu thì có thể dùng ngọn bút thay thế cho tấc lưỡi. Nhưng cũng bất tiện đáo để.
+Lúc ấy đã sau ngày rằm tháng ba. Tới Thượng Hải, mới thấy cuộc lữ hành của mình có lắm nông nổi khó khăn đẻ ra lần hồi. Việc khó khăn thứ nhất, là ngôn ngữ. Cả tiếng Anh lẫn tiếng Trung, tôi chưa từng học tập bao giờ. Cũng may cho mình giao tiếp đều là người Trung. Nếu biết chữ Hán thì có thể dùng ngọn bút thay thế cho tấc lưỡi. Nhưng cũng bất tiện đáo để.
 {: .text-justify}
 
 Than ôi! Sinh ra giữa thời đại là thế kỷ 19, 20 này, ai không có học thuật giỏi giang thì không thế nào cùng thế giới tranh cạnh sống còn cho được. Ngôn ngữ văn tự chính là kẻ dẫn đường đi tới học thuật. Người ngu dốt quê mùa như tôi, mà khỏi bị đào thải, là may mắn biết bao.

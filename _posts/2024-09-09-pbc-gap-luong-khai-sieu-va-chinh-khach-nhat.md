@@ -34,7 +34,7 @@ Ra đời khóc một tiếng, đã là tương tri, sách vở đọc mười n
 Tôi lấy mấy câu đó làm gốc để cầu ra mắt Lương Khải Siêu.
 {: .text-justify}
 
-Tiếp được thư, Lương công mời tôi vào lập tức. Lúc đầu thì dùng tiếng Quảng Đông để đối thoại, phần nhiều thì Tăng quân thông ngôn, còn những lời tâm sự thì dùng bút để thoại. Qua ngày sau, Lương công có hẹn thêm hai người Dân đảng của Tàu, cũng lưu học ở Nhật Bản, tới hội đàm với chúng tôi.
+Tiếp được thư, Lương công mời tôi vào lập tức. Lúc đầu thì dùng tiếng Quảng Đông để đối thoại, phần nhiều thì Tăng quân thông ngôn, còn những lời tâm sự thì dùng bút để thoại. Qua ngày sau, Lương công có hẹn thêm hai người Dân đảng của Trung Quốc, cũng lưu học ở Nhật Bản, tới hội đàm với chúng tôi.
 {: .text-justify}
 
 Nhân đó tôi nói cho Lương công nghe việc chúng tôi mưu tính cậy nhờ người Nhật giúp cho khí giới để khởi binh đánh đổ chính phủ Pháp, ông liền giải bày cho tôi:

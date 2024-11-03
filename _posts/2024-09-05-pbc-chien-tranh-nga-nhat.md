@@ -68,7 +68,7 @@ Cách không bao lâu, bỗng dưng có những tiếng súng nổ ở Lữ Thu�
 Trận Nga-Nhật chiến tranh mà Nhật đại thắng, thật có chỗ hay cho chúng tôi rất lớn. Trong óc chúng tôi đến đây có một thế giới mới lạ mở ra.
 {: .text-justify}
 
-Nước Nam ta trước khi chưa có Pháp Quốc bảo hộ, chỉ biết thế gian này có nước Tàu mà thôi. Tới lúc có Pháp Quốc bảo bộ ta rồi thì ta lại chỉ biết có Pháp Quốc. Thế giới đổi dời, phong trào mới lạ, thật bà con ta chưa hề mộng tưởng tới đó.
+Nước Nam ta trước khi chưa có Pháp Quốc bảo hộ, chỉ biết thế gian này có nước Trung Quốc mà thôi. Tới lúc có Pháp Quốc bảo bộ ta rồi thì ta lại chỉ biết có Pháp Quốc. Thế giới đổi dời, phong trào mới lạ, thật bà con ta chưa hề mộng tưởng tới đó.
 {: .text-justify}
 
 Chúng tôi bôn tẩu quốc sự bao lâu, nghĩ có mất xác rụng đầu cũng chẳng sợ, nhưng bất quá là bị cái thiên lương vì nước lo toan nó bắt buộc mình phải vậy đó thôi, chứ đến quy mô xây dựng độc lập ra sao, thì lúc ấy chúng tôi vẫn còn mơ màng như người đi giữa đám sương sa mịt mù vậy.
@@ -102,7 +102,7 @@ Lúc đó ông Tăng Bạt Hổ mới ở Hải Phòng vô, trong đảng thêm 
 Các lãnh tụ đều nói vấn đề quân giới nếu không có nước ngoài giúp cho mình thì không xong. Lấy chỗ quan hệ về lịch sử, địa dư, nòi giống mà nói, có thể giúp ta được không ai khác hơn là Trung Quốc.
 {: .text-justify}
 
-Nhưng từ trận thua ở Lạng Sơn hồi năm Giáp Thân (1894) trở đi, Trung Quốc ký điều ước Bắc Kinh, đã phải đem cái chủ quyền phiên thuộc nước Nam mà nhường đứt cho Pháp rồi. Đến việc Hàm Nghi chạy trốn, trong khoảng mấy năm Dậu-Tuất (1897-1898), thiếu gì các cụ nhà ta chạy sang Trung Quốc cầu viện, nhưng đều bặt mất tin tức. Gương trước mới đó không xa, nước Tàu chẳng giúp gì cho ta được đâu mà mong, vô ích.
+Nhưng từ trận thua ở Lạng Sơn hồi năm Giáp Thân (1894) trở đi, Trung Quốc ký điều ước Bắc Kinh, đã phải đem cái chủ quyền phiên thuộc nước Nam mà nhường đứt cho Pháp rồi. Đến việc Hàm Nghi chạy trốn, trong khoảng mấy năm Dậu-Tuất (1897-1898), thiếu gì các cụ nhà ta chạy sang Trung Quốc cầu viện, nhưng đều bặt mất tin tức. Gương trước mới đó không xa, nước Trung Quốc chẳng giúp gì cho ta được đâu mà mong, vô ích.
 {: .text-justify}
 
 Chúng tôi bàn định với nhau, chỉ có cầu viện Nhật Bản. Lúc ấy Nhật Bản mới phát lên hùng cường mà họ cũng là một dân tộc da vàng ở châu Á như ta, lại vừa mới đánh thắng Nga xong, không chừng họ có ý muốn làm bá chủ cả châu Á, vậy thì họ giúp ta để tước bớt khí lực của châu Âu đi, cũng có điều lợi cho họ vậy. Nếu ta sang ​kêu ca thống thiết với họ, tưởng gì chớ món quân giới, hoặc cho ta mượn, hoặc giúp ta mua, không khó khiếc chi!

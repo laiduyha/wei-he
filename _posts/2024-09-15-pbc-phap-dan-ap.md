@@ -66,7 +66,7 @@ Học sinh đoàn ta bị hai ách là kinh tế hết phương và ngoại giao
 Ôi! Công việc cứu quốc, không có gì cần kíp hơn là vun đắp nhân tài, mà vun đắp nhân tài, thì có cách tổ chức ra đoàn học sinh là hay hơn cả. Nhưng chúng tôi gặp phải cảnh ngộ này, không có tài sức nào tổ chức được học đoàn nữa. Duy có để cho anh em học sinh bền lòng gắng chí, tự lo lấy cách tìm đường cầu học mà thôi. 
 {: .text-justify}
 
-Học sinh Nam Kỳ hầu hết là xin về, chỉ còn năm người xin lưu lại. Còn học sinh Trung và Bắc kỳ thì hầu hết lưu lại hết. Có người chạy qua Bắc Kinh, như bọn Chung Hạo Sanh, Hồ Học Lãm. Có người tới Quảng Tây như Nguyễn Tiêu Đẩu (Bá Trác), Nguyễn Siêu, Huỳnh Trọng Mậu. Có người chạy sang Thái Lan (Xiêm La), như bọn Hồ Vĩnh Long, Đặng Quốc Kiều. Cũng có người vẫn lưu ở Nhật, giả mạo làm người Tàu để cầu học, như đám Trần Trọng Khắc, Hoàng Đình Tuân. 
+Học sinh Nam Kỳ hầu hết là xin về, chỉ còn năm người xin lưu lại. Còn học sinh Trung và Bắc kỳ thì hầu hết lưu lại hết. Có người chạy qua Bắc Kinh, như bọn Chung Hạo Sanh, Hồ Học Lãm. Có người tới Quảng Tây như Nguyễn Tiêu Đẩu (Bá Trác), Nguyễn Siêu, Huỳnh Trọng Mậu. Có người chạy sang Thái Lan (Xiêm La), như bọn Hồ Vĩnh Long, Đặng Quốc Kiều. Cũng có người vẫn lưu ở Nhật, giả mạo làm người Hán để cầu học, như đám Trần Trọng Khắc, Hoàng Đình Tuân. 
 {: .text-justify}
 
 Chân trời lênh đênh, ai lo thân nấy. Kể về tinh thần, anh em ta vẫn là một bọn ái quốc thanh niên, nhưng về hình thức thì bây giờ họ là một lũ học sinh bơ vơ trôi nổi.
@@ -151,7 +151,7 @@ Khi tiên sinh nói chuyện với tôi, rất khinh bỉ chính khách Nhật B
 Bọn nó đối với các ngài chỉ là ngón ngoại giao của bọn âm mưu dã tâm mà thôi.
 {: .notice text-justify}
 
-Tôi từ biệt trở về Tàu, cách nhau 10 năm tôi qua lại Nhật Bản thì tiên sinh đã tạ thế. Ôi ân nhân giúp mình lúc hoạn nạn, lại là người tri kỉ nay đã không còn, mà mình chưa kịp đền giả được gì. Thật lấy làm hổ thẹ bèn lập một tấm bia ở trước mộ của tiên sinh, có khắc bài văn:
+Tôi từ biệt trở về Trung Quốc, cách nhau 10 năm tôi qua lại Nhật Bản thì tiên sinh đã tạ thế. Ôi ân nhân giúp mình lúc hoạn nạn, lại là người tri kỉ nay đã không còn, mà mình chưa kịp đền giả được gì. Thật lấy làm hổ thẹ bèn lập một tấm bia ở trước mộ của tiên sinh, có khắc bài văn:
 {: .text-justify}
 
 Chúng tôi vì nạn nước, chạy sang Nhật Bản. Tiên sinh thương đến khổ tâm, giúp chúng tôi trong lúc cùng khốn, rõ là một người kỳ hiệp. Nay chúng tôi sang thì tiên sinh đã tạ thế, tứ bề hiu quạnh trông không thấy ai, trời biển mênh mông, lòng này ai tỏ!\
@@ -239,7 +239,7 @@ Tin tức nước nhà, có khi vắng bặt mấy tháng trời, tôi không ti
 Thỉnh thoảng có người làm dưới tàu Tây qua đây nói một vài tin miệng cho mình nghe, đều là những tin tức kinh tâm động phách. Nếu không phải là tin Đàm quân Kỳ Sanh bị đầy, thì cũng là tin Lê quân Võ bị bắt. Những tin nói đảng nhân này đảng nhân kia bị bêu đầu bằm xác, thường thường theo tiếng còi tàu mà đưa qua đến lỗ tai chúng tôi.
 {: .text-justify}
 
-Tôi dời về ở tỉnh thành Quảng Châu, đem những thứ sách còn lại, dấu tên bịt họ, đi bán sách rao. Lúc bất giờ các học sinh, thương khách nước Tàu, phần nhiều có tư tưởng cách mạng. Thấy tôi đem sách bán, thường cũng có người mua giá cao, nhờ vậy sinh hoạt phí cũng đỡ được phần nào.
+Tôi dời về ở tỉnh thành Quảng Châu, đem những thứ sách còn lại, dấu tên bịt họ, đi bán sách rao. Lúc bất giờ các học sinh, thương khách nước Trung Quốc, phần nhiều có tư tưởng cách mạng. Thấy tôi đem sách bán, thường cũng có người mua giá cao, nhờ vậy sinh hoạt phí cũng đỡ được phần nào.
 {: .text-justify}
 
 Thường ngày sớm ra tối về, được ít đồng thì lại được nhóm ba năm đồng chí ông điên say liều. Tiền bán sách được bao nhiêu thường ngày đánh chén ráo. Có ngày kia rượu giữa bàn hết, ông Lương Lập Nham biết trong túi tôi còn tiền bảo mua thêm. Tôi bảo không tiền, Lương thò tay móc trong túi tôi được vài mươi xu, thét to bảo: 
