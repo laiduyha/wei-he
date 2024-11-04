@@ -264,7 +264,7 @@ Các ngài cũng có đọc báo Nhật Bản chắc biết được? Lúc đán
 Giá phỏng quan quân Nhật Bản cũng đua nhau ăn thịt bò, uống sữa như người Nga thì làm sao trụ nổi. Duy người Nhật Bản chỉ đánh no cải củ muối dưa với cơm mì đen, sở dĩ quyết thắng được là nhờ vậy.
 {: .notice .text-justify}
 
-Nói đến đó thì vừa người hầu đưa một mâm khoai đót lên, Phước Đảo mời tôi ăn, mà ông trước đó tự lấy một củ ăn luôn cả vỏ, cười nói:
+Nói đến đó thì vừa lúc người hầu đưa một mâm khoai đót lên, Phước Đảo mời tôi ăn, mà ông trước đó tự lấy một củ ăn luôn cả vỏ, cười nói:
 {: .text-justify}
 
 Chúng ta làm người quân nhân, nếu sợ vỏ khoai không dám ăn thì làm sao ở giữa trận đánh mà ăn được thịt giặc?
