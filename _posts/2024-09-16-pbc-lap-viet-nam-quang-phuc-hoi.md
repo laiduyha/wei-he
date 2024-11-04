@@ -12,7 +12,7 @@ parent:
  \
 *Nhân vì nước ta có năm địa bộ, sở dĩ dùng thức này để tỏ rõ cái ý năm đại bộ liên lạc làm một.*\
  \
-*Sắc cờ dùng hoàng địa, hồng tinh làm cờ nước; hồng địa bạch tinh làm cờ quân. Hoàng là để biểu thị nhân chủng ta. Hồng là biểu thị sắc nước ta: Nam phương thuộc hỏa, hỏa sắc hồng. Quân kỳ sở dĩ dùng bạch tinh là tỏ rõ mục đích quân, cốt đánh đổ chính phủ người da trắng.*
+*Sắc cờ dùng hoàng địa, hồng tinh làm cờ nước; hồng địa bạch tinh làm cờ quân. Hoàng là để biểu thị nhân chủng ta. Hồng là biểu thị sắc nước ta: Nam phương thuộc hỏa, hỏa sắc hồng. Quân kỳ sở dĩ dùng bạch tinh là tỏ rõ mục đích quân, cốt đánh đổ Chính phủ người da trắng.*
 {: .notice--warning .text-justify}
 
 ![alt]({{ 'assets/images/viet-nam-quang-phuc-hoi-ngu-lien-tinh-chau.jpg' | absolute_url }})

@@ -144,7 +144,7 @@ Ngày sau đảng ta khi gặp nguy khốn được đảng họ giúp cũng nhi
 {: .text-justify}
 
 ## Hô hào thanh niên qua Nhật cầu học
-Sau những buổi gặp mặt này tôi đã xác định nuôi dựng nhân tài là việc cần kíp của mình, không đợi phải nói nữa. Song muốn nuôi dựng nhân tài ta phải làm sao bây giờ, vì cái thực quyền giáo dục nằm cả trong tay chính phủ Pháp bảo hộ? Dầu vậy mặc lòng, anh em chúng tôi còn đây, không lẽ nào bó tay chịu chết sao đành.
+Sau những buổi gặp mặt này tôi đã xác định nuôi dựng nhân tài là việc cần kíp của mình, không đợi phải nói nữa. Song muốn nuôi dựng nhân tài ta phải làm sao bây giờ, vì cái thực quyền giáo dục nằm cả trong tay Chính phủ Pháp bảo hộ? Dầu vậy mặc lòng, anh em chúng tôi còn đây, không lẽ nào bó tay chịu chết sao đành.
 {: .text-justify}
 
 Giờ chỉ có cách là kêu gào bọn thiếu niên trong nước tỉnh dậy, liều mình trốn ra nước ngoài học tập, như thế thì ta được tự do mở mang trí khôn, mà nước nhà mới chóng có nhân tài đẻ ra được nhiều. Tôi bèn đặt ra bài văn cổ động bà con trong nước giúp tiền cho thanh niên qua Nhật cầu học. Bài *"Khuyên Thanh Niên du học"* này chỉ viết có lơ thơ mấy ngàn chữ, nhưng thật là một bài văn sinh bình tôi lấy làm đắc ý thứ nhất.

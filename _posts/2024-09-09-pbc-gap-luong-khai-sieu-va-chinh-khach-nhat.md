@@ -37,12 +37,12 @@ Tôi lấy mấy câu đó làm gốc để cầu ra mắt Lương Khải Siêu.
 Tiếp được thư, Lương công mời tôi vào lập tức. Lúc đầu thì dùng tiếng Quảng Đông để đối thoại, phần nhiều thì Tăng quân thông ngôn, còn những lời tâm sự thì dùng bút để thoại. Qua ngày sau, Lương công có hẹn thêm hai người Dân đảng của Trung Quốc, cũng lưu học ở Nhật Bản, tới hội đàm với chúng tôi.
 {: .text-justify}
 
-Nhân đó tôi nói cho Lương công nghe việc chúng tôi mưu tính cậy nhờ người Nhật giúp cho khí giới để khởi binh đánh đổ chính phủ Pháp, ông liền giải bày cho tôi:
+Nhân đó tôi nói cho Lương công nghe việc chúng tôi mưu tính cậy nhờ người Nhật giúp cho khí giới để khởi binh đánh đổ Chính phủ Pháp, ông liền giải bày cho tôi:
 {: .text-justify}
 
-Nhiệt tâm của các ông như thế, sức tôi có được tới đâu tôi giúp liền tới đó, không hề chạy chối. Nhưng nghĩ lại sự giúp sức cho đảng cách mạng đánh đổ chính phủ, thuở nay các nước không có lệ đó bao giờ.\
+Nhiệt tâm của các ông như thế, sức tôi có được tới đâu tôi giúp liền tới đó, không hề chạy chối. Nhưng nghĩ lại sự giúp sức cho đảng cách mạng đánh đổ Chính phủ, thuở nay các nước không có lệ đó bao giờ.\
  \
-Nếu có chăng nữa, chỉ là lúc nào hai nước có chuyện xích mích tới đánh nhau mà thôi. Nay hai nước Pháp-Nhật chưa tới cơ hội xích mích đánh nhau, có khi nào chính phủ Nhật chịu giúp khí giới cho các ông.
+Nếu có chăng nữa, chỉ là lúc nào hai nước có chuyện xích mích tới đánh nhau mà thôi. Nay hai nước Pháp-Nhật chưa tới cơ hội xích mích đánh nhau, có khi nào Chính phủ Nhật chịu giúp khí giới cho các ông.
 {: .notice .text-justify}
 
 Sau đó ông đề ra một số ý sau:

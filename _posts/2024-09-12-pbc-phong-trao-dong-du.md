@@ -64,7 +64,7 @@ Tôi mua được một tờ thông hành của một chú khách buôn, mạo d
 Hồi này là thượng tuần tháng 9, xe lửa tới ga Gia Lâm thì tôi xuống, đi đường bộ lên Thái Nguyên, tới Chợ Chu vào thăm Lương Tam Kỳ. Nguyên là lúc tôi đi ngang qua Thái Bình Phủ, đã có dịp vào ra mắt quan Thống lãnh Trần Thế Hoa, xin ông giới thiệu tôi với Lương Tam Kỳ, bởi Lương là bộ hạ cũ của ông. Ông Trần lại sai một viên thuộc hạ dẫn đường cho tôi đi tới đồn điền của Lương.
 {: .text-justify}
 
-Lương ở Thái Nguyên, có thế lực khá lớn, cầy ruộng nuôi trâu, gần chiếm hết 8 phần mười của toàn tỉnh. Bộ hạ rất đông, quân giới cũng hơi khá, chính phủ Pháp phong làm chức Chiếu Phủ Đại Sứ để dễ ràng buộc họ Lương.
+Lương ở Thái Nguyên, có thế lực khá lớn, cầy ruộng nuôi trâu, gần chiếm hết 8 phần mười của toàn tỉnh. Bộ hạ rất đông, quân giới cũng hơi khá, Chính phủ Pháp phong làm chức Chiếu Phủ Đại Sứ để dễ ràng buộc họ Lương.
 {: .text-justify}
 
 Lúc tôi và người của ông Trần đến đây Lương Tam Kỳ hoan nghênh hết sức. Nhân dịp, tôi thuyết họ Lương phản chánh và giúp sức chúng tôi.
@@ -211,7 +211,7 @@ Tôi nghiễm nhiên như một quan công sứ của nước Nam ở nước ng
 Hạ tuần tháng 8, đám du học sinh đến Nhật Bản tính ra đã gần 200 người rồi, trong đó Nam Kỳ ước hơn 100 người, Trung Kỳ ước 50 người, Bắc Kỳ ước hơn 40 người. Việc trù liệu nhập học lại phát sinh nhiều vấn đề:
 {: .text-justify}
 
-1. Các trường tư lập, chương trình không thể nào bằng trường học công, và không có khoa luyện tập quân sự. Các trường công lập mà ta ưng thì lại không có giấy văn bằng của chính phủ cho phép. Tất không được vào, đó là một vấn đề.
+1. Các trường tư lập, chương trình không thể nào bằng trường học công, và không có khoa luyện tập quân sự. Các trường công lập mà ta ưng thì lại không có giấy văn bằng của Chính phủ cho phép. Tất không được vào, đó là một vấn đề.
 2. Các học sinh chưa học thạo tiếng Nhật mà trong trường lại cũng không có khóa tiếng Nhật. Tiếng Nhật còn chưa hiểu thì làm sao học được các thứ khác? Đó là vấn đề thứ hai.
 3. Hỗ trợ học phí cũng chỉ có một hạn mức nhất định. Hiện kinh tế chưa có nền tảng vững vàng, chỉ trông mong ở trong nước quyên trợ, thực không có gì làm chắc chắn, đó là vấn đề thứ ba.
 {: .text-justify}
@@ -275,7 +275,7 @@ Sau ngày đó tôi đến *"Đông Á Đồng Văn Hội"* để nhờ cậy s�
 - Hạ Bán Nhật Công Khóa: dạy kiến thức quân sự, luyện tập binh thao.
 
 ## Lập *"Tân Việt Nam Cống Hiến"*
-Đồng thời chúng tôi lại dựng lên *"Tân Việt Nam Cống Hiến"*, bắt chước làm như một chính phủ lâm thời của nước Nam ở hải ngoại. Tuy là cách thức sắp đặt còn sơ sài, nhưng có ảnh hưởng tới dân khí trong nước nhiều lắm.
+Đồng thời chúng tôi lại dựng lên *"Tân Việt Nam Cống Hiến"*, bắt chước làm như một Chính phủ lâm thời của nước Nam ở hải ngoại. Tuy là cách thức sắp đặt còn sơ sài, nhưng có ảnh hưởng tới dân khí trong nước nhiều lắm.
 {: .text-justify}
 
 *"Công Hiến Hội"* được thành lập, toàn thể thanh niên có chỗ học, có chỗ nuôi, trật tự ngó cũng nghiêm túc. Mỗi tuần lễ tất có vài ngày quan Đan Ba Thiếu Tá đem học sinh ra ngoài cùng tập thể thao bằng các trận đánh, học sinh thì vui vẻ nhưng trong lòng tôi thì có hai việc lo:
