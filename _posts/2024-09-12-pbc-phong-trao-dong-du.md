@@ -271,8 +271,8 @@ Chúng ta làm người quân nhân, nếu sợ vỏ khoai không dám ăn thì 
 {: .notice .text-justify}
 
 Sau ngày đó tôi đến *"Đông Á Đồng Văn Hội"* để nhờ cậy sắp xếp. Được các ông chính khách Nhật Bản giúp đỡ mà một trường riêng cho học sinh Việt Nam được lập ra có tên là *"Đông Á Đồng Văn Thư Viện"*. Hiệu trưởng là ông Bá nguyên Văn Thái Lang ở Hạ Nghị Viện. Nội quy học đường, chương trình học đều do người Nhật Bản quy định. Trong đó chương trình được chia làm hai đoạn lớn:
-- Thượng Bán Nhật công khóa: dạy Nhật văn, Nhật ngữ, khoa học phổ thông, toán học, vật lý, lịch sử, hóa học, tu thân, luân lý...
-- Hạ Nán Nhật công khóa: dạy kiến thức quân sự, luyện tập binh thao.
+- Thượng Bán Nhật Công Khóa: dạy Nhật văn, Nhật ngữ, khoa học phổ thông, toán học, vật lý, lịch sử, hóa học, tu thân, luân lý...
+- Hạ Bán Nhật Công Khóa: dạy kiến thức quân sự, luyện tập binh thao.
 
 ## Lập *"Tân Việt Nam Cống Hiến"*
 Đồng thời chúng tôi lại dựng lên *"Tân Việt Nam Cống Hiến"*, bắt chước làm như một chính phủ lâm thời của nước Nam ở hải ngoại. Tuy là cách thức sắp đặt còn sơ sài, nhưng có ảnh hưởng tới dân khí trong nước nhiều lắm.
