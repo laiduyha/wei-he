@@ -60,25 +60,13 @@ Việc này là do mệnh lệnh của Ngoại Vụ. Nội Vụ chúng tôi khô
 Nhưng chẳng qua là chính sách tạm thời thôi. Các trò nếu tan ra ở các địa phương Nhật Bản, làm người khổ công cầu học, ước trong khoảng một năm, chúng tôi có lẽ nghĩ được cách khác mà làm cho các anh khôi phục được nguyên trạng.
 {: .notice .text-justify}
 
-Học sinh đoàn ta bị hai ách là kinh tế hết phương và ngoại giao bịt lối, thành ra giữa đám gió thảm mây sầu, anh em phải từ giã đất nước Nhật Bản mà đi.
-{: .text-justify}
-
-Ôi! Công việc cứu quốc, không có gì cần kíp hơn là vun đắp nhân tài. Mà vun đắp nhân tài, thì có cách tổ chức ra đoàn học sinh là hay hơn cả. Nhưng chúng tôi gặp phải cảnh ngộ này, không có tài sức nào tổ chức được học đoàn nữa. Duy có cách để cho anh em học sinh bền lòng gắng chí, tự lo lấy cách tìm đường cầu học mà thôi. 
+Ôi! Công việc cứu quốc, không có gì cần kíp hơn là vun đắp nhân tài. Mà vun đắp nhân tài, thì chỉ có cách tổ chức ra đoàn học sinh là hay hơn cả. Nhưng chúng tôi gặp phải cảnh ngộ này, không có tài sức nào tổ chức được học đoàn nữa. Duy có cách để cho anh em học sinh bền lòng gắng chí, tự lo lấy cách tìm đường cầu học mà thôi. 
 {: .text-justify}
 
 Học sinh Nam Kỳ hầu hết là xin về, chỉ còn năm người xin lưu lại. Còn học sinh Trung và Bắc kỳ thì hầu hết lưu lại hết. Có người chạy qua Bắc Kinh, như bọn Chung Hạo Sanh, Hồ Học Lãm. Có người tới Quảng Tây như Nguyễn Tiêu Đẩu (Bá Trác), Nguyễn Siêu, Huỳnh Trọng Mậu. Có người chạy sang Thái Lan (Xiêm La), như bọn Hồ Vĩnh Long, Đặng Quốc Kiều. Cũng có người vẫn lưu ở Nhật, giả mạo làm người Hán để cầu học, như đám Trần Trọng Khắc, Hoàng Đình Tuân. 
 {: .text-justify}
 
-Chân trời lênh đênh, ai lo thân nấy. Kể về tinh thần, anh em ta vẫn là một bọn ái quốc thanh niên, nhưng về hình thức thì bây giờ họ là một lũ học sinh bơ vơ trôi nổi.
-{: .text-justify}
-
-Lúc đó tôi làm thế nào?
-{: .text-justify}
-
-Đối với cảnh ngộ chẳng may của những anh em học sinh, tôi chỉ dành vỗ ngực kêu trời, lấy một trận khóc để kết thúc vấn đề ấy thôi. Nhưng mà tấm thân bảy thước đã hứa hẹn với non sông, là thân tôi đây, không thể lấy gì che lấp trách nhiệm cho được.
-{: .text-justify}
-
-Không chỉ có vậy, cho đến bao nhiêu sách vở truyền đơn tôi in ra để cổ động quốc dân, nay đều bị Chính phủ Nhật tịch biên hết.
+Chân trời lênh đênh, ai lo thân nấy. Kể về tinh thần, anh em ta vẫn là một bọn ái quốc thanh niên, nhưng về hình thức thì bây giờ họ là một lũ học sinh bơ vơ trôi nổi. Không chỉ vậy, bao nhiêu sách vở, truyền đơn tôi in ra để cổ động Quốc dân, nay đều bị Chính phủ Nhật tịch biên hết.
 {: .text-justify}
 
 Tôi với Hội Chủ Kỳ Ngoại Hầu cũng bị Chính phủ Nhật buộc phải xuất cảnh. Cảnh thất bại của tôi lúc này thật là đau đớn, như con người bị lột da xé thịt không còn chỗ nào lành lặn nữa vậy.
@@ -88,10 +76,10 @@ Tôi với Hội Chủ Kỳ Ngoại Hầu cũng bị Chính phủ Nhật buộc 
 Màu đông tháng 10 năm Mậu Thân (1908), việc giải tán học sinh xong rồi, *"Công Hiến Hội"* cũng không còn, tôi biết Nhật Bản không thể nương cậy được nữa, chuyển khuynh hướng về Trung Hoa cách mạng và hy vọng với những dân tộc đồng bệnh với ta.
 {: .text-justify}
 
-Nên đã nhờ đến ông Tôn Trung Sơn, ông Tôn giới thiệu cho tôi một người là Cung Kỳ Thao Thiên. Người ấy là một tay lãng nhân ở Nhật Bản, ôm tư tưởng cách mạng toàn thế giới. Khi mới gặp ông nói:
+Nên đã nhờ đến ông Tôn Trung Sơn, ông Tôn giới thiệu cho tôi một người là Cùng Kỳ Thao Thiên. Người ấy là một tay lãng nhân ở Nhật Bản, ôm tư tưởng cách mạng toàn thế giới. Khi mới gặp ông nói:
 {: .text-justify}
 
-Thế lực một mình Việt Nam, tất không đánh đổ được Pháp, thế thì cầu giúp nước láng giềng cũng là lẽ phải. Nhưng Nhật bản làm gì giúp cho các ông được? Nhật Bản chính trị gia, tất thảy đều giàu dã tâm, mà đói về phần nghĩa hiệp.\
+Thế lực một mình Việt Nam, tất không đánh đổ được Pháp, thế thì cầu giúp nước láng giềng cũng là lẽ phải. Nhưng Nhật bản làm gì giúp cho các ông được? Nhật Bản chính trị gia, tất thảy đều là giàu dã tâm, mà đói về phần nghĩa hiệp.\
  \
 Ông nên khuyên các thanh niên học lấy tiếng Anh, tiếng Nga, tiếng Đức, giao kết với người thế giới cho nhiều. Tuyên bố tội ác nước Pháp, khiến cho người thế giới được nghe thấy.\
  \
@@ -116,7 +104,7 @@ Sakitaro tiên sinh, trước vì lúc đi đường gặp một người nướ
 Tôi lúc bấy giờ nghĩ cảnh quẫn tình bức, tráng sĩ đồ cùng, chỉ còn một chước ăn mày nữa là sách tối hậu. Nhưng ăn mày bằng một cách cao đẳng, há dễ dàng đâu! Tất biết sẵn là người nghĩa hiệp mới dám gõ cửa mà cầu cứu giúp. Tôi sực nhớ đến tiên sinh, mới đem ý ấy bàn với Nguyễn Thái Bạt. Nguyễn lấy làm phải, tôi mới viết một bài văn khất ai, cậy Nguyễn quân cầm tới nhà tiên sinh.
 {: .text-justify}
 
-Than ôi! Ơn người chưa giả mà con cầu nữa! Huồng gì ăn mày to mà lại làm cách ăn mày lịch sự với một người thuở nay chưa biết mặt, mộng tưởng chẳng quá điên hay sao?
+Than ôi! Ơn người chưa giả mà còn cầu nữa! Huồng gì ăn mày to mà lại làm cách ăn mày lịch sự với một người thuở nay chưa biết mặt, mộng tưởng chẳng quá điên hay sao?
 {: .text-justify}
 
 Ai ngờ giấy tôi gửi lại buổi sớm, mà ngân phiếu tiên sinh gửi lại buổi chiều và để lại vắn tắt mấy câu:
@@ -133,22 +121,22 @@ Chỉ có bây nhiêu lời, ngoài ra không có chữ gì có giọng khách k
 3. Lữ phí.
 {: .text-justify}
 
-Trong túi đã có đồng xu, liền bôn tẩu khắp mọi nơi. Kết nối với đảng cách mạng Trung Hoa và đảng bình dân Nhật Bản. Bắt đầu được Chương Bính Lân (chủ nhiệm *"Dân Báo"*, nhà đại cách mạng Trung Quốc) tiên sinh tán thành, và một vài chục chí sĩ khác cùng đồng ý thành lập *"Đông Á Đồng Minh Hội"* vào tháng mười năm Mậu Thân (1908). Người nước ta ngoài tôi còn có ông Đặng Tử Mẫn, Nguyễn Quỳnh Lâm và một số người khác làm hội viên.
+Trong túi đã có đồng xu, liền bôn tẩu khắp mọi nơi. Kết nối với đảng cách mạng Trung Hoa và đảng bình dân Nhật Bản. Cùng với Chương Bính Lân (chủ nhiệm *"Dân Báo"*, nhà đại cách mạng Trung Quốc) tiên sinh, và một vài chục chí sĩ khác cùng đồng ý thành lập *"Đông Á Đồng Minh Hội"* vào tháng mười năm Mậu Thân (1908). Người nước ta ngoài tôi còn có ông Đặng Tử Mẫn, Nguyễn Quỳnh Lâm và một số người khác làm hội viên.
 {: .text-justify}
 
-*"Đông Á Đồng Minh Hội"* vừa thành lập được 5 tháng, nhưng vì có nhiều thành phần chống phá chính quyền đương nhiệm. Nên Chính phủ Nhật bị Chính phủ các nước này đâm chọc hai bên, cặp nhau trách móc. Chính phủ Nhật cũng bắt buộc phải thủ tiêu. Hội ấy thành lập vừa được ba tháng thì tôi với Chương Bính Lân bị người Nhật đuổi xuất cảnh, nên hội cũng phải tan ngay.
+*"Đông Á Đồng Minh Hội"* vừa thành lập, nhưng vì có nhiều thành phần chống phá chính quyền đương nhiệm, nên Chính phủ Nhật bị Chính phủ các nước này đâm chọc hai bên, cặp nhau trách móc. Chính phủ Nhật bắt buộc phải thủ tiêu. Hội ấy thành lập vừa được ba tháng thì tôi với Chương Bính Lân bị người Nhật đuổi xuất cảnh, hội vì thế cũng phải tan ngay.
 {: .text-justify}
 
-Chúng ta phải biết, ở trong thế giới cường quyền, thiệt không có một một hội chính nghĩa công lý nào ló mặt ra với bọn đến quốc được!
+Từ đó mới thấy ở trong thế giới cường quyền, thiệt không có một một hội chính nghĩa, công lý nào ló mặt ra với bọn Đế Quốc được!
 {: .text-justify}
 
-Trước khi rời khỏi Nhật Bản, tôi muốn tạ ơn ông Sakitaro Asaba, đi đến Quốc Phủ Tân yết kiến tiên sinh. Khi mới vào cửa, Thái Bạt giới thiệu tôi với tiên sinh. Tôi chưa kịp nói tạ ơn, tiên sinh vội vàng dắt tay tôi kéo vào cùng nói chuyện. Tiên sinh nguyên con một vị Lục quân Đại tướng. Học y học, đỗ bác sĩ, mở y viện riêng, chuyên chữa bệnh cho con nhà đói khổ, một đời người không tham gia vào chính giới.
+Trước khi rời khỏi Nhật Bản, tôi muốn tạ ơn ông Sakitaro Asaba, đi đến Quốc Phủ Tân yết kiến tiên sinh. Khi mới vào cửa, Thái Bạt giới thiệu tôi với tiên sinh. Tôi chưa kịp nói tạ ơn, tiên sinh vội vàng dắt tay tôi kéo vào cùng nói chuyện.
 {: .text-justify}
 
-Khi tiên sinh nói chuyện với tôi, rất khinh bỉ chính khách Nhật Bản, như Bá Tước Okuma, Inukai, tiên sinh cũng không xem ra gì, nên nói với tôi rằng:
+Tiên sinh nguyên con một vị Lục quân Đại tướng. Học y học, đỗ bác sĩ, mở y viện riêng, chuyên chữa bệnh cho con nhà đói khổ, một đời người không tham gia vào chính giới. Khi tiên sinh nói chuyện với tôi, rất khinh bỉ chính khách Nhật Bản, như Bá Tước Okuma, Inukai, tiên sinh cũng không xem ra gì, nên nói với tôi rằng:
 {: .text-justify}
 
-Bọn nó đối với các ngài chỉ là ngón ngoại giao của bọn âm mưu dã tâm mà thôi.
+Bọn nó đối với các ngài chỉ là ngón ngoại giao của bọn âm mưu, dã tâm mà thôi.
 {: .notice text-justify}
 
 Tôi từ biệt tiên sinh trở về Trung Quốc, 10 năm sau tôi qua lại Nhật Bản thì tiên sinh đã tạ thế. Ôi ân nhân giúp mình lúc hoạn nạn, lại là người tri kỉ hiếm gặp nay đã không còn, mà mình chưa kịp đền giả được gì. Thật lấy làm cảm thương! Bèn lập một tấm bia ở trước mộ của tiên sinh, trên có khắc bài văn:
@@ -170,10 +158,13 @@ Thẳm thẳm lòng này, trải muôn ngàn đời.\
 Đến nông nỗi này, tôi không thế nào không chạy qua con đường bạo động. Vẫn biết bạo động với tự sát đều là việc làm của những kẻ kiến thức hẹp hòi, không biết lo xa, nhưng nếu sự thế buộc tự sát, thà rằng xoay ra bạo động mà chết còn hơn. Vì cứ bạo động may ra còn trông được có chỗ thành công trong muôn một. Huống gì tôi đã suy đi tính lại, lúc này bỏ sự bạo động ra, không còn có việc gì đáng làm hơn nữa.
 {: .text-justify}
 
-Muốn học cách Thân Bao Tư khất binh để cứu Sở, nhưng có chỗ nào là Tần Đình cho mình đứng khóc mà cầu viện binh? Muốn học cách Việt Vương Câu Tiễn nhịn nhục báo thù Ngô, nhưng có nơi nào là Cối Kê để cho mình nương thân để sắp đặt? Còn muốn lấy văn tự để cổ động quốc dân gọi là cho xong phận sự đời mình đối với nước non, nhưng khốn thay văn tự cũng không còn lựa chỗ đất nào để gieo rắc tuyên truyền nó được mới thảm. Chẳng những thế mà thôi, cho đến những anh em đồng chí ở trong nước cũng đều có cái nguy sớm muộn bị tội, bị tù, bị đầy, bị chém nữa kia. Than ôi! Con thú đến lúc cùng đường túng thế, nếu không vùng vẫy tìm đường sống, thì tất phải chết.
+Muốn học cách Thân Bao Tư khất binh để cứu Sở, nhưng có chỗ nào là Tần Đình cho mình đứng khóc mà cầu viện binh? Muốn học cách Việt Vương Câu Tiễn nhịn nhục báo thù Ngô, nhưng có nơi nào là Cối Kê để cho mình nương thân để sắp đặt? Còn muốn lấy văn tự để cổ động quốc dân gọi là cho xong phận sự đời mình đối với nước non, nhưng khốn thay văn tự cũng không còn lựa chỗ đất nào để gieo rắc tuyên truyền nó được mới thảm.
 {: .text-justify}
 
-Tháng 4 mùa hạ năm Kỷ Dậu (1909), đảng ta phải trải muôn cay ngàn đắng mới quyên góp được một số tiền nữa gửi ra, tôi đem trao hết cho một hiệu buôn Nhật để cậy họ lén mua quân giới cho mình. Vì chúng tôi muốn bạo động, thế nào cũng phải có nhiều ít quân giới.
+Chẳng những thế mà thôi, cho đến những anh em đồng chí ở trong nước cũng đều có cái nguy sớm muộn bị tội, bị tù, bị đầy, bị chém nữa kia. Than ôi! Con thú đến lúc cùng đường túng thế, nếu không vùng vẫy tìm đường sống, thì tất phải chết.
+{: .text-justify}
+
+Tháng 4 mùa hạ năm Kỷ Dậu (1909), đảng ta phải trải muôn cay ngàn đắng mới quyên góp được một số tiền nữa gửi ra, tôi đem trao hết cho một hiệu buôn Nhật để nhờ họ lén mua quân giới cho mình. Vì chúng tôi muốn bạo động, thế nào cũng phải có ít nhiều quân giới.
 {: .text-justify}
 
 Quân giới mua xong rồi, do Đặng quân Tử Mẫn bí mật đem qua Hồng Kong. Lúc ấy là hạ tuần tháng 5 giữa lúc tôi cũng đang ở đó. Vừa nghe tin nước nhà đưa sang, nói rằng Hoàng Hoa Thám tướng quân đang giao chiến với Pháp binh gấp lắm, Chúng tôi thiết nghĩ việc cứu viện Hoàng tướng quân là một việc nghĩa phải làm, không thế nào trì hoãn được. Bởi vậy chúng tôi nghĩ cách làm sao vận tải được khí giới về nước cho mau.
@@ -204,13 +195,13 @@ Nói xong liền quay súng lại bắn vào cổ mình mà chết.
 Trời ơi! Tin hung báo đưa tới, không khác gì con dao đâm một mũi chí mạng vào trong cái kế bạo động của tôi.
 {: .text-justify}
 
-Bao nhiêu quân giới còn giấu đút ở Hồng Kong, đang lúc đảng cách mạng Trung Hoa toan đánh thành Quảng Đông, tôi mưu với các đồng chí ở đó chuyển lại tặng cho đảng Trung Hoa, do người anh của Tôn Trung Sơn là Tôn Thọ Bình phái người đến nhận. Làm thế định là kết cảm tình với cách mạng đảng Trung Hoa sau này. 
+Bao nhiêu quân giới còn giấu đút ở Hồng Kong, đang lúc đảng cách mạng Trung Hoa toan đánh thành Quảng Đông, tôi mưu với các đồng chí ở đó chuyển lại tặng cho đảng Trung Hoa, do người anh của Tôn Trung Sơn là Tôn Thọ Bình phái người đến nhận. Làm thế định là kết cảm tình đảng với cách mạng Trung Hoa sau này.
 {: .text-justify}
 
-Chẳng ngờ khi đến thuế quan, vì rương chở quá nặng, quan cảnh sát nghi ngờ mở xét. Cả thảy hơn mười hòm súng đạn đều bị Chính phủ Anh tịch thâu hết; ông Cảnh Lâm lại vì tội phạm cấm đó mà bị hạ ngục.
+Chẳng ngờ khi đến thuế quan, vì rương chở quá nặng, quan cảnh sát nghi ngờ mở xét. Cả thảy hơn mười hòm súng đạn đều bị Chính phủ Anh tịch thâu hết; ông Cảnh Lâm lại vì phạm tội cấm đó mà bị hạ ngục.
 {: .text-justify}
 
-Đúng là *Họa vô đơn chí, Phúc bất trùng lai*, vì lẽ đó tôi có câu thơ cảm khái như vầy:
+Đúng là *họa vô đơn chí, phúc bất trùng lai!* Vì lẽ đó tôi có câu thơ cảm khái như vầy:
 {: .text-justify}
 
 Ưu thế kỷ hồ thương hải khấp,\
@@ -239,23 +230,23 @@ Tin tức nước nhà, có khi vắng bặt mấy tháng trời, tôi không ti
 Thỉnh thoảng có người làm dưới tàu Tây qua đây nói một vài tin miệng cho mình nghe, đều là những tin tức kinh tâm động phách. Nếu không phải là tin Đàm quân Kỳ Sanh bị đày, thì cũng là tin Lê quân Võ bị bắt. Những tin nói đảng nhân này, đảng nhân kia bị bêu đầu bằm xác, thường thường theo tiếng còi tàu mà đưa qua đến tai chúng tôi. Thật đau lòng hết sức!
 {: .text-justify}
 
-Tôi lúc này dời về ở tỉnh thành Quảng Châu. Đem những thứ sách còn lại, dấu tên bịt họ, đi bán sách rao. Lúc bất giờ các học sinh, thương khách nước Trung Quốc, phần nhiều có tư tưởng cách mạng. Thấy tôi đem sách bán, thường cũng có người mua giá cao, nhờ vậy sinh hoạt phí cũng đỡ được phần nào.
+Tôi lúc này dời về ở tỉnh thành Quảng Châu. Đem những thứ sách còn lại, dấu tên bịt họ, đi bán sách rao. Lúc bất giờ các học sinh, thương khách Trung Quốc, phần nhiều có tư tưởng cách mạng. Thấy tôi đem sách bán, thường cũng có người mua giá cao, nhờ vậy sinh hoạt phí cũng đỡ được phần nào.
 {: .text-justify}
 
-Thường ngày sớm ra tối về, được ít đồng thì lại được nhóm năm ba đồng chí uống điên say liều. Tiền bán sách được bao nhiêu thường ngày đánh chén ráo. Có ngày kia rượu giữa bàn hết, ông Lương Lập Nham biết trong túi tôi còn tiền bảo mua thêm. Tôi bảo không tiền, Lương thò tay móc trong túi tôi được vài mươi xu, thét to bảo: 
+Thường ngày sớm ra tối về, được ít đồng thì lại được nhóm năm ba đồng chí uống điên say liều. Tiền bán sách được bao nhiêu thường ngày đánh chén ráo. Có ngày kia rượu giữa bàn hết, ông Lương Lập Nham biết trong túi tôi còn tiền bảo mua thêm. Tôi bảo không tiền, Lương thò tay móc trong túi tôi được vài mươi xu, thét to mà rằng: 
 {: .text-justify}
 
-Phải đâm họng ông này! Cớ sao keo một chén rượu không cho chúng ông say!
+Phải đâm họng ông mới được! Cớ sao keo một chén rượu không cho chúng tôi say!
 {: .notice .text-justify}
 
-Có một điều rất đáng cười là mỗi người trẻ ra đi bán thường về tay không, duy tôi đi bán thì ngày hoặc 2,3 đồng, cũng có ngày được đến 5,6 đồng. Có lẽ vì tôi râu mày bặm trợn, giày áo lang thang, những người ham lạ hay thương mà chịu mua đắt cho. Nên ngày bán sách của tôi cũng khá.
+Có một điều rất đáng cười là mỗi người trẻ ra đi bán thường về tay không, duy tôi đi bán thì ngày hoặc 2, 3 đồng, cũng có ngày được đến 5, 6 đồng. Có lẽ vì tôi râu mày bặm trợn, giày áo lang thang, nhiều người thấy lạ lại thương mà chịu mua đắt cho. Nên tiền bán sách của tôi cũng được khá.
 {: .text-justify}
 
 ## Chu Sư Thái
-Từ đó về sau suốt 5, 6 tháng tôi chỉ làm ông thầy đồ già bán sách. Sớm tối tôi chỉ nương dựa vào một bà nữ sĩ nghĩa hiệp trên 70 tuổi đầu. Bà họ Chu, tên là Bách Linh, là nữ giáo sư; tục Quảng Đông gọi bà thầy là Sư Thái. Nên gọi là Chu Sư Thái.
+Từ đó về sau suốt 5, 6 tháng tôi chỉ làm ông thầy đồ già bán sách. Sớm tối nương dựa vào một bà nữ sĩ nghĩa hiệp trên 70 tuổi đầu. Bà họ Chu, tên là Bách Linh, là nữ giáo sư. Tục Quảng Đông gọi nữ giáo đầu là Sư Thái, nên bà được gọi là Chu Sư Thái. Chu ân nhân là người huyện Hương Sơn, Quảng Đông, tinh thông Hán Văn. Bà ở góa từ ngày còn trẻ, mở trường tư dạy học trò gái, sinh nhai bằng nghề ruộng bút.
 {: .text-justify}
 
-Chu ân nhân là người huyện Hương Sơn, Quảng Đông, tinh thông Hán Văn. Bà ở góa từ ngày còn trẻ, mở trường tư dạy học trò gái, sinh nhai bằng nghề ruộng bút. Con trai bà là Chu Thiết Sinh cũng làm nghề dạy học. Thiết Sinh gặp tôi bán sách ở giữa đường, dắt tôi vào chào mẹ. Bà sẵn có tính nghĩa hiệp, khi gặp biết chúng tôi là người cách mạng Việt Nam, tỏ ý mừng lắm, bảo với chúng tôi rằng:
+ Con trai bà là Chu Thiết Sinh cũng làm nghề dạy học. Thiết Sinh gặp tôi bán sách ở giữa đường, dắt tôi vào chào mẹ. Bà sẵn có tính nghĩa hiệp, khi gặp biết chúng tôi là người cách mạng Việt Nam, tỏ ý mừng lắm, bảo với chúng tôi rằng:
 {: .text-justify}
 
 Các anh bây giờ trong lúc cùng đường thì mượn nhà tôi làm nơi đạo chủ, cũng không ngại gì.
@@ -278,7 +269,7 @@ Cố ảnh tự lân hoàn tự tiếu,\
  \
 *Dịch là*\
  \
-Tựa lần Nam để ngóng phương trời,\
+Tựa lầu Nam để ngóng phương trời,\
 Tâm tư tơ vương ruột rối bời.\
 Lác đác đêm trường mưa điểm giọt,\
 Là đà bóng nhạn tít ra khơi,\
@@ -311,5 +302,45 @@ Ba người đó từ sau tuyệt tích ở sân nhà bà.
 Trên đời, những người tình cờ gặp ở trong lúc đại thất ý, mà giúp đỡ ta như ân nhân, thật không thể nào quên được!
 {: .text-justify}
 
-Than ôi! Bà chiếu cố tôi trong lúc gió bụi lênh đênh. Nuôi tôi ăn không biết bao nhiêu bữa cơm mà nói, mà không hề nghĩ tới sự mai sau, trông mình đền đáp gì hết. Thật là Châu Mẫu Việt Thành, khiến cho tôi chết xuống đất cũng còn mang ơn ngậm vành kết cỏ vậy.
+Than ôi! Bà chiếu cố tôi trong lúc gió bụi lênh đênh. Nuôi tôi ăn không biết bao nhiêu bữa cơm, mà không hề nghĩ tới chuyện mai sau, trông mong mình đền đáp gì hết. Thật là Châu Mẫu Việt Thành, khiến cho tôi chết xuống đất cũng còn mang ơn ngậm vành kết cỏ vậy.
+{: .text-justify}
+
+## Nương náu ở Thái Lan
+Trước kia khoảng mùa xuân, hạ năm Mậu Thân (1908) khi *"Cống Hiến Hội"* mới thành lập, sau khi chuyện học sinh được xử trí ổn thỏa, tôi đã sang Bangkok, Thái Lan một lần. 
+{: .text-justify}
+
+Lúc đó vua Thái Lan là một vị anh chúa, đã du lịch khắp Châu Âu, có cặp mắt chính trị tinh đời. Nguyên Thái Lan là một nước quân chủ, quyền vua rất trọng, sở dĩ độc lập ở giữa khoảng thế kỷ 19 thực do một vị Minh Hoàng làm nên. Nội chính, ngoại giao đều do vua quyết, không một việc gì thần dân được tự quyền.
+{: .text-justify}
+
+Tôi đi Thái cùng với thư giới thiệu của Bá Tước Okuma Shigenobu tới một ông quan ngoại giao của Nhật ở Thái Lan. Ông này thường đi lại với một vị Thân Vương Hoàng Thúc. Lúc đó tôi đem việc mượn đất cày khẩn mà thương thảo với Thân Vương Hoàng Thúc, Vương vui lòng nhận lời.
+{: .text-justify}
+
+Qua đến năm sau, người trong đảng như bọn các ông Tử Kính, Vĩnh Long, Ngọ Sanh và Minh Chung, cả thảy đều lục tục qua Thái. Rủ nhau chịu khó cày cấy ruộng nương, chăn nuôi gà  vịt, để làm kế trữ sức lâu dài.
+{: .text-justify}
+
+Tháng 2 năm Tân Hợi (1911), sau khi bị Nhật trục xuất, các ông viết thư sang Hồng Kong kêu tôi qua. Tôi suy nghĩ muốn bắt chước Ngũ Tử Tư ngày xưa cày ruộng đợi thời, cũng là kế hay bèn đáp tàu sang Thái.
+{: .text-justify}
+
+Sang đây, tôi tới ở sở ruộng Bạn Thầm (tỉnh Phichit, Thái Lan), tắm gió gội sương, dầm mưa trải nắng, cùng mấy anh em thiếu niên cùng chia sớt đắng cay, hầu cho tiêu bớt nỗi đau thương, ăn không ngồi rồi.
+{: .text-justify}
+
+Tôi sống cái đời nông phu cực nhọc trước sau 8 tháng.
+{: .text-justify}
+
+Nhưng trong 8 tháng đó, tôi thấy trong mình vui vẻ, thư thái lạ lùng. Lúc khát gặp suối thì uống, lúc đói vớ được trái cây thì ăn, cái ngày giờ cảm khái vô liêu của tôi lúc này, chôn đứt ở trong cảnh sống ăn sương hút gió, kể cũng là một cách sống thú vị của anh tráng sĩ đang cơn túng thế cùng đường. Bởi vậy, tôi cho đây cũng là một câu chuyện đáng để ghi chép lại.
+{: .text-justify}
+
+Hồi này rảnh rang nhàn rỗi, tôi soạn ra được nhiều bài văn Quốc Ngữ. Nào truyện Lê Thái Tổ, nào truyện Trưng nữ Vương, nào là những khúc hát, bài ca cổ vũ tấm lòng yêu nước, yêu nòi, yêu giống. Tôi đem những bài ấy ra dạy cho những người ở trong sở ruộng học, sớm tối họ thường nghêu ngao ca hát làm vui. Ấy là tôi muốn gieo hạt giống cách mạng ở giữa khoảng non xanh nước biếc này vậy.
+{: .text-justify}
+
+Tháng 10 năm ấy (Tân Hợi, 1911) Phan quân Bá Ngọc ở Hồng Kong sang Thái, đem cái tin Võ Xương khởi nghĩa nói cho tôi nghe. Quân cách mạng Trung Hoa thu phục xong Võ Xương, chưa đầy ba tháng mà đánh đổ được Triều Mãn Thanh, dựng thành Dân quốc ở Nam Kinh. Thực là một việc mà tôi không dám nghĩ tới.
+{: .text-justify}
+
+Hồi trước tôi còn ở bên Nhật, từng có cơ hội kết giao với những vị cốt cán của cách mạng Trung Hoa như Hoàng Khắc Cường, Chương Thái Viêm. Lại cùng bọn Trương Kế và chí sĩ các nước Triều Tiên, Nhật Bản, Ấn Độ và Philippines, tổ chức ra *"Đông Á Đồng Minh Hội"* .
+{: .text-justify}
+
+Chúng tôi với họ cũng là một hạng người đau lòng mất nước, mong phục nghiệp xưa, tôn chỉ vốn là tương hợp. Nay nghe tin quân cách mạng Trung Hoa dấy lên, khiến tôi có cái cảm giác tiếng đồng reo, tiếng chuông ứng.
+{: .text-justify}
+
+Nhân đó Bá Ngọc khuyên tôi nên trở về Trung Quốc. Tôi liền từ giã sở ruộng ở Thái mà đi.
 {: .text-justify}
