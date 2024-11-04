@@ -66,7 +66,7 @@ Sau khi quyết định rước Hội chủ xuất dương, tôi tính phải v�
 Một là mưu phò được Hội chủ xuất dương, thì càng thêm vững lòng khuynh hướng của anh em trong nước, mà lại khỏi lo có sự gì nguy hiểm gì xảy tới.
 {: .text-justify}
 
-Hai là đem những sự tai nghe mắt thấy mới lạ, cùng là việc mình mưu toan, dễ bộc bạch với anh em đồng bào, chắc hẳn có phần bổ ích cho cuộc cải lương tấn phát mai sau.
+Hai là đem những sự tai nghe mắt thấy mới lạ, cùng là việc mình mưu toan, để bộc bạch với anh em đồng bào, chắc hẳn có phần bổ ích cho cuộc cách mạng mai sau.
 {: .text-justify}
 
 Vịn vào hai lẽ đó, tôi mạnh dạn trở về.
@@ -128,7 +128,7 @@ Quý quốc có độc lập nữa, tất sau Trung Quốc cách mạng thành c
 Qua ngày hôm sau, tôi cầm danh thiếp ông Inukai và giấy giới thiệu tới Trí Hòa Đường ở Yokohama để yết kiến Tôn tiên sinh. Lúc đó đã 8 giờ đêm, Tôn Dật Tiên đem giấy bộ ra nói chuyện.
 {: .text-justify}
 
-Vì đã đọc qua bản *"Việt Nam Vong Quốc Sử"* ，ông biết trong óc tôi chưa thoát khỏi Quân Chủ tư tưởng, nên ông hết sức bài bác đảng Quân Chủ Lập Hiến coi nó là ngư ngụy, mà kết thúc thì cốt muốn đảng cách mạng Việt Nam gia nhập đảng cách mạng Trung Quốc. Hễ đến lúc Trung Quốc cách mạng thành công thì theo đà kéo dắt hết các nước bị bảo hộ ở Á Châu đồng thời được độc lập, mà nước thứ nhất được hỗ trợ là Việt Nam.
+Vì đã đọc qua bản *"Việt Nam Vong Quốc Sử"*，ông biết trong óc tôi chưa thoát khỏi Quân Chủ tư tưởng, nên ông hết sức bài bác đảng Quân Chủ Lập Hiến coi nó là hư ngụy, mà kết thúc thì cốt muốn đảng cách mạng Việt Nam gia nhập đảng cách mạng Trung Quốc. Hễ đến lúc Trung Quốc cách mạng thành công thì theo đà kéo dắt hết các nước bị bảo hộ ở Á Châu đồng thời được độc lập, mà nước thứ nhất được hỗ trợ là Việt Nam.
 {: .text-justify}
 
 Còn đến lời đáp của tôi thì cũng thừa nhận Dân chủ - Cộng Hòa là hoàn mỹ, đồng thời lại có chủ ý muốn đảng cách mạng Trung Quốc trợ giúp cho Việt Nam. Lúc Việt Nam độc lập rồi thì xin lấy Bắc Kỳ cho đảng Trung Quốc mượn làm căn cứ địa, sẽ tấn vào lưỡng Quảng mà lấy đến Trung Nguyên.
@@ -137,7 +137,7 @@ Còn đến lời đáp của tôi thì cũng thừa nhận Dân chủ - Cộng 
 Tôi với Tôn tiên sinh bút đàm đến hơn vài giờ đồng hồ. Đến 11 giờ, tôi đứng dậy từ biệt, ông Tôn hẹn với tôi hội đàm lần thứ hai.
 {: .text-justify}
 
-Qua ngày sau, tôi lại đến Trí Hòa Đường, hội Tôn tiên sinh lần nữa. Nhưng kết quả hai bên đều nhận lầm cả. Kỳ thực thì tôi chưa biết nội dung Trung Quốc cách mạng đảng ra thế nào, mà ông Tôn cũng chưa biết chân tướng Việt Nam cách mạng đảng ra làm sao. Hai bên ve vuốt nhau chỉ là một đám mộng tưởng mà thôi, nhưng về phần tinh thần vẫn là đằm thắm.
+Qua ngày sau, tôi lại đến Trí Hòa Đường, hội Tôn tiên sinh lần nữa. Nhưng kết quả hai bên đều nhận lầm cả. Kỳ thực thì tôi chưa biết nội dung đảng cách mạng Trung Quốc ra thế nào, mà ông Tôn cũng chưa biết chân tướng đảng cách mạng Việt Nam ra làm sao. Hai bên ve vuốt nhau chỉ là một đám mộng tưởng mà thôi, nhưng về phần tinh thần vẫn là đằm thắm.
 {: .text-justify}
 
 Ngày sau đảng ta khi gặp nguy khốn được đảng họ giúp cũng nhiều, chính là từ hai hôm hội đàm này.
@@ -195,7 +195,7 @@ Trung tuần tháng ba thì chúng tôi tới Yokohama, rồi tới thượng tu
 
 Xem dân trí Nhật Bản rồi đem dân trí ta ra so sánh, thật không khác gì muốn đem con gà con đọ với con chim cắt già. Trình độ dân Nhật như thế, mà trình độ dân ta như thế, không nô lệ làm sao được! Được bấy nhiêu học sinh vào nhà học Nhật Bản là thành tựu rất lớn của bác.\
  \
-Giờ bác ở đây, nên chuyên tâm ra sức vào việc văn thức tỉnh đồng bào cho khải tai điếc mắt đui, còn việc mở mang dìu dắt ở trong nước nhà thì tôi xin lãnh. Lưỡi tôi đang còn, người Pháp chẳng làm gì tôi được mà lo.
+Giờ bác ở đây, nên chuyên tâm ra sức vào việc làm văn thức tỉnh đồng bào cho khỏi tai điếc mắt đui, còn việc mở mang dìu dắt ở trong nước nhà thì tôi xin lãnh. Lưỡi tôi đang còn, người Pháp chẳng làm gì tôi được mà lo.
 {: .notice .text-justify}
 
 Từ đó luôn 10 ngày hơn, tôi với Phan quân bàn bạc, ý kiến rất trái nhau: Phan quân thì muốn đánh đổ Quân Chủ, mà cốt vun trồng lấy nền tảng Dân Quyền, dựa vào Pháp mà đánh đổ Quân Chủ. Còn ý tôi thì muốn đánh đổ người Pháp, chờ lúc nước nhà độc lập rồi mới bàn đến việc khác; đương lúc đánh với Pháp thì phải lợi dụng Quân Chủ. Chính kiến của hai rất đối nghịch nhau, cùng chung mục đích mà thủ đoạn thì khác nhau. Tuy vậy nhưng vẫn rất ưa nhau. Ở lại non nửa tháng thì ông đánh tiếng muốn về nước. Lúc tiễn biệt ông nói với tôi rằng:

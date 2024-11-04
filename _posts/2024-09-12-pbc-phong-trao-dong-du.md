@@ -34,13 +34,13 @@ Trung tâm Lưu trữ quốc gia《Một số lưu học sinh phong trào Đông
 </cite>
 
 ## Về nước lần hai
-Tuy nhiên, đối với sự yêu cầu của anh em trong phe quá khích, tôi không thể nào ngoảnh mặt làm ngơ cho được. Bởi vậy tôi lại tính phải trở về nước lần thứ nhì nữa. Lần này về nước có hai mục đích.
+Tuy nhiên, đối với yêu cầu của anh em, tôi không thể nào ngoảnh mặt làm ngơ cho được. Bởi vậy tôi lại tính phải trở về nước lần thứ nhì nữa. Lần này về nước có hai mục đích.
 {: .text-justify}
 
-Một là đi qua các nơi hiểm yếu ở biên giới hai tỉnh Việt (Quảng Đông) Quế (Quảng Tây) để xem xét địa hình và kết giao với đám hào kiệt trong vùng, hầu sắp đặt những chỗ mượn đường chuyên chở quân giới mai sau.
+Một là đi qua các nơi hiểm yếu ở biên giới hai tỉnh Việt (Quảng Đông) Quế (Quảng Tây) để xem xét địa hình và kết giao với đám hào kiệt trong vùng, nhằm sắp đặt những chỗ mượn đường chuyên chở quân giới mai sau.
 {: .text-justify}
 
-Một mặt khác lại lên Bắc Giang yết kiến ông Hoàng Hoa Thám, muốn xin ông một miếng đất làm khu đồn điền cho anh em phe quá khích có chỗ nương thân, đợi ngày có thể giải quyết vấn đề quân giới.
+Một mặt khác lại lên Bắc Giang yết kiến ông Hoàng Hoa Thám, muốn xin ông một miếng đất làm khu đồn điền cho anh em có chỗ nương thân, đợi ngày có thể giải quyết vấn đề quân giới.
 {: .text-justify}
 
 Than ôi! Quân giới! Quân giới! Nó có phải là vấn đề chốc lát tính xong được đâu? Đối với vấn đề này, thật không có giây phút nào tôi đã dời phương châm qua chỗ thong thả tính sao cho ổn thỏa thì hơn.
@@ -121,7 +121,7 @@ Lúc sắp đặt công cuộc đồn điền xong đâu đó rồi, đã là h�
 Tôi lên Hà Nội gặp ông Ngô Đức Kế và các đảng hữu ở Kinh ra, bàn tính các việc. Lúc đó thương điếm Triều Dương đã thành lập, nghe nói người trong điếm ham bàn luận chuyện cách mạng lắm; tôi lấy thế làm lo; vì ngôn luận với thực hành không thể một khắc mà có thể thu xếp hiệu quả cả hai bên được. Tôi có nói với ông Ngô Đức Kế, nhưng cũng muộn rồi.
 {: .text-justify}
 
-Hồi này tiếng tăm vang dậy, lũ sói chồn bủa vây khắp tứ vi. Tôi lại rất muốn một phen về Nghệ Tĩnh, anh em đồng chí sợ tôi rủi ro thì nguy. Cho nên đều khuyên tôi phải lìa khỏi bờ cõi nước nhà gấp. Thế là tôi lại cáo biệt quốc dân mà xuất ngoại vậy.
+Hồi này tiếng tăm vang dậy, lũ sói chồn bủa vây khắp tứ vi. Tôi lại rất muốn một phen về Nghệ Tĩnh, anh em đồng chí sợ tôi rủi ro thì nguy. Cho nên đều khuyên tôi phải rời khỏi bờ cõi nước nhà gấp. Thế là tôi lại cáo biệt quốc dân mà xuất ngoại vậy.
 {: .text-justify}
 
 ## Quay lại Nhật Bản
@@ -150,16 +150,16 @@ Nếu dân đã không còn, thì chủ có ở đâu?
 
 Là cốt để hòa hoãn ý kiến của ông Tây Hồ. Tôi sau đó thương lượng với Kỳ Ngoại Hầu rằng:
 
-Các thuyết bài quân, nếu mai này lan rộng thì nhân tâm Trung, Bắc Kỳ tất hiện ra vẻ bàng hoàng, tan vỡ. Nhân tâm không thống nhất thì trù khoản vào chỗ nào?\
+Các thuyết bài quân, nếu mai này lan rộng thì nhân tâm Trung, Bắc Kỳ tất hiện ra vẻ bàng hoàng, tan vỡ. Nhân tâm không thống nhất thì vận động ở chỗ nào?\
  \
-Vậy nên in một món văn thư, phái người đưa về Nam Kỳ. Lợi dụng nhân tâm nhớ cũ yêu vua, vận động ủng hộ tiền bạc. Hễ có được tiền bạc rồi, thì việc khác mới bắt tay làm được. Nếu không thế, Trung Bắc Kỳ e sắp đổ bể cả.
+Vậy nên in một món văn thư, phái người đưa về Nam Kỳ. Lợi dụng nhân tâm nhớ cũ yêu vua, vận động ủng hộ tiền bạc. Hễ có được tiền bạc rồi, thì việc khác mới bắt tay làm được. Nếu không thế Trung, Bắc Kỳ e sắp đổ bể cả.
 {: .notice .text-justify}
 
 Hầu lấy làm phải lắm, bảo tôi làm một bài văn *"Ai cáo Nam Kỳ phụ lão"*. In xong, tôi lại tiễn ông Lưu về lại Hồng Kong, để đem các kiện văn thư để chuyển về nước.
 {: .text-justify}
 
 ## Cụ Tăng Bạt Hổ tạ thế
-Tôi về lại Nhật Bản, thì được tin cụ Tăng tạ thế! Trời đất ơi! Đau đớn thứ nhất, sau khi tôi đã xuất dương, đó là lần đầu.
+Tôi về lại Nhật Bản, thì được tin cụ Tăng tạ thế! Trời đất ơi! Đây là lần đau đớn đầu tiên sau khi tôi xuất dương.
 {: .text-justify}
 
 Nguyên lúc đầu cụ Tăng Bạt Hổ về nước vì có hai cớ:
@@ -199,7 +199,7 @@ Tôi lại lập ra ở Hồng Kong một nhà Hội gọi là *"Việt Nam Thư
 Lúc đó những bà con mình theo người Pháp qua làm ăn tại Hồng Kong, cũng động lòng vì nghĩa lớn, rủ nhau vô hội một cách hăm hở vô cùng. Chẳng phải vậy là dấu tỏ ra nhân tâm nước mình chưa chết hẳn đó sao?
 {: .text-justify}
 
-Chỉ tiếc rằng tôi thiếu tài bao bọc kém sức châu toàn, thành ra mầm giống vừa mới mọc lên thì gió mưa đã làm cho xiêu đổ. Việt Nam Công hội chỉ có cái tên, rồi chưa được mấy năm, lại nhân bị can thiệp mà phải giải tán, đáng thương biết bao!
+Chỉ tiếc rằng tôi thiếu tài bao bọc, lại kém sức chu toàn, thành ra mầm giống vừa mới mọc lên thì gió mưa đã làm cho xiêu đổ. Việt Nam Công hội chỉ có cái tên, rồi chưa được mấy năm, lại nhân bị can thiệp mà phải giải tán, đáng thương biết bao!
 {: .text-justify}
 
 Từ mùa xuân Đinh Mùi (1907) đến mùa đông Mậu Thân (1908), là thời kỳ thanh niên ta sang du học thịnh nhất. Trách nhiệm tôi phải gánh vác trong thời kỳ này cũng khó nhọc bộn bề. Nào là chọn người vào học, nào là lo liệu giao thiệp; nào là vận động bạc tiền; nào là liên lạc tình nghĩa, đều là một tay tôi đứng mũi chịu sào hết thảy.
@@ -211,7 +211,7 @@ Tôi nghiễm nhiên như một quan công sứ của nước Nam ở nước ng
 Hạ tuần tháng 8, đám du học sinh đến Nhật Bản tính ra đã gần 200 người rồi, trong đó Nam Kỳ ước hơn 100 người, Trung Kỳ ước 50 người, Bắc Kỳ ước hơn 40 người. Việc trù liệu nhập học lại phát sinh nhiều vấn đề:
 {: .text-justify}
 
-1. Các trường tư lập, chương trình không thể nào bằng trường học công, va không có khoa luyện tập quân sự. Các trường công lập mà ta ưng thì lại không có giấy văn bằng của chính phủ cheo phép. Tất không được vào, đó là một vấn đề.
+1. Các trường tư lập, chương trình không thể nào bằng trường học công, và không có khoa luyện tập quân sự. Các trường công lập mà ta ưng thì lại không có giấy văn bằng của chính phủ cho phép. Tất không được vào, đó là một vấn đề.
 2. Các học sinh chưa học thạo tiếng Nhật mà trong trường lại cũng không có khóa tiếng Nhật. Tiếng Nhật còn chưa hiểu thì làm sao học được các thứ khác? Đó là vấn đề thứ hai.
 3. Hỗ trợ học phí cũng chỉ có một hạn mức nhất định. Hiện kinh tế chưa có nền tảng vững vàng, chỉ trông mong ở trong nước quyên trợ, thực không có gì làm chắc chắn, đó là vấn đề thứ ba.
 {: .text-justify}
@@ -236,7 +236,7 @@ Người Việt xuất dương ngày càng đông, kết quả tưởng ra thế
 
 Inukai nói:
 
-Xem như hiện tại cảnh tượng khá tốt, nhưng không biết bọn họ có kiên trì nhẫn nại được không.
+Xem như hiện tại tình hình khá tốt, nhưng không biết bọn họ có kiên trì nhẫn nại được không.
 {: .notice .text-justify}
 
 Ông Phước Đảo lại nói:
@@ -245,7 +245,7 @@ Ta là một quân nhân, theo những việc quan hệ trên chiến lược th
  \
 Đất Việt Nam gần về nhiệt đới, còn binh sĩ nước Pháp thì là người nước ôn đới. Sang ở dưới trời nắng, đất nực, sức chiến đấu tất nhiên không bằng dân Việt. Đó là phần hơn thiên thời.\
  \
-Quân lính ở Âu Châu qua tiếp tế, tất phải đi đường biển, mà quân cảng ở Việt Nam có thể chứa được thuyền to chỉ có ở cửa Cần Giờ; nếu dùng một đại đội chiến hạm, lấp quách cửa ấy thì ngăn được viện binh ở Âu Châu qua. Đó là phần hơn về địa lợi.\
+Quân lính ở Châu Âu qua tiếp tế, tất phải đi đường biển, mà quân cảng ở Việt Nam có thể chứa được thuyền to chỉ có ở cửa Cần Giờ; nếu dùng một đại đội chiến hạm, lấp quách cửa ấy thì ngăn được viện binh ở Châu Âu qua. Đó là phần hơn về địa lợi.\
  \
 Chỉ còn không chắc được thế nào là nhân tâm nữa mà thôi. Hễ các ngài kiên trì nhẫn nại được đến nơi thì có ngày quang phục.
 {: .notice .text-justify}
@@ -257,36 +257,36 @@ Nước chúng tôi không đến nỗi vô nhân tâm; duy thế lực quá m�
 
 Ông Phước Đảo lại nói:
 
-Đó chẳng phải lo. Nhân tâm là một giống có thế lực rất to lớn. Muốn xem nhân tâm thì phải chứng thực là chịu nhẫn nại khổ lao được hay không? Phen này Nhật Bản đánh được Nga, nguyên nhân tuy nhiều, nhưng người Nhật Bản hay nại lao nhẫn khỗ là cái nguyên nhân rất to.\
+Đó chẳng phải lo. Nhân tâm là một giống có thế lực rất to lớn. Muốn xem nhân tâm thì phải chứng thực là chịu nhẫn nại khổ lao được hay không? Phen này Nhật Bản đánh được Nga, nguyên nhân tuy nhiều, nhưng người Nhật Bản nại lao nhẫn khổ là cái nguyên nhân rất to.\
  \
-Các ngài cũng có đọc báo Nhật Bản chắc biết được? Lúc đánh với Nga, nước Nhật Bản chúng ta đất gầy dân đói, cung ứng rất khổ, chiến phí quá nặng, lâu đến hai năm.\
+Các ngài cũng có đọc báo Nhật Bản chắc biết được? Lúc đánh với Nga, nước Nhật Bản chúng ta đất gầy dân đói, cung ứng rất khổ, chiến phí quá nặng, kéo dài đến tận hai năm.\
  \
 Giá phỏng quan quân Nhật Bản cũng đua nhau ăn thịt bò, uống sữa như người Nga thì làm sao trụ nổi. Duy người Nhật Bản chỉ đánh no cải củ muối dưa với cơm mì đen, sở dĩ quyết thắng được là nhờ vậy.
 {: .notice .text-justify}
 
-Nói đến đó thì vừa con hầu đưa một mâm khoai đót lên, Phước Đảo mời tôi ăn, mà ông trước tự lấy một củ ăn luôn cả vỏ, cười nói:
+Nói đến đó thì vừa người hầu đưa một mâm khoai đót lên, Phước Đảo mời tôi ăn, mà ông trước đó tự lấy một củ ăn luôn cả vỏ, cười nói:
 {: .text-justify}
 
 Chúng ta làm người quân nhân, nếu sợ vỏ khoai không dám ăn thì làm sao ở giữa trận đánh mà ăn được thịt giặc?
 {: .notice .text-justify}
 
-Sau ngày đó tôi đến *"Đông Á Đồng Văn Hội"* để nhờ cậy sắp xếp. Được các ông chính khách Nhật Bản giúp đỡ mà một trường mà một trường riêng cho học sinh Việt Nam được lập ra có tên là *"Đông Á Đồng Văn Thư Viện"*. Hiệu trưởng là ông Bá nguyên Văn Thái Lang ở Hạ Nghị Viện. Nội quy học đường, chương trình học đều do người Nhật Bản quy định. Trong đó chương trình được chia làm hai đoạn lớn:
-- Thượng bán nhật công khóa: dạy Nhật văn, Nhật ngữ, khoa học phổ thông, toán học, vật lý, lịch sử, hóa học, tu thân, luân lý...
-- Hạ bán nhật công khóa: dạy kiến thức quân sự, luyện tập binh thao.
+Sau ngày đó tôi đến *"Đông Á Đồng Văn Hội"* để nhờ cậy sắp xếp. Được các ông chính khách Nhật Bản giúp đỡ mà một trường riêng cho học sinh Việt Nam được lập ra có tên là *"Đông Á Đồng Văn Thư Viện"*. Hiệu trưởng là ông Bá nguyên Văn Thái Lang ở Hạ Nghị Viện. Nội quy học đường, chương trình học đều do người Nhật Bản quy định. Trong đó chương trình được chia làm hai đoạn lớn:
+- Thượng Bán Nhật công khóa: dạy Nhật văn, Nhật ngữ, khoa học phổ thông, toán học, vật lý, lịch sử, hóa học, tu thân, luân lý...
+- Hạ Nán Nhật công khóa: dạy kiến thức quân sự, luyện tập binh thao.
 
 ## Lập *"Tân Việt Nam Cống Hiến"*
-Đồng thời chúng tôi lại dựng lên *"Tân Việt Nam Cống Hiến"* , bắt chước làm như một chính phủ lâm thời của nước Nam ở hải ngoại. Tuy là cách thức sắp đặt còn sơ sài, nhưng có ảnh hưởng tới dân khí trong nước mau lắm.
+Đồng thời chúng tôi lại dựng lên *"Tân Việt Nam Cống Hiến"*, bắt chước làm như một chính phủ lâm thời của nước Nam ở hải ngoại. Tuy là cách thức sắp đặt còn sơ sài, nhưng có ảnh hưởng tới dân khí trong nước nhiều lắm.
 {: .text-justify}
 
-*"Công Hiến Hội"* được thành lập, toàn thể thanh niên có chỗ học, có chỗ nuôi, trật tự ngó cũng nghiêm túc. Mỗi tuần lễ tất có vài ngày quan Đan Ba Thiếu Tá đem học sinh ra ngoài đồng tập thể thao bằng các trận đánh, học sinh thì vui vẻ như trong lòng tôi thì có hai việc lo:
+*"Công Hiến Hội"* được thành lập, toàn thể thanh niên có chỗ học, có chỗ nuôi, trật tự ngó cũng nghiêm túc. Mỗi tuần lễ tất có vài ngày quan Đan Ba Thiếu Tá đem học sinh ra ngoài cùng tập thể thao bằng các trận đánh, học sinh thì vui vẻ nhưng trong lòng tôi thì có hai việc lo:
 
 1. Lo làm sao cho toàn thể học sinh được bền chặt.
 2. Lo làm sao cho tài chính hậu viện được tiếp tục.
 
-Về phần học sinh, vì tam kỳ nhân sĩ xưa nay không tiếp xúc nhau, mà khí chất lại khác nhau:
+Về phần học sinh, vì Tam Kỳ nhân sĩ xưa nay không tiếp xúc nhau, mà khí chất lại khác nhau:
 
-- Người Nam Kỳ có ý phác thành mà nóng gấp muốn chóng, lại khuynh hướng về phần vật chất quá sâu.
+- Người Nam Kỳ có ý hành động mà nóng gấp, muốn chóng. Lại khuynh hướng về phần vật chất quá sâu.
 - Người Trung Kỳ có ý trung dũng, ưa mạo hiểm, mà thái độ thường hay thô sơ, khó dung hợp được tình cảm.
-- Đến người Bắc Kỳ thì văn sức quá nhiều mà thành phác có ít.
+- Đến người Bắc Kỳ thì văn sức quá nhiều mà hành động có ít.
 
-Tuy xứ nào cũng có phần tử ưu tú, nhưng mà tập hợp chung lại thì rất khó. Tôi ở trong một năm hơn, thiệt nhiều chỗ đau đầu không thể nói ra, mà cũng tự thẹn cho mình tài đức quá kém, không đủ cảm hóa.
+Tuy xứ nào cũng có phần tử ưu tú, nhưng mà tập hợp chung lại thì rất khó. Tôi ở trong một năm hơn, thiệt nhiều chỗ đau đầu không thể nói ra, mà cũng tự thẹn cho mình tài đức quá kém, không đủ cảm hóa, dung hợp.

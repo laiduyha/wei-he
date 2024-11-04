@@ -86,18 +86,18 @@ Liền những ngày sau đó, Lương công đưa tôi tới Tokyo. Trước v�
 Việc các ông đi cầu viện đây, có ý chỉ kẻ tôn trưởng trong nước không? Như nước quân chủ tất phải có một người trong Hoàng tộc. Các ông đã tính nước đó chưa?
 {: .notice .text-justify}
 
-Tôi nói có, rồi đem tờ thông hành của Kỳ Ngoại Hầu xin ở Khâm sứ, và bức ảnh ông Đông Cung lấy trong túi cho mọi người xem. Inukai nói:
+Tôi nói có, rồi đem tờ thông hành của Kỳ Ngoại Hầu xin ở Khâm sứ, và bức ảnh ông ở Đông Cung lấy trong túi cho mọi người xem. Inukai nói:
 {: .text-justify}
 
 Nên đưa người này ra khỏi nước, nếu không thế, e sẽ bị bắt vào tay người Pháp.
 {: .notice .text-justify}
 
-Tôi liền đồng ý. Lúc bấy giờ ba người: Bá tước Okuma, Inukai, Lương công bàn bạc với nhau. Ước chừng vài ba phút đông hồ, nói với tôi:
+Tôi liền đồng ý. Lúc bấy giờ ba người: Bá tước Okuma, Inukai, Lương công bàn bạc với nhau. Ước chừng vài ba phút đồng hồ, nói với tôi:
 {: .text-justify}
 
 Lấy Dân đảng Nhật Bản giúp cho các ngài thì được; nếu giúp binh lực thì nay chưa phải là phút thích hợp. Hiện tình thế chiến tranh đời bây giờ, chẳng phải là vấn đề riêng Pháp với Nhật, mà là vấn đề Âu-Á đua hơn nhau.\
  \
-Nhật muốn giúp cho quý quốc, tất phải tuyên chiến với pháp, chiến cơ đồng thời kéo cả toàn cầu. Lấy sức Nhật Bản ngày nay mà tranh quyền với cả Châu Âu thiệt chưa đủ sức. Các ngài có thể ẩn nhẫn mà chờ cơ hội không?
+Nhật muốn giúp cho quý quốc, tất phải tuyên chiến với Pháp, chiến cơ đồng thời kéo cả toàn cầu. Lấy sức Nhật Bản ngày nay mà tranh quyền với cả Châu Âu thiệt chưa đủ sức. Các ngài có thể ẩn nhẫn mà chờ cơ hội không?
 {: .notice .text-justify}
 
 Tôi đáp ngay:
@@ -109,7 +109,7 @@ Bá tước Okuma Shigenobu nói:
 
 Các ngài tới đây, chúng tôi mới lần đầu biết người Việt Nam. Ấn Độ, Ba Lan, Ai Cập, Philippines cũng đều là mất nước, nhưng không có ai che bịt đến như thế.\
  \
-Các ngài bây giờ, nếu cổ động được nhân sĩ trong nước, phần nhiều bỏ nước ra ngoài. Khiến cho lỗ tai con mắt mới mẻ một lần. Vô luận đến nước nào, làm công việc gì, đều có thể thay được không khí hô hấp, tinh thần không mắc lấy cái khổ chết nghẹt. Đó là việc khẩn cấp nhất ở trong đường cứu vong vậy.
+Các ngài bây giờ, nếu cổ động được nhân sĩ trong nước, phần nhiều bỏ nước ra ngoài. Khiến cho lỗ tai, con mắt được mở rộng ra. Vô luận đến nước nào, làm công việc gì, đều có thể thay được không khí hô hấp, tinh thần không mắc lấy cái khổ chết nghẹt. Đó là việc khẩn cấp nhất ở trong đường cứu vong quốc vậy.
 {: .notice .text-justify}
 
 Inukai lại hỏi tôi:
@@ -117,7 +117,7 @@ Inukai lại hỏi tôi:
 Các ngài đã từng tổ chức một đảng cách mạng chưa?
 {: .notice .text-justify}
 
-Nghe câu ấy, bụng tôi thẹn xấu muốn chết. Tự nghĩ trong nước thực chưa có đảng cách mạng nào ra trò, nhưng cũng miễn cưỡng trả lời:
+Nghe câu ấy, tôi nghĩ bụng thẹn muốn chết. Tự nghĩ trong nước thực chưa có đảng cách mạng nào ra trò, nhưng cũng miễn cưỡng trả lời:
 {: .text-justify}
 
 Tổ chức thì vẫn có, nhưng ở dưới cường quyền áp chế, không lấy gì phát triển được, nên đảng tuy có mà vẫn như không.
@@ -148,7 +148,7 @@ Tiệc hội ấy từ chính trưa đến chặp tối mới xong. Ngày ấy c
 Nước Trung Quốc với quý quốc, cứ theo quan hệ ở trong lịch sử, hơn hai ngàn năm mật thiết có lẽ hơn anh em; anh đứng dòm em chết mà không cứu, há có lẽ đâu? Tức cho bọn đương Triều, chỉ biết ăn thịt mà thôi, tôi lấy làm đau đớn. Tôi đã trù nghĩ hiện thời chỉ có hai kế hoạch, có thể cống hiến cho ông.
 {: .notice .text-justify}
 
-1. Hết sức dùng văn tự đau đớn, thống thiết và hăng hái, mô tả cho hết tình trạng bệnh thống của quý quốc, với mưu hiểm độc diệt chủng, diệt quốc của người Pháp, tuyên bố cho thế giới biết. Họa may kêu gọi được dư luận của thế giới tác động tới kế sách ngoại giao của các ông, đó là một kế hoạch.
+1. Hết sức dùng văn tự đau đớn, thống thiết và hăng hái, mô tả cho hết tình trạng bệnh thống của quý quốc, với âm mưu hiểm độc diệt chủng, diệt quốc của người Pháp, tuyên bố cho thế giới biết. Họa may kêu gọi được dư luận của thế giới tác động tới kế sách ngoại giao của các ông, đó là một kế hoạch.
 2. Ông có thể trở về nước, hay là đưa văn thư gửi về nước. Cổ động những hạng người thanh niên xuất dương cầu học, mượn đó làm cái nền tảng chấn hưng dân khí, khai dân trí, lại là một kế hoạch.\
  \
 Trừ hai kế hoạch ấy thì chỉ nằm gai nếm mật, chứa giận chờ thời. Một mai nước tôi mạnh lên, tất phải hướng ngoại mà tuyên chiến.\
@@ -156,7 +156,7 @@ Trừ hai kế hoạch ấy thì chỉ nằm gai nếm mật, chứa giận ch�
 Mà tiếng súng nổ lần thứ nhất, tất nhiên là đối với Pháp ở Việt Nam. Bởi vì quý quốc liền kề với đất nước tôi, mà hai ngọn đường sắt Việt Nam - Quảng Tây, Việt Nam - Vân Nam, thiệt là cái họa trong lòng bụng chúng tôi. Những hạng chí sĩ nhân dân nước tôi không phút nào quên việc ấy. Các ông hãy chờ xem sao.
 {: .notice .text-justify}
 
-Tôi nghe được bấy nhiêu lời, óc và mắt tôi bây giờ mới tỉnh táo được nhiều. Bút đàm xong tôi từ biệt về nhà trọ, rồi thao thức suy nghĩ cả đêm, không sao nhắm mắt ngủ được. Dòm quanh thế giới như rồng bay hổ thét, như điện chớp mây tuôn, nhân tài có ngàn thứ muôn thứ, không có vẻ nào mà không mới lạ. Ngay đến một xó Đông Dương này, nước nhà mình so sánh đã đủ thua kém, người ta muôn phần, mình chẳng có một, còn nói Âu Mỹ làm gì?
+Tôi nghe được bấy nhiêu lời, óc và mắt tôi bây giờ mới tỉnh táo được nhiều. Bút đàm xong tôi từ biệt về nhà trọ, rồi thao thức suy nghĩ cả đêm, không sao nhắm mắt ngủ được. Dòm quanh thế giới như rồng bay hổ thét, như điện chớp mây tuôn, nhân tài có ngàn thu muôn thuở, không có vẻ nào mà không mới lạ. Ngay đến một xó Đông Dương này, nước nhà mình so sánh đã đủ thua kém, người ta muôn phần, mình chẳng có một, còn nói Âu Mỹ làm gì?
 {: .text-justify}
 
 Sau đó tôi viết ra cuốn *"越南亡國史 - Việt Nam Vong Quốc Sử"* . Viết xong đem tới cho Lương công xem và nhờ ông xuất bản, ông đồng ý ngay. Từ ngày đầu xuất dương tới giờ, đây là cuốn sách đầu tiên tôi viết. Chỉ một tuần lễ sách in xong, tôi tới nhà Lương công xin từ biệt về nước.
