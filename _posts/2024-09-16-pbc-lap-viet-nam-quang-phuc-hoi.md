@@ -72,16 +72,35 @@ Lúc này nghĩ rằng sau cách mạng đảng thành công thì Chính phủ T
 Nghĩ thế tôi bèn thảo một bản, tựa là *"Liên Á xổ ngôn"*, cốt bày tỏ kêu gào hai nước Trung Hoa, Nhật Bản nên đấu sức cùng lòng, để sửa sang gây dựng đại cuộc châu Á. Bài này truyền ra những người kiến thức đều khen ngợi tán thành.
 {: .text-justify}
 
-Song thời cuộc Đông Á, đến nay, xoay đổi khác hẳn sự trông mong của mình lúc đó. Thế mới biết việc đời lý luận đi tới sự thật, không phải là chuyện dễ dàng. Bọn mình hay ngồi nói ngông tưởng hão, chỉ tổ làm trò cười cho người ta đó thôi.
+Song thời cuộc Đông Á đến nay, xoay đổi khác hẳn sự trông mong của mình lúc đó. Thế mới biết việc đời lý luận đi tới sự thật, không phải là chuyện dễ dàng. Bọn mình hay ngồi nói ngông tưởng hão, chỉ tổ làm trò cười cho người ta đó thôi.
 {: .text-justify}
 
-Ngẫm lại trong nước không một tổ chức, một thế lực gì, chỉ trông chờ ngoại lực, điều gì cũng cậy vào lưng người. Xưa nay Đông Tây các nước, tuyệt không một đảng cách mạng nào chỉ là đoàn ăn mày mà làm nên công được. Khốn vì chúng tôi lúc ấy đã không thế lực nào mạnh ở trong, lại không phát triển ở ngoài. Cứ ăn no, ngủ kỹ, bỏ suông ngày tháng *vô liêu* kia thì dầu biết hạ sách cũng phải làm, chỉ may rủi thôi!
+Ngẫm lại trong nước không một tổ chức, một thế lực gì, chỉ trông chờ ngoại lực, điều gì cũng cậy vào lưng người. Xưa nay Đông Tây các nước, tuyệt không một đảng cách mạng nào chỉ là đoàn ăn mày mà thành công được. Khốn vì chúng tôi lúc ấy đã không thế lực nào mạnh ở trong, lại không phát triển ở ngoài, cứ ăn no, ngủ kỹ, bỏ suông ngày tháng *vô liêu* kia thì dầu biết hạ sách cũng phải làm, chỉ may rủi thôi!
 {: .text-justify}
 
-Mùa xuân năm Nhâm Tý (1912), nước Trung Hoa Dân Quốc thành lập, Tôn Trung Sơn tiên sinh được cử làm Trung Hoa lâm thời Đại Tổng Thống. Tôi bèn đi Thượng Hải, tìm thăm người bạn hào hiệp quen nhau thuở trước là Trần quân Kỳ Mỹ.
+Mùa xuân năm Nhâm Tý (1912), nước Trung Hoa Dân Quốc thành lập, Tôn Trung Sơn tiên sinh được cử làm Trung Hoa lâm thời Đại Tổng Thống. Hạ tuần tháng hai tôi lên Nam Kinh yết kiến Tôn Trung Sơn, có được vào dự lần họp Quốc Hội đầu tiên. Lúc đó Nam Kinh Chính phủ mới được thành lập hai tháng, mà Viên Thế Khải lại muốn lên thay. Tôn Trung Sơn vì đại cuộc mà phải nhường Đại Tổng Thống họ Viên.
 {: .text-justify}
 
-Giữa lúc này Trần Kỳ Mỹ đang làm Đô Đốc Thượng Hải giúp cho tôi một số tiền lớn. Lâu nay tôi khốn khổ về cảnh túng bấn nghèo nàn, không khác gì người hết gạo nhịn ăn lâu lắm rồi, bây giờ được Trần Kỳ Mỹ vác một số tiền lớn lao mà cho, khiến mình vui mừng yên ủi, vì lại có tiền để hoạt động.
+Tôi đến Nam Kinh chính vừa giữa lúc hai đám Tân-Cựu giao đấu, công việc rồi như tơ vò, Tôn tiên sinh không có thời gian ứng tiếp. Tôi chỉ gặp được Tôn tiên sinh vài phút đồng hồ, sau chỉ đi lại tiếp chuyện với Hoàng Hưng tiên sinh. Qua lại vài lần mới bàn tới chuyện trợ giúp Việt Nam. Hoàng Hưng nói:
+{: .text-justify}
+
+Nước tôi viện Việt là nghĩa vụ của bọn tôi, không thể từ được; nhưng lúc này bàn tới hơi sớm. Nay chỉ có thể nghĩ giùm được cho các ngài một việc sau:\
+ \
+Tuyển phái học sinh Việt Nam vào học trường Trung Hoa, hay là vào quan dinh Trung Hoa. Có sẵn nhân tài sẽ chờ cơ hội, dầu có chậm trễ cũng chẳng qua độ 10 năm. Các ngài lưu tâm việc này, có cần những gì chúng tôi có thể giúp đỡ cho được. Ngoài chuyện ấy, lúc này không việc gì có thể giúp dùm các ngài.
+{: .notice .text-justify}
+
+Tôi nghe lời Hoàng nói, quá chừng thất vọng, nghĩ rằng: *"Phái tống học sinh thì chẳng qua là nước cờ thua ngày xưa mà thôi"*. Tôi ghé qua Thượng Hải, vào yết kiến Đô đốc Trần Kỳ Mỹ, nói rằng:
+
+Lúc này tôi định cho người về trong nước làm bạo động cách mạng...
+{: .notice .text-justify}
+
+Tiên sinh ra sức phản đối, bảo rằng nên theo giáo dục. Hễ quốc dân không giáo dục thì chẳng bao giờ bạo động mà có công hiệu cả. Tôi liền trả lời rằng:
+{: .text-justify}
+
+Quyền giáo dục nước tôi hoàn toàn ở trong tay người Pháp. Học đường dựng ra, hoàn toàn là giáo dục bằng cách nô lệ: cấm tự lập học đường, cấm học sinh xuất dương. Tất thảy những công việc giáo dục chúng tôi không một tý gì tự do. Người nước tôi cầu một cái sống trong vạn cái chết, chỉ duy còn một cách là bạo động. Lấy bạo động là tiền đề để cách cách giáo dục vậy.
+{: .notice .text-justify}
+
+Tôi nhân lấy câu *"Giáo dục và bạo động đồng thời tiến hành"* của Giuseppe Mazzini mà cáo với tiên sinh và lịch sử những thất bại của đảng mình xưa nay. Cuối cùng tiên sinh cũng cho là phải, lấy 4000$ tặng ngay cho tôi, rồi đem 30 viên tạc đạn quân dụng làm quà. Lâu nay tôi khốn khổ về cảnh túng bấn nghèo nàn, không khác gì người hết gạo nhịn ăn lâu lắm rồi, bây giờ được tiên sinh vác một số tiền lớn lao mà cho, khiến mình vui mừng yên ủi, vì lại có tiền để hoạt động. Ơn lớn của tiên sinh thiệt dầu đến chết tôi cũng không dám quên.
 {: .text-justify}
 
 Vừa gặp lúc Dân đảng ở Quảng Đông cũng thành công đắc chí, Hồ Hán Dân làm Đô Đốc, cùng với cảnh sát trưởng Trần Cảnh Hoa, vốn tỏ ý đồng tình với đảng cách mạng nước ta, cho nên tôi nhân dịp lại đi Quảng Châu và định ở luôn tại đó.
@@ -106,8 +125,7 @@ Anh em đồng chí ngó thấy vậy, đều khuyên nhủ thúc giục tôi n�
 {: .text-justify}
 
 ## Lập *"Việt Nam Quang Phục Hội"*
-
-Tôi từ sau khi đến Nhật Bản, nghiên cứu nguyên nhân cách mạng và chính thể ưu liệt ở Đông Tây nhận thấy lý luận của Tôn Tiên Sinh là chính đáng. Vả lại bàn luận, tranh biện với các bạn đồng chí Trung Hoa đã lâu ngày, chủ nghĩa Quân Chủ đã gác lại ở sau lưng.
+Tôi từ sau khi đến Nhật Bản, nghiên cứu nguyên nhân cách mạng và chính thể ưu nhược ở Đông Tây nhận thấy lý luận của Tôn Tiên Sinh là chính đáng. Vả lại bàn luận, tranh biện với các bạn đồng chí Trung Hoa đã lâu ngày, chủ nghĩa Quân Chủ đã gác lại ở sau lưng.
 {: .text-justify}
 
 Sở dĩ chưa dám xướng to lên là vì lúc đầu tôi mới xuất dương, vẫn nêu ngọn cờ Quân Chủ mà thủ tín với người. Phỏng cục diện hãy còn y nguyên thì thủ đoạn chưa dám thay đổi. Bây giờ cục diện đã thay đổi rồi, tôi mới đề xuất đổi chủ nghĩa Quân Chủ thành Dân Chủ.
@@ -116,7 +134,7 @@ Sở dĩ chưa dám xướng to lên là vì lúc đầu tôi mới xuất dươ
 Hầu hết mọi người đều tán thành, chỉ duy một vài người Nam Kỳ phản đối. Cũng là vì đồng bào trong Nam đối với Kỳ Ngoại Hầu tín ngưỡng rất sâu, không thể nào phút chốc mà đổi được. Cụ tiền bối Nguyễn Hải Dương có ý không thích Dân Chủ, nhưng cụ cũng ừ cho. Kết quả đa số khuynh hướng là về Dân Chủ, quyết định thủ tiêu *"Hội Duy Tân"* mà lập nên *"Việt Nam Quang Phục Hội"*.
 {: .text-justify}
 
-Chương trình Hội Quang Phục do tôi thảo ra, được toàn thể hội viên thừa nhận. Trong đó **"Khôi phục Việt Nam, kiến lập Việt Nam Cộng Hòa Dân Quốc, ấy là tôn chỉ độc nhất của bản hội."** Hội chức viên đặt làm ba bộ phận:
+Chương trình Hội Quang Phục do tôi thảo ra, được toàn thể hội viên thừa nhận. Trong đó **"Khôi phục Việt Nam, kiến lập Việt Nam Cộng Hòa Dân Quốc, ấy là tôn chỉ độc nhất của bản hội"**. Hội chức viên đặt làm ba bộ phận:
 {: .text-justify}
 
 1. Tổng Vụ Bộ:
@@ -134,14 +152,40 @@ Chương trình Hội Quang Phục do tôi thảo ra, được toàn thể hội
 - Thư Vụ Ủy Viên: Phan Quý Chuân, Đinh Tế Dân
 {: .notice .text-justify}
 
-Địa điểm của đảng nhân tụ hội có hai cơ sở:
+Địa điểm mà đảng nhân tụ hội có hai cơ sở:
 
 1. Sa Hà Lưu Gia Từ: ông Lưu Vĩnh Phúc cho mượn, cơ sở này dung được hơn 50 người.
-2. Hoàng Sa Chu Thị quán: cơ sở này dung được hơn 10 người.
+2. Hoàng Sa Chu Thị Lữ quán: cơ sở này dung được hơn 10 người.
 {: .notice .text-justify}
 
-Quang Phục Hội chương trình và tuyên ngôn, in xong gửi người đem về phân bố, phát tán. Nhưng khốn một điều vì lúc đó, ông Lý Tuệ đã bị đi tù, không có người bí mật ở dưới tàu thủy. Mà đường bộ mang sách lại quá khó khăn, nên những món văn đó lọt vào trong nước rất ít.
+Quang Phục Hội chương trình và tuyên ngôn, in xong gửi người đem về phân bố, phát tán. Nhưng khốn một điều vì lúc đó, ông Lý Tuệ đã bị đi tù, không có người bí mật ở dưới tàu thủy. Mà đường bộ mang sách lại quá khó khăn, nên những văn kiện đó về lại trong nước rất ít.
 {: .text-justify}
 
 Thời điểm này, kinh phí hoạt động vẫn là hết sức khó khăn. Góp cả ba kỳ chỉ được hơn 2000$. So với thời Hội Duy Tân đang thịnh thì tình hình vận động trong nước hiện tại khổ gấp mấy lần. Khi mọi người sắp sửa về nước, tôi cũng đồng thời hết sức vận động ở ngoài.
 {: .text-justify}
+
+## Phát hành *"Quân Dụng Phiếu"*
+Lúc đầu tôi nghĩ rằng tuyên truyền chính sách với diễn tiến hòa bình. Tuy nhiên đến giờ cần phải vũ trang cách mạng. Mà vũ trang cách mạng tất phải cần kinh tế mới tiến hành được. Mà muốn kinh tế cho đủ dùng cần phải có vốn. Nghĩ thế, tôi cũng làm liều tới ông Tô Thiếu Lâu mà cầu cạnh. Ông Tô Thiếu Lâu là người làm cách mạng ở Quảng Đông, đối với *"Quang Phục Hội"* rất đồng tình. Ông mới chỉ tôi cách dùng Quân Dụng Phiếu.
+{: .text-justify}
+
+Đây là một cách thức huy động vốn ở đất Lưỡng Quảng này. Ta sẽ phái người phân tán ở khắp nơi, đem tiền mà đổi với một tờ phiếu khoán coi như là giấy nợ. Sau này cách mạng thành công thì sẽ dùng phiếu khoán này để trả lại nợ. Việc này mà thành thì lấy tiền đổi lại phiếu khoán cũng rất dễ; rủi không nên thì cũng là một cách dối người lấy tiền theo lối văn minh vậy.
+{: .text-justify}
+
+Tôi liền ủy ông Hoàng Trọng Mậu đi với ông Tô, qua Hồng Kong tìm những người trong đảng cách mạng đã quen với việc ấy. Bí mật chế tạo, in thành phiếu khoán với 4 mệnh giá: 5$, 10$, 20$ và 100$. Mặt trước khắc *"Việt Nam Quang Phục Quân Quân Dụng Phiếu"*, chính giữa in số tiền, mặt sau khắc chữ Hán và chữ Quốc Ngữ ghi rõ đây là do *"Việt Nam Quang Phục Quân Lâm Thời Chính Phủ"* phát hành. Người quyên góp chờ đến khi Dân Quốc Chính phủ thành lập, đem tiền thật thu hồi lại sẽ một nhận được hai. Người ký là Phan Sào Nam, người kiểm phát Hoàng Trọng Mậu.
+{: .text-justify}
+
+Phiếu bạc này in bằng điện, tinh xảo như tờ tiền của Trung Quốc.
+{: .text-justify}
+
+## *"Chấn Hoa Hưng Á Hội"*
+Coi như chuyện tổ phát hành *"Quân Dụng Phiếu"* đã xong. Nay đến bước vận động quyên góp trong ngoài. Ở ngoài thì nhớ sức viện của Trung Quốc. Quân phí, quân nhu đều cầu người Trung giúp. Lúc bấy giờ chúng tôi một mặt phái người về trong nước vận động, một mặt phải lo lập một cơ quan để liên lạc với người Trung bên này. Cô Thiếu Lâm, Đặng Cảnh Á và các đồng chí Trung Quốc bàn với tôi rằng:
+{: .text-justify}
+
+Sự nghiệp cách mạng vốn trọng thực tế, nhưng cũng có lúc cũng cần hư danh. Chẳng qua nhờ hư trương thanh thế ban đầu mà thu được hậu thuẫn để có thực lực về sau. Nay thực lực các ông còn thiếu quá, cần phải tiến hành một hoạt động để hư trương thanh thế. Trước lập một cơ quan, tô vẽ mặt ngoài để người ta chú ý đến, khiến người Quảng Đông đây tưởng rằng các ông bên trong cũng đã có 5,6 phần rồi. Đó cũng là một cách *"hư giả thực chi"* của nhà binh vậy.
+{: .notice .text-justify}
+
+Tôi nghe lời họ bàn và ý mình cũng không thấy vấn đề gì, mới quyết làm theo cách ấy. Số bạc 4000$ của Trần Kỳ Mỹ tiên sinh cấp cho dùng vào việc trên ngốn hết 2800$. Chúng tôi đặt ra *"Chấn Hoa Hưng Á Hội"*, thảo một chương trình và một bức tuyên ngôn đại lược như sau:
+{: .text-justify}
+
+
+Chương trình và tuyên ngôn thư đã ấn hành xong, phát hành khắp xứ Quảng Đôn. Nhân sĩ người Trung nhiều người tán thành.
