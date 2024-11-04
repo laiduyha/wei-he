@@ -186,6 +186,8 @@ Hồi đó các nhà làm báo ở Quảng Đông nhiều người quen với t�
 Công cuộc viện Việt, trăm việc gì tiến hành cũng phải cần có tiền, mà phương pháp tiện nhất chính là phát hành *"Quân Dụng Phiếu"*. Nay *"Việt Nam Quang Phục Hội"* đã in ra *"Quân Dụng Phiếu"*, xin đồng bào cả thảy Hoa Việt vui lòng nhận mua cho.
 {: .notice .text-justify}
 
-Đặng nói xong, người tại đại hội tán thành đông lắm. Cuối buổi thu được hơn 1,000$ giao hết cho *"Việt Nam Quang Phục Hội"*. Từ lúc thành lập đến bây giờ, tôi cuối cùng mới thấy được chút hy vọng. May mắn là tỉnh trưởng Quảng Đông lúc đó là Trần Quýnh Minh đồng tình với đảng cách mạng nên không can thiệp gì đến việc đảng làm.
+Đặng tiên sinh nói xong, người tại đại hội tán thành đông lắm. Cuối buổi thu được hơn 1,000$ giao hết cho *"Việt Nam Quang Phục Hội"*. Từ lúc thành lập đến giờ, tôi cuối cùng mới thấy được chút hy vọng. May mắn là tỉnh trưởng Quảng Đông lúc đó là Trần Quýnh Minh đồng tình với đảng cách mạng nên không can thiệp gì đến việc đảng làm.
+{: .text-justify}
 
-Những tổn phí về giao thiệp, bôn tẩu cũng vừa đủ chi trả, không đến nỗi bị lòi cái mặt bần cùng ra. Hiện giờ đảng chỉ còn chú tâm vào việc tiến hành bạo động mà thôi.
+Những tổn phí về giao thiệp, bôn tẩu coi như cũng vừa đủ chi trả, không đến nỗi bị lòi cái mặt bần cùng ra. Hiện giờ đảng chỉ còn chú tâm vào việc tiến hành bạo động mà thôi.
+{: .text-justify}
