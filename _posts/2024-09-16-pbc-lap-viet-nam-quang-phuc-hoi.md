@@ -151,36 +151,39 @@ Trước lập một cơ quan, tô vẽ mặt ngoài để người ta chú ý �
 Tôi nghe lời họ bàn và ý mình cũng không thấy vấn đề gì, mới quyết làm theo cách ấy. Số bạc 4,000$ của Trần Kỳ Mỹ tiên sinh cấp cho dùng vào việc trên ngốn hết 2,800$. Chúng tôi đặt ra *"Chấn Hoa Hưng Á Hội"*, thảo một chương trình và một bức tuyên ngôn đại lược như sau:
 {: .text-justify}
 
-Trung Hoa đất lớn, người đông, của nhiều, chiếm giải nhất ở toàn Châu Á. Lại là nước giàu truyền thống văn hóa nhất ở phương Đông. Thiên chức Trung Hoa đáng làm huynh trưởng cho toàn Á mà vun trồng các nước hèn mọn ở Á Đông mới là tròn chức trách ấy. Kìa như thời đại Mãn Thanh, vứt bỏ cái chức trách huynh trưởng ấy, thiệt là làm nhục cho Trung Hoa lắm.\
+Trung Hoa đất lớn, người đông, của nhiều, chiếm dải đất lớn nhất ở Châu Á. Lại là nước giàu truyền thống văn hóa nhất ở Phương Đông. Thiên chức Trung Hoa đáng làm huynh trưởng cho toàn Á mà vun trồng các tiểu quốc ở Á Đông mới là tròn chức trách ấy. Còn như thời đại Mãn Thanh, vứt bỏ cái chức trách huynh trưởng ấy, thiệt là làm nhục cho Trung Hoa lắm.\
 ...\
  \
-Đến như Trung Hoa, chỉ tội tại ngoại giao bất chấn. Mà sở dĩ bất chấn là vì Quốc uy bất dương. Muốn dương Quốc uy tất phải bài Âu, mà bài Âu tất phải bài Pháp viện Việt, vì Việt là thuộc quốc của mình (đoạn này nói lý do rất kỹ):\
-. Nước Anh hải quân vĩ đại, mà Trung Hoa thì sức hải quân mỏng lắm, thì thì chưa có thể nói đến Anh được.\
+Đến như Trung Hoa, chỉ tội tại ngoại giao bất chấn. Mà sở dĩ bất chấn là vì Quốc uy bất dương. Muốn dương Quốc uy tất phải bài Âu, mà bài Âu tất phải bài Pháp viện Việt. Lý do bài Pháp là vì xét về các nước Đế Quốc thì:\
+. Nước Anh hải quân vĩ đại, mà Trung Hoa thì sức hải quân mỏng lắm, chưa thể nói đến Anh được.\
 . Nhật Bản đồng minh với Anh, nước mới mạnh lên, huống lại là nước đồng chủng đồng văn, chỉ nên kết làm bạn.\
-. Nước Đức thì Đức Hoàng thứ hai có chí hùng bá toàn Âu, và lại nước thù với Pháp, nay muốn đánh Pháp, người Đức tất biểu đồng tình, nên hiện thời chỉ nên kết Đức làm một cánh...\
-. Nước Nga là đồng minh với Pháp; đánh Pháp, Nga tất sẽ giúp Pháp. Nhưng Đức cũng có thể chế ngự được Nga, vả lại nước Nga hiện giờ đương sợ đảng cách mạng bên trong, huống gì còn cớ Nhật Bản rình ngó một bên. Chắc Nga cũng chưa dám động đến Trung Hoa. Đó là tình thế ngoại giao không điều gì lo ngại.\
+. Nước Đức thì Đức Hoàng thứ hai có chí hùng bá toàn Âu, và lại nước thù với Pháp, nay muốn đánh Pháp, người Đức tất nhiên đồng tình, nên hiện thời chỉ nên kết Đức làm một cánh.\
+. Nước Nga là đồng minh với Pháp; đánh Pháp, Nga tất sẽ giúp Pháp. Nhưng Đức cũng có thể chế ngự được Nga, vả lại nước Nga hiện giờ đương sợ đảng cách mạng bên trong. Huống gì còn có Nhật Bản rình ngó một bên. Chắc Nga cũng chưa dám động đến Trung Hoa. Vì thế tình thế của Nga không đáng lo ngại.\
  \
-Đến như tính về cuộc kinh tế, quân sự thì một mai viện Việt mà có ngòi lửa chiến tranh bùng ra, chắc là Trung Hoa chiếm phần hơn vì có bốn lẽ:\
-. Đất Việt Nam liền Vân Nam, Quảng Đông, đường lương hướng tiếp tế dễ như ở trong nhà mình, và quân Tàu vào đất Việt rồi thì có thể ăn lương của giặc, đó là một điều hơn.\
-. Đất Việt Nam gần nhiệt đới mà người nước Pháp là người xứ lạnh. Sức chịu nóng đánh không được dai, tất nhiên thua quân Tàu, đó là hai.\
-. Đất Hoa với Việt liên tiếp nhau, mà nước Pháp thì cách xa họ muôn dăm bể, kể về quân tiếp tế, tất nhiên Hoa chóng mà Pháp chầy, đó là ba.\
-. Quân Pháp đóng ở Việt Nam chỉ có số ít, có việc hoãn cấp, ỷ vào binh bản xứ, bỗng chốc có quân Tàu vào thì linh Việt Nam tất quay súng hết, đó là bốn.\
+Đến như tính về phương diện kinh tế, quân sự thì một mai viện Việt mà có ngòi lửa chiến tranh bùng ra, chắc là Trung Hoa chiếm phần hơn vì có bốn lẽ:\
+. Đất Việt Nam liền Vân Nam, Quảng Đông, đường lương hướng tiếp tế dễ như ở trong nhà mình, và quân Trung Hoa vào đất Việt rồi thì có thể ăn lương của giặc, đó là một điều hơn.\
+. Đất Việt Nam gần nhiệt đới mà người nước Pháp là người xứ lạnh. Sức chịu nóng đánh không được dai, tất nhiên thua quân Trung Hoa, đó là hai.\
+. Đất Hoa với Việt liên tiếp nhau, mà nước Pháp thì cách xa họ muôn dặm bể, kể về quân tiếp tế, tất nhiên Hoa chóng mà Pháp chầy, đó là ba.\
+. Quân Pháp đóng ở Việt Nam chỉ có số ít, có việc hoãn cấp, ỷ vào binh bản xứ, bỗng chốc có quân Trung Hoa vào thì lính Việt Nam tất quay súng hết, đó là bốn.\
 ...\
-Ở trước lúc Hoa-Pháp chưa tuyên chiến, nên có một đội quân dự bị cho sẵn. Đội dự bị đó tức là dìu dắt đảng cách mạng Việt Nam, khiến cho họ đủ thế lực gây cuộc hành động, tức là tiền đội của cuộc Hoa bài Pháp vậy.\
+Ở trước lúc Hoa-Pháp chưa tuyên chiến, nên có một đội quân dự bị sẵn. Đội dự bị đó là đảng cách mạng Việt Nam. Trung Hoa nên dìu dắt họ, khiến cho họ đủ thế lực mà tiến hành hành động, họ cũng chính là là tiền đội của công cuộc chấn Hoa bài Pháp vậy.\
  \
-Nói tóm lại Quốc uy Trung Hoa đã chấn chỉnh thì Đông Á nhân đó cường lên, mà phương châm thủ tục lần thứ nhất không chi bằng viện Việt bài Pháp.
+Nói tóm lại Quốc uy Trung Hoa đã chấn chỉnh thì Đông Á nhân đó mạnh lên, mà việc đầu tiên không gì bằng viện Việt bài Pháp.
 {: .notice--warning .text-justify}
 
-Chương trình và tuyên ngôn thư đã ấn hành xong, phát hành khắp xứ Quảng Đông. Nhân sĩ người Trung nhiều người tán thành. Tôi mới thuê một nhà lầu ở Quảng Đông, rộng hơn 10 gian, 2 tầng lầu. Trong ngoài chia làm ba căn lớn, mỗi tháng thuê 36$. Trong nhà thiết lập một căn y viện, trước cửa treo tấm bảng đề *"Đông bằng y xã"*. Tây Y chủ trì là Dương Trấn Hải, Trung Y chủ trì là cụ Mai Lão Bạng.
+Chương trình và tuyên ngôn thư đã ấn hành xong, phát hành khắp xứ Quảng Đông. Nhân sĩ Trung Quốc nhiều người tán thành. Tôi mới thuê một nhà lầu ở Quảng Đông, rộng hơn 10 gian, 2 tầng lầu. Trong ngoài chia làm ba căn lớn, mỗi tháng thuê 36$.
 {: .text-justify}
 
-Y xã đặt ở một căn rộng phía ngoài, căn lớn chính giữa là *"Chấn Hoa Hưng Á Hội"* hội sở, còn căn trong là *"Việt Nam Quang Phục Hội"* hội đường. Bộ vị chỉnh tề, quy mô cũng khả quan. Mặt ngoài của đảng cách mạng Việt Nam cũng vì thế mà nhiều người để ý vào. Đó âu cũng là tác dụng bằng cách hư trương thanh thế vậy.
+Trong nhà thiết lập một căn Y viện, trước cửa treo tấm bảng đề *"Đông bằng y xã"*. Tây Y chủ trì là Dương Trấn Hải, Trung Y chủ trì là cụ Mai Lão Bạng. Y xã đặt ở một căn rộng phía ngoài, căn lớn chính giữa là *"Chấn Hoa Hưng Á Hội"* hội sở, còn căn trong là *"Việt Nam Quang Phục Hội"* hội đường. 
 {: .text-justify}
 
-Hồi đó các nhà làm báo ở Quảng Đông nhiều người quen với tôi, nên nhiều người giúp sức viết báo cổ xúy không ít. Trong khoảng non hơn một tháng, ngươi Trung ký tên xin vào *"Chấn Hoa Hưng Á Hội"* non hơn 200 người. Trong đó có cả những người thành danh ở thương trường, cũng có nhiều học giả, tri thức xin gia nhập. Ngày khai hội thành lập hội, Đặng Á Cảnh tiên sinh đứng dậy nói rằng:
+Bộ vị chỉnh tề, quy mô cũng khả quan. Mặt ngoài của đảng cách mạng Việt Nam cũng vì thế mà nhiều người để ý vào. Đó âu cũng là tác dụng bằng cách hư trương thanh thế vậy.
 {: .text-justify}
 
-Công cuộc viện Việt, trăm việc gì tiến hành cũng phải cần có tiền, mà phương pháp tiện nhất trong các cách thức quyên góp là phát hành *"Quân Dụng Phiếu"*. Nay *"Việt Nam Quang Phục Hội"* đã in ra *"Quân Dụng Phiếu"*, xin đồng bào cả thảy Hoa Việt vui lòng nhận mua cho.
+Hồi đó các nhà làm báo ở Quảng Đông nhiều người quen với tôi. Nên người giúp sức viết báo cổ xúy không ít. Trong khoảng non hơn một tháng, người Trung ký tên xin vào *"Chấn Hoa Hưng Á Hội"* non hơn 200 người. Trong đó có cả những người thành danh ở thương trường, cũng có nhiều học giả, tri thức xin gia nhập. Ngày thành lập hội, Đặng Á Cảnh tiên sinh đứng dậy nói rằng:
+{: .text-justify}
+
+Công cuộc viện Việt, trăm việc gì tiến hành cũng phải cần có tiền, mà phương pháp tiện nhất chính là phát hành *"Quân Dụng Phiếu"*. Nay *"Việt Nam Quang Phục Hội"* đã in ra *"Quân Dụng Phiếu"*, xin đồng bào cả thảy Hoa Việt vui lòng nhận mua cho.
 {: .notice .text-justify}
 
 Đặng nói xong, người tại đại hội tán thành đông lắm. Cuối buổi thu được hơn 1,000$ giao hết cho *"Việt Nam Quang Phục Hội"*. Từ lúc thành lập đến bây giờ, tôi cuối cùng mới thấy được chút hy vọng. May mắn là tỉnh trưởng Quảng Đông lúc đó là Trần Quýnh Minh đồng tình với đảng cách mạng nên không can thiệp gì đến việc đảng làm.
