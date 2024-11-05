@@ -107,7 +107,7 @@ Tuy vậy mặc lòng, chúng ta là người đã quyết hiến thân cứu qu
 Tôi bèn quyết kế tìm cách vận động các quan. Lúc ấy, tôi có tiếng hay chữ vang dậy chốn kinh đô, phần nhiều cụ lớn trong triều muốn được tôi ra vào môn hạ các cụ.
 {: .text-justify}
 
-Tôi liền viết ra một cuốn sách, nhan đề là《Lưu Cầu Huyết Lệ Tân Thư》. Trong đó tôi tả rõ những cái thảm trạng thành tan nước mất, những nỗi nhơ nhuốc đổi chúa làm tôi. Lại nói đến dân trí phải gấp mở mang, dân khí nên gấp bồi dưỡng, để làm nền tảng cho việc cứu quốc v.v. Cuốn sách này gồm có mấy muôn lời nói.
+Tôi liền viết ra một cuốn sách, nhan đề là *"Lưu Cầu Huyết Lệ Tân Thư"*. Trong đó tôi tả rõ những cái thảm trạng thành tan nước mất, những nỗi nhơ nhuốc đổi chúa làm tôi. Lại nói đến dân trí phải gấp mở mang, dân khí nên gấp bồi dưỡng, để làm nền tảng cho việc cứu quốc v.v. Cuốn sách này gồm có mấy muôn lời nói.
 {: .text-justify}
 
 Tôi ôm sách tới ra mắt các cụ lớn, như cụ Đông Các Nguyễn Thảng, Công Bộ Đào Tiến, Lễ Bộ Hồ Lễ, Lại Bộ Nguyễn Thuật v.v.
@@ -122,9 +122,5 @@ Lanh quanh hết mấy tháng trường như thế, rồi sau tôi biết rõ b�
 Tôi luống thẹn mình kém thần trí sáng, chẳng có tài làm cho tượng đá biết gật đầu, rồi càng nghĩ càng ăn năn trước kia mình tơ tưởng lợi dụng quan trường thật là bá láp. Nhưng việc này chẳng phải là không có kết quả gì.
 {: .text-justify}
 
-Sau khi《Lưu Cầu Huyết Lệ Tân Thư》ra đời rồi, các chí sĩ lẩn quất trong kinh đô, đều rõ biết ruột gan tôi ra thế nào. Ví dụ như ông Phan Châu Trinh và ông Trần Quý Cáp - về sau vì tội ái quốc mà bị tù, chết chém - lúc này làm quen thân mật với tôi, ấy chính là nhờ cuốn《Lưu Cầu Huyết Lệ Tân Thư》giới thiệu vậy.
+Sau khi *"Lưu Cầu Huyết Lệ Tân Thư"* ra đời rồi, các chí sĩ lẩn quất trong kinh đô, đều rõ biết ruột gan tôi ra thế nào. Ví dụ như ông Phan Châu Trinh và ông Trần Quý Cáp - về sau vì tội ái quốc mà bị tù, chết chém - lúc này làm quen thân mật với tôi, ấy chính là nhờ cuốn *"Lưu Cầu Huyết Lệ Tân Thư"* giới thiệu vậy.
 {: .text-justify}
-
-> <cite>
- Thuật theo Phan Bội Châu《Ngục Trung Thư》và《Tự Phán》</a>
-</cite>

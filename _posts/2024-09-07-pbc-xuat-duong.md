@@ -131,5 +131,8 @@ Lúc ấy đã sau ngày rằm tháng ba. Tới Thượng Hải, mới thấy cu
 Than ôi! Sinh ra giữa thời đại là thế kỷ 19, 20 này, ai không có học thuật giỏi giang thì không thế nào cùng thế giới tranh cạnh sống còn cho được. Ngôn ngữ văn tự chính là kẻ dẫn đường đi tới học thuật. Người ngu dốt quê mùa như tôi, mà khỏi bị đào thải, là may mắn biết bao.
 {: .text-justify}
 
-Tuy vậy, lúc đó tôi đã 40 tuổi, bị công việc của đảng ràng buộc nơi mình, mình phải vì đảng mà ra sức lo chạy, đến nỗi cơm không biết ngon, chiếu không biết ấm. Bấy giờ dầu cho mình có muốn ôm sách đi học như hồi thi cử trước kia, cũng không có ngày giờ nào mà đi học được nữa. Than ôi! Sa đà ngày tháng, chớp mắt ra không, mài miệt công danh, hối mình đã lỡ. Tôi khuyên tất cả thanh niên nước nhà, muôn vàn xin chớ bước lầm vào con đường của tôi.
+Tuy vậy, lúc đó tôi đã 40 tuổi, bị công việc của đảng ràng buộc nơi mình, mình phải vì đảng mà ra sức lo chạy, đến nỗi cơm không biết ngon, chiếu không biết ấm. Bấy giờ dầu cho mình có muốn ôm sách đi học như hồi thi cử trước kia, cũng không có ngày giờ nào mà đi học được nữa.
+{: .text-justify}
+
+Than ôi! Sa đà ngày tháng, chớp mắt ra không, mài miệt công danh, hối mình đã lỡ. Tôi khuyên tất cả thanh niên nước nhà, muôn vàn xin chớ bước lầm vào con đường của tôi.
 {: .text-justify}

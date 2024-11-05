@@ -107,6 +107,14 @@ Lý Tuệ là người có gan dạ, mưu mô, thâm hiểu nghĩa lớn. Về s
 {: .text-justify}
 
 ## Quay lại Yokohama, gặp Tôn Trung Sơn
+
+![alt]({{ 'assets/images/chan-dung-ton-trung-son.jpg' | absolute_url }})
+> <cite>
+<a target="_blank" href="https://vi.wikipedia.org/wiki/T%C3%B4n_Trung_S%C6%A1n">
+《Chân dung Tôn Trung Sơn (Tôn Dật Tiên)》
+</a>
+</cite>
+
 Tháng 10 năm ấy, tôi đến Yokohama, vô ở nhà trọ cũ, thấy một vị thanh niên học sinh ta, là Lương quân Lập Nham đã tới ở đó trước rồi. Tôi xem ra người có khí phách hăng hái, đầu tóc đang để bờm xờm; dò hỏi mới biết cậu bỏ nhà vượt biển trốn sang Nhật có một mình, lúc lên bờ trong túi chỉ còn vỏn vẹn có ba đồng xu.
 {: .text-justify}
 
@@ -172,6 +180,14 @@ Lúc đó ông Phước Đảo đang làm hiệu trưởng Chấn Võ học hi�
 {: .text-justify}
 
 ## Đón hội chủ và gặp ông Tây Hồ Phan quân Châu Trinh
+
+![alt]({{ 'assets/images/phan-chau-trinh-va-con-trai.jpg' | absolute_url }})
+> <cite>
+<a target="_blank" href="https://www.luatkhoa.com/2017/03/phan-chau-trinh-da-co-xuy-dan-quyen-nhu-the-nao/">
+《Phan Châu Trinh và con trai Phan Châu Dật tại Pháp》
+</a>
+</cite>
+
 Tháng 2 năm đó, bọn ông Tử Kính đã phò tá Hội chủ Kỳ Ngoại Hầu đến Hồng Kong, viết thơ sang Nhật gọi tôi qua. Lúc bấy giờ, 4 người thiếu niên vừa mới được vô học trường Nhật, lại được nghe tin Hội chủ xuất dương yên ổn, thật mấy năm nay chỉ có chuyện này tôi thấy vui mừng khoan khoái hết sức.
 {: .text-justify}
 

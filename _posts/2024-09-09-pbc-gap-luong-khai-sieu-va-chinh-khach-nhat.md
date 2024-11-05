@@ -6,12 +6,19 @@ classes: wide
 parent:
   label: Phan Bội Châu
   url: phan-boi-chau
+gallery:
+  - url: /assets/images/chan-dung-luong-khai-sieu.jpg
+    image_path: /assets/images/chan-dung-luong-khai-sieu.jpg
+    title: "Lương Khải Siêu"
+  - url: /assets/images/chan-dung-inukai-tsuyoshi.jpg
+    image_path: /assets/images/chan-dung-inukai-tsuyoshi.jpg
+    title: "Inukai Tsuyoshi (Thủ tướng thứ 29 của Nhật Bản)"
+  - url: /assets/images/chan-dung-shigenobu-okuma.jpg
+    image_path: /assets/images/chan-dung-shigenobu-okuma.jpg
+    title: "Bá tước Okuma Shigenobu (Thủ tướng thứ 8 và 17 của Nhật Bản)"
 ---
 
-![alt]({{ 'assets/images/chan-dung-luong-khai-sieu.jpg' | absolute_url }})
-> <cite>
-Chân dung Lương Khải Siêu
-</cite>
+{% include gallery id="gallery" caption="Chân dung Lương Khải Siêu (trái), Inukai Tsuyoshi (giữa) và Bá tước Okuma Shigenobu (phải)" %}
 
 ## Đến Yokohama gặp Lương Khải Siêu
 Thượng tuần tháng tư, tôi đáp tàu Nhật ở bến Thượng Hải, trung tuần thì đến Yokohama (Hoành Tân), tôi tạm ở lại đây hơn một tuần lễ.

@@ -8,17 +8,10 @@ parent:
   url: phan-boi-chau
 ---
 
-
-![alt]({{ 'assets/images/bi-ki-niem-thien-vu-tien-sinh.jpg' | absolute_url }})
-
-Hàng thứ nhất: Ông trưởng thôn tên là Okamoto, cụ Phan Bội Châu và hai người Nhật trong thôn.\
- \
-Ba người hàng thứ hai là các nhà sư làm lễ cho buổi dựng bia.
-{: .notice}
-
+![alt]({{ 'assets/images/so-mat-tham-dong-duong.jpg' | absolute_url }})
 > <cite>
-<a target="_blank" href="https://vietnamnet.vn/duyen-co-nhat-hoang-tham-vieng-cu-phan-boi-chau-359786.html">
-《Bia kỷ niệm ngài Sakitaro Asaba - Thiền Vũ Thái Lang》
+<a target="_blank" href="https://vi.wikipedia.org/wiki/S%E1%BB%9F_Li%C3%AAm_ph%C3%B3ng_%C4%90%C3%B4ng_D%C6%B0%C6%A1ng#:~:text=S%E1%BB%9F%20Li%C3%AAm%20ph%C3%B3ng%20%C4%90%C3%B4ng%20D%C6%B0%C6%A1ng%20hay%20S%E1%BB%9F%20M%E1%BA%ADt%20th%C3%A1m%20%C4%90%C3%B4ng,t%E1%BB%A9c%20nh%E1%BA%A1i%20%C3%A2m%20%22S%C3%BBret%C3%A9%22.">
+《Sở Mật Thám Đông Dương, Nam Kỳ (1917 - 1955)》
 </a>
 </cite>
 
@@ -73,6 +66,20 @@ Tôi với Hội Chủ Kỳ Ngoại Hầu cũng bị Chính phủ Nhật buộc 
 {: .text-justify}
 
 ## Ông Sakitaro Asaba (Thiền Vũ)
+
+![alt]({{ 'assets/images/bi-ki-niem-thien-vu-tien-sinh.jpg' | absolute_url }})
+
+Hàng thứ nhất: Ông trưởng thôn tên là Okamoto, cụ Phan Bội Châu và hai người Nhật trong thôn.\
+ \
+Ba người hàng thứ hai là các nhà sư làm lễ cho buổi dựng bia.
+{: .notice}
+
+> <cite>
+<a target="_blank" href="https://vietnamnet.vn/duyen-co-nhat-hoang-tham-vieng-cu-phan-boi-chau-359786.html">
+《Bia kỷ niệm ngài Sakitaro Asaba - Thiền Vũ Thái Lang》
+</a>
+</cite>
+
 Màu đông tháng 10 năm Mậu Thân (1908), việc giải tán học sinh xong rồi, *"Công Hiến Hội"* cũng không còn, tôi biết Nhật Bản không thể nương cậy được nữa, chuyển khuynh hướng về Trung Hoa cách mạng và hy vọng với những dân tộc đồng bệnh với ta.
 {: .text-justify}
 
@@ -155,6 +162,14 @@ Thẳm thẳm lòng này, trải muôn ngàn đời.\
 {: .notice--warning .text-justify}
 
 ## Chuyện khí giới
+
+![alt]({{ 'assets/images/thanh-luy-cua-de-tham.jpg' | absolute_url }})
+> <cite>
+<a target="_blank" href="https://www.nki.vn/post/de-tham-anh-hung-hay-giac-cuop">
+《Thành Lũy của Đề Thám》
+</a>
+</cite>
+
 Đến nông nỗi này, tôi không thế nào không chạy qua con đường bạo động. Vẫn biết bạo động với tự sát đều là việc làm của những kẻ kiến thức hẹp hòi, không biết lo xa, nhưng nếu sự thế buộc tự sát, thà rằng xoay ra bạo động mà chết còn hơn. Vì cứ bạo động may ra còn trông được có chỗ thành công trong muôn một. Huống gì tôi đã suy đi tính lại, lúc này bỏ sự bạo động ra, không còn có việc gì đáng làm hơn nữa.
 {: .text-justify}
 

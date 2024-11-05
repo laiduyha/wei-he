@@ -23,6 +23,14 @@ Lá Quốc Kỳ đầu tiên của Việt Nam: Ngũ Liên Tinh Châu
 </cite>
 
 ## Trần Kỳ Mỹ và Hồ Hán Dân giúp sức
+
+![alt]({{ 'assets/images/chan-dung-tran-ky-my.png' | absolute_url }})
+> <cite>
+<a target="_blank" href="https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_K%E1%BB%B3_M%E1%BB%B9">
+Chân dung Trần Kỳ Mỹ
+</a>
+</cite>
+
 Hạ tuần tháng 11 tới Hồng Kong anh em đồng chí trước đó tản tác các nơi, giờ đều quần tụ lại đây.
 {: .text-justify}
 
@@ -121,6 +129,14 @@ Thời điểm này, kinh phí hoạt động vẫn là hết sức khó khăn. 
 {: .text-justify}
 
 ## Phát hành *"Quân Dụng Phiếu"*
+
+![alt]({{ 'assets/images/vnqp-quan-dung-phieu.jpg' | absolute_url }})
+> <cite>
+<a target="_blank" href="https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam_Quang_ph%E1%BB%A5c_H%E1%BB%99i">
+Quân dụng phiếu in Quân kỳ và Hội kỳ
+</a>
+</cite>
+
 Lúc đầu tôi theo đường lối tuyên truyền chính sách với diễn tiến hòa bình. Tuy nhiên đến giờ cần phải vũ trang cách mạng, mà vũ trang cách mạng tất phải cần kinh tế mới tiến hành được. Mà muốn kinh tế cho đủ dùng cần phải có vốn.
 {: .text-justify}
 

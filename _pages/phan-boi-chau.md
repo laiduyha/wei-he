@@ -30,7 +30,7 @@ Nghĩ xem mình đã sinh nhằm non sông còn ấu trĩ, nòi giống còn u m
 
 ---
 
-Các bài viết dưới đây đã được tổng hợp lại viết theo văn phong và từ ngữ thời bây giờ. Các câu chuyện chủ yếu được trích từ hai cuốn tự truyện của ông là *"Ngục Trung Thư"* và *"Tự Phán"* .
+Các bài viết dưới đây được tổng hợp lại viết theo văn phong và từ ngữ thời bây giờ. Các câu chuyện chủ yếu được trích từ hai cuốn tự truyện của ông là *"Ngục Trung Thư"* và *"Tự Phán"* .
 {: .text-justify}
 
 Phan Bội Châu viết *"Ngục Trung Thư"* lúc ở trong tù tại Quảng Châu năm 1913 (46 tuổi). Tại thời điểm đó ông nghĩ mình sẽ bị xử tử nên viết cuốn này coi như là di ngôn để lại cho thế hệ sau. Còn với *"Tự Phán"* thì ông viết vào năm 1929 (62 tuổi), sau khi bị bắt ở Thượng Hải vào năm 1925 (58 tuổi) và bị thực dân Pháp đưa về nước, giam lỏng ở Bến Ngự, Huế.
@@ -77,10 +77,8 @@ Phan Bội Châu viết *"Ngục Trung Thư"* lúc ở trong tù tại Quảng C
 * 1911 (44 tuổi) - Qua Thái nương náu
 * 1912 (45 tuổi) - Lập *"Việt Nam Quang Phục Hội"* ở Quảng Châu
 
-### <a href="/pbc-tien-hanh-bao-dong">Kỳ 10. Tiến hành bạo động </a>
+### <a href="/pbc-tien-hanh-bao-dong">Kỳ 10. Tiến hành bạo động và bị bắt</a>
 * 1912 (45 tuổi) - Tiến hành bạo động
-
-### <a href="/pbc-bi-bat-o-quang-chau">Kỳ 11. Bị bắt ở Quảng Châu</a>
 * 1913 (46 tuổi) - Bị Long Tế Quang bắt ở Quảng Châu
 
 Còn tiếp....

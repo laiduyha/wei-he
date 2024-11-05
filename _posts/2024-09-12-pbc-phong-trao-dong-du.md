@@ -79,6 +79,14 @@ Tôi xét ý tứ thì thấy họ Lương cũng là người chỉ ngồi đợ
 {: .text-justify}
 
 ## Đính mật ước với cụ Hoàng Hoa Thám
+
+![alt]({{ 'assets/images/hoang-hoa-tham-ben-cac-chau.jpg' | absolute_url }})
+> <cite>
+<a target="_blank" href="https://vi.wikipedia.org/wiki/Ho%C3%A0ng_Hoa_Th%C3%A1m">
+《Hoàng Hoa Thám (Đề Thám) bên các cháu của ông》
+</a>
+</cite>
+
 Ở nhà Lương mấy ngày, tôi từ biệt ra đi, do đường núi rừng lên tỉnh Bắc Giang tới đồn Phồn Xương, yết kiến Hoàng tướng quân Hoa Thám.
 {: .text-justify}
 
