@@ -166,7 +166,7 @@ Trung Hoa đất lớn, người đông, của nhiều, chiếm dải đất l�
 . Đất Hoa với Việt liên tiếp nhau, mà nước Pháp thì cách xa họ muôn dặm bể, kể về quân tiếp tế, tất nhiên Hoa chóng mà Pháp chầy, đó là ba.\
 . Quân Pháp đóng ở Việt Nam chỉ có số ít, có việc hoãn cấp, ỷ vào binh bản xứ, bỗng chốc có quân Trung Hoa vào thì lính Việt Nam tất quay súng hết, đó là bốn.\
 ...\
-Ở trước lúc Hoa-Pháp chưa tuyên chiến, nên có một đội quân dự bị sẵn. Đội dự bị đó là đảng cách mạng Việt Nam. Trung Hoa nên dìu dắt họ, khiến cho họ đủ thế lực mà tiến hành hành động, họ cũng chính là là tiền đội của công cuộc chấn Hoa bài Pháp vậy.\
+Ở trước lúc Hoa-Pháp chưa tuyên chiến, nên có một đội quân dự bị sẵn. Đội dự bị đó là đảng cách mạng Việt Nam. Trung Hoa nên dìu dắt họ, khiến cho họ đủ lực mà hành động. Sau này họ cũng chính là tiền đội của công cuộc chấn Hoa bài Pháp vậy.\
  \
 Nói tóm lại Quốc uy Trung Hoa đã chấn chỉnh thì Đông Á nhân đó mạnh lên, mà việc đầu tiên không gì bằng viện Việt bài Pháp.
 {: .notice--warning .text-justify}
@@ -177,10 +177,10 @@ Chương trình và tuyên ngôn thư đã ấn hành xong, phát hành khắp x
 Trong nhà thiết lập một căn Y viện, trước cửa treo tấm bảng đề *"Đông bằng y xã"*. Tây Y chủ trì là Dương Trấn Hải, Trung Y chủ trì là cụ Mai Lão Bạng. Y xã đặt ở một căn rộng phía ngoài, căn lớn chính giữa là *"Chấn Hoa Hưng Á Hội"* hội sở, còn căn trong là *"Việt Nam Quang Phục Hội"* hội đường. 
 {: .text-justify}
 
-Bộ vị chỉnh tề, quy mô cũng khả quan. Mặt ngoài của đảng cách mạng Việt Nam cũng vì thế mà nhiều người để ý vào. Đó âu cũng là tác dụng bằng cách hư trương thanh thế vậy.
+Bộ vị chỉnh tề, quy mô cũng khả quan. Mặt ngoài của đảng cách mạng Việt Nam cũng vì thế mà nhiều người để ý vào. Đó âu cũng là tác dụng của cách hư trương thanh thế vậy.
 {: .text-justify}
 
-Hồi đó các nhà làm báo ở Quảng Đông nhiều người quen với tôi. Nên người giúp sức viết báo cổ xúy không ít. Trong khoảng non hơn một tháng, người Trung ký tên xin vào *"Chấn Hoa Hưng Á Hội"* non hơn 200 người. Trong đó có cả những người thành danh ở thương trường, cũng có nhiều học giả, tri thức xin gia nhập. Ngày thành lập hội, Đặng Á Cảnh tiên sinh đứng dậy nói rằng:
+Hồi đó các nhà làm báo ở Quảng Đông nhiều người quen với tôi, giúp sức viết báo cổ xúy không ít. Trong khoảng hơn một tháng, người Trung ký tên xin vào *"Chấn Hoa Hưng Á Hội"* non hơn 200 người. Trong đó có cả những người thành danh ở thương trường, cũng có nhiều học giả, tri thức xin gia nhập. Ngày thành lập hội, Đặng Á Cảnh tiên sinh đứng dậy nói rằng:
 {: .text-justify}
 
 Công cuộc viện Việt, trăm việc gì tiến hành cũng phải cần có tiền, mà phương pháp tiện nhất chính là phát hành *"Quân Dụng Phiếu"*. Nay *"Việt Nam Quang Phục Hội"* đã in ra *"Quân Dụng Phiếu"*, xin đồng bào cả thảy Hoa Việt vui lòng nhận mua cho.

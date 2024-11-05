@@ -110,10 +110,10 @@ Than ôi! Ơn người chưa giả mà còn cầu nữa! Huồng gì ăn mày to
 Ai ngờ giấy tôi gửi lại buổi sớm, mà ngân phiếu tiên sinh gửi lại buổi chiều và để lại vắn tắt mấy câu:
 {: .text-justify}
 
-Hiện nay tôi vơ vét trong nhà chỉ có sẵn bất nhiêu, chờ sau tôi có kiếm được số bạc, như các ngài còn dùng thì đánh giấy lại mau.
+Hiện nay tôi vơ vét trong nhà chỉ có sẵn bấy nhiêu, chờ sau tôi có kiếm thêm được tiền, nếu như các ngài còn cần dùng thì đánh giấy lại lấy.
 {: .notice .text-justify}
 
-Chỉ có bây nhiêu lời, ngoài ra không có chữ gì có giọng khách khí. Trong lúc cùng khốn mà được việc may mắn như thế, mừng biết chừng nào! Tôi bây giờ trích trong số bạc ấy, chia ra làm ba khoản:
+Chỉ có bây nhiêu lời, ngoài ra không có chữ gì có giọng khách khí. Trong lúc cùng khốn mà được việc may mắn như thế, mừng biết chừng nào! Tôi bây giờ trích trong số tiền ấy, chia ra làm ba khoản:
 {: .text-justify}
 
 1. Phí ngoại giao nhiều hơn.
@@ -133,7 +133,7 @@ Từ đó mới thấy ở trong thế giới cường quyền, thiệt không c
 Trước khi rời khỏi Nhật Bản, tôi muốn tạ ơn ông Sakitaro Asaba, đi đến Quốc Phủ Tân yết kiến tiên sinh. Khi mới vào cửa, Thái Bạt giới thiệu tôi với tiên sinh. Tôi chưa kịp nói tạ ơn, tiên sinh vội vàng dắt tay tôi kéo vào cùng nói chuyện.
 {: .text-justify}
 
-Tiên sinh nguyên con một vị Lục quân Đại tướng. Học y học, đỗ bác sĩ, mở y viện riêng, chuyên chữa bệnh cho con nhà đói khổ, một đời người không tham gia vào chính giới. Khi tiên sinh nói chuyện với tôi, rất khinh bỉ chính khách Nhật Bản, như Bá Tước Okuma, Inukai, tiên sinh cũng không xem ra gì, nên nói với tôi rằng:
+Tiên sinh nguyên con một vị Lục quân Đại tướng. Học y học, đỗ bác sĩ, mở y viện riêng, chuyên chữa bệnh cho con nhà đói khổ, một đời người không tham gia vào chính giới. Khi tiên sinh nói chuyện với tôi, rất khinh bỉ chính khách Nhật Bản, như Bá Tước Okuma, Inukai, tiên sinh cũng không xem ra gì, nói với tôi rằng:
 {: .text-justify}
 
 Bọn nó đối với các ngài chỉ là ngón ngoại giao của bọn âm mưu, dã tâm mà thôi.
@@ -158,10 +158,10 @@ Thẳm thẳm lòng này, trải muôn ngàn đời.\
 Đến nông nỗi này, tôi không thế nào không chạy qua con đường bạo động. Vẫn biết bạo động với tự sát đều là việc làm của những kẻ kiến thức hẹp hòi, không biết lo xa, nhưng nếu sự thế buộc tự sát, thà rằng xoay ra bạo động mà chết còn hơn. Vì cứ bạo động may ra còn trông được có chỗ thành công trong muôn một. Huống gì tôi đã suy đi tính lại, lúc này bỏ sự bạo động ra, không còn có việc gì đáng làm hơn nữa.
 {: .text-justify}
 
-Muốn học cách Thân Bao Tư khất binh để cứu Sở, nhưng có chỗ nào là Tần Đình cho mình đứng khóc mà cầu viện binh? Muốn học cách Việt Vương Câu Tiễn nhịn nhục báo thù Ngô, nhưng có nơi nào là Cối Kê để cho mình nương thân để sắp đặt? Còn muốn lấy văn tự để cổ động quốc dân gọi là cho xong phận sự đời mình đối với nước non, nhưng khốn thay văn tự cũng không còn lựa chỗ đất nào để gieo rắc tuyên truyền nó được mới thảm.
+Muốn học cách Thân Bao Tư khất binh để cứu Sở, nhưng có chỗ nào là Tần Đình cho mình đứng khóc mà cầu viện binh? Muốn học cách Việt Vương Câu Tiễn nhịn nhục báo thù Ngô, nhưng có nơi nào là Cối Kê cho mình nương thân để sắp đặt? Còn muốn lấy văn tự để cổ động quốc dân gọi là cho xong phận sự đời mình đối với nước non, nhưng khốn thay văn tự cũng không còn lựa chỗ đất nào để gieo rắc tuyên truyền nó được mới thảm.
 {: .text-justify}
 
-Chẳng những thế mà thôi, cho đến những anh em đồng chí ở trong nước cũng đều có cái nguy sớm muộn bị tội, bị tù, bị đầy, bị chém nữa kia. Than ôi! Con thú đến lúc cùng đường túng thế, nếu không vùng vẫy tìm đường sống, thì tất phải chết.
+Chẳng những thế mà thôi, cho đến những anh em đồng chí ở trong nước cũng đều có cái nguy sớm muộn bị tội, bị tù, bị đày, bị chém nữa kia. Than ôi! Con thú đến lúc cùng đường túng thế, nếu không vùng vẫy tìm đường sống, thì tất phải chết.
 {: .text-justify}
 
 Tháng 4 mùa hạ năm Kỷ Dậu (1909), đảng ta phải trải muôn cay ngàn đắng mới quyên góp được một số tiền nữa gửi ra, tôi đem trao hết cho một hiệu buôn Nhật để nhờ họ lén mua quân giới cho mình. Vì chúng tôi muốn bạo động, thế nào cũng phải có ít nhiều quân giới.
@@ -176,7 +176,7 @@ Muốn chở quân giới vào đất Trung Kỳ tất phải mượn đường 
 Hai quan đại thần Lục quân và Ngoại giao Thái Lan lúc ấy, hơi có ý muốn giúp đảng cách mạnh ta, nhưng họ còn đang bàn tính với nhau chưa được nhất quyết.
 {: .text-justify}
 
-Tôi lại nghĩ đảng cách mạnh Trung Hoa, thuở nay rất thạo nghề mật chở quân giới, cho nên tôi lật đật từ giã Thái Lan mà đi Nam Dương (Hà Nam, Trung Quốc), yết kiết Chương Bính Lân. Chính tay Chương quân viết một bức thơ, giới thiệu tôi đi tìm kiếm một tay làm đầu đảng cách mạnh Trung Hoa để mưu với họ giúp sức cho mình.
+Tôi lại nghĩ đảng cách mạnh Trung Hoa, thuở nay rất thạo nghề mật chở quân giới, cho nên tôi lật đật từ giã Thái Lan mà đi Nam Dương (Hà Nam, Trung Quốc), yết kiết Chương Bính Lân. Chính tay Chương quân viết một bức thư, giới thiệu tôi đi tìm kiếm đầu đảng cách mạnh Trung Hoa để mưu với họ giúp sức cho mình.
 {: .text-justify}
 
 Sau khi bàn định việc này xong rồi, tôi đã tới một hãng tàu Trung Hoa, thương thuyết với họ về khoản tiền tổn phí chuyên chở. Nếu đừng có việc trở ngăn, thì cái ngày giờ chuyên chở quân giới của chúng tôi đã định xong rồi.
@@ -192,10 +192,10 @@ Rút súng lục bắn vào một tên lính Pháp, sau chĩa súng vào một t
 Nói xong liền quay súng lại bắn vào cổ mình mà chết.
 {: .notice .text-justify}
 
-Trời ơi! Tin hung báo đưa tới, không khác gì con dao đâm một mũi chí mạng vào trong cái kế bạo động của tôi.
+Trời ơi! Tin hung báo đưa tới, không khác gì con dao đâm một mũi chí mạng vào trong cái kế bạo động của tôi. Thế là bao nhiêu quân giới còn giấu đút ở Hồng Kong không thể chuyển về nướ được!
 {: .text-justify}
 
-Bao nhiêu quân giới còn giấu đút ở Hồng Kong, đang lúc đảng cách mạng Trung Hoa toan đánh thành Quảng Đông, tôi mưu với các đồng chí ở đó chuyển lại tặng cho đảng Trung Hoa, do người anh của Tôn Trung Sơn là Tôn Thọ Bình phái người đến nhận. Làm thế định là kết cảm tình đảng với cách mạng Trung Hoa sau này.
+Lúc này đảng cách mạng Trung Hoa toan đánh thành Quảng Đông, tôi mưu với các đồng chí ở đó chuyển lại tặng cho đảng Trung Hoa. Do người anh của Tôn Trung Sơn là Tôn Thọ Bình phái người đến nhận. Làm thế định là kết cảm tình đảng với cách mạng Trung Hoa sau này.
 {: .text-justify}
 
 Chẳng ngờ khi đến thuế quan, vì rương chở quá nặng, quan cảnh sát nghi ngờ mở xét. Cả thảy hơn mười hòm súng đạn đều bị Chính phủ Anh tịch thâu hết; ông Cảnh Lâm lại vì phạm tội cấm đó mà bị hạ ngục.
@@ -230,7 +230,7 @@ Tin tức nước nhà, có khi vắng bặt mấy tháng trời, tôi không ti
 Thỉnh thoảng có người làm dưới tàu Tây qua đây nói một vài tin miệng cho mình nghe, đều là những tin tức kinh tâm động phách. Nếu không phải là tin Đàm quân Kỳ Sanh bị đày, thì cũng là tin Lê quân Võ bị bắt. Những tin nói đảng nhân này, đảng nhân kia bị bêu đầu bằm xác, thường thường theo tiếng còi tàu mà đưa qua đến tai chúng tôi. Thật đau lòng hết sức!
 {: .text-justify}
 
-Tôi lúc này dời về ở tỉnh thành Quảng Châu. Đem những thứ sách còn lại, dấu tên bịt họ, đi bán sách rao. Lúc bất giờ các học sinh, thương khách Trung Quốc, phần nhiều có tư tưởng cách mạng. Thấy tôi đem sách bán, thường cũng có người mua giá cao, nhờ vậy sinh hoạt phí cũng đỡ được phần nào.
+Tôi lúc này dời về ở tỉnh thành Quảng Châu. Đem những thứ sách còn lại, dấu tên bịt họ, đi bán sách rao. Lúc bấy giờ các học sinh, thương khách Trung Quốc, phần nhiều có tư tưởng cách mạng, thấy tôi đem sách bán, thường cũng có nhiều người hỏi mua. Có một điều rất buồn cười là nếu người trẻ đi bán thường về tay không, duy tôi đi bán thì ngày hoặc 2, 3 đồng, cũng có ngày được đến 5, 6 đồng. Có lẽ vì tôi râu mày bặm trợn, giày áo lang thang, nhiều người thấy lạ lại thương mà chịu mua đắt cho. Nên tiền bán sách của tôi cũng được khá.
 {: .text-justify}
 
 Thường ngày sớm ra tối về, được ít đồng thì lại được nhóm năm ba đồng chí uống điên say liều. Tiền bán sách được bao nhiêu thường ngày đánh chén ráo. Có ngày kia rượu giữa bàn hết, ông Lương Lập Nham biết trong túi tôi còn tiền bảo mua thêm. Tôi bảo không tiền, Lương thò tay móc trong túi tôi được vài mươi xu, thét to mà rằng: 
@@ -239,14 +239,11 @@ Thường ngày sớm ra tối về, được ít đồng thì lại được nh
 Phải đâm họng ông mới được! Cớ sao keo một chén rượu không cho chúng tôi say!
 {: .notice .text-justify}
 
-Có một điều rất đáng cười là mỗi người trẻ ra đi bán thường về tay không, duy tôi đi bán thì ngày hoặc 2, 3 đồng, cũng có ngày được đến 5, 6 đồng. Có lẽ vì tôi râu mày bặm trợn, giày áo lang thang, nhiều người thấy lạ lại thương mà chịu mua đắt cho. Nên tiền bán sách của tôi cũng được khá.
-{: .text-justify}
-
 ## Chu Sư Thái
 Từ đó về sau suốt 5, 6 tháng tôi chỉ làm ông thầy đồ già bán sách. Sớm tối nương dựa vào một bà nữ sĩ nghĩa hiệp trên 70 tuổi đầu. Bà họ Chu, tên là Bách Linh, là nữ giáo sư. Tục Quảng Đông gọi nữ giáo đầu là Sư Thái, nên bà được gọi là Chu Sư Thái. Chu ân nhân là người huyện Hương Sơn, Quảng Đông, tinh thông Hán Văn. Bà ở góa từ ngày còn trẻ, mở trường tư dạy học trò gái, sinh nhai bằng nghề ruộng bút.
 {: .text-justify}
 
- Con trai bà là Chu Thiết Sinh cũng làm nghề dạy học. Thiết Sinh gặp tôi bán sách ở giữa đường, dắt tôi vào chào mẹ. Bà sẵn có tính nghĩa hiệp, khi gặp biết chúng tôi là người cách mạng Việt Nam, tỏ ý mừng lắm, bảo với chúng tôi rằng:
+Con trai bà là Chu Thiết Sinh cũng làm nghề dạy học. Thiết Sinh gặp tôi bán sách ở giữa đường, dắt tôi vào chào mẹ. Bà sẵn có tính nghĩa hiệp, khi gặp biết chúng tôi là người cách mạng Việt Nam, tỏ ý mừng lắm, bảo với chúng tôi rằng:
 {: .text-justify}
 
 Các anh bây giờ trong lúc cùng đường thì mượn nhà tôi làm nơi đạo chủ, cũng không ngại gì.
@@ -288,7 +285,7 @@ Mỗi khi chúng tôi có việc khẩn dùng, trong nhà không sẵn tiền th
 Chúng mày hôm qua có làm thịt được một con heo phải không?
 {: .notice .text-justify}
 
-Con trai bà là anh Chu cũng vì chuyện của tôi mà bị Long Tế Quang (Tổng đốc Quảng Đông) giam cầm hơn 10 ngày, bà cũng thản nhiên.
+Con trai bà là Chu quân cũng vì chuyện của tôi mà bị Long Tế Quang (Tổng đốc Quảng Đông) giam cầm hơn 10 ngày, bà cũng thản nhiên.
 {: .text-justify}
 
 Lữ quán có ba tên trước ở nhờ nhà bà, đến sau lấy tư cách mật thám hỏi dò việc đảng. Vào nhà đem số tiền khá nhiều tặng bà. Bà nói chuyện và dò ý, khi biết lai lịch số tiền đó, liền giận ra mặt:
