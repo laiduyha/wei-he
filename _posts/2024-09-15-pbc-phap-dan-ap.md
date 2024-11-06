@@ -45,7 +45,7 @@ Vài tuần sau, học sinh Nam Kỳ hết thảy đều được nhận giấy 
 Lúc đầu tôi còn tìm cách cứu vãn, cố không cấp phí vì sợ học sinh tan thì nội tình lại biến. Nhưng được vài tháng, thì mệnh lệnh giải tán toàn bộ nhà trường được gửi tới.
 {: .text-justify}
 
-Tôi bàng hoàng kinh ngạc, gấp chạy đến Phước Đảo và Inukai cầu viện nhưng họ lại nói rằng:
+Tôi bàng hoàng kinh ngạc, gấp chạy đến Fukushima và Inukai cầu viện nhưng họ lại nói rằng:
 {: .text-justify}
 
 Việc này là do mệnh lệnh của Ngoại Vụ. Nội Vụ chúng tôi không có thể cải biện được.\
@@ -66,7 +66,6 @@ Tôi với Hội Chủ Kỳ Ngoại Hầu cũng bị Chính phủ Nhật buộc 
 {: .text-justify}
 
 ## Ông Sakitaro Asaba (Thiền Vũ)
-
 ![alt]({{ 'assets/images/bi-ki-niem-thien-vu-tien-sinh.jpg' | absolute_url }})
 
 Hàng thứ nhất: Ông trưởng thôn tên là Okamoto, cụ Phan Bội Châu và hai người Nhật trong thôn.\

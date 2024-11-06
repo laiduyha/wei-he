@@ -20,7 +20,6 @@ Sống mà như thế đừng nên sống,\
 Sống tủi làm chi đứng chật trời.
 {: .notice--warning}
 
-
 ![alt]({{ 'assets/images/yokohama-china-town.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://sites.asiasociety.org/chinawealthpower/exile-in-tokyo/">
@@ -74,7 +73,6 @@ Tôi xét ý tứ thì thấy họ Lương cũng là người chỉ ngồi đợ
 {: .text-justify}
 
 ## Đính mật ước với cụ Hoàng Hoa Thám
-
 ![alt]({{ 'assets/images/hoang-hoa-tham-ben-cac-chau.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://vi.wikipedia.org/wiki/Ho%C3%A0ng_Hoa_Th%C3%A1m">
@@ -182,16 +180,10 @@ Than ôi! Khi tôi xuất dương thật có nhờ ông, mà tôi chưa từng m
 {: .text-justify}
 
 ## Lập *"Đông Á Đồng Văn Thư Viện"*
-![alt]({{ 'assets/images/du-hoc-sinh-dong-du.jpg' | absolute_url }})
-
-Hàng thứ nhất (ngồi) từ trái qua phải: Trần Đông, Hà Đương Nghiêu, Hải Thần, Phan Bá Ngọc, Đặng Tử Mẫn.\
- \
-Hàng thứ 2 (đứng) từ trái qua phải: Nguyễn Thái Bạt, Trương Hưng, Hải Thạc (tức Nguyễn Quỳnh Chi - con trai thứ hai của Tán Thuật), Hoàng Trọng Mậu, Đặng Tử Võ, Quỳnh Lâm, Trần Hữu Lực.
-{: .notice}
-
+![alt]({{ 'assets/images/chan-dung-fukushima-yasumasa.jpg' | absolute_url }})
 > <cite>
-<a target="_blank" href="https://www.facebook.com/photo/?fbid=2155770051389737&set=pcb.2155770238056385">
-Trung tâm Lưu trữ quốc gia《Một số lưu học sinh phong trào Đông Du》
+<a target="_blank" href="http://www.thelongridersguild.com/fukushima.htm">
+Chân dung tướng quân Fukushima Yasumasa (hiệu trưởng Chấn Võ học hiệu)
 </a>
 </cite>
 
@@ -232,7 +224,7 @@ Hạ tuần tháng 8, đám du học sinh đến Nhật Bản tính ra đã gầ
 3. Hỗ trợ học phí cũng chỉ có một hạn mức nhất định. Hiện kinh tế chưa có nền tảng vững vàng, chỉ trông mong ở trong nước quyên trợ, thực không có gì làm chắc chắn, đó là vấn đề thứ ba.
 {: .text-justify}
 
-Các vấn đề này đều không dễ giải quyết. Vì muốn giải quyết hai vấn đề đầu tiên, tất phải cần cứu các chính khách Nhật Bản. Tôi đến gặp Inukai Tsuyoshi và ông Phước Đảo cùng bàn việc viện trợ cho du học sinh Việt Nam. Lúc bắt đầu, tôi muốn xin tất cả vào học ở Chấn Võ học hiệu. Ông Phước Đảo nói:
+Các vấn đề này đều không dễ giải quyết. Vì muốn giải quyết hai vấn đề đầu tiên, tất phải cần cứu các chính khách Nhật Bản. Tôi đến gặp Inukai Tsuyoshi và ông Fukushima cùng bàn việc viện trợ cho du học sinh Việt Nam. Lúc bắt đầu, tôi muốn xin tất cả vào học ở Chấn Võ học hiệu. Ông Fukushima nói:
 {: .text-justify}
 
 Tôi với các ngài giao kết, chỉ là lấy tư cách cá nhân, tỏ ra tình bạn thân thiết thì được. Nếu lấy tư cách một ông quan Tham mưu bộ Tổng Trưởng của Chính phủ thì không được. Bởi vì Chính phủ một đế quốc, tất không thể có chuyện hiển nhiên liên kết với một đảng cách mạng nước khác. Đó là thông lệ ngoại giao.\
@@ -244,7 +236,7 @@ Nếu thu dụng các ngài nhiều quá thì Chính phủ Pháp tất có cớ 
 Bây giờ nghĩ cho các ngài một chước: chỉ nên chuyên đưa vào *"Đông Á Đồng Văn hội"*. Vì *"Đông Á Đồng Văn hội"* là dân đảng tổ chức nên dân đảng viện trợ cho dân đảng, Chính phủ không cần hỏi tới nơi thì là hay rồi.
 {: .notice .text-justify}
 
-Phước Đảo nói đến đó, thì ngó Inukai Tsuyoshi tiên sinh mà nói:
+Fukushima nói đến đó, thì ngó Inukai Tsuyoshi tiên sinh mà nói:
 {: .text-justify}
 
 Người Việt xuất dương ngày càng đông, kết quả tưởng ra thế nào?
@@ -255,7 +247,7 @@ Inukai nói:
 Xem như hiện tại tình hình khá tốt, nhưng không biết bọn họ có kiên trì nhẫn nại được không.
 {: .notice .text-justify}
 
-Ông Phước Đảo lại nói:
+Ông Fukushima lại nói:
 
 Ta là một quân nhân, theo những việc quan hệ trên chiến lược thì người Việt Nam có hai phần được hơn người Pháp. Nếu có một ngày khai chiến thì phần thắng người Việt nhiều hơn:\
  \
@@ -271,7 +263,7 @@ Tôi trả lời:
 Nước chúng tôi không đến nỗi vô nhân tâm; duy thế lực quá mỏng, nhân tâm chưa có chỗ biểu hiện được.
 {: .notice .text-justify}
 
-Ông Phước Đảo lại nói:
+Ông Fukushima lại nói:
 
 Đó chẳng phải lo. Nhân tâm là một giống có thế lực rất to lớn. Muốn xem nhân tâm thì phải chứng thực là chịu nhẫn nại khổ lao được hay không? Phen này Nhật Bản đánh được Nga, nguyên nhân tuy nhiều, nhưng người Nhật Bản nại lao nhẫn khổ là cái nguyên nhân rất to.\
  \
@@ -280,7 +272,7 @@ Các ngài cũng có đọc báo Nhật Bản chắc biết được? Lúc đán
 Giá phỏng quan quân Nhật Bản cũng đua nhau ăn thịt bò, uống sữa như người Nga thì làm sao trụ nổi. Duy người Nhật Bản chỉ đánh no cải củ muối dưa với cơm mì đen, sở dĩ quyết thắng được là nhờ vậy.
 {: .notice .text-justify}
 
-Nói đến đó thì vừa lúc người hầu đưa một mâm khoai đót lên, Phước Đảo mời tôi ăn, mà ông trước đó tự lấy một củ ăn luôn cả vỏ, cười nói:
+Nói đến đó thì vừa lúc người hầu đưa một mâm khoai đót lên, Fukushima mời tôi ăn, mà ông trước đó tự lấy một củ ăn luôn cả vỏ, cười nói:
 {: .text-justify}
 
 Chúng ta làm người quân nhân, nếu sợ vỏ khoai không dám ăn thì làm sao ở giữa trận đánh mà ăn được thịt giặc?
@@ -291,6 +283,19 @@ Sau ngày đó tôi đến *"Đông Á Đồng Văn Hội"* để nhờ cậy s�
 - Hạ Bán Nhật Công Khóa: dạy kiến thức quân sự, luyện tập binh thao.
 
 ## Lập *"Tân Việt Nam Cống Hiến"*
+![alt]({{ 'assets/images/du-hoc-sinh-dong-du.jpg' | absolute_url }})
+
+Hàng thứ nhất (ngồi) từ trái qua phải: Trần Đông, Hà Đương Nghiêu, Hải Thần, Phan Bá Ngọc, Đặng Tử Mẫn.\
+ \
+Hàng thứ 2 (đứng) từ trái qua phải: Nguyễn Thái Bạt, Trương Hưng, Hải Thạc (tức Nguyễn Quỳnh Chi - con trai thứ hai của Tán Thuật), Hoàng Trọng Mậu, Đặng Tử Võ, Quỳnh Lâm, Trần Hữu Lực.
+{: .notice}
+
+> <cite>
+<a target="_blank" href="https://www.facebook.com/photo/?fbid=2155770051389737&set=pcb.2155770238056385">
+Một số lưu học sinh phong trào Đông Du
+</a>
+</cite>
+
 Đồng thời chúng tôi lại dựng lên *"Tân Việt Nam Cống Hiến"*, bắt chước làm như một Chính phủ lâm thời của nước Nam ở hải ngoại. Tuy là cách thức sắp đặt còn sơ sài, nhưng có ảnh hưởng tới dân khí trong nước nhiều lắm.
 {: .text-justify}
 

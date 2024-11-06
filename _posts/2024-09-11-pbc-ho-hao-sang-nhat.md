@@ -49,7 +49,7 @@ Chữ đồng tâm ấy phải cho một lòng.
 ![alt]({{ 'assets/images/phan-boi-chau-va-cuong-de.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://www.facebook.com/photo/?fbid=2155769948056414&set=pcb.2155770238056385">
-Trung tâm Lưu trữ quốc gia《Phan Bội Châu và Kỳ Ngoại Hầu Cường Để ở Nhật》
+Phan Bội Châu và Kỳ Ngoại Hầu Cường Để ở Nhật
 </a>
 </cite>
 
@@ -107,11 +107,10 @@ Lý Tuệ là người có gan dạ, mưu mô, thâm hiểu nghĩa lớn. Về s
 {: .text-justify}
 
 ## Quay lại Yokohama, gặp Tôn Trung Sơn
-
-![alt]({{ 'assets/images/chan-dung-ton-trung-son.jpg' | absolute_url }})
+![alt]({{ 'assets/images/ton-trung-son-o-tokyo.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://vi.wikipedia.org/wiki/T%C3%B4n_Trung_S%C6%A1n">
-Chân dung Tôn Trung Sơn (Tôn Dật Tiên)
+Tôn Trung Sơn và thành viên đảng Cộng hòa Cách mạng Trung Hoa tại Tokyo
 </a>
 </cite>
 
@@ -152,6 +151,13 @@ Ngày sau đảng ta khi gặp nguy khốn được đảng họ giúp cũng nhi
 {: .text-justify}
 
 ## Hô hào thanh niên qua Nhật cầu học
+![alt]({{ 'assets/images/chan-vo-hoc-hieu.jpg' | absolute_url }})
+> <cite>
+<a target="_blank" href="https://zh.wikipedia.org/wiki/%E4%B8%9C%E4%BA%AC%E6%8C%AF%E6%AD%A6%E5%AD%A6%E6%A0%A1">
+Tokyo Shinbu Gakkō - 東京振武学校 - Chấn Võ học hiệu (1896-1914)
+</a>
+</cite>
+
 Sau những buổi gặp mặt này tôi đã xác định nuôi dựng nhân tài là việc cần kíp của mình, không đợi phải nói nữa. Song muốn nuôi dựng nhân tài ta phải làm sao bây giờ, vì cái thực quyền giáo dục nằm cả trong tay Chính phủ Pháp bảo hộ? Dầu vậy mặc lòng, anh em chúng tôi còn đây, không lẽ nào bó tay chịu chết sao đành.
 {: .text-justify}
 
@@ -173,7 +179,7 @@ Bài viết xong rồi, thuê in ra mấy ngàn tập, giao cho Tăng quân Bạ
 Không bao lâu, tiếng vang dội của bài văn tôi làm rung động xôn xao cả trong nước. Tháng giêng năm Bính Ngọ (1906), tôi đến nhà ông Inukai để bàn tính về việc đưa học sinh Việt Nam sang học, sắp đặt cho anh em trường học, chổ ở sẵn sàng.
 {: .text-justify}
 
-Lúc đó ông Phước Đảo đang làm hiệu trưởng Chấn Võ học hiệu tại Tokyo, tôi liền xin cho Trần Hữu Công (tức Nguyễn Thức Canh), Lương Lập Nham và Nguyễn Điển 3 người vô học trường ấy. Còn 1 người nữa là Lương Nghị Khanh thì vô học Đồng Văn thư viện. Nước ta 4 ngàn năm nay chưa hề có người nào du học ngoại quốc, có chăng là tự 4 người này trước hết.
+Lúc đó ông Fukushima Yasumasa (Phước Đảo) đang làm hiệu trưởng Tokyo Shinbu Gakkō (Chấn Võ học hiệu) tại Tokyo, tôi liền xin cho Trần Hữu Công (tức Nguyễn Thức Canh), Lương Lập Nham và Nguyễn Điển 3 người vô học trường ấy. Còn 1 người nữa là Lương Nghị Khanh thì vô học Đồng Văn thư viện. Nước ta 4 ngàn năm nay chưa hề có người nào du học ngoại quốc, có chăng là tự 4 người này trước hết.
 {: .text-justify}
 
 Ôi! Lịch sử quốc dân ta như thế ai bảo là thằng bé con lụ khụ trăm tuổi cũng phải.
@@ -219,7 +225,7 @@ Từ đó luôn 10 ngày hơn, tôi với Phan quân bàn bạc, ý kiến rất
 Bác hết sức cẩn trọng. Quốc dân hy vọng chỉ nơi mình bác. Kỳ Ngoại Hầu không cần gì đâu.
 {: .notice .text-justify}
 
-Lúc đó tôi đã giới thiệu Kỳ Ngoại Hầu với hiệu trưởng Chấn Võ học hiệu, Phước Đảo. Phước Đảo nói với tôi rằng:
+Lúc đó tôi đã giới thiệu Kỳ Ngoại Hầu với hiệu trưởng Chấn Võ học hiệu, Fukushima. Fukushima nói với tôi rằng:
 {: .text-justify}
 
 Theo như lệ thường ngoại giao của liệt quốc thì Hoàng Tộc của quý quốc, nếu không có Chính phủ Pháp thừa nhận thì nước Nhật Bản không thể minh bạch thu dụng được. Vậy nên đưa người ấy vào nhà học, trộn vào trong học sinh, làm như bao học sinh khác thì tốt hơn.
