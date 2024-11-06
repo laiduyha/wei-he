@@ -11,7 +11,7 @@ parent:
 ![alt]({{ 'assets/images/so-mat-tham-dong-duong.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://vi.wikipedia.org/wiki/S%E1%BB%9F_Li%C3%AAm_ph%C3%B3ng_%C4%90%C3%B4ng_D%C6%B0%C6%A1ng#:~:text=S%E1%BB%9F%20Li%C3%AAm%20ph%C3%B3ng%20%C4%90%C3%B4ng%20D%C6%B0%C6%A1ng%20hay%20S%E1%BB%9F%20M%E1%BA%ADt%20th%C3%A1m%20%C4%90%C3%B4ng,t%E1%BB%A9c%20nh%E1%BA%A1i%20%C3%A2m%20%22S%C3%BBret%C3%A9%22.">
-《Sở Mật Thám Đông Dương, Nam Kỳ (1917 - 1955)》
+Sở Mật Thám Đông Dương, Nam Kỳ (1917 - 1955)
 </a>
 </cite>
 
@@ -76,7 +76,7 @@ Ba người hàng thứ hai là các nhà sư làm lễ cho buổi dựng bia.
 
 > <cite>
 <a target="_blank" href="https://vietnamnet.vn/duyen-co-nhat-hoang-tham-vieng-cu-phan-boi-chau-359786.html">
-《Bia kỷ niệm ngài Sakitaro Asaba - Thiền Vũ Thái Lang》
+Bia kỷ niệm ngài Sakitaro Asaba - Thiền Vũ Thái Lang
 </a>
 </cite>
 
@@ -162,11 +162,10 @@ Thẳm thẳm lòng này, trải muôn ngàn đời.\
 {: .notice--warning .text-justify}
 
 ## Chuyện khí giới
-
 ![alt]({{ 'assets/images/thanh-luy-cua-de-tham.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://www.nki.vn/post/de-tham-anh-hung-hay-giac-cuop">
-《Thành Lũy của Đề Thám》
+Thành Lũy của Đề Thám
 </a>
 </cite>
 

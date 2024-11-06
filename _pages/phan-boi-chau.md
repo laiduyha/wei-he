@@ -58,7 +58,7 @@ Phan Bội Châu viết *"Ngục Trung Thư"* lúc ở trong tù tại Quảng C
 
 ### <a href="/pbc-gap-luong-khai-sieu-va-cac-chinh-khach-nhat">Kỳ 5. Gặp Lương Khải Siêu và các chính khách Nhật</a>
 * 1905 (38 tuổi) - Gặp Lương Khải Siêu
-* 1905 (38 tuổi) - Gặp Khuyển Dưỡng Nghị, Bá Tước Đại Ôi
+* 1905 (38 tuổi) - Gặp các chính khách của Nhật Bản
 
 ### <a href="/pbc-ho-hao-sang-nhat">Kỳ 6. Hô hào thanh niên sang Nhật Học</a>
 * 1906 (39 tuổi) - Gặp Tôn Trung Sơn; Thu xếp cho lứa du học sinh đầu tiên sang Nhật học
@@ -75,11 +75,11 @@ Phan Bội Châu viết *"Ngục Trung Thư"* lúc ở trong tù tại Quảng C
 
 ### <a href="/pbc-viet-nam-quang-phuc-hoi">Kỳ 9. Lập *"Việt Nam Quang Phục Hội"* </a>
 * 1911 (44 tuổi) - Qua Thái nương náu
-* 1912 (45 tuổi) - Lập *"Việt Nam Quang Phục Hội"* ở Quảng Châu
+* 1912 (45 tuổi) - Lập *"Việt Nam Quang Phục Hội"*
 
 ### <a href="/pbc-tien-hanh-bao-dong">Kỳ 10. Tiến hành bạo động và bị bắt</a>
 * 1912 (45 tuổi) - Tiến hành bạo động
-* 1913 (46 tuổi) - Bị Long Tế Quang bắt ở Quảng Châu
+* 1913 (46 tuổi) - Bị bắt ở Quảng Châu
 
 Còn tiếp....
 {: .notice .text-justify}

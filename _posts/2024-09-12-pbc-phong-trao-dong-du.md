@@ -20,16 +20,11 @@ Sống mà như thế đừng nên sống,\
 Sống tủi làm chi đứng chật trời.
 {: .notice--warning}
 
-![alt]({{ 'assets/images/du-hoc-sinh-dong-du.jpg' | absolute_url }})
 
-Hàng thứ nhất (ngồi) từ trái qua phải: Trần Đông, Hà Đương Nghiêu, Hải Thần, Phan Bá Ngọc, Đặng Tử Mẫn.\
- \
-Hàng thứ 2 (đứng) từ trái qua phải: Nguyễn Thái Bạt, Trương Hưng, Hải Thạc (tức Nguyễn Quỳnh Chi - con trai thứ hai của Tán Thuật), Hoàng Trọng Mậu, Đặng Tử Võ, Quỳnh Lâm, Trần Hữu Lực.
-{: .notice}
-
+![alt]({{ 'assets/images/yokohama-china-town.jpg' | absolute_url }})
 > <cite>
-<a target="_blank" href="https://www.facebook.com/photo/?fbid=2155770051389737&set=pcb.2155770238056385">
-Trung tâm Lưu trữ quốc gia《Một số lưu học sinh phong trào Đông Du》
+<a target="_blank" href="https://sites.asiasociety.org/chinawealthpower/exile-in-tokyo/">
+Phố người Hoa ở Yokohama (1903)
 </a>
 </cite>
 
@@ -83,7 +78,7 @@ Tôi xét ý tứ thì thấy họ Lương cũng là người chỉ ngồi đợ
 ![alt]({{ 'assets/images/hoang-hoa-tham-ben-cac-chau.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://vi.wikipedia.org/wiki/Ho%C3%A0ng_Hoa_Th%C3%A1m">
-《Hoàng Hoa Thám (Đề Thám) bên các cháu của ông》
+Hoàng Hoa Thám (Đề Thám) bên các cháu của ông
 </a>
 </cite>
 
@@ -187,6 +182,19 @@ Than ôi! Khi tôi xuất dương thật có nhờ ông, mà tôi chưa từng m
 {: .text-justify}
 
 ## Lập *"Đông Á Đồng Văn Thư Viện"*
+![alt]({{ 'assets/images/du-hoc-sinh-dong-du.jpg' | absolute_url }})
+
+Hàng thứ nhất (ngồi) từ trái qua phải: Trần Đông, Hà Đương Nghiêu, Hải Thần, Phan Bá Ngọc, Đặng Tử Mẫn.\
+ \
+Hàng thứ 2 (đứng) từ trái qua phải: Nguyễn Thái Bạt, Trương Hưng, Hải Thạc (tức Nguyễn Quỳnh Chi - con trai thứ hai của Tán Thuật), Hoàng Trọng Mậu, Đặng Tử Võ, Quỳnh Lâm, Trần Hữu Lực.
+{: .notice}
+
+> <cite>
+<a target="_blank" href="https://www.facebook.com/photo/?fbid=2155770051389737&set=pcb.2155770238056385">
+Trung tâm Lưu trữ quốc gia《Một số lưu học sinh phong trào Đông Du》
+</a>
+</cite>
+
 Lúc này, bài văn khuyến học của tôi được truyền bá rồi. Thiếu niên nước nhà trốn người Pháp mà xuất dương, tấp nập lên đường.
 {: .text-justify}
 

@@ -6,10 +6,7 @@ classes: wide
 parent:
   label: Phan Bội Châu
   url: phan-boi-chau
-gallery:
-  - url: /assets/images/chan-dung-luong-khai-sieu.jpg
-    image_path: /assets/images/chan-dung-luong-khai-sieu.jpg
-    title: "Lương Khải Siêu"
+chinh-khach-nhat:
   - url: /assets/images/chan-dung-inukai-tsuyoshi.jpg
     image_path: /assets/images/chan-dung-inukai-tsuyoshi.jpg
     title: "Inukai Tsuyoshi (Thủ tướng thứ 29 của Nhật Bản)"
@@ -18,9 +15,12 @@ gallery:
     title: "Bá tước Okuma Shigenobu (Thủ tướng thứ 8 và 17 của Nhật Bản)"
 ---
 
-{% include gallery id="gallery" caption="Chân dung Lương Khải Siêu (trái), Inukai Tsuyoshi (giữa) và Bá tước Okuma Shigenobu (phải)" %}
-
 ## Đến Yokohama gặp Lương Khải Siêu
+![alt]({{ '/assets/images/chan-dung-luong-khai-sieu.jpg' | absolute_url }})
+> <cite>
+Lương Khải Siêu
+</cite>
+
 Thượng tuần tháng tư, tôi đáp tàu Nhật ở bến Thượng Hải, trung tuần thì đến Yokohama (Hoành Tân), tôi tạm ở lại đây hơn một tuần lễ.
 {: .text-justify}
 
@@ -87,6 +87,11 @@ Bá Tước Okuma Shigenobu từng hai phen làm Thủ Tướng, trước là c�
 {: .notice .text-justify}
 
 ## Gặp Inukai Tsuyoshi, Bá tước Okuma Shigenobu
+{% include gallery id="chinh-khach-nhat" %}
+> <cite>
+Inukai Tsuyoshi (trái) và Bá tước Okuma Shigenobu (phải)"
+</cite>
+
 Liền những ngày sau đó, Lương công đưa tôi tới Tokyo. Trước vào cáo Inukai Tsuyoshi, sau yết kiến Bá tước Okuma Shigenobu. Lúc đầu gặp mặt, khách chủ rất vui vẻ. Sau mấy câu ứng đối, liền nói đến việc cầu viện. Inukai hỏi:
 {: .text-justify}
 

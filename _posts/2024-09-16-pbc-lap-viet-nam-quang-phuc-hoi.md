@@ -6,6 +6,16 @@ classes: wide
 parent:
   label: Phan Bội Châu
   url: phan-boi-chau
+quang-dong-1910:
+  - url: /assets/images/guang-dong-1910-1.jpg
+    image_path: /assets/images/guang-dong-1910-1.jpg
+    title: "汕头码头 - Bến Tàu Sán Đầu"
+  - url: /assets/images/guang-dong-1910-2.jpg
+    image_path: /assets/images/guang-dong-1910-2.jpg
+    title: "潮海关及码头查验场所 - Hải quan của Bến Cảng"
+  - url: /assets/images/guang-dong-1910-3.jpg
+    image_path: /assets/images/guang-dong-1910-3.jpg
+    title: "崎碌路 - Đường Thất Lục"
 ---
 
 *Xưa nước ta chỉ có cờ Hoàng Đế mà không có cờ nước cũng là một việc đáng quái gở. Hội Việt Nam Quang Phục mới chế định ra quốc kỳ bằng cờ ngũ tinh, dạng huy thức dùng bằng cách ngũ tinh liên châu.*\
@@ -23,7 +33,6 @@ Lá Quốc Kỳ đầu tiên của Việt Nam: Ngũ Liên Tinh Châu
 </cite>
 
 ## Trần Kỳ Mỹ và Hồ Hán Dân giúp sức
-
 ![alt]({{ 'assets/images/chan-dung-tran-ky-my.png' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_K%E1%BB%B3_M%E1%BB%B9">
@@ -129,7 +138,6 @@ Thời điểm này, kinh phí hoạt động vẫn là hết sức khó khăn. 
 {: .text-justify}
 
 ## Phát hành *"Quân Dụng Phiếu"*
-
 ![alt]({{ 'assets/images/vnqp-quan-dung-phieu.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam_Quang_ph%E1%BB%A5c_H%E1%BB%99i">
@@ -153,6 +161,13 @@ Phiếu bạc này in bằng điện, tinh xảo như tờ tiền của Trung Qu
 {: .text-justify}
 
 ## Lập *"Chấn Hoa Hưng Á Hội"*
+{% include gallery id="quang-dong-1910" %}
+> <cite>
+<a target="_blank" href="http://www.laozhaopian5.com/qingchao/1446.html">
+  Quảng Đông (1910)
+</a>
+</cite>
+
 Coi như chuyện tổ chức phát hành *"Quân Dụng Phiếu"* đã xong. Nay đến bước vận động quyên góp trong ngoài. Ở ngoài thì nhớ sức viện trợ của Trung Quốc. Quân phí, quân nhu đều cầu người Trung giúp.
 {: .text-justify}
 

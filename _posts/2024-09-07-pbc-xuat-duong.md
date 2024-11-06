@@ -11,7 +11,7 @@ parent:
 ![alt]({{ 'assets/images/early-20th-century-photograph-view-at-hong-kong-street-scene.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://www.alamy.com/stock-photo/early-1900s-hong-kong.html">
-Early 20th century photograph view at Hong Kong street scene - Đường phố Hong Kông đầu thế kỷ 20
+Đường phố Hong Kông đầu thế kỷ 20
 </a>
 </cite>
 

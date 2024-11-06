@@ -111,7 +111,7 @@ Lý Tuệ là người có gan dạ, mưu mô, thâm hiểu nghĩa lớn. Về s
 ![alt]({{ 'assets/images/chan-dung-ton-trung-son.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://vi.wikipedia.org/wiki/T%C3%B4n_Trung_S%C6%A1n">
-《Chân dung Tôn Trung Sơn (Tôn Dật Tiên)》
+Chân dung Tôn Trung Sơn (Tôn Dật Tiên)
 </a>
 </cite>
 
@@ -180,11 +180,10 @@ Lúc đó ông Phước Đảo đang làm hiệu trưởng Chấn Võ học hi�
 {: .text-justify}
 
 ## Đón hội chủ và gặp ông Tây Hồ Phan quân Châu Trinh
-
 ![alt]({{ 'assets/images/phan-chau-trinh-va-con-trai.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://www.luatkhoa.com/2017/03/phan-chau-trinh-da-co-xuy-dan-quyen-nhu-the-nao/">
-《Phan Châu Trinh và con trai Phan Châu Dật tại Pháp》
+Phan Châu Trinh và con trai Phan Châu Dật tại Pháp
 </a>
 </cite>
 
