@@ -8,6 +8,13 @@ parent:
   url: phan-boi-chau
 ---
 
+![alt]({{ 'assets/images/thuc-dan-phap-chat-dau-o-ha-noi.png' | absolute_url }})
+> <cite>
+<a target="_blank" href="https://www.nki.vn/post/de-tham-anh-hung-hay-giac-cuop">
+Thực dân pháp xử tử phạm nhân ở Hà Nội (1908)
+</a>
+</cite>
+
 ## Tiến hành bạo động
 Tôi viết đến đoạn sử này, thiệt là nuốt đau, quẹt nước mắt mà vẫn không nỡ viết. Bởi vì hy sinh mất những người đồng bào có chí khí, tâm huyết. Vì trông mong cho vận mệnh nước nhà được sống lại, lo hạnh phúc của đại đa số, mà nhận cái thống khổ của thiểu số.
 {: .text-justify}

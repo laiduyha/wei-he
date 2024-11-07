@@ -6,13 +6,19 @@ classes: wide
 parent:
   label: Phan Bội Châu
   url: phan-boi-chau
-quang-dong-1910:
-  - url: /assets/images/guang-dong-1910-1.jpg
-    image_path: /assets/images/guang-dong-1910-1.jpg
+quang-dong:
+  - url: /assets/images/guang-dong-1900-1.jpg
+    image_path: /assets/images/guang-dong-1900-1.jpg
     title: "汕头码头 - Bến Tàu Sán Đầu"
-  - url: /assets/images/guang-dong-1910-2.jpg
-    image_path: /assets/images/guang-dong-1910-2.jpg
+  - url: /assets/images/guang-dong-1900-2.jpg
+    image_path: /assets/images/guang-dong-1900-2.jpg
     title: "潮海关及码头查验场所 - Hải quan của Bến Cảng"
+  - url: /assets/images/guang-dong-1900-3.jpg
+    image_path: /assets/images/guang-dong-1900-3.jpg
+    title: "汕头商业街 - Phố thương mại Sán Đầu"
+  - url: /assets/images/guang-dong-1900-4.jpg
+    image_path: /assets/images/guang-dong-1900-4.jpg
+    title: "崎碌路 - Đường Thất Lục"
 ---
 
 *Xưa nước ta chỉ có cờ Hoàng Đế mà không có cờ nước cũng là một việc đáng quái gở. Hội Việt Nam Quang Phục mới chế định ra quốc kỳ bằng cờ ngũ tinh, dạng huy thức dùng bằng cách ngũ tinh liên châu.*\
@@ -158,10 +164,10 @@ Phiếu bạc này in bằng điện, tinh xảo như tờ tiền của Trung Qu
 {: .text-justify}
 
 ## Lập *"Chấn Hoa Hưng Á Hội"*
-{% include gallery id="quang-dong-1910" %}
+{% include gallery id="quang-dong" layout="half" %}
 > <cite>
 <a target="_blank" href="http://www.laozhaopian5.com/qingchao/1446.html">
-  Quảng Đông (1910)
+Quảng Đông đầu thế kỷ 20
 </a>
 </cite>
 

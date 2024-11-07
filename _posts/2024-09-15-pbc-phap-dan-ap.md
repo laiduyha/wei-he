@@ -6,6 +6,13 @@ classes: wide
 parent:
   label: Phan Bội Châu
   url: phan-boi-chau
+chualalongkorn:
+  - url: /assets/images/chualalongkorn-1.jpg
+    image_path: /assets/images/chualalongkorn-1.jpg
+    title: "Chulalongkorn - Vua Rama V của Thái Lan"
+  - url: /assets/images/chualalongkorn-2.jpg
+    image_path: /assets/images/chualalongkorn-2.jpg
+    title: "Chulalongkorn ở London - Anh"
 ---
 
 ![alt]({{ 'assets/images/so-mat-tham-dong-duong.jpg' | absolute_url }})
@@ -316,6 +323,13 @@ Than ôi! Bà chiếu cố tôi trong lúc gió bụi lênh đênh. Nuôi tôi �
 {: .text-justify}
 
 ## Nương náu ở Thái Lan
+{% include gallery id="chualalongkorn" layout="half" %}
+> <cite>
+<a target="_blank" href="https://en.wikipedia.org/wiki/Thailand%E2%80%93United_Kingdom_relations">
+Vua Thái Lan Chulalongkorn - Rama V
+</a>
+</cite>
+
 Trước kia khoảng mùa xuân, hạ năm Mậu Thân (1908) khi *"Cống Hiến Hội"* mới thành lập, sau khi chuyện học sinh được xử trí ổn thỏa, tôi đã sang Bangkok, Thái Lan một lần. 
 {: .text-justify}
 

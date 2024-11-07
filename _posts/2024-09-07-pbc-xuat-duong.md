@@ -6,12 +6,25 @@ classes: wide
 parent:
   label: Phan Bội Châu
   url: phan-boi-chau
+hongkong:
+  - url: /assets/images/hong-kong-1900-1.jpg
+    image_path: /assets/images/hong-kong-1900-1.jpg
+    title: "Khách sạn Mountain Palace, Hồng Kong"
+  - url: /assets/images/hong-kong-1900-2.jpg
+    image_path: /assets/images/hong-kong-1900-2.jpg
+    title: "Chợ trung tâm Hồng Kong"
+  - url: /assets/images/hong-kong-1900-3.jpg
+    image_path: /assets/images/hong-kong-1900-3.jpg
+    title: "Thương nhân ở bến tàu Hồng Kong"     
+  - url: /assets/images/hong-kong-1900-4.jpg
+    image_path: /assets/images/hong-kong-1900-4.jpg
+    title: "Đường phố Hồng Kong"   
 ---
 
-![alt]({{ 'assets/images/early-20th-century-photograph-view-at-hong-kong-street-scene.jpg' | absolute_url }})
+{% include gallery id="hongkong" layout="half" %}
 > <cite>
 <a target="_blank" href="https://www.alamy.com/stock-photo/early-1900s-hong-kong.html">
-Đường phố Hong Kông đầu thế kỷ 20
+Hong Kông (Hương Cảng) đầu thế kỷ 20
 </a>
 </cite>
 

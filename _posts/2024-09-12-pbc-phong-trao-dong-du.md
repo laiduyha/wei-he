@@ -6,6 +6,19 @@ classes: wide
 parent:
   label: Phan Bội Châu
   url: phan-boi-chau
+yokohama:
+  - url: /assets/images/yokohama-1900-1.jpg
+    image_path: /assets/images/yokohama-1900-1.jpg
+    title: "Phố người hoa ở Yokohama"
+  - url: /assets/images/yokohama-1900-2.jpeg
+    image_path: /assets/images/yokohama-1900-2.jpeg
+    title: "Rạp xiếc ở Yokohama"
+  - url: /assets/images/yokohama-1900-3.jpeg
+    image_path: /assets/images/yokohama-1900-3.jpeg
+    title: "Khách sạn Oriental Palace"     
+  - url: /assets/images/yokohama-1900-4.jpeg
+    image_path: /assets/images/yokohama-1900-4.jpeg
+    title: "Bến tàu ở Yokohama" 
 ---
 
 **Sống - Phan Bội Châu**\
@@ -20,10 +33,10 @@ Sống mà như thế đừng nên sống,\
 Sống tủi làm chi đứng chật trời.
 {: .notice--warning}
 
-![alt]({{ 'assets/images/yokohama-china-town.jpg' | absolute_url }})
+{% include gallery id="yokohama" layout="half" %}
 > <cite>
-<a target="_blank" href="https://sites.asiasociety.org/chinawealthpower/exile-in-tokyo/">
-Phố người Hoa ở Yokohama (1903)
+<a target="_blank" href="https://en.wikipedia.org/wiki/Timeline_of_Yokohama">
+Yokohama đầu thế kỷ 20
 </a>
 </cite>
 
