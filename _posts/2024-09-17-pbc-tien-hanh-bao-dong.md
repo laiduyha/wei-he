@@ -142,7 +142,7 @@ Trời toan đại dụng nên rèn chí.\
 Chúa giúp thành công tất có hồi.\
 Nếu phải đường đời bằng phẳng hết.\
 Anh hùng hào kiệt có hơn ai.
-{: .notice .text-justify}
+{: .notice--warning .text-justify}
 
 Còn tôi thì tự an ủi mình bằng một bài thơ Nôm như sau này:
 {: .text-justify}
@@ -155,7 +155,7 @@ Bủa tay ôm chặt bồ kinh tế,\
 Mở miệng cười tan cuộc oán thù.\
 Thân nọ vẫn còn, còn sự nghiệp,\
 Bao nhiêu nguy hiểm sợ gì đâu.
-{: .notice .text-justify}
+{: .notice--warning .text-justify}
 
 Làm xong hai bài thơ, tôi ngâm nga lớn tiếng rồi cả cười, vang động cả bốn vách, hầu như không biết thân mình đang bị nhốt trong ngục.
 {: .text-justify}
@@ -198,4 +198,4 @@ Tóm lại, trong đời người thật không có ai ngu dại như tôi. Nế
 
 Lịch ta ngày 25 tháng chạp năm Quý Sửu (1913),\
 Sào Nam Tử viết tập *"Ngục Trung Thư"* này ở nhà ngục Quảng Châu, sau khi vào ngục 3 ngày.
-{: .notice .text-justify}
+{: .notice--warning .text-justify}
