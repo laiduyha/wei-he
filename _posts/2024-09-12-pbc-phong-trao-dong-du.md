@@ -75,7 +75,7 @@ Tôi xét ý tứ thì thấy họ Lương cũng là người chỉ ngồi đợ
 ## Đính mật ước với cụ Hoàng Hoa Thám
 ![alt]({{ 'assets/images/hoang-hoa-tham-ben-cac-chau.jpg' | absolute_url }})
 > <cite>
-<a target="_blank" href="https://vi.wikipedia.org/wiki/Ho%C3%A0ng_Hoa_Th%C3%A1m">
+<a target="_blank" href="https://www.nki.vn/post/de-tham-anh-hung-hay-giac-cuop">
 Hoàng Hoa Thám (Đề Thám) bên các cháu của ông
 </a>
 </cite>
@@ -263,7 +263,7 @@ Tôi trả lời:
 Nước chúng tôi không đến nỗi vô nhân tâm; duy thế lực quá mỏng, nhân tâm chưa có chỗ biểu hiện được.
 {: .notice .text-justify}
 
-Ông Fukushima lại nói:
+Ông Fukushima lại tiếp:
 
 Đó chẳng phải lo. Nhân tâm là một giống có thế lực rất to lớn. Muốn xem nhân tâm thì phải chứng thực là chịu nhẫn nại khổ lao được hay không? Phen này Nhật Bản đánh được Nga, nguyên nhân tuy nhiều, nhưng người Nhật Bản nại lao nhẫn khổ là cái nguyên nhân rất to.\
  \

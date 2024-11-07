@@ -154,7 +154,7 @@ Ngày sau đảng ta khi gặp nguy khốn được đảng họ giúp cũng nhi
 ![alt]({{ 'assets/images/chan-vo-hoc-hieu.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://zh.wikipedia.org/wiki/%E4%B8%9C%E4%BA%AC%E6%8C%AF%E6%AD%A6%E5%AD%A6%E6%A0%A1">
-Tokyo Shinbu Gakkō - 東京振武学校 - Chấn Võ học hiệu (1896-1914)
+Chấn Võ học hiệu - Tokyo Shinbu Gakkō - 東京振武学校 (1896-1914)
 </a>
 </cite>
 
@@ -179,7 +179,7 @@ Bài viết xong rồi, thuê in ra mấy ngàn tập, giao cho Tăng quân Bạ
 Không bao lâu, tiếng vang dội của bài văn tôi làm rung động xôn xao cả trong nước. Tháng giêng năm Bính Ngọ (1906), tôi đến nhà ông Inukai để bàn tính về việc đưa học sinh Việt Nam sang học, sắp đặt cho anh em trường học, chổ ở sẵn sàng.
 {: .text-justify}
 
-Lúc đó ông Fukushima Yasumasa (Phước Đảo) đang làm hiệu trưởng Tokyo Shinbu Gakkō (Chấn Võ học hiệu) tại Tokyo, tôi liền xin cho Trần Hữu Công (tức Nguyễn Thức Canh), Lương Lập Nham và Nguyễn Điển 3 người vô học trường ấy. Còn 1 người nữa là Lương Nghị Khanh thì vô học Đồng Văn thư viện. Nước ta 4 ngàn năm nay chưa hề có người nào du học ngoại quốc, có chăng là tự 4 người này trước hết.
+Lúc đó ông Fukushima Yasumasa (Phước Đảo) đang làm hiệu trưởng Chấn Võ học hiệu (Tokyo Shinbu Gakkō - 東京振武学校) tại Tokyo, tôi liền xin cho Trần Hữu Công (tức Nguyễn Thức Canh), Lương Lập Nham và Nguyễn Điển 3 người vô học trường ấy. Còn 1 người nữa là Lương Nghị Khanh thì vô học Đồng Văn thư viện. Nước ta 4 ngàn năm nay chưa hề có người nào du học ngoại quốc, có chăng là tự 4 người này trước hết.
 {: .text-justify}
 
 Ôi! Lịch sử quốc dân ta như thế ai bảo là thằng bé con lụ khụ trăm tuổi cũng phải.
