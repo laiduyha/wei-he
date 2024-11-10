@@ -81,5 +81,11 @@ Phan Bội Châu viết *"Ngục Trung Thư"* lúc ở trong tù tại Quảng C
 * 1912 (45 tuổi) - Tiến hành bạo động
 * 1913 (46 tuổi) - Bị bắt ở Quảng Châu
 
+### <a href="/pbc-trong-tu">Kỳ 11. 4 năm trong tù</a>
+* 1913 (46 tuổi) - Bị bắt ở Quảng Châu
+* 1914 (47 tuổi) - Thế chiến thứ nhất nổ ra (Pháp-Đức gây chiến)
+* 1915 (48 tuổi) - Giao thiệp với Đức-Áo
+* 1917 (49 tuổi) - Được thả khỏi tù
+
 Còn tiếp....
 {: .notice .text-justify}

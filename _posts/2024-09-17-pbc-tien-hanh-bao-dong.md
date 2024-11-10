@@ -193,7 +193,7 @@ Ai biết lòng mình thì than tiếc dùm mình mà nói: *Gan to!*
 Ai muốn bắt lỗi mình thì cả thể bảo mình: *Ngu quá!*
 {: .text-justify}
 
-Tóm lại, trong đời người thật không có ai ngu dại như tôi. Nếu có phải tánh mạng của tôi đến ngày hôm nay là ngày cùng rồi, khi tôi chết, người ta cứ đặt tên hèm cho tôi là Kỳ ngu thì đúng lắm, không đổi được chữ nào khác hơn. Nhưng nếu muôn một mà tôi không chết, thì rồi sau thấy beo cọp há lại không thể đánh được ư? Xin quốc dân ta nên xem gương tôi mà tự răn lấy mình.
+Tóm lại, trong đời người thật không có ai ngu dại như tôi. Nếu có phải tính mạng của tôi đến ngày hôm nay là ngày cùng rồi, khi tôi chết, người ta cứ đặt tên hèm cho tôi là Kỳ ngu thì đúng lắm, không đổi được chữ nào khác hơn. Nhưng nếu muôn một mà tôi không chết, thì rồi sau thấy beo cọp há lại không thể đánh được ư? Xin quốc dân ta nên xem gương tôi mà tự răn lấy mình.
 {: .text-justify}
 
 Lịch ta ngày 25 tháng chạp năm Quý Sửu (1913),\
