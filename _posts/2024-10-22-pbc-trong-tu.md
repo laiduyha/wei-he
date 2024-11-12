@@ -154,5 +154,7 @@ Vì việc ấy nên Trương, Lê mới viết thư cho tôi, bảo tôi lên B
 Ông Lê nhận được thư tôi, quay lại Thiên Tân, tiếp chuyện với người Đức. Họ nói rằng:
 {: .text-justify}
 
-Hiện Đức-Hoa tuyên chiến, chúng tôi sắp phải rời khỏi Trung Hoa, còn có bấy nhiêu quân giới, bấy nhiên hiện khoản, tương lai tất bị Chính phủ Trung Quốc tịch thu. Giả như Đảng các ngài khởi nghĩa được ở Đông Dương thì chúng tôi quyết đem những hạng mục ấy giúp cho Đảng các ngài. Nhưng buộc phải lập tờ khế ươc để đảm bảo lợi ích ngày sau.
+Hiện Đức-Hoa tuyên chiến, chúng tôi sắp phải rời khỏi Trung Hoa, còn có bấy nhiêu quân giới, bấy nhiên hiện khoản, tương lai tất bị Chính phủ Trung Quốc tịch thu.\
+ \
+Giả như Đảng các ngài khởi nghĩa được ở Đông Dương thì chúng tôi quyết đem những hạng mục ấy giúp cho Đảng các ngài. Nhưng buộc phải lập tờ khế ước để đảm bảo lợi ích ngày sau.
 {: .notice .text-justify}
