@@ -35,7 +35,7 @@ Trận đánh đầu tiên của Thế chiến I - Trận Liege (08-1914)
 Sở dĩ lúc đầu Long Tế Quan bắt tôi vì nghi ngờ chúng tôi có quan hệ với Trần Quýnh Minh (tỉnh trưởng trước đó của Quảng Đông). Nhà Chu Sư Thái cũng bị khám xét, nhưng may là chỉ thấy được những chứng cứ của Đảng cách mạng Việt Nam, chứ không có một tý gì quan hệ với Trần Quýnh Minh. Long còn bắt người con là Chu Thiết Sinh giam cầm 15 ngày tra đi hỏi lại, nhưng cũng không thấy liên hệ nên mới không nghi ngờ nữa.
 {: .text-justify}
 
-Nhưng Long vẫn coi chúng tôi là món hàng ngon để đem đi buôn chác với người Pháp. Long giam chúng tôi ở Sở Lục Quân để kỳ kèo nhằm xin mượn đường xe lửa lên Vân Nam để đánh Đường Kế Nghiêu. Thật không ngờ một ngày nào đó tính mạng chúng tôi lại chẳng khác gì một món hàng để trao đổi!
+Nhưng Long vẫn coi chúng tôi là món hàng ngon để đem đi buôn chác với người Pháp. Long giam chúng tôi ở Sở Lục Quân để kỳ kèo nhằm xin mượn đường xe lửa lên Vân Nam để đánh Đường Kế Nghiêu. Thật không ngờ có một ngày tính mạng tôi lại chẳng khác gì một món hàng để trao đổi!
 {: .text-justify}
 
 May nhờ trời thương, lúc bất giờ Tổng lý ở Bắc Kinh là Đàm Kỳ Thụy tiên sinh, người quân tử nhân hậu, xưa nay đối với Đảng ta bảo hộ rất nhiều. Lại may có Mai Sơn tiên sinh (Nguyễn Thượng Hiền) lúc đó đang ở Bắc Kinh. Anh em ta ở Quảng Đông đánh điện gấp cho tiên sinh cần cứu ông Đoàn. Đoàn lúc này là Bộ Trưởng Lục Quân, lấy mệnh lệnh của Bộ đánh điện lại cho Long, bảo Long phải giữ lại hai người chúng tôi.
@@ -113,11 +113,46 @@ Số bạc này tính ra chỉ có 8,000$ mà công dụng chia ra nhiều ngả
 {: .text-justify}
 
 ## Ra tù tìm đường về nước
-Tháng 3, Năm Đinh Tỵ (1917), Long Tế Quang thua phải bỏ Quảng Đông đi Quỳnh Châu. Lúc này Long mới tha tôi, cấp cho 200$. Tháng tư năm ấy tôi quay lại nhà Chu Thị thì Chu Sư Thái nói với tôi rằng:
+Tháng 3, Năm Đinh Tỵ (1917), Long Tế Quang thua phải bỏ Quảng Đông chạy về Quỳnh Châu. Lúc này Long mới tha tôi, cấp cho 200$. Tháng tư năm ấy tôi quay lại nhà Chu Thị thì Chu Sư Thái nói với tôi rằng:
 {: .text-justify}
 
 Gần vài tháng nay trinh thám Pháp không ngày nào không đến nhà ta.
 {: .notice .text-justify}
 
-Bởi vì Long thua bỏ Quảng Đông, người Pháp chắc biết tôi cũng thoát ngục nên rình bắt gắt lắm. Tôi nghỉ lại Quảng Đông một ngày liền chạy về Thượng Hải. Nhưng Thượng Hải là tô giới của Anh, Pháp, người làm cho Pháp đông quá, nên tôi cũng không dám ở Thượng Hải. Nghe Mai Sơn tiên sinh đang ở Hằng Châu, tôi liền qua Hằng Châu ngay.
+Bởi vì Long thua bỏ Quảng Đông, người Pháp chắc biết tôi cũng thoát ngục nên rình bắt gắt lắm. Tôi nghỉ lại Quảng Đông một ngày liền chạy về Thượng Hải. Nhưng Thượng Hải là tô giới của Anh, Pháp, người làm cho Pháp đông quá, nên tôi cũng không dám ở Thượng Hải. Nghe Mai Sơn tiên sinh đang ở Hàng Châu, tôi liền qua Hàng Châu ngay.
 {: .text-justify}
+
+Vừa lúc đó Lê Dư ở trong nước ra, đang ở Nhật Bản cùng với Kỳ Ngoại Hầu. Lê viết giấy mời tôi qua, bảo rằng có sẵn 2,000$ hễ đến Nhật Bản thì trao lại ngay. Tuy nhiên trong lòng tôi lúc này còn một mối bận tâm khác. Châu Âu đại chiến đã 3 năm mà chưa kết thúc, mà tin tức phần nhiều đang nghiêng về phía Đức. 9 huyện ở phía Bắc nước Pháp cả thảy đều rơi vào tay người Đức v.v... Những tin như thế làm tôi càng thêm nóng nảy, bồn chồn mà về nước.
+{: .text-justify}
+
+Nhưng các lối Quảng Đông, Quảng Tây đã chông gai đen nghịt. Chỉ duy có lối từ đường Vân Nam về nước ta đang còn có thể đi được, vả lại ở Vân Nam tôi cũng có nhiều bạn quen cũ. Vì thế tôi nóng lòng muốn đi Vân Nam. Nhưng tính các tổn phí thì ít nhất cũng 1,000$ nên khi nghe đến món tiền của Lê Dư nói tôi cũng muốn qua lấy.
+{: .text-justify}
+
+Không lâu sau lại tiếp được bức thư của ông Trần Hữu Công nói rằng:
+{: .text-justify}
+
+Kế hoạch của Bộ Tham Mưu Nhật Bản tuyên chiến với Đức không phải là chân tướng của nó đâu. Chẳng qua đây là cách xỏ lá của họ, chỉ là trây máu ăn phần: toan chờ lúc hai bên cùng kiệt thì Nhật nó mới ra tay đâm một lúc được hai cọp.\
+ \
+Hiện có được tin trọng yếu rằng Nhật-Đức có ý muốn kết điều ước đặc biệt. Nếu kế hoạch này thực hiện thì cục diện ngoại giao lại biến hóa lần nữa.
+{: .notice .text-justify}
+
+Được giấy Trần như thế, tôi lại nóng lòng qua Nhật Bản. Mặt ngoài thì hội lại với Lê Dư, mặt trong muốn gặp lại những chính khách Nhật ngày xưa như Inukai Tsuyoshi, Fukushima Yasumasa để thăm dò chân tướng mối quan hệ với Đức.
+{: .text-justify}
+
+Lần này tôi ở Nhật hơn bốn tháng, mà món tiền ông Lê hứa với tôi không phải một lần trao ngay mà mỗi tháng cấp cho một ít. Ba tháng sau thì mới được hơn 1,000$. Tôi vì nóng lòng về nước, được số ấy cũng đã là hay rồi. Tháng 7 năm ấy cùng với ông Trần Hữu Châu về Hàng Châu. Tại đây thì nhận được thư của hai ông Trương Quốc Uy và Lê Ấp Tốn gửi lại.
+{: .text-justify}
+
+Nguyên hai ông này xuất dương lúc *"Việt Nam Quang Phục Hội"* mói thành lập, từng ở Quảng Đông sống cùng với tôi. Quang Phục Hội giải tán, hai ông lên Bắc Kinh vào học trường sĩ quan. Sau khi tốt nghiệp thì lưu lại Bắc Kinh.
+{: .text-justify}
+
+Trong thời kỳ Châu Âu đại chiến, hai ông bôn tẩu vận động người Đức. Nhưng Công Sứ Đức ở Bắc Kinh lại giữ thái độ chần chừ, nên chưa có dịp gì hay. Tới bây giờ, người Đức ở Thiên Tân tô giới mới được lệnh của Công Sứ Đức mà thăm tìm Đảng cách mạng ta. Họ liên hệ với hai ông Trương, Lê và dặn rằng phải lập một bản hợp đồng, hai bên có người trọng yếu ký mới được.
+{: .text-justify}
+
+Vì việc ấy nên Trương, Lê mới viết thư cho tôi, bảo tôi lên Bắc Kinh để nắm lấy cơ hội này. Tôi lúc này như chim sợ cành cong, đọc xong thư vẫn còn do dự. Bèn biên thư báo hai ông cứ lấy danh nghĩa *"Việt Nam Quang Phục Hội"* mà thương thảo với người Đức. Hai bên thảo sẵn hợp đồng, đến lúc đó tôi tự khắc tới nơi!
+{: .text-justify}
+
+Ông Lê nhận được thư tôi, quay lại Thiên Tân, tiếp chuyện với người Đức. Họ nói rằng:
+{: .text-justify}
+
+Hiện Đức-Hoa tuyên chiến, chúng tôi sắp phải rời khỏi Trung Hoa, còn có bấy nhiêu quân giới, bấy nhiên hiện khoản, tương lai tất bị Chính phủ Trung Quốc tịch thu. Giả như Đảng các ngài khởi nghĩa được ở Đông Dương thì chúng tôi quyết đem những hạng mục ấy giúp cho Đảng các ngài. Nhưng buộc phải lập tờ khế ươc để đảm bảo lợi ích ngày sau.
+{: .notice .text-justify}
