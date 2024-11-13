@@ -22,7 +22,7 @@ Sáng ra tuyết tán mang chiên chạy,\
 Bốn phía mênh mông một chắc mình.
 {: .notice--warning}
 
-## Tìm đường về nước mà không được
+## Tìm đường về nước
 Chí nguyện của tôi ban đầu định từ Vân Nam về nước, nhưng vì thư của Lê, Trương mà lôi thôi đến hơn một tháng, sau nghe được hung tin ở Thiên Tân, tôi mới quyết định về nước. Nguyên đường đi Vân Nam có hai lối:
 {: .text-justify}
 
