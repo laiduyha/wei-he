@@ -16,7 +16,7 @@ categories:
 Chân dung Phan Bội Châu
 </cite>
 
-Phan Bội Châu (潘佩珠) sinh 1867 mất 1940 thọ 73 tuổi. Cuộc đời cách mạng của ông hoạt động chủ yếu vào những năm 35-60 tuổi. Ông như một con vụ xoay vần tìm cách đưa đất nước thoát ra khỏi những gông cùm, mưu toan, sắp đặt của thực dân, đế quốc thời đó. 
+Phan Bội Châu (潘佩珠) sinh 1867 mất 1940 thọ 73 tuổi. Cuộc đời cách mạng của ông hoạt động chủ yếu vào những năm 35-45 tuổi. Ông như một con vụ xoay vần tìm cách đưa đất nước thoát ra khỏi những gông cùm, mưu toan, sắp đặt của thực dân, đế quốc thời đó. 
 {: .text-justify}
 
 Có người nói rằng ông ngây thơ, và ngay cả chính ông cũng tự nhận mình ngu muội. Tuy nhiên, người tự nhận mình ngu muội nào có phải là người không biết suy nghĩ trước sau! Theo dấu ông, cậu sẽ thấy được cốt cách của một con người yêu nước can đảm, dám thoát ra khỏi xiềng xích không chỉ của thực dân mà của cả tư duy Nho giáo thủ cựu thời bấy giờ.
@@ -81,11 +81,17 @@ Phan Bội Châu viết *"Ngục Trung Thư"* lúc ở trong tù tại Quảng C
 * 1912 (45 tuổi) - Tiến hành bạo động
 * 1913 (46 tuổi) - Bị bắt ở Quảng Châu
 
-### <a href="/pbc-trong-tu">Kỳ 11. 4 năm trong tù</a>
+### <a href="/pbc-the-chien-thu-i">Kỳ 11. Thế chiến thứ I</a>
 * 1913 (46 tuổi) - Bị bắt ở Quảng Châu
-* 1914 (47 tuổi) - Thế chiến thứ nhất nổ ra (Pháp-Đức gây chiến)
+* 1914 (47 tuổi) - Thế chiến thứ I nổ ra (Pháp-Đức gây chiến)
 * 1915 (48 tuổi) - Giao thiệp với Đức-Áo
-* 1917 (49 tuổi) - Được thả khỏi tù
+* 1917 (49 tuổi) - Được thả khỏi tù tìm đường về nước
 
-Còn tiếp....
-{: .notice .text-justify}
+### <a href="/pbc-lan-loi-sau-the-chien">Kỳ 12. Lăn lộn sau thế chiến</a>
+* 1918 (50 tuổi) - Thế chiến kết thúc, Pháp thắng Đức thua.
+* 1920 (52 tuổi) - Giao thiệp với Đảng Cộng Sản Nga
+
+### <a href="/pbc-nhung-ngay-cuoi-o-nuoc-ngoai">Kỳ 13. Những ngày cuối ở nước ngoài</a>
+* 1922 (54 tuổi) - Về Hàng Châu làm nghề viết báo
+* 1924 (56 tuổi) - Cải tổ *"Việt Nam Quang Phục Hội"* thành *"Việt Nam Quốc Dân Đảng"*
+* 1925 (57 tuổi) - Bị mật thám Pháp bắt ở Thượng Hải

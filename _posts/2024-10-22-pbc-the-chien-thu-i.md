@@ -1,6 +1,6 @@
 ---
-title: Kỳ 11 - Trong Tù
-permalink: /pbc-trong-tu
+title: Kỳ 11 - Thế chiến thứ I
+permalink: /pbc-the-chien-thu-i
 layout: single
 classes: wide
 parent:
@@ -86,10 +86,12 @@ Hai Công Sứ Đức-Áo trú ở Thái Lan có thăm hỏi Đảng cách mạn
 Tôi nghĩ cụ Mai Sơn (Nguyễn Thượng Hiền) tiên sinh mới từ Bắc Kinh về lại Quảng Đông, nên nhờ cụ qua Thái thay mặt cho Đảng. Cụ Mai Sơn từ trước tới giờ chưa đi vào đất Thái, nên tôi lại viết thư cho ông Đặng, giới thiệu cụ Mai Sơn cho ông Thân Vương đồng thời nhờ Thân Vương giới thiệu với hai Công Sứ. 
 {: .text-justify}
 
-Cụ Mai Sơn đến Thái Lan, đi đến cửa Công Sứ nước Đức thì đã có người chờ sẵn ở cửa. Vừa đưa danh thiếp vào tức khắc hai Công Sứ ra tận cửa, bắt tay hai người mình, rồi dắt nhau đi tản bộ. Đến một chỗ kia không thấy có bóng người, Công Sức nước Đức lấy ra 1 vạn bạc tiền Thái trao cho hai cụ bảo:
+Cụ Mai Sơn đến Thái Lan, đi đến cửa Công Sứ nước Đức thì đã có người chờ sẵn ở cửa. Vừa đưa danh thiếp vào tức khắc hai Công Sứ ra tận cửa, bắt tay hai người mình, rồi dắt nhau đi tản bộ. Đến một chỗ kia không thấy có bóng người, Công Sứ nước Đức lấy ra 1 vạn bạc tiền Thái trao cho hai cụ bảo:
 {: .text-justify}
 
-Giúp cho các ông, nay chưa phải là thời cơ đã đến. Một vạn đồng bạc này, gọi là thay một cốc cafe, làm một việc môi giới với người quý quốc vậy. Nếu ở trong nước, các ngài làm sao cho phát sinh ra một việc ảnh hưởng lớn, đến tận tai Chính phủ hai nước chúng tôi, tất nhiên hai nước chúng tôi sẽ tiếp tục giúp cho. Nếu việc không thành thì cũng coi như là giúp đỡ vậy. Nay số tiền chút đỉnh này là xuất tự ý của hai người chúng tôi, còn chưa phải là ý của Chính phủ hai nước chúng tôi đâu.
+Chính thức giúp cho các ngài, nay chưa phải là thời cơ đã đến. Một vạn đồng bạc này, gọi là thay một cốc cafe, làm một việc môi giới với người quý quốc vậy. Nếu ở trong nước, các ngài làm sao cho phát sinh ra một việc ảnh hưởng lớn, đến tận tai Chính phủ hai nước chúng tôi, tất nhiên hai nước chúng tôi sẽ tiếp tục giúp cho.\
+ \
+Nếu việc không thành thì cũng coi như là giúp đỡ vậy. Nay số tiền chút đỉnh này là xuất tự ý của hai người chúng tôi, còn chưa phải là ý của Chính phủ hai nước chúng tôi đâu.
 {: .notice .text-justify}
 
 Xem việc này tuy nhỏ, những cũng đủ thấy được tinh thần người Đức lúc hành sự, không chuộng hư văn, không đánh trống khua chiêng. Lúc đầu tự tìm kiếm lấy Đảng ta, sau lại vứt vạn bạc như không. Khi trao bạc thì ở vào chốn không người, lại yêu cầu mình làm cho có ảnh hưởng thì mới tin và hẹn trước cho vài trăm vạn để mình có hy vọng.
@@ -112,7 +114,7 @@ Số bạc này tính ra chỉ có 8,000$ mà công dụng chia ra nhiều ngả
 Ôi thôi! Vì ý kiến mà chia ra phe phái, hỏng đi việc nước. Đây là bài học mà chúng ta phải trông theo mà làm gương vậy!
 {: .text-justify}
 
-## Ra tù tìm đường về nước
+## Thế chiến thứ I - Kết minh với người Đức
 Tháng 3, Năm Đinh Tỵ (1917), Long Tế Quang thua phải bỏ Quảng Đông chạy về Quỳnh Châu. Lúc này Long mới tha tôi, cấp cho 200$. Tháng tư năm ấy tôi quay lại nhà Chu Thị thì Chu Sư Thái nói với tôi rằng:
 {: .text-justify}
 
@@ -154,7 +156,14 @@ Vì việc ấy nên Trương, Lê mới viết thư cho tôi, bảo tôi lên B
 Ông Lê nhận được thư tôi, quay lại Thiên Tân, tiếp chuyện với người Đức. Họ nói rằng:
 {: .text-justify}
 
-Hiện Đức-Hoa tuyên chiến, chúng tôi sắp phải rời khỏi Trung Hoa, còn có bấy nhiêu quân giới, bấy nhiên hiện khoản, tương lai tất bị Chính phủ Trung Quốc tịch thu.\
+Hiện Đức-Hoa tuyên chiến, chúng tôi sắp phải rời khỏi Trung Hoa, còn có bấy nhiêu quân giới, bấy nhiêu hiện khoản, tương lai tất bị Chính phủ Trung Quốc tịch thu.\
  \
 Giả như Đảng các ngài khởi nghĩa được ở Đông Dương thì chúng tôi quyết đem những hạng mục ấy giúp cho Đảng các ngài. Nhưng buộc phải lập tờ khế ước để đảm bảo lợi ích ngày sau.
 {: .notice .text-justify}
+
+Nghe người Đức nói như thế, Trương, Lê mới góp hết ý kiến anh em ta ở Bắc Kinh, như Hoàng Đình Tuân, Đặng Hồng Phấn, thương thảo lại các điều kiện, làm thành một bản hợp đồng đến Thiên Tân để ký kết với người Đức. Hai ông mới đi vào tô giới người Anh, chưa đến tô giới Đức thì bị quân Anh chụp bắt. Xét trong túi có hợp đồng nên dẫn độ về lãnh sự Pháp. Ông Lê bị bắt trước, ông Trương may nhờ đi sau mà chạy thoát được. Ông Lê bị bắt giải về Hà Nội, bắt tội thông Đức, bị án chung thân rồi chết trong sở ngục.
+{: .text-justify}
+
+Cái kết quả này, sau điều tra thì vì có một mật thám cho Pháp là người Vân Nam được bạc thưởng 3,000$ mà người này lại là bạn thân thiết của **Phan Bá Ngọc**, từng học ở trường sĩ quan.
+{: .text-justify}
+
