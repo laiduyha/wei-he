@@ -92,4 +92,15 @@ Tổng tư lệnh Hoàng Phục Sinh ấn
 Nghĩ cũng buồn cười, dưới tên họ tôi mà có lót vào chữ *"quan"*, ngày đó là ngày đầu tiên.
 {: .text-justify}
 
-Tôi nhậm chức mới được 7 ngày, vừa đến ngày lĩnh lương, lĩnh được 170$ xong, lên ngay Tổng tư lệnh bộ xin từ chức, xin bỏ Trùng Khánh mà ra đi. Bởi vì mục tiêu của tôi cốt có lương, không cốt quan. Lúc này là thượng tuần tháng giên năm Mậu Ngọ (1918).
+Tôi nhậm chức mới được 7 ngày, vừa đến ngày lĩnh lương, lĩnh được 170$ xong, lên ngay Tổng tư lệnh bộ xin từ chức, xin bỏ Trùng Khánh mà ra đi. Bởi vì mục tiêu của tôi cốt có lương, không cốt quan. Năm Mậu Ngọ (1918), hạ tuần tháng giêng, tôi về đến Hàng Châu.
+{: .text-justify}
+
+Kể lần đi này công của thì vất vào hư không mà gian khổ thì thật đáng nhớ. Nhẫn nại gian khổ nhất lại là ông Trần Hữu Công. Từ Trùng Khánh tới Vân Nam, lại từ Vân Nam về Trung Khánh, đi bộ hơn 90 ngày. Tôi nhiều khi đi ngựa thuê còn ông Trần thì hoàn toàn dùng sức chân mà thôi.
+{: .text-justify}
+
+Giữa đường cần phải thuê phu gánh, trút giao hành lý cho nó. Lỡ mà nó chạy quá mau, sợ nó giựt đồ chạy, phải đi theo kịp chứ không dám hở. Những việc đó nhất thiết nhờ ông Trần, còn tôi vì sức chân yếu, chỉ một quãng là theo không nổi, rớt lại phía sau, có lúc xa tận hơn một cây số.
+{: .text-justify}
+
+## Chuyện Phan Bá Ngọc
+
+## Giao thiệp với người Nga
