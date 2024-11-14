@@ -1,6 +1,6 @@
 ---
 title: Ngoại truyện - Vụ ám sát Phan Bá Ngọc
-permalink: /pbc-thu-gui-cu-tay-ho
+permalink: /pbc-vu-am-sat-phan-ba-ngoc
 layout: single
 classes: wide
 parent:
