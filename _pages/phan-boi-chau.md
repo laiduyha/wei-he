@@ -95,3 +95,5 @@ Phan Bội Châu viết *"Ngục Trung Thư"* lúc ở trong tù tại Quảng C
 * 1922 (54 tuổi) - Về Hàng Châu làm nghề viết báo
 * 1924 (56 tuổi) - Cải tổ *"Việt Nam Quang Phục Hội"* thành *"Việt Nam Quốc Dân Đảng"*
 * 1925 (57 tuổi) - Bị mật thám Pháp bắt ở Thượng Hải
+
+## Ngoại truyện

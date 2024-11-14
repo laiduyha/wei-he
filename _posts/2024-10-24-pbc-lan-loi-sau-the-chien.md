@@ -6,7 +6,15 @@ classes: wide
 parent:
   label: Phan Bội Châu
   url: phan-boi-chau
+nguyen-ai-quoc:
+  - url: /assets/images/nguyen-ai-quoc-quoc-te-cong-san-1.jpg
+    image_path: /assets/images/nguyen-ai-quoc-quoc-te-cong-san-1.jpg
+    title: "Nguyễn Ái Quốc (hàng đầu, thứ 3 từ trái sang) cùng các đại biểu tham dự Đại hội V Quốc tế Cộng sản"
+  - url: /assets/images/nguyen-ai-quoc-quoc-te-cong-san-2.jpg
+    image_path: /assets/images/nguyen-ai-quoc-quoc-te-cong-san-2.jpg
+    title: "Nguyễn Ái Quốc (ngồi trên sàn) cùng những người đảm bảo phục vụ kỹ thuật cho Đại hội V Quốc tế Cộng sản."        
 ---
+
 **Ngủ giữa núi tuyết - Phan Bội Châu**\
  \
 Nhất dạ sơn trung tuyết tráo thân,\
@@ -21,6 +29,14 @@ Núi vắng đêm trường tuyết phủ quanh,\
 Sáng ra tuyết tán mang chiên chạy,\
 Bốn phía mênh mông một chắc mình.
 {: .notice--warning}
+
+
+![alt]({{ 'assets/images/china-imperialism-cartoon.jpg' | absolute_url }})
+> <cite>
+<a target="_blank" href="https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_th%E1%BA%BF_gi%E1%BB%9Bi_th%E1%BB%A9_nh%E1%BA%A5t">
+Tranh biếm họa về các nước Anh, Đức, Nga, Pháp, và Nhật tranh nhau chiếm thuộc địa ở Trung Quốc. Trong bức tranh, vua nước Đức Wilhelm II (đội mũ chóp nhọn) tỏ thái độ căm ghét rõ ràng với nữ hoàng Anh Victoria
+</a>
+</cite>
 
 ## Tìm đường về nước
 Chí nguyện của tôi ban đầu định từ Vân Nam về nước, nhưng vì thư của Lê, Trương mà lôi thôi đến hơn một tháng, sau nghe được hung tin ở Thiên Tân, tôi mới quyết định về nước. Nguyên đường đi Vân Nam có hai lối:
@@ -186,6 +202,13 @@ Ngày đó là ngày tết Nguyên Tiêu, người Hàng Châu có tục xem đ�
 {: .text-justify}
 
 ## Giao thiệp với người Nga
+{% include gallery id="nguyen-ai-quoc" layout="half" %}
+> <cite>
+<a target="_blank" href="https://www.qdnd.vn/ky-niem-110-nam-ngay-bac-ho-ra-di-tim-duong-cuu-nuoc/hanh-trinh-lich-su/hanh-trinh-tren-que-huong-cach-mang-thang-muoi-nga-661020">
+Nguyễn Ái Quốc ở Đại hội V Quốc tế Cộng sản
+</a>
+</cite>
+
 Tháng 11, Năm Canh Thân (1920), tôi nghe được Đảng Cộng Sản Liên Xô nhóm họp ở Bắc Kinh khá nhiều, mà đại bản doanh của họ thì ở trong trường Đại Học Bắc Kinh. Tôi vì sẵn tính ham lạ, mà cũng muốn nghiên cứu chân lý Cộng Sản, nhưng không biết lấy gì tự giới thiệu với họ. Bèn đem bản sách *"Liên Bang Nga Chân Tướng Điều Tra Ký"* của Bố Trí Di Trĩ, người Nhật Bản, tráo đi lật lại tìm ngầm ý sâu xa, sau đó dịch ra sách Hán Văn. Trên dưới diễn dịch cực kỹ chủ nghĩa Lao Nông cùng với chế độ của họ.
 {: .text-justify}
 
@@ -197,7 +220,7 @@ Người nước tôi cũng muốn đi du học quý quốc, nhờ tiên sinh ch
 
 Lao Nông Chính phủ đối với tất cả đồng bào thế giới du học ở Nga rất là hoan nghên. Người Việt Nam sang du học lại tiện lợi lắm:\
 \ 
-Do Bắc Kinh đến Vladivostok (Hải Sâm Uy) bằng đường thủy đều được. Từ Vladivostok tới Moscow (Mạc Tư Khoa) thì lại có đường sắt. Kể ra hành trình chỉ có 10 ngày thôi. Học sinh tới Nga, nên đến Bắc Kinh trước, có quan Đại Sứ ở đó, vào xin lĩnh chứng thư và giấy giới thiệu. Nếu có rồi thì mọi phí tổn sau khi đến Moscow sẽ được Chính phủ tài trợ cho. Kể từ Việt Nam đến đất Nga, chi phí chỉ trong khoảng 200$ chắc cũng dễ lo liệu.\
+Do Bắc Kinh đến Vladivostok (Hải Sâm Uy) bằng đường thủy đều được. Từ Vladivostok tới Moskva (Mạc Tư Khoa) thì lại có đường sắt. Kể ra hành trình chỉ có 10 ngày thôi. Học sinh tới Nga, nên đến Bắc Kinh trước, có quan Đại Sứ ở đó, vào xin lĩnh chứng thư và giấy giới thiệu. Nếu có rồi thì mọi phí tổn sau khi đến Moskva sẽ được Chính phủ tài trợ cho. Kể từ Việt Nam đến đất Nga, chi phí chỉ trong khoảng 200$ chắc cũng dễ lo liệu.\
  \
 Nhưng du học sinh trước khi sang Nga học, phải thừa nhận những điều kiện sau:
  \
@@ -214,5 +237,5 @@ Còn như học phí, sinh hoạt phí trong lúc học ở Nga thì đều do C
 Chúng tôi thấy được người Việt Nam là bắt đầu từ ông. Ông nếu dùng được chữ Anh làm một bản sách kể hết chân tướng của người Pháp ở Việt Nam rồi gửi lại cho chúng tôi. Chúng tôi cảm tạ không dám quên.
 {: .notice .text-justify}
 
-Khổ vì tôi không làm được sách Anh Văn, không có cách nào trả lại thành ý đó.
+Khổ vì tôi không làm được sách Anh Văn, không có cách nào trả lại thành ý đó. Coi như tôi không có duyên với chủ nghĩa Cộng Sản vậy.
 {: .text-justify}

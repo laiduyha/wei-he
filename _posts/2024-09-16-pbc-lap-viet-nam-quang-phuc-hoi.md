@@ -6,7 +6,7 @@ classes: wide
 parent:
   label: Phan Bội Châu
   url: phan-boi-chau
-quang-dong:
+guang-dong:
   - url: /assets/images/guang-dong-1900-1.jpg
     image_path: /assets/images/guang-dong-1900-1.jpg
     title: "汕头码头 - Bến Tàu Sán Đầu"
@@ -164,7 +164,7 @@ Phiếu bạc này in bằng điện, tinh xảo như tờ tiền của Trung Qu
 {: .text-justify}
 
 ## Lập *"Chấn Hoa Hưng Á Hội"*
-{% include gallery id="quang-dong" layout="half" %}
+{% include gallery id="guang-dong" layout="half" %}
 > <cite>
 <a target="_blank" href="http://www.laozhaopian5.com/qingchao/1446.html">
 Quảng Đông đầu thế kỷ 20
