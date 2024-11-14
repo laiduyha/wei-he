@@ -101,6 +101,118 @@ Kể lần đi này công của thì vất vào hư không mà gian khổ thì t
 Giữa đường cần phải thuê phu gánh, trút giao hành lý cho nó. Lỡ mà nó chạy quá mau, sợ nó giựt đồ chạy, phải đi theo kịp chứ không dám hở. Những việc đó nhất thiết nhờ ông Trần, còn tôi vì sức chân yếu, chỉ một quãng là theo không nổi, rớt lại phía sau, có lúc xa tận hơn một cây số.
 {: .text-justify}
 
-## Chuyện Phan Bá Ngọc
+Từ năm Mậu Ngọ tới năm Ất Sửu (1918-1924), là một thời đại nhàn tán, tiêu điều của chính tôi. Kể về hoạt động cách mạng thiệt không có gì đáng để nói, chỉ có một số việc kinh tâm động phách, khóc cũng hay mà hát cũng chả dở. Cả thảy những chuyện này không phải vì tôi thổi mà nó lên, cũng chẳng phải tôi dập mà nó tắt, chẳng qua là nó vận vào người mà thôi.
+{: .text-justify}
+
+## Chuyện Phan Bá Ngọc (con Phan Đình Phùng)
+
+### Việc cụ Mai Lão Bạng
+Tháng 2, năm Mậu Ngọ (1918), tôi đang vì việc dựng bia kỷ niệm cho Sakitaro Asaba (Thiền Vũ Thái Lang) tiên sinh, nên lưu lại Nhật Bản. Bỗng nhận được thư của Phan Bá Ngọc, bảo tôi cứu cho cụ Mai Lão Bạnh ra khỏi ngục ở Quảng Đông. Việc vận động thì để Phan đảm nhật, tổn phí bao nhiêu thì có người lo. 
+{: .text-justify}
+
+Nghĩ lại trước kia tôi cùng cụ Mai bị giam ở Quảng Đông, tôi ở ngục Quan Âm Sơn, còn cụ Mai thì bị giam ở dinh cảnh sát. Hai bên đông tây cách biệt nên không biết được tin của nhau. Khi Long tha cho tôi thì tôi nghĩ là nó cũng tha cho cụ Mai ở Quảng Đông rồi, nào ngờ giờ lại nghe tin cụ vẫn trong ngục. 
+{: .text-justify}
+
+Tôi bèn biên một giấy xin tha gửi cho Quảng Đốc Mạc Vinh Tân xin nhờ tha cho cụ Mai. Mạc đốc trả lời rằng án này do Cảnh sát trưởng Ngụy Bương Bình thụ. Lúc này tôi bèn viết thư gửi Bộ trưởng Tài chính tỉnh Quảng Đông là Tăng Ngạn vốn là bạn cũ của tôi, nhờ Tăng giúp cho.
+{: .text-justify}
+
+Đến hạ tuần tháng 3 thì cụ Mai được tha ra. Khoảng tháng tư thì cụ đến Thượng Hải, cùng với hai đồng chí khác là ông Hy Cao và ông Kim Đài. Hai ông này bị đày ở tận Côn Luân, phải kết bè vượt biển, vượt qua bao gian nan khốn khổ mới thoát được thân. Nay biết được tin cả ba ông thì rất mừng. Ngờ đâu sau đó bốn ngày thì lại nhận được tin ba người đó bị bắt cả rồi. 
+
+Được tin tôi vội bỏ Nhật Bản về lại Hàng Châu để tìm ra chân tướng vụ việc. Vì việc này tôi rất muộn phiền, cứu cụ ra tù mà hóa ra là dâng tặng quà cho mật thám Pháp để chúng lập được công. Lại tạo thành sự nghiệp cho con người kia phản cha, bán nước!
+{: .text-justify}
+
+*"Ngã tuy bất sát Bá Nhân, Bá nhân do ngã nhi tử"*. Liệu sự liệu nhân ngu ám đến thế, tội tôi trong việc này lại quá lớn, không biết chối vào đâu!
+{: .text-justify}
+
+### *"Pháp-Việt đề huề"* luận
+Cũng trong đợt này, Lê và Phan hẹn gặp tôi ở Hàng Châu, bàn với tôi thảo ra một bản luận là *"Pháp-Việt đề huề"*. Để thuyết phục tôi, cả hai nói rằng:
+{: .text-justify}
+
+Chính sách của Toàn quyền Pháp mới (Albert Sarraut) khác với Toàn quyền cũ rất xa. Vì Sarraut là người đảng Xã Hội, mà đảng ấy so với đảng thực dân thì mâu thuẫn nhau nhiều.
+{: .text-justify}
+
+Lê lại kể những chính sách tiên tiến của Sarraut như lập trường cho cả trai lẫn gái, đặt lại luật mới ở Bắc Kỳ, lại cho người của ta có cơ hội thiết lập hội nhóm như *"Ích Tri Tấn Đức Hội"*.
+{: .text-justify}
+
+Lúc đầu tôi vẫn không tin lời Lê lắm, nhưng lại nghĩ nếu thật như lời họ nói thì việc mình viết bản luận này mà tương kế tựu kế chắc là cũng có chỗ hay. Tôi mới mưu cùng bàn việc với Bá Ngọc. Bá Ngọc lúc đó là người cộng sự nhiều năm với tôi, từng cùng nhau vào sinh ra tử không ít lần, kể ra thật không ai hơn Phan Bá Ngọc nữa. Phan lúc này mới nói với tôi rằng:
+{: .text-justify}
+
+Muốn việc thành đại sự phải có âm mưu. Nay tiên sinh chỉ nên làm một bài lý luận chuyên nói về chuyện Pháp-Việt đề huề, hai bên đều có ích cả.\
+ \
+Người Pháp được thư ấy, tất bớt nghi ngờ Đảng ta. Ta cũng nhân đó đưa người vào trong dò xét được tình trạng người Pháp. Mà mật tình của người trong nước cũng có thể thông được với người ngoài.
+{: .notice .text-justify}
+
+Theo như lời ông Lê nói cũng là đắc sách lắm. Tôi tin lời hai người làm một bài văn đề rằng *"Pháp-Việt đề huề luận"*, dưới đề *"Độc Tinh Tử soạn"*, cuối bài có viết 5 chữ *"Phan Bá Ngọc phụng thơ"*. Đoạn Lê cầm bài văn ấy về nước. Bốn năm tháng sau, người con yêu của cụ Phan Đình Phùng quả thật quay ra làm tôi trung cho Pháp!
+{: .text-justify}
+
+*"Dụng chân chí nan"*, lời Tôn Tử xưa có dối ta đâu!
+{: .text-justify}
+
+Tháng 2, Năm Kỷ Dậu (1919), Phan Bá Ngọc lại gặp tôi ở Hàng Châu, bảo là Sarraut rất muốn *"đề huề"* với tôi. Tôi bảo rằng tất phải Chính phủ Pháp phái người sang đàm phán, điều kiện thế nào cần phải được tôi đồng ý thì mới tiến hành. Đầu tháng 5, một người Pháp tên Nê Dung, hội với Bá Ngọc đến Hàng Châu. Tôi hẹn rằng thời gian địa điểm đồi phải do mình quyết. Phía mình bao nhiêu người cũng được, còn phía Pháp thì chỉ được một người, nếu không thì không đàm phán. Bá Ngọc quay lại thương thảo với Nê Dung, Nê tất thảy đều bằng lòng.
+{: .text-justify}
+
+Đến ngày hôm ấy, hai bên gặp nhau ở Hồ Lâu Đình, Tây Hồ, Hàng Châu. Tôi cùng Trần Hữu Công, Hồ Hinh Sơn và ba người nữa đi theo. Ngồi xong, đáp trả vào ba câu, Nê Dung liền ở trong túi lấy ra một tờ giấy bằng tiếng Pháp và dịch ra chữ Quốc Ngữ, nói rằng đây là thư của Toàn quyền Sarraut gửi cho tôi. Tôi nhờ một người trong đoàn đọc cho tôi nghe, nghe xong thật sự quá ngán ngẩm! Nay xin chép lại những điều kiện trong giấy ấy như sau:
+{: .text-justify}
+
+Về phía tôi, phải thừa nhận hai điều:\
+. Phải tuyên bố một bài về trong nước, quyết thủ tiêu những ý chí với với hành vi cách mạng.\
+. Phải về nước, nếu không về cũng được, nhưng ở ngoài phải có một địa điểm nhất định, mà địa điểm đó tất phải tiếp cận với tô giới Pháp.\
+ \
+Về phía chính phủ Đông Dương thì đối đãi lại tôi hai điều:\
+. Nếu tôi chịu về nước thì đặt cho một địa vị trọng yếu trong Nam Triều và cấp lương bổng đặc biệt ưu hậu.\
+. Nếu không chịu về nước mà chịu theo điều kiện trên thì sẽ cấp lữ phí và đồ nhu yếu phẩm ở ngoài.\
+{: .notice .text-justify}
+
+Tôi đã quyết định một tông chỉ, nên trả lời với Nê Dung rằng:
+{: .text-justify}
+
+Những lời quan Toàn quyền nói đó, tôi không trả lời miệng được, sẽ trả lời bằng giấy.
+{: .notice .text-justify}
+
+Nê Dung từ biệt tôi về. Sau tôi mới làm một bức thư phú đáp bằng văn Quốc Ngữ, giải thích rõ nguyên ý hai chữ *"Đề huề"*, đồng thời cự tuyệt hẳn những điều kiện không chính đáng. Sau nhờ ông Lý Trọng Bá giao lại cho Phan Bá Ngọc cầm về Hà Nội, đưa cho Toàn quyền Sarraut. Bức thư này là văn tự đầu tiên của tôi trực tiếp giao thiệp với người Pháp.
+{: .text-justify}
+
+Tháng bảy năm Kỷ Dậu (1919), tôi rời Hàng Châu, quay lại Nhật Bản. Từ đó về sau, trong khoảng 4 năm không có việc gì làm. Lúc thì ngồi buồn vô liêu, lúc lại chạy rông một độ.
+{: .text-justify}
+
+### Phan Bá Ngọc bị ám sát
+Năm Nhâm Tuất (1922) ngày 15 tháng Giêng, tôi còn ở Bắc Kinh làm biên tập viên cho *"Đông Á Tần Văn"* thì nhận được tin ở Hàng Châu có một vụ ám sát.
+{: .text-justify}
+
+Ngày đó là ngày tết Nguyên Tiêu, người Hàng Châu có tục xem đèn. Bên bờ Hồ Tây đèn nháy như sao, trai hồng gái lục, bể người rừng hoa, náo nhiệt cực kỳ. Đột nhiên trong ngàn tiếng pháo tre, nghe thấy ba tiếng súng lục. Tức khắc có người chết nằm ngã giữa đất. Lính tuần xem lại soát ở trong người thấy có 2,150$, trong túi lại có một cái đồng hồ vàng 60$.
+{: .text-justify}
+
+Ôi! Người đó cũng là đồng bào ta, lại là con nhà nòi chống Pháp kỳ cựu. Sau này lại đi nối giáo cho giặc, cuối cùng cũng phải chết thảm!
+{: .text-justify}
 
 ## Giao thiệp với người Nga
+Tháng 11, Năm Canh Thân (1920), tôi nghe được Đảng Cộng Sản Liên Xô nhóm họp ở Bắc Kinh khá nhiều, mà đại bản doanh của họ thì ở trong trường Đại Học Bắc Kinh. Tôi vì sẵn tính ham lạ, mà cũng muốn nghiên cứu chân lý Cộng Sản, nhưng không biết lấy gì tự giới thiệu với họ. Bèn đem bản sách *"Liên Bang Nga Chân Tướng Điều Tra Ký"* của Bố Trí Di Trĩ, người Nhật Bản, tráo đi lật lại tìm ngầm ý sâu xa, sau đó dịch ra sách Hán Văn. Trên dưới diễn dịch cực kỹ chủ nghĩa Lao Nông cùng với chế độ của họ.
+{: .text-justify}
+
+Xong tôi cắp sách đi Bắc Kinh, vào trường tôi thăm Thái Nguyên Bôi tiên sinh. Thái xem xong bản sách của tôi cũng rất tương đắc, mới giới thiệu tôi với 2 người Nga: một là trưởng đoàn Liên bang Xô Viết tới Trung Quốc, Đoàn trưởng (tên chữ Nga tôi không nhớ được), một là Tham Tán Lạp tiên sinh thuộc đại sứ Nga. Lần này là lần đầu tiên tôi tiếp xúc vớ người Nga. Tôi có hỏi Lạp tiên sinh:
+{: .text-justify}
+
+Người nước tôi cũng muốn đi du học quý quốc, nhờ tiên sinh chỉ vẽ đường lối cho.
+{: .notice .text-justify}
+
+Lao Nông Chính phủ đối với tất cả đồng bào thế giới du học ở Nga rất là hoan nghên. Người Việt Nam sang du học lại tiện lợi lắm:\
+\ 
+Do Bắc Kinh đến Vladivostok (Hải Sâm Uy) bằng đường thủy đều được. Từ Vladivostok tới Moscow (Mạc Tư Khoa) thì lại có đường sắt. Kể ra hành trình chỉ có 10 ngày thôi. Học sinh tới Nga, nên đến Bắc Kinh trước, có quan Đại Sứ ở đó, vào xin lĩnh chứng thư và giấy giới thiệu. Nếu có rồi thì mọi phí tổn sau khi đến Moscow sẽ được Chính phủ tài trợ cho. Kể từ Việt Nam đến đất Nga, chi phí chỉ trong khoảng 200$ chắc cũng dễ lo liệu.\
+ \
+Nhưng du học sinh trước khi sang Nga học, phải thừa nhận những điều kiện sau:
+ \
+. Phải theo chủ nghĩa Cộng Sản.\
+. Học thành về nước, phải gánh vác những công việc tuyên truyền chủ nghĩa Cộng Sản.\
+. Học thành về trong nước, phải ra sức tiến hành sự nghiệp cách mạng Cộng Sản.\
+\
+Còn như học phí, sinh hoạt phí trong lúc học ở Nga thì đều do Chính phủ đảm nhận hết cả.
+{: .notice .text-justify}
+
+Ông Hoàng Đình Tuân thông dịch bằng tiếng Anh lại cho tôi nghe. Tôi còn nhớ họ có nói thêm rằng:
+{: .text-justify}
+
+Chúng tôi thấy được người Việt Nam là bắt đầu từ ông. Ông nếu dùng được chữ Anh làm một bản sách kể hết chân tướng của người Pháp ở Việt Nam rồi gửi lại cho chúng tôi. Chúng tôi cảm tạ không dám quên.
+{: .notice .text-justify}
+
+Khổ vì tôi không làm được sách Anh Văn, không có cách nào trả lại thành ý đó.
+{: .text-justify}
