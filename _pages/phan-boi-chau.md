@@ -97,5 +97,6 @@ Phan Bội Châu viết *"Ngục Trung Thư"* lúc ở trong tù tại Quảng C
 * 1925 (57 tuổi) - Bị mật thám Pháp bắt ở Thượng Hải
 
 ## Ngoại truyện
-### <a href="/pbc-thu-gui-cu-tay-ho">Thư gửi cụ Tây Hồ</a>
-### <a href="/pbc-thu-gui-cu-tay-ho">Vụ Ám Sát Phan Bá Ngọc</a>
+### <a href="/pbc-thu-gui-cu-tay-ho"># Thư gửi cụ Tây Hồ</a>
+### <a href="/pbc-thu-gui-cu-tay-ho"># Vụ Ám Sát Phan Bá Ngọc</a>
+### <a href="/pbc-nguyen-ai-quoc"># Phan Bội Châu và Nguyễn Ái Quốc</a>
