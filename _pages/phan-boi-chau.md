@@ -98,3 +98,4 @@ Phan Bội Châu viết *"Ngục Trung Thư"* lúc ở trong tù tại Quảng C
 
 ## Ngoại truyện
 ### <a href="/pbc-thu-gui-cu-tay-ho">Thư gửi cụ Tây Hồ</a>
+### <a href="/pbc-thu-gui-cu-tay-ho">Vụ Ám Sát Phan Bá Ngọc</a>
