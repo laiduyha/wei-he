@@ -5,14 +5,7 @@ layout: single
 classes: wide
 parent:
   label: Phan Bội Châu
-  url: phan-boi-chau
-nguyen-ai-quoc:
-  - url: /assets/images/nguyen-ai-quoc-quoc-te-cong-san-1.jpg
-    image_path: /assets/images/nguyen-ai-quoc-quoc-te-cong-san-1.jpg
-    title: "Nguyễn Ái Quốc (hàng đầu, thứ 3 từ trái sang) cùng các đại biểu tham dự Đại hội V Quốc tế Cộng sản"
-  - url: /assets/images/nguyen-ai-quoc-quoc-te-cong-san-2.jpg
-    image_path: /assets/images/nguyen-ai-quoc-quoc-te-cong-san-2.jpg
-    title: "Nguyễn Ái Quốc (ngồi trên sàn) cùng những người đảm bảo phục vụ kỹ thuật cho Đại hội V Quốc tế Cộng sản."        
+  url: phan-boi-chau  
 ---
 
 **Ngủ giữa núi tuyết - Phan Bội Châu**\
@@ -29,7 +22,6 @@ Núi vắng đêm trường tuyết phủ quanh,\
 Sáng ra tuyết tán mang chiên chạy,\
 Bốn phía mênh mông một chắc mình.
 {: .notice--warning}
-
 
 ![alt]({{ 'assets/images/china-imperialism-cartoon.jpg' | absolute_url }})
 > <cite>
@@ -88,7 +80,10 @@ Nhưng đường từ Trùng Khánh tới Vân Nam thì giặc cướp đầy đ
 Tính ra kể từ tháng 8 ra đi từ Hàng Châu đến Vân Nam, trải qua dải đất Trung Hoa cả thảy 6 tỉnh thành. Lội khe vượt núi, giải gió dầm mưa, nếm hết mùi gian nan hiểm trở. Mà ai ngờ đâu cái mùi gian nan hiểm hiểm trở đó chỉ là nếm chơi cho biết mà thôi. 
 {: .text-justify}
 
-Ngày tôi tới thành Vân Nam là ngày 29 tháng 11 âm lịch, dày đặc trong ngoài thành là cờ ba sắc (cờ Pháp) với cờ năm sắc treo tứ tung. Chung quanh đường sắt Điền Việt cờ ba sắc che ngập trời, chúng tôi trông thấy mà ngơ ngác rụng rời. Cũng là vì trong mấy tháng bôn tẩu trong núi dài rừng rậm không được đọc một tờ báo nào. Ở xứ sơn lâm bên Trung này thông tin bít bùng, cũng y như nước ta, tình trạng thế giới không biết một tí gì.
+Ngày tôi tới thành Vân Nam là ngày 29 tháng 11 âm lịch, dày đặc trong ngoài thành là cờ ba sắc (cờ Pháp) với cờ năm sắc treo tứ tung. Chung quanh đường sắt Điền Việt cờ ba sắc che ngập trời, chúng tôi trông thấy mà ngơ ngác rụng rời.
+{: .text-justify}
+
+Cũng là vì trong mấy tháng bôn tẩu trong núi dài rừng rậm không được đọc một tờ báo nào. Ở xứ sơn lâm bên Trung này thông tin bít bùng, cũng y như nước ta, tình trạng thế giới không biết một tí gì.
 {: .text-justify}
 
 Đến sáng ngày sau, gấp chạy mua tờ báo mới biết Thế chiến thứ I kết thúc rồi! Đức đã chịu khuất phục, nước Pháp đã nở mày nở mặt, làm một nước chiến thắng toàn cầu! Luôn mấy ngày nay ở trong thành Vân Nam, tất thảy đều là cảnh tượng chúc mừng nước Pháp thắng trận.
@@ -117,7 +112,10 @@ Kể lần đi này công của thì vất vào hư không mà gian khổ thì t
 Giữa đường cần phải thuê phu gánh, trút giao hành lý cho nó. Lỡ mà nó chạy quá mau, sợ nó giựt đồ chạy, phải đi theo kịp chứ không dám hở. Những việc đó nhất thiết nhờ ông Trần, còn tôi vì sức chân yếu, chỉ một quãng là theo không nổi, rớt lại phía sau, có lúc xa tận hơn một cây số.
 {: .text-justify}
 
-Từ năm Mậu Ngọ tới năm Ất Sửu (1918-1924), là một thời đại nhàn tán, tiêu điều của chính tôi. Kể về hoạt động cách mạng thiệt không có gì đáng để nói, chỉ có một số việc kinh tâm động phách, khóc cũng hay mà hát cũng chả dở. Cả thảy những chuyện này không phải vì tôi thổi mà nó lên, cũng chẳng phải tôi dập mà nó tắt, chẳng qua là nó vận vào người mà thôi.
+Từ năm Mậu Ngọ tới năm Ất Sửu (1918-1924), là một thời đại nhàn tán, tiêu điều của chính tôi. Kể về hoạt động cách mạng thiệt không có gì đáng để nói, chỉ có một số việc kinh tâm động phách, khóc cũng hay mà hát cũng chả dở.
+{: .text-justify}
+
+Cả thảy những chuyện này không phải vì tôi thổi mà nó lên, cũng chẳng phải tôi dập mà nó tắt, chẳng qua là nó vận vào người mà thôi.
 {: .text-justify}
 
 ## Chuyện Phan Bá Ngọc (con Phan Đình Phùng)
@@ -165,10 +163,16 @@ Theo như lời ông Lê nói cũng là đắc sách lắm. Tôi tin lời hai n
 *"Dụng chân chí nan"*, lời Tôn Tử xưa có dối ta đâu!
 {: .text-justify}
 
-Tháng 2, Năm Kỷ Dậu (1919), Phan Bá Ngọc lại gặp tôi ở Hàng Châu, bảo là Sarraut rất muốn *"đề huề"* với tôi. Tôi bảo rằng tất phải Chính phủ Pháp phái người sang đàm phán, điều kiện thế nào cần phải được tôi đồng ý thì mới tiến hành. Đầu tháng 5, một người Pháp tên Nê Dung, hội với Bá Ngọc đến Hàng Châu. Tôi hẹn rằng thời gian địa điểm đồi phải do mình quyết. Phía mình bao nhiêu người cũng được, còn phía Pháp thì chỉ được một người, nếu không thì không đàm phán. Bá Ngọc quay lại thương thảo với Nê Dung, Nê tất thảy đều bằng lòng.
+Tháng 2, Năm Kỷ Dậu (1919), Phan Bá Ngọc lại gặp tôi ở Hàng Châu, bảo là Sarraut rất muốn *"đề huề"* với tôi. Tôi bảo rằng tất phải Chính phủ Pháp phái người sang đàm phán, điều kiện thế nào cần phải được tôi đồng ý thì mới tiến hành. Đầu tháng 5, một người Pháp tên Nê Dung, hội với Bá Ngọc đến Hàng Châu.
 {: .text-justify}
 
-Đến ngày hôm ấy, hai bên gặp nhau ở Hồ Lâu Đình, Tây Hồ, Hàng Châu. Tôi cùng Trần Hữu Công, Hồ Hinh Sơn và ba người nữa đi theo. Ngồi xong, đáp trả vào ba câu, Nê Dung liền ở trong túi lấy ra một tờ giấy bằng tiếng Pháp và dịch ra chữ Quốc Ngữ, nói rằng đây là thư của Toàn quyền Sarraut gửi cho tôi. Tôi nhờ một người trong đoàn đọc cho tôi nghe, nghe xong thật sự quá ngán ngẩm! Nay xin chép lại những điều kiện trong giấy ấy như sau:
+Tôi hẹn rằng thời gian địa điểm đồi phải do mình quyết. Phía mình bao nhiêu người cũng được, còn phía Pháp thì chỉ được một người, nếu không thì không đàm phán. Bá Ngọc quay lại thương thảo với Nê Dung, Nê tất thảy đều bằng lòng.
+{: .text-justify}
+
+Đến ngày hôm ấy, hai bên gặp nhau ở Hồ Lâu Đình, Tây Hồ, Hàng Châu. Tôi cùng Trần Hữu Công, Hồ Hinh Sơn và ba người nữa đi theo. Ngồi xong, đáp trả vào ba câu, Nê Dung liền ở trong túi lấy ra một tờ giấy bằng tiếng Pháp và dịch ra chữ Quốc Ngữ, nói rằng đây là thư của Toàn quyền Sarraut gửi cho tôi.
+{: .text-justify}
+
+Tôi nhờ một người trong đoàn đọc cho tôi nghe, nghe xong thật sự quá ngán ngẩm! Nay xin chép lại những điều kiện trong giấy ấy như sau:
 {: .text-justify}
 
 Về phía tôi, phải thừa nhận hai điều:\
@@ -177,7 +181,7 @@ Về phía tôi, phải thừa nhận hai điều:\
  \
 Về phía chính phủ Đông Dương thì đối đãi lại tôi hai điều:\
 . Nếu tôi chịu về nước thì đặt cho một địa vị trọng yếu trong Nam Triều và cấp lương bổng đặc biệt ưu hậu.\
-. Nếu không chịu về nước mà chịu theo điều kiện trên thì sẽ cấp lữ phí và đồ nhu yếu phẩm ở ngoài.\
+. Nếu không chịu về nước mà chịu theo điều kiện trên thì sẽ cấp lữ phí và đồ nhu yếu phẩm ở ngoài.
 {: .notice .text-justify}
 
 Tôi đã quyết định một tông chỉ, nên trả lời với Nê Dung rằng:
@@ -203,25 +207,28 @@ Ngày đó là ngày tết Nguyên Tiêu, người Hàng Châu có tục xem đ�
 {: .text-justify}
 
 ## Giao thiệp với người Nga
-{% include gallery id="nguyen-ai-quoc" layout="half" %}
+
+![alt]({{ 'assets/images/under-the-banner-of-marx-engels-lenin-and-stalin.jpg' | absolute_url }})
 > <cite>
-<a target="_blank" href="https://www.qdnd.vn/ky-niem-110-nam-ngay-bac-ho-ra-di-tim-duong-cuu-nuoc/hanh-trinh-lich-su/hanh-trinh-tren-que-huong-cach-mang-thang-muoi-nga-661020">
-Nguyễn Ái Quốc ở Đại hội V Quốc tế Cộng sản
+<a target="_blank" href="https://www.dawn.com/news/1341525">
+Dưới Banner của Marx, Engels, Lenin và Stalin!. Áp phích thiết kế cho lễ kỷ niệm 50 năm (năm 1933) ngày mất của Karl Marx để so sánh Stalin với vĩ nhân trước đó.
 </a>
 </cite>
 
 Tháng 11, Năm Canh Thân (1920), tôi nghe được Đảng Cộng Sản Liên Xô nhóm họp ở Bắc Kinh khá nhiều, mà đại bản doanh của họ thì ở trong trường Đại Học Bắc Kinh. Tôi vì sẵn tính ham lạ, mà cũng muốn nghiên cứu chân lý Cộng Sản, nhưng không biết lấy gì tự giới thiệu với họ. Bèn đem bản sách *"Liên Bang Nga Chân Tướng Điều Tra Ký"* của Bố Trí Di Trĩ, người Nhật Bản, tráo đi lật lại tìm ngầm ý sâu xa, sau đó dịch ra sách Hán Văn. Trên dưới diễn dịch cực kỹ chủ nghĩa Lao Nông cùng với chế độ của họ.
 {: .text-justify}
 
-Xong tôi cắp sách đi Bắc Kinh, vào trường tôi thăm Thái Nguyên Bôi tiên sinh. Thái xem xong bản sách của tôi cũng rất tương đắc, mới giới thiệu tôi với 2 người Nga: một là trưởng đoàn Liên bang Xô Viết tới Trung Quốc, Đoàn trưởng (tên chữ Nga tôi không nhớ được), một là Tham Tán Lạp tiên sinh thuộc đại sứ Nga. Lần này là lần đầu tiên tôi tiếp xúc vớ người Nga. Tôi có hỏi Lạp tiên sinh:
+Xong tôi cắp sách đi Bắc Kinh, vào trường tôi thăm Thái Nguyên Bôi tiên sinh. Thái xem xong bản sách của tôi cũng rất tương đắc, mới giới thiệu tôi với 2 người Nga: một là trưởng đoàn Liên bang Xô Viết tới Trung Quốc, Đoàn trưởng (tên chữ Nga tôi không nhớ được), một là Tham Tán Lạp tiên sinh thuộc đại sứ Nga. Lần này là lần đầu tiên tôi tiếp xúc với người Nga. Tôi có hỏi Lạp tiên sinh:
 {: .text-justify}
 
-Người nước tôi cũng muốn đi du học quý quốc, nhờ tiên sinh chỉ vẽ đường lối cho.
+Người nước tôi cũng muốn đi du học quý quốc, nhờ tiên sinh chỉ đường vẽ lối cho.
 {: .notice .text-justify}
 
-Lao Nông Chính phủ đối với tất cả đồng bào thế giới du học ở Nga rất là hoan nghên. Người Việt Nam sang du học lại tiện lợi lắm:\
-\ 
-Do Bắc Kinh đến Vladivostok (Hải Sâm Uy) bằng đường thủy đều được. Từ Vladivostok tới Moskva (Mạc Tư Khoa) thì lại có đường sắt. Kể ra hành trình chỉ có 10 ngày thôi. Học sinh tới Nga, nên đến Bắc Kinh trước, có quan Đại Sứ ở đó, vào xin lĩnh chứng thư và giấy giới thiệu. Nếu có rồi thì mọi phí tổn sau khi đến Moskva sẽ được Chính phủ tài trợ cho. Kể từ Việt Nam đến đất Nga, chi phí chỉ trong khoảng 200$ chắc cũng dễ lo liệu.\
+Lao Nông Chính phủ đối với tất cả đồng bào thế giới du học ở Nga rất là hoan nghênh. Người Việt Nam sang du học lại tiện lợi lắm:\
+ \
+Do Bắc Kinh đến Vladivostok (Hải Sâm Uy) bằng đường thủy đều được. Từ Vladivostok tới Moskva (Mạc Tư Khoa) thì lại có đường sắt. Kể ra hành trình chỉ có 10 ngày thôi.\
+ \
+Học sinh tới Nga, nên đến Bắc Kinh trước, có quan Đại Sứ ở đó, vào xin lĩnh chứng thư và giấy giới thiệu. Nếu có rồi thì mọi phí tổn sau khi đến Moskva sẽ được Chính phủ tài trợ cho. Kể từ Việt Nam đến đất Nga, chi phí chỉ trong khoảng 200$ chắc cũng dễ lo liệu.\
  \
 Nhưng du học sinh trước khi sang Nga học, phải thừa nhận những điều kiện sau:
  \

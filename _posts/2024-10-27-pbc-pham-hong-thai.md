@@ -10,7 +10,7 @@ parent:
 
 ![alt]({{ 'assets/images/chan-dung-pham-hong-thai.jpg' | absolute_url }})
 > <cite>
-<a target="_blank" href="https://cuoituan.tuoitre.vn/nha-yeu-nuoc-pham-hong-thai-1894-1924-tai-lieu-moi-ve-su-kien-tieng-bom-sa-dien-20240828104201468.htm">
+<a target="_blank" href="https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_bom_Ph%E1%BA%A1m_H%E1%BB%93ng_Th%C3%A1i">
 Chân dung Phạm Hồng Thái trong hồ sơ "Attentat de Shameem 19 Juin 1924" (Vụ mưu sát ở Sa diện 19/06/1924) của Sở Liêm phóng Đông Dương.
 </a>
 </cite>
@@ -57,6 +57,13 @@ Cơ hội vẫn còn, tinh thần thêm mạnh. Phạm quân tính vào nhà hà
 Thế là chỉ còn một cơ hội nữa thôi!
 {: .text-justify}
 
+![alt]({{ 'assets/images/ks-victoria-quang-dong-trong-to-gioi.jpg' | absolute_url }})
+> <cite>
+<a target="_blank" href="https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_bom_Ph%E1%BA%A1m_H%E1%BB%93ng_Th%C3%A1i">
+Vị trí khách sạn Victoria (chữ X màu đỏ) trên phần tô giới Sa Diện thuộc Anh, nơi diễn ra vụ "Tiếng bom Sa Diện".
+</a>
+</cite>
+
 Đồng hồ vừa chỉ vào 6h tối, Lãnh Sự và kiều dân Pháp, nào trai nào gái bước vào tửu điếm. Phút chốc có một thanh niên trai tráng theo chân đến. Người ấy sắc mặc pha vàng trắng, mà dưới bóng đèn điện thì thấy hơi hồng hồng. Mui trên có râu ngắn, kiểu râu Tây, đi giày Tây, tay xách kẹp da Tây, đi thẳng từ trong cửa mà vào. Hai tên cảnh binh, vẫn là người Tây, cũng nhận lầm là người Pháp vào ăn tiệc. Bởi vì toàn thân trang phục và phong thái đều y hệt người Pháp, lính cảnh binh đều không chút nghi ngờ.
 {: .text-justify}
 
@@ -86,7 +93,14 @@ Sau Phạm tiên sinh tuận quốc đã hai tháng, tức tháng 7 năm Giáp T
 Đến tháng 12 năm ấy, *"Trung Quốc Quốc Dân Đảng"* lãnh tụ như Liêu Trọng Khải, Uông Tinh Vệ, muốn kỷ niệm Phạm liệt sĩ để biểu thị cảm tình người Trung Quốc với đảng ta. Mới đem 3000$ giao cho người đảng ta, dời mộ Phạm liệt sĩ cải táng nơi một hòn núi nhỏ trước Hoàng Hoa Cương. Hoàng Hoa Cương là một 72 liệt sĩ, vì cách mạng với Mãn Thanh mà đồng thời tuận quốc, bây giờ hợp táng nơi này. Đối diện thì là mộ tiên sinh, kiến trúc tráng vĩ, có dựng bia đình, chữ mặt bia có đề rằng:
 {: .text-justify}
 
-Việt Nam Liệt Sĩ Phạm Hồng Thái Tiên Sinh Chi Mộ
+Việt Nam Liệt Sĩ Phạm Hồng Thái Tiên Sinh Chi Mộ\
  \
 Người đề chữ là Trần Lộ tiên sinh.
 {: .notice--warning .text-justify}
+
+![alt]({{ 'assets/images/mo-liet-si-pham-hong-thai.jpg' | absolute_url }})
+> <cite>
+<a target="_blank" href="https://vi.wikipedia.org/wiki/Ph%E1%BA%A1m_H%E1%BB%93ng_Th%C3%A1i">
+Mộ Liệt Sĩ Phạm Hồng Thái
+</a>
+</cite>

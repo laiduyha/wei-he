@@ -6,7 +6,21 @@ classes: wide
 parent:
   label: Phan Bội Châu
   url: phan-boi-chau
+nguyen-ai-quoc:
+  - url: /assets/images/nguyen-ai-quoc-quoc-te-cong-san-1.jpg
+    image_path: /assets/images/nguyen-ai-quoc-quoc-te-cong-san-1.jpg
+    title: "Nguyễn Ái Quốc (hàng đầu, thứ 3 từ trái sang) cùng các đại biểu tham dự Đại hội V Quốc tế Cộng sản"
+  - url: /assets/images/nguyen-ai-quoc-quoc-te-cong-san-2.jpg
+    image_path: /assets/images/nguyen-ai-quoc-quoc-te-cong-san-2.jpg
+    title: "Nguyễn Ái Quốc (ngồi trên sàn) cùng những người đảm bảo phục vụ kỹ thuật cho Đại hội V Quốc tế Cộng sản."       
 ---
+
+{% include gallery id="nguyen-ai-quoc" layout="half" %}
+> <cite>
+<a target="_blank" href="https://www.qdnd.vn/ky-niem-110-nam-ngay-bac-ho-ra-di-tim-duong-cuu-nuoc/hanh-trinh-lich-su/hanh-trinh-tren-que-huong-cach-mang-thang-muoi-nga-661020">
+Nguyễn Ái Quốc ở Đại hội V Quốc tế Cộng sản
+</a>
+</cite>
 
 ## <a href="/pbc-tuoi-tre-nuoi-chi-lon">Trước xuất dương</a>
 Cụ Phan Bội Châu (ở làng Đan Nhiệm, cách làng Kim Liên khoảng 4km) là bạn thân của cụ Phó bảng Nguyễn Sinh Sắc (1862-1929), thân phụ của Nguyễn Ái Quốc. Trước khi xuất dương sang Nhật tìm đồng chí, cụ Phan thường về làng Kim Liên, vào nhà cụ Phó bảng.
@@ -29,7 +43,13 @@ Lập thân hèn nhát ấy văn chương.\
 {: .notice--warning .text-justify}
 
 ## <a href="/pbc-ho-hao-sang-nhat">Thời kỳ phong trào Đông Du</a>
-Đầu năm 1905, cụ Phan xuất dương và tổ chức phong trào Đông du đưa thanh niên sang Nhật. Uy tín của Phan Bội Châu ngày càng lớn trong và ngoài nước. Cụ Phan muốn đưa Nguyễn Tất Thành và một số thanh niên sang Nhật nhưng anh không đi. Chịu ảnh hưởng của các phong trào chống Pháp, nhưng với trí thông minh bẩm sinh, Nguyễn Tất Thành suy nghĩ về nguyên nhân thất bại của các phong trào đầu thế kỷ 20 cũng như phong trào Cần Vương trước đó, đặc biệt đối với con đường Đông Du của cụ Phan. Mặc dù rất khâm phục tinh thần yêu nước thiết tha của cụ Phan, Nguyễn Tất Thành thấy rõ: Phan Bội Châu hy vọng Nhật giúp đỡ để đuổi Pháp. Điều đó rất nguy hiểm, chẳng khác gì *“đưa hổ cửa trước, rước beo cửa sau”*.
+Đầu năm 1905, cụ Phan xuất dương và tổ chức phong trào Đông du đưa thanh niên sang Nhật. Uy tín của Phan Bội Châu ngày càng lớn trong và ngoài nước. Cụ Phan muốn đưa Nguyễn Tất Thành và một số thanh niên sang Nhật nhưng anh không đi.
+{: .text-justify}
+
+Chịu ảnh hưởng của các phong trào chống Pháp, nhưng với trí thông minh bẩm sinh, Nguyễn Tất Thành suy nghĩ về nguyên nhân thất bại của các phong trào đầu thế kỷ 20 cũng như phong trào Cần Vương trước đó, đặc biệt đối với con đường Đông Du của cụ Phan
+{: .text-justify}
+
+Mặc dù rất khâm phục tinh thần yêu nước thiết tha của cụ Phan, Nguyễn Tất Thành thấy rõ: Phan Bội Châu hy vọng Nhật giúp đỡ để đuổi Pháp. Điều đó rất nguy hiểm, chẳng khác gì *“đưa hổ cửa trước, rước beo cửa sau”*.
 {: .text-justify}
 
 ## <a href="/pbc-nhung-ngay-cuoi-o-nuoc-ngoai">Những ngày cuối trên đất Trung</a>
