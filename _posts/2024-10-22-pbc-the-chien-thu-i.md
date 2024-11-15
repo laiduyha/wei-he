@@ -124,10 +124,10 @@ Gần vài tháng nay trinh thám Pháp không ngày nào không đến nhà ta.
 Bởi vì Long thua bỏ Quảng Đông, người Pháp chắc biết tôi cũng thoát ngục nên rình bắt gắt lắm. Tôi nghỉ lại Quảng Đông một ngày liền chạy về Thượng Hải. Nhưng Thượng Hải là tô giới của Anh, Pháp, người làm cho Pháp đông quá, nên tôi cũng không dám ở Thượng Hải. Nghe Mai Sơn tiên sinh đang ở Hàng Châu, tôi liền qua Hàng Châu ngay.
 {: .text-justify}
 
-Vừa lúc đó Lê Dư ở trong nước ra, đang ở Nhật Bản cùng với Kỳ Ngoại Hầu. Lê viết giấy mời tôi qua, bảo rằng có sẵn 2,000$ hễ đến Nhật Bản thì trao lại ngay. Tuy nhiên trong lòng tôi lúc này còn một mối bận tâm khác. Châu Âu đại chiến đã 3 năm mà chưa kết thúc, mà tin tức phần nhiều đang nghiêng về phía Đức. 9 huyện ở phía Bắc nước Pháp cả thảy đều rơi vào tay người Đức v.v... Những tin như thế làm tôi càng thêm nóng nảy, bồn chồn mà về nước.
+Vừa lúc đó Lê Dư ở trong nước ra, đang ở Nhật Bản cùng với Kỳ Ngoại Hầu. Lê viết giấy mời tôi qua, bảo rằng có sẵn 2000$ hễ đến Nhật Bản thì trao lại ngay. Tuy nhiên trong lòng tôi lúc này còn một mối bận tâm khác. Châu Âu đại chiến đã 3 năm mà chưa kết thúc, mà tin tức phần nhiều đang nghiêng về phía Đức. 9 huyện ở phía Bắc nước Pháp cả thảy đều rơi vào tay người Đức v.v... Những tin như thế làm tôi càng thêm nóng nảy, bồn chồn mà về nước.
 {: .text-justify}
 
-Nhưng các lối Quảng Đông, Quảng Tây đã chông gai đen nghịt. Chỉ duy có lối từ đường Vân Nam về nước ta đang còn có thể đi được, vả lại ở Vân Nam tôi cũng có nhiều bạn quen cũ. Vì thế tôi nóng lòng muốn đi Vân Nam. Nhưng tính các tổn phí thì ít nhất cũng 1,000$ nên khi nghe đến món tiền của Lê Dư nói tôi cũng muốn qua lấy.
+Nhưng các lối Quảng Đông, Quảng Tây đã chông gai đen nghịt. Chỉ duy có lối từ đường Vân Nam về nước ta đang còn có thể đi được, vả lại ở Vân Nam tôi cũng có nhiều bạn quen cũ. Vì thế tôi nóng lòng muốn đi Vân Nam. Nhưng tính các tổn phí thì ít nhất cũng 1000$ nên khi nghe đến món tiền của Lê Dư nói tôi cũng muốn qua lấy.
 {: .text-justify}
 
 Không lâu sau lại tiếp được bức thư của ông Trần Hữu Công nói rằng:
@@ -141,7 +141,7 @@ Hiện có được tin trọng yếu rằng Nhật-Đức có ý muốn kết �
 Được giấy Trần như thế, tôi lại nóng lòng qua Nhật Bản. Mặt ngoài thì hội lại với Lê Dư, mặt trong muốn gặp lại những chính khách Nhật ngày xưa như Inukai Tsuyoshi, Fukushima Yasumasa để thăm dò chân tướng mối quan hệ với Đức.
 {: .text-justify}
 
-Lần này tôi ở Nhật hơn bốn tháng, mà món tiền ông Lê hứa với tôi không phải một lần trao ngay mà mỗi tháng cấp cho một ít. Ba tháng sau thì mới được hơn 1,000$. Tôi vì nóng lòng về nước, được số ấy cũng đã là hay rồi. Tháng 7 năm ấy cùng với ông Trần Hữu Châu về Hàng Châu. Tại đây thì nhận được thư của hai ông Trương Quốc Uy và Lê Ấp Tốn gửi lại.
+Lần này tôi ở Nhật hơn bốn tháng, mà món tiền ông Lê hứa với tôi không phải một lần trao ngay mà mỗi tháng cấp cho một ít. Ba tháng sau thì mới được hơn 1000$. Tôi vì nóng lòng về nước, được số ấy cũng đã là hay rồi. Tháng 7 năm ấy cùng với ông Trần Hữu Châu về Hàng Châu. Tại đây thì nhận được thư của hai ông Trương Quốc Uy và Lê Ấp Tốn gửi lại.
 {: .text-justify}
 
 Nguyên hai ông này xuất dương lúc *"Việt Nam Quang Phục Hội"* mói thành lập, từng ở Quảng Đông sống cùng với tôi. Quang Phục Hội giải tán, hai ông lên Bắc Kinh vào học trường sĩ quan. Sau khi tốt nghiệp thì lưu lại Bắc Kinh.
@@ -164,6 +164,6 @@ Giả như Đảng các ngài khởi nghĩa được ở Đông Dương thì ch�
 Nghe người Đức nói như thế, Trương, Lê mới góp hết ý kiến anh em ta ở Bắc Kinh, như Hoàng Đình Tuân, Đặng Hồng Phấn, thương thảo lại các điều kiện, làm thành một bản hợp đồng đến Thiên Tân để ký kết với người Đức. Hai ông mới đi vào tô giới người Anh, chưa đến tô giới Đức thì bị quân Anh chụp bắt. Xét trong túi có hợp đồng nên dẫn độ về lãnh sự Pháp. Ông Lê bị bắt trước, ông Trương may nhờ đi sau mà chạy thoát được. Ông Lê bị bắt giải về Hà Nội, bắt tội thông Đức, bị án chung thân rồi chết trong sở ngục.
 {: .text-justify}
 
-Cái kết quả này, sau điều tra thì vì có một mật thám cho Pháp là người Vân Nam được bạc thưởng 3,000$ mà người này lại là bạn thân thiết của **Phan Bá Ngọc**, từng học ở trường sĩ quan.
+Cái kết quả này, sau điều tra thì vì có một mật thám cho Pháp là người Vân Nam được bạc thưởng 3000$ mà người này lại là bạn thân thiết của **Phan Bá Ngọc**, từng học ở trường sĩ quan.
 {: .text-justify}
 

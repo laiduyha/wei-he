@@ -48,7 +48,8 @@ Giai đoạn này tuy làm thuê bằng bút mực, đại trượng phu ai có 
 {: .text-justify}
 
 ## Cải tổ *"Việt Nam Quang Phục Hội"* thành *"Việt Nam Quốc Dân Đảng"*
-Tháng 7 năm Giáp Tý (1924), tôi về Quảng Đông ở lại ba tháng vì muốn cải tổ *"Việt Nam Quang Phục Hội"*. Nguyên trước đây *"Quang Phục Hội"* trải qua 4 năm tôi ngồi tù mà đảng nhân ta bảy rớt tám rụng rồi. *"Quang Phục Hội"* chỉ thành ra một bức thần vị để tế trên bàn thờ mà thôi. Đến mùa xuân năm Giáp Tý này vì chuyện Nguyễn Hồng Thái ám sát quan toàn quyền Pháp mà sĩ khí cách mạng nước nhà tăng lên. Việc đảng may có hy vọng trùng hưng, nên anh em Quảng Đông khuyên tôi về lại để cải tổ.
+Tháng 7 năm Giáp Tý (1924), tôi về Quảng Đông ở lại ba tháng vì muốn cải tổ *"Việt Nam Quang Phục Hội"*. Nguyên trước đây *"Quang Phục Hội"* trải qua 4 năm tôi ngồi tù mà đảng nhân ta bảy rớt tám rụng rồi. *"Quang Phục Hội"* chỉ thành ra một bức thần vị để tế trên bàn thờ mà thôi. Đến mùa xuân năm Giáp Tý này vì chuyện <a href="/pbc-pham-hong-thai" target="_blank">Phạm Hồng Thái</a> ám sát quan toàn quyền Pháp mà sĩ khí cách mạng nước nhà tăng lên. Việc đảng may có hy vọng trùng hưng, nên anh em Quảng Đông khuyên tôi về lại để cải tổ.
+{: .text-justify}
 
 Vừa lúc ấy Tưởng Giới Thạch tiên sinh đang làm hiệu trưởng trường sĩ quan Hoàng Phố, Lý Tề Thâm thì làm giám đốc. Tưởng Giới Thạch trước kia cũng học ở Chấn Võ học viện nên cũng được coi là quen biết. Tôi cùng Nguyễn Hải Thần vào hiệu kiến hai ông ấy, tham quan trường, lại mưu việc đưa học sinh ta vào học. Tưởng cùng Lý rất tán thành.
 {: .text-justify}

@@ -82,7 +82,7 @@ Quyền giáo dục nước tôi hoàn toàn ở trong tay người Pháp. Học
 Người nước tôi cầu một sự sống trong vạn cái chết, chỉ duy còn một cách là bạo động. Lấy bạo động là tiền đề để cải cách giáo dục vậy.
 {: .notice .text-justify}
 
-Tôi nhân lấy câu *"Giáo dục và bạo động đồng thời tiến hành"* của Giuseppe Mazzini mà cáo với tiên sinh và đồng thời lấy dẫn chứng về lịch sử những thất bại của đảng mình xưa nay. Cuối cùng tiên sinh cũng cho là phải, lấy 4,000$ tặng ngay cho tôi, rồi đem 30 viên tạc đạn quân dụng làm quà.
+Tôi nhân lấy câu *"Giáo dục và bạo động đồng thời tiến hành"* của Giuseppe Mazzini mà cáo với tiên sinh và đồng thời lấy dẫn chứng về lịch sử những thất bại của đảng mình xưa nay. Cuối cùng tiên sinh cũng cho là phải, lấy 4000$ tặng ngay cho tôi, rồi đem 30 viên tạc đạn quân dụng làm quà.
 {: .text-justify}
 
 Lâu nay tôi khốn khổ về cảnh túng bấn nghèo nàn, không khác gì người hết gạo nhịn ăn lâu lắm rồi. Bây giờ được tiên sinh vác một số tiền lớn lao mà cho, khiến mình vui mừng yên ủi, vì lại có tiền để hoạt động. Ơn lớn của tiên sinh thiệt dầu đến chết tôi cũng không dám quên.
@@ -137,7 +137,7 @@ Chương trình Hội Quang Phục do tôi thảo ra, được toàn thể hội
 Quang Phục Hội chương trình và tuyên ngôn, in xong gửi người đem về phân bố, phát tán. Nhưng khốn một điều vì lúc đó, ông Lý Tuệ đã bị đi tù, không có người bí mật ở dưới tàu thủy. Mà đường bộ mang sách lại quá khó khăn, nên những văn kiện đó về lại trong nước rất ít.
 {: .text-justify}
 
-Thời điểm này, kinh phí hoạt động vẫn là hết sức khó khăn. Góp cả ba kỳ chỉ được hơn 2,000$. So với thời *"Hội Duy Tân"* đang thịnh thì tình hình vận động trong nước hiện tại khổ gấp mấy lần. Khi mọi người sắp sửa về nước, tôi cũng đồng thời hết sức vận động ở ngoài.
+Thời điểm này, kinh phí hoạt động vẫn là hết sức khó khăn. Góp cả ba kỳ chỉ được hơn 2000$. So với thời *"Hội Duy Tân"* đang thịnh thì tình hình vận động trong nước hiện tại khổ gấp mấy lần. Khi mọi người sắp sửa về nước, tôi cũng đồng thời hết sức vận động ở ngoài.
 {: .text-justify}
 
 ## Phát hành *"Quân Dụng Phiếu"*
@@ -182,7 +182,7 @@ Sự nghiệp cách mạng vốn trọng thực tế, nhưng cũng có lúc cũn
 Trước lập một cơ quan, tô vẽ mặt ngoài để người ta chú ý đến, khiến người Quảng Đông đây tưởng rằng các ông bên trong cũng đã có 5, 6 phần rồi. Đó cũng là một cách *"hư giả thực chi"* của nhà binh vậy.
 {: .notice .text-justify}
 
-Tôi nghe lời họ bàn và ý mình cũng không thấy vấn đề gì, mới quyết làm theo cách ấy. Số bạc 4,000$ của Trần Kỳ Mỹ tiên sinh cấp cho dùng vào việc trên ngốn hết 2,800$. Chúng tôi đặt ra *"Chấn Hoa Hưng Á Hội"*, thảo một chương trình và một bức tuyên ngôn đại lược như sau:
+Tôi nghe lời họ bàn và ý mình cũng không thấy vấn đề gì, mới quyết làm theo cách ấy. Số bạc 4000$ của Trần Kỳ Mỹ tiên sinh cấp cho dùng vào việc trên ngốn hết 2,800$. Chúng tôi đặt ra *"Chấn Hoa Hưng Á Hội"*, thảo một chương trình và một bức tuyên ngôn đại lược như sau:
 {: .text-justify}
 
 Trung Hoa đất lớn, người đông, của nhiều, chiếm dải đất lớn nhất ở Châu Á. Lại là nước giàu truyền thống văn hóa nhất ở Phương Đông. Thiên chức Trung Hoa đáng làm huynh trưởng cho toàn Á mà vun trồng các tiểu quốc ở Á Đông mới là tròn chức trách ấy. Còn như thời đại Mãn Thanh, vứt bỏ cái chức trách huynh trưởng ấy, thiệt là làm nhục cho Trung Hoa lắm.\
@@ -220,7 +220,7 @@ Hồi đó các nhà làm báo ở Quảng Đông nhiều người quen với t�
 Công cuộc viện Việt, trăm việc gì tiến hành cũng phải cần có tiền, mà phương pháp tiện nhất chính là phát hành *"Quân Dụng Phiếu"*. Nay *"Việt Nam Quang Phục Hội"* đã in ra *"Quân Dụng Phiếu"*, xin đồng bào cả thảy Hoa Việt vui lòng nhận mua cho.
 {: .notice .text-justify}
 
-Đặng tiên sinh nói xong, người tại đại hội tán thành đông lắm. Cuối buổi thu được hơn 1,000$ giao hết cho *"Việt Nam Quang Phục Hội"*. Từ lúc thành lập đến giờ, tôi cuối cùng mới thấy được chút hy vọng. May mắn là tỉnh trưởng Quảng Đông lúc đó là Trần Quýnh Minh đồng tình với đảng cách mạng nên không can thiệp gì đến việc đảng làm.
+Đặng tiên sinh nói xong, người tại đại hội tán thành đông lắm. Cuối buổi thu được hơn 1000$ giao hết cho *"Việt Nam Quang Phục Hội"*. Từ lúc thành lập đến giờ, tôi cuối cùng mới thấy được chút hy vọng. May mắn là tỉnh trưởng Quảng Đông lúc đó là Trần Quýnh Minh đồng tình với đảng cách mạng nên không can thiệp gì đến việc đảng làm.
 {: .text-justify}
 
 Những tổn phí về giao thiệp, bôn tẩu coi như cũng vừa đủ chi trả, không đến nỗi bị lòi cái mặt bần cùng ra. Hiện giờ đảng chỉ còn chú tâm vào việc tiến hành bạo động mà thôi.

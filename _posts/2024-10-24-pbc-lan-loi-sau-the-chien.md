@@ -94,7 +94,7 @@ Ngày tôi tới thành Vân Nam là ngày 29 tháng 11 âm lịch, dày đặc 
 Đến sáng ngày sau, gấp chạy mua tờ báo mới biết Thế chiến thứ I kết thúc rồi! Đức đã chịu khuất phục, nước Pháp đã nở mày nở mặt, làm một nước chiến thắng toàn cầu! Luôn mấy ngày nay ở trong thành Vân Nam, tất thảy đều là cảnh tượng chúc mừng nước Pháp thắng trận.
 {: .text-justify}
 
-Chúng tôi trong lúc cơ hàn bĩ cực, lại nỡ đem số bạc mới kiếm được hơn 1,000$ vứt vào hư không vô ích. Nghĩ cũng quá ngu! Nhưng ý chúng tôi trước kia cũng tưởng Châu Âu đại chiến phải tận 6, 7 năm nữa mới tan. Ai dè việc thiên hạ, bỏ sai một con tính vào thì hao công tốn của nhiều không kể xiết. Thế là bao kế hoạch, lý tưởng trước kia mang tới đây, tất thảy đều theo mây gió cả!
+Chúng tôi trong lúc cơ hàn bĩ cực, lại nỡ đem số bạc mới kiếm được hơn 1000$ vứt vào hư không vô ích. Nghĩ cũng quá ngu! Nhưng ý chúng tôi trước kia cũng tưởng Châu Âu đại chiến phải tận 6, 7 năm nữa mới tan. Ai dè việc thiên hạ, bỏ sai một con tính vào thì hao công tốn của nhiều không kể xiết. Thế là bao kế hoạch, lý tưởng trước kia mang tới đây, tất thảy đều theo mây gió cả!
 {: .text-justify}
 
 Tôi tức khắc rời Vân Nam, theo đường cũ mà về lại Hàng Châu. Đi đến Trùng Khánh, thì tiền trong túi đã sạch sành sanh!!! Vạn bất đắc dĩ lại phải vào yết kiến Hoàng Phục Sinh. Hoàng khuyên tôi ở lại Trùng Khánh, giúp việc văn thư cho Hoàng. Hoàng liền sau đó cấp cho tôi một mảnh bằng trong đó nói:
@@ -133,6 +133,7 @@ Tôi bèn biên một giấy xin tha gửi cho Quảng Đốc Mạc Vinh Tân xi
 {: .text-justify}
 
 Đến hạ tuần tháng 3 thì cụ Mai được tha ra. Khoảng tháng tư thì cụ đến Thượng Hải, cùng với hai đồng chí khác là ông Hy Cao và ông Kim Đài. Hai ông này bị đày ở tận Côn Luân, phải kết bè vượt biển, vượt qua bao gian nan khốn khổ mới thoát được thân. Nay biết được tin cả ba ông thì rất mừng. Ngờ đâu sau đó bốn ngày thì lại nhận được tin ba người đó bị bắt cả rồi. 
+{: .text-justify}
 
 Được tin tôi vội bỏ Nhật Bản về lại Hàng Châu để tìm ra chân tướng vụ việc. Vì việc này tôi rất muộn phiền, cứu cụ ra tù mà hóa ra là dâng tặng quà cho mật thám Pháp để chúng lập được công. Lại tạo thành sự nghiệp cho con người kia phản cha, bán nước!
 {: .text-justify}
