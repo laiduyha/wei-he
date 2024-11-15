@@ -72,11 +72,11 @@ Vì lúc bấy giờ, lối học khoa cử của nhà Thanh, đang sôi nổi n
 Than ôi! Chổi cùn trong nhà, tự mình xem là của quý, sự ưa thích lâu đời đã thành thói quen thành ra rốt cuộc tôi cũng bị thời trang trói buộc, đến nỗi tiêu hao ngày tháng về nghiệp khoa cử gần hết nửa đời người. Đó là một vết nhơ rất lớn trong đời tôi vậy.
 {: .text-justify}
 
-## Cùng anh em đồng Chí tổ chức ra《Đội Sĩ tử Cần Vương》
+## Cùng anh em đồng chí tổ chức ra *"Đội Sĩ Tử Cần Vương"*
 Năm tôi 17 tuổi tức là năm Tự Đức 36, Quý Mùi (1884), binh Pháp chiếm lấy Hà Nội và các tỉnh Bắc Kỳ. 
 {: .text-justify}
 
-Đến năm tôi 19 tuổi, nhằm năm Ất Dậu (1886), Hàm Nghi nguyên niên, binh Pháp chiếm kinh thành Huế, vua Hàm Nghi phải chạy: cung điện bầy ra cảnh hoang lương, nhởn nhơ bầy nai, đầy dăng ổ quạ, tấn kịch vong quốc mở ra từ tháng 7 Hàm Nghi năm đầu trở đi vậy. 
+Đến năm tôi 19 tuổi, nhằm năm Ất Dậu (1886), Hàm Nghi nguyên niên, binh Pháp chiếm kinh thành Huế, vua Hàm Nghi phải chạy. Cung điện bầy ra cảnh hoang lương, nhởn nhơ bầy nai, đầy dăng ổ quạ, tấn kịch vong quốc mở ra từ tháng 7 Hàm Nghi năm đầu trở đi vậy. 
 {: .text-justify}
 
 Ôi! Trời nghiêng đất ngã, lúc này kẻ làm trai đội trời đạp đất, ai nỡ dòm non sông bằng con mắt gỗ đá, trơ trơ cho đành!
@@ -88,10 +88,10 @@ Năm tôi 17 tuổi tức là năm Tự Đức 36, Quý Mùi (1884), binh Pháp 
 Sau lúc kinh thành thất thủ, vua Hàm Nghi ngự giá ra đóng tại sơn phòng tỉnh Hà Tĩnh, các bực quan thân đang ở nhà; như Nguyễn Xuân Ôn, Đinh Văn Chất, đua nhau dựng cờ Cần Vương, phong trào tràn lan khắp các phủ huyện đều có. Ngó lại tôi còn là một tên học trò nhỏ tuổi, nào đã có thế lực gì dám cùng các cụ cùng nổi lên làm việc lớn. Mình như con chim con, lông cánh chưa đủ, nanh vuốt còn non tự nghĩ mà buồn. Lại nhớ đến chuyện anh hùng của Phù Đổng Thiên Vương ngày xưa ba tuổi cỡi ngựa đánh giặc tôi nghĩ tôi thật là một thằng con trai hèn quá.
 {: .text-justify}
 
-Suy đi tính lại, không biết làm cách gì, chỉ còn có cách kêu gào bọn đồng môn, tổ chức ra một đội quân học trò giúp vua, gọi là《Đội Sĩ tử Cần Vương》Tôi với cậu bạn thân Trần Văn Lương là người ​phát khởi, cùng tôn ông cử nhân Đinh Xuân Sung lên làm đội trưởng; tôi thì làm phó đội. Đội này chỉ có lối ngoài một trăm người.
+Suy đi tính lại, không biết làm cách gì, chỉ còn có cách kêu gào bọn đồng môn, tổ chức ra một đội quân học trò giúp vua, gọi là *"Đội Sĩ Tử Cần Vương"* Tôi với cậu bạn thân Trần Văn Lương là người ​phát khởi, cùng tôn ông cử nhân Đinh Xuân Sung lên làm đội trưởng, tôi thì làm phó đội. Đội này chỉ có khoảng một trăm người.
 {: .text-justify}
 
-Công việc sắp đặt hơi yên, duy có binh lương khí giới chưa có cách tìm đâu cho ra. Vừa gặp lúc người Pháp đem đại binh tới hạ thành Nghệ An, rồi thừa thắng tiến binh đánh dẹp các phủ huyện. Đội quân của chúng tôi tổ chức, cả lương lẫn súng đạn đều không có, thành ra chỉ trong giây lát, như bầy muông chim vỡ lở tứ tán. Tôi phải trà trộn trong đám nạn dân mà chạy thoát thân.
+Công việc sắp đặt gần yên ổn, duy có binh lương, khí giới chưa có cách tìm đâu cho ra. Vừa gặp lúc người Pháp đem đại binh tới hạ thành Nghệ An, rồi thừa thắng tiến binh đánh dẹp các phủ huyện. Đội quân của chúng tôi tổ chức, cả lương lẫn súng đạn đều không có, thành ra chỉ trong giây lát, như bầy muông chim vỡ lở tứ tán. Tôi phải trà trộn trong đám nạn dân mà chạy thoát thân.
 {: .text-justify}
 
 

@@ -35,16 +35,16 @@ Năm Canh Thân, Tân Dậu (1920-1921), tôi thường đi đi lại lại ở 
 
 - Bản *"Dư Chí Phúc Âm"*, 12 chương lớn, chuyên thuộc về khai đạo cảnh giác cho quốc dân.
 - Bản *"Việt Nam Nghĩa Liệt Sử"*, chỉ ghi chép lại những việc cũ của các đồng chí đã chết. Những kẻ sĩ hy sinh vì nước mà tôi mắt thấy tai nghe.
-- Bản *"Á Châu CHi Phúc Âm"*, ước hơn 50 chương, chuyên phát huy tư tưởng Liên Á. Chủ yêu thì cốt ở Trung-Nhật đồng tâm. Đại lược cũng y như *"Liên Á xổ ngôn"*.
+- Bản *"Á Châu Chi Phúc Âm"*, ước hơn 50 chương, chuyên phát huy tư tưởng Liên Á. Chủ yếu thì cốt ở Trung-Nhật đồng tâm. Đại lược cũng y như *"Liên Á xổ ngôn"*.
 {: .text-justify}
 
-Năm Nhâm Tuất (1922), lúc bấy giờ tôi đang ở Bắc Kinh thì nhận được giấy của người bạn là Lâm Lượng Sinh đang làm biên tập của Tạp chí Quân Sự Hàng Châu. Tạp chí này được lập ra để Trung Hoa Chính phủ tiện thu dụng những người Việt Nam từng tốt nghiệp trường sĩ quan ở Bắc Kinh mà không thể ở trong quân giới được. Tiếp được giấy của Lân Tiên Sinh tôi mới bỏ Bắc Kinh về lại Hàng Châu, gánh chức biên tập viên cho tạp chí quân sự này, mỗi tháng được 70$.
+Năm Nhâm Tuất (1922), lúc bấy giờ tôi đang ở Bắc Kinh thì nhận được giấy của người bạn là Lâm Lượng Sinh đang làm biên tập của Tạp chí Quân Sự Hàng Châu. Tạp chí này được lập ra để Trung Hoa Chính phủ tiện thu dụng những người Việt Nam từng tốt nghiệp trường sĩ quan ở Bắc Kinh mà không thể ở trong quân giới được. Tiếp được giấy của Lâm tiên sinh tôi mới bỏ Bắc Kinh về lại Hàng Châu, gánh chức biên tập viên cho tạp chí quân sự này, mỗi tháng được 70$.
 {: .text-justify}
 
-Tôi về Hàng Châu cũng vì nghĩ đây là chỗ danh lam thắng cảnh bậc nhất ở đất Trung Hoa này. Vườn ông Lâm Bô, mộ ông Nhạc Phi, đình ông Từ Tích Lân, miếu mộ bà Thu Cận, hết thảy đều ở chốn này. Nếu ở đây thường được đàm tâm với người chín suối, phúc phận cũng khá to. Vả lại bạn cũ cách mạng ở đây cũng là nhiều nhất. Cụ Mai Sơn (Nguyễn Thượng Hiền) cùng đầu thiền chốn ấy.
+Tôi về Hàng Châu cũng vì nghĩ đây là chỗ danh lam thắng cảnh bậc nhất ở đất Trung Hoa này. Vườn ông Lâm Bô, mộ ông Nhạc Phi, đình ông Từ Tích Lân, miếu mộ bà Thu Cận, hết thảy đều ở chốn này. Nếu ở đây thường được đàm tâm với người chín suối, phúc phận cũng khá to. Vả lại bạn cũ cách mạng ở đây còn nhiều nhất, như cụ Mai Sơn (Nguyễn Thượng Hiền) cũng về ở chốn ấy.
 {: .text-justify}
 
-Giai đoạn này tuy làm thuê bằng bút mực, đại trượng phu ai có thiết gì, nhưng mỗi tháng dư được bao nhiêu tiền cũng đủ chu cấp cho vài ba thiếu niên đi học. Ngoài ra còn có một việc cũng là thú vui tiêu khiển trong lúc cùng đồ. Hễ gặp bài xã luận, tiểu thuyết thì cố phát huy cho hết tinh thần thế giới cách mạng, mà những văn chương về chửi mắng Đế quốc Thực Dân, thì vì thuộc phạm trù quân sự nên sướng miệng mà nói lắm.
+Giai đoạn này tuy làm thuê bằng bút mực, đại trượng phu ai có thiết gì. Được cái mỗi tháng dư được chút tiền thì cũng đủ chu cấp cho vài ba thiếu niên đi học. Ngoài ra còn có một việc cũng là thú vui tiêu khiển trong lúc cùng đồ. Hễ gặp bài xã luận, tiểu thuyết thì cố phát huy cho hết tinh thần thế giới cách mạng. Còn về những văn chương mà chửi mắng Đế quốc Thực Dân, thì vì thuộc phạm trù quân sự, nên sướng miệng mà nói lắm.
 {: .text-justify}
 
 ## Cải tổ *"Việt Nam Quang Phục Hội"* thành *"Việt Nam Quốc Dân Đảng"*
@@ -66,18 +66,18 @@ Tôi sau đó bèn thương thảo với các đồng chí, bỏ đi *"Quang Ph�
 Ở trong Chấp Hành bộ lại đặt ra 6 ty:
 {: .text-justify}
 
-a. Văn Độc ty
-b. Tuyên Truyền ty
-c. Quân Sự ty
-d. Tài Chính ty
-e. Thứ Vụ ty
-f. Huấn luyện ty
+1. Văn Độc ty
+2. Tuyên Truyền ty
+3. Quân Sự ty
+4. Tài Chính ty
+5. Thứ Vụ ty
+6. Huấn luyện ty
 {: .text-justify}
 
 Quy mô tổ chức đều theo khuôn mẫu của *"Quốc Dân Đảng Trung Quốc"* mà chỉnh sửa lại một ít cho đúng với tình hình nước ta.
 {: .text-justify}
 
-Việc ấy sắp đặt xong đến tháng 9 năm Giáp Tý (1924) tôi quay lại Hàng Châu. Còn những chương trình Đảng cương của *"Việt Nam Quốc Dân Đảng"* cả thảy ủy cho ông Hồ Tùng Mậu tìm cách đưa về trong nước. Sau tôi về lại Hàng Châu rồi, có đưa được về trong nước hay không, tôi không được biết. Và bản chương trình ấy giờ có thay đổi thế nào, tôi cũng không được biết.
+Việc ấy sắp đặt xong đến tháng 9 năm Giáp Tý (1924) tôi quay lại Hàng Châu. Còn những chương trình Đảng cương của *"Việt Nam Quốc Dân Đảng"* đều ủy thác lại cho ông Hồ Tùng Mậu tìm cách đưa về trong nước. Sau tôi về lại Hàng Châu rồi, có đưa được về trong nước hay không, tôi không được biết. Bản chương trình ấy giờ có thay đổi thế nào, tôi cũng không được biết.
 {: .text-justify}
 
 ## Bị bắt về nước
@@ -94,5 +94,5 @@ Ngày 11 tháng 5 năm Ất Sửu (1925) tôi gấp lên Thượng Hải, tính 
 12h chính trưa ngày 11 tháng 5, xe lửa Hàng Châu đi đến Bắc trạm. Tôi vì nóng lòng gửi tiền nên gửi lại hành lý ở ga, chỉ mang 1 cái vali nhỏ đi ra. Ra cửa ga thấy một cổ xe khá lịch sự, xung quanh là bốn người Tây. Tôi không nhận ra được là người Pháp, vì ở xứ Thượng Hải này, người Tây ăn mặc sang trọng không biết chừng nào mà kể. Đem xe hơi rước khách cũng là thông lệ của các lãnh sự quán to. Tôi có biết đâu chiếc xe hơi này là hàng của quân bắt cóc người đâu!
 {: .text-justify}
 
-Tôi mới ra khỏi cửa ga vài ba bước, thì thấy một người Tây hung dữ lại trước mặt tôi, dùng tiếng Quan Thoại mà cự cãi. Đương lúc cự cãi thì lình ba người Tây nữa ở sau xe ra, hết sức đẩy tôi lên xe. Máy xe tức khắc nổ, thì tôi đã vào trong tô giới Pháp!. Xe chạy tới đây, binh lính Pháp đã chờ sẵn. Tôi thành ra người tù mất rồi!
+Tôi mới ra khỏi cửa ga vài ba bước, thì thấy một người Tây hung dữ lại trước mặt tôi, dùng tiếng Quan Thoại mà cự cãi. Đương lúc cự cãi thì lình ba người Tây nữa ở sau xe ra, hết sức đẩy tôi lên xe. Máy xe tức khắc nổ, thì tôi đã vào trong tô giới Pháp!. Xe chạy tới đây, binh lính Pháp đã chờ sẵn. Lúc này tôi mới nhận ra mình bị bắt mất rồi!
 {: .text-justify}

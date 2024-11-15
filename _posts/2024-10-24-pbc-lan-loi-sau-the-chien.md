@@ -191,7 +191,7 @@ Nê Dung từ biệt tôi về. Sau tôi mới làm một bức thư phú đáp 
 Tháng bảy năm Kỷ Dậu (1919), tôi rời Hàng Châu, quay lại Nhật Bản. Từ đó về sau, trong khoảng 4 năm không có việc gì làm. Lúc thì ngồi buồn vô liêu, lúc lại chạy rông một độ.
 {: .text-justify}
 
-### Phan Bá Ngọc bị ám sát
+### <a target="_blank" href="/pbc-vu-am-sat-phan-ba-ngoc">Phan Bá Ngọc bị ám sát</a>
 Năm Nhâm Tuất (1922) ngày 15 tháng Giêng, tôi còn ở Bắc Kinh làm biên tập viên cho *"Đông Á Tần Văn"* thì nhận được tin ở Hàng Châu có một vụ ám sát.
 {: .text-justify}
 
