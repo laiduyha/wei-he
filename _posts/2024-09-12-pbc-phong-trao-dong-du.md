@@ -154,11 +154,12 @@ Nguyên trước kia tôi và các cụ trong đảng với Kỳ Ngoại Hầu, 
 Từ sau Phan Châu Trinh ở Nhật Bản về, lại xướng mạnh lên thuyết *"Tôn dân đổ vua, dựa Pháp cầu tiến bộ"* chuyên công kích Quân Chủ mà không nói đến người Pháp. Dư luận lúc ấy rất phân vân, cơ hồ nổi lên nhiều tranh cãi trong đảng. Lưu Ấm Sinh sở dĩ ra đi, chính vì lẽ ấy.
 {: .text-justify}
 
-Tôi gấp bỏ Hồng Kong đến Tokyo, thượng tuần tháng hai, năm Đinh Mùi (1907) thì tới nơi. Anh em thấy tôi ai nấy đều vui mừng, mà trong lòng tôi thiệt là một múi sầu như kim châm, vì lo nỗi đảng phân liệt. Tôi mới tự mình thảo một bức thư gửi ông Lưu để đưa về cho cụ Tây Hồ cầu cứu. Trong thư có câu: 
+Tôi gấp bỏ Hồng Kong đến Tokyo, thượng tuần tháng hai, năm Đinh Mùi (1907) thì tới nơi. Anh em thấy tôi ai nấy đều vui mừng, mà trong lòng tôi thiệt là một múi sầu như kim châm, vì lo nỗi đảng phân liệt. Tôi mới tự mình thảo một bức thư gửi ông Lưu để đưa về cho cụ Tây Hồ. Trong thư có câu: 
 
 Dân chi bất tồn, chủ ư hà hữu?\
  \
 *Nghĩa là:*\
+ \
 Nếu dân đã không còn, thì chủ có ở đâu?
 {: .notice--warning .text-justify}
 > <cite>
@@ -167,7 +168,7 @@ Xem thêm *"Thư gửi cụ Tây Hồ"*
 </a>
 </cite>
 
-Là cốt để hòa hoãn ý kiến của ông Tây Hồ. Tôi sau đó thương lượng với Kỳ Ngoại Hầu rằng:
+Là cốt để hòa hoãn ý kiến của cụ Tây Hồ. Tôi sau đó thương lượng với Kỳ Ngoại Hầu rằng:
 
 Các thuyết bài quân, nếu mai này lan rộng thì nhân tâm Trung, Bắc Kỳ tất hiện ra vẻ bàng hoàng, tan vỡ. Nhân tâm không thống nhất thì vận động ở chỗ nào?\
  \
