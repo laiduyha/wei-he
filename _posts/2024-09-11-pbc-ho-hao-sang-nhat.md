@@ -6,6 +6,19 @@ classes: wide
 parent:
   label: Phan Bội Châu
   url: phan-boi-chau
+chan-vo-hoc-hieu:
+  - url: /assets/images/chan-vo-hoc-hieu-1.jpg
+    image_path: /assets/images/chan-vo-hoc-hieu-1.jpg
+    title: "Chấn Võ Học Hiệu nay là trường Nữ Y Khoa Nhật Bản"
+  - url: /assets/images/chan-vo-hoc-hieu-2.jpg
+    image_path: /assets/images/chan-vo-hoc-hieu-2.jpg
+    title: "Một lớp học trong trường"
+  - url: /assets/images/chan-vo-hoc-hieu-3.jpeg
+    image_path: /assets/images/chan-vo-hoc-hieu-3.jpeg
+    title: "Du học sinh Trung Quốc tại trường"     
+  - url: /assets/images/chan-vo-hoc-hieu-4.jpg
+    image_path: /assets/images/chan-vo-hoc-hieu-4.jpg
+    title: "Tưởng Giới Thạch (đứng bên trái), cựu học sinh của trường"   
 ---
 
 **Ái quốc - Phan Bội Châu**\
@@ -151,7 +164,7 @@ Ngày sau đảng ta khi gặp nguy khốn được đảng họ giúp cũng nhi
 {: .text-justify}
 
 ## Hô hào thanh niên qua Nhật cầu học
-![alt]({{ 'assets/images/chan-vo-hoc-hieu.jpg' | absolute_url }})
+{% include gallery id="chan-vo-hoc-hieu" layout="half" %}
 > <cite>
 <a target="_blank" href="https://zh.wikipedia.org/wiki/%E4%B8%9C%E4%BA%AC%E6%8C%AF%E6%AD%A6%E5%AD%A6%E6%A0%A1">
 Chấn Võ học hiệu - Tokyo Shinbu Gakkō - 東京振武学校 (1896-1914)
