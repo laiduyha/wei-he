@@ -21,7 +21,7 @@ Theo như lời ông Lê nói cũng là đắc sách lắm. Tôi tin lời hai n
 </cite>
 
 
-![alt]({{ 'assets/images/bia-phap-viet-de-hue.jpq' | absolute_url }})
+![alt]({{ 'assets/images/bia-phap-viet-de-hue.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://vi.m.wikisource.org/wiki/Trang:Phap-Viet_de_hue_chinh_kien_thu.pdf/1">
 Bìa bản sách Pháp-Việt đề huề - Tân Dân Thư quán xuất bản
