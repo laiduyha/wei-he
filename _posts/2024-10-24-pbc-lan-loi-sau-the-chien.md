@@ -139,7 +139,7 @@ Tôi bèn biên một giấy xin tha gửi cho Quảng Đốc Mạc Vinh Tân xi
 *"Ngã tuy bất sát Bá Nhân, Bá nhân do ngã nhi tử"*. Liệu sự liệu nhân ngu ám đến thế, tội tôi trong việc này lại quá lớn, không biết chối vào đâu!
 {: .text-justify}
 
-### *"Pháp-Việt đề huề"* luận
+### <a target="_blank" href="/pbc-phap-viet-de-hue">*"Pháp-Việt đề huề"* luận</a>
 Cũng trong đợt này, Lê và Phan hẹn gặp tôi ở Hàng Châu, bàn với tôi thảo ra một bản luận là *"Pháp-Việt đề huề"*. Để thuyết phục tôi, cả hai nói rằng:
 {: .text-justify}
 
