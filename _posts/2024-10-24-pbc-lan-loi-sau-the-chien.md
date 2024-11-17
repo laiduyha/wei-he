@@ -68,7 +68,7 @@ Các ông phải chờ có đại quân đi mà đi theo, nếu không thì khô
 May sao lúc đó Đường Kế Nghiêu, Hùng Khắc Võ lập hội nghị quân sự ở Trùng Khánh, mà Vương Tổng Tư Lệnh cũng tính tham gia. Tôi lúc này mới tới dinh của Vương, để xin Vương cho đi theo. Vương lúc đó đã biết chúng tôi là người của Đảng cách mạng Việt Nam, tự thấy mình vô lễ mà càng thêm kính trọng chúng tôi. Mới cho hai người chúng tôi lên thuyền đi cùng. Đi dọc sông hơn 10 ngày, từ Quỳ Phủ đến Trùng Khánh bình yên vô sự, thật nhờ ơn của Vương Thiên Túng lắm.
 {: .text-justify}
 
-Tổng Tư Lệnh ở Trùng Khánh là Hoàng Phục Sinh. Ông là người tiên phong làm cách mạng. Lúc 18 tuổi đã từng đi với Uông Tinh Vệ vào Bắc Kinh, ám sát Nhiếp Chính Vương của Mãn Thanh. Sau bị bỏ ngục cùng với Uông, đến khi Dân quốc thành lập mới ra được ngục, làm việc ở phủ Tổng Thống.
+Tổng Tư Lệnh ở Trùng Khánh là Hoàng Phục Sinh. Ông là người tiên phong làm cách mạng. Lúc 18 tuổi đã từng đi với Uông Tinh Vệ vào Bắc Kinh, ám sát Nhiếp Chính Vương của Mãn Thanh. Sau bị bỏ ngục cùng với Uông, đến khi Dân Quốc thành lập mới ra được ngục, làm việc ở phủ Tổng Thống.
 {: .text-justify}
 
 Thời ở Nam Kinh tôi đã một lần gặp Hoàng ở phủ Tổng Thống. Bây giờ gặp lại, tay bắt mặt mừng rất vui vẻ, lại có ý muốn giữ chúng tôi lại. Nhưng vì chúng tôi nóng lòng muốn về nước, Hoàng không thể kéo lại được nên mới tặng hai anh em chúng tôi 370$ làm tiền đi đường.

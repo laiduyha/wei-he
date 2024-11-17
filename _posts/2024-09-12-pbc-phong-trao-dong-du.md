@@ -126,7 +126,7 @@ Không bao lâu có đồn Tú Nghệ lập ra. Việc tôi làm chuyến này, 
 Nhưng rồi người Tây thình lình khai chiến với tướng quân, làm cho cái thành tích đồn điền của chúng tôi, phút chốc hóa ra tro bụi.
 {: .text-justify}
 
-Thai ôi! Xông pha nhọc nhằn trải muôn ngàn dặm, mà chỉ gây nên một cõi mơ màng thất bại, có ai mưu sự mà gặp nông nỗi bất hạnh như tôi vậy chăng? Đó chẳng phải chứng cớ tài hèn trí mỏng là gì? Ai nối gót tôi mà dấy lên sau này, nên coi sự sai lầm của tôi mà thay đổi bước đường đi!
+Than ôi! Xông pha nhọc nhằn trải muôn ngàn dặm, mà chỉ gây nên một cõi mơ màng thất bại, có ai mưu sự mà gặp nông nỗi bất hạnh như tôi vậy chăng? Đó chẳng phải chứng cớ tài hèn trí mỏng là gì? Ai nối gót tôi mà dấy lên sau này, nên coi sự sai lầm của tôi mà thay đổi bước đường đi!
 {: .text-justify}
 
 Lúc sắp đặt công cuộc đồn điền xong đâu đó rồi, đã là hạ tuần tháng 10.
@@ -139,7 +139,7 @@ Hồi này tiếng tăm vang dậy, lũ sói chồn bủa vây khắp tứ vi. T
 {: .text-justify}
 
 ## Quay lại Nhật Bản
-Khoảng trung tuần tháng chạp, qua cửa ải Nam Quan, theo đường Quảng Tây mà đến Long Châu. Long Châu khá nhiều người ta ở đó, nhưng hơn một nửa là bồi bếp của Tây luôn. Tây quan xứ này có lãnh sự quán của Pháp, vì thế tôi không dám ở lại lâu, tức khắc mướn thuyền buôn đi Nam Ninh.
+Khoảng trung tuần tháng chạp, qua cửa ải Nam Quan, theo đường Quảng Tây mà đến Long Châu. Long Châu khá nhiều người ta ở đó, nhưng hơn một nửa là là làm trong các bếp ăn của Tây. Tây quan xứ này có lãnh sự quán của Pháp, vì thế tôi không dám ở lại lâu, tức khắc mướn thuyền buôn đi Nam Ninh.
 {: .text-justify}
 
 Thống lãnh Trần Thế Hoa thay thuyền đặc biệt cho tôi đến Nam Ninh. Đồ đạc trong thuyền hết thảy đều do ông cung ứng. Cảm tình của người Trung Quốc đối với ta, âu đây cũng là một chứng cứ.

@@ -175,7 +175,7 @@ Thành Lũy của Đề Thám
 </a>
 </cite>
 
-Đến nông nỗi này, tôi không thế nào không chạy qua con đường bạo động. Vẫn biết bạo động với tự sát đều là việc làm của những kẻ kiến thức hẹp hòi, không biết lo xa, nhưng nếu sự thế buộc tự sát, thà rằng xoay ra bạo động mà chết còn hơn. Vì cứ bạo động may ra còn trông được có chỗ thành công trong muôn một. Huống gì tôi đã suy đi tính lại, lúc này bỏ sự bạo động ra, không còn có việc gì đáng làm hơn nữa.
+Đến nông nỗi này, tôi không thế nào không chạy qua con đường bạo động. Vẫn biết bạo động với tự sát đều là việc làm của những kẻ kiến thức hẹp hòi, không biết lo xa, nhưng nếu sự thế buộc tự sát, thà rằng xoay ra bạo động mà chết còn hơn. Vì cứ bạo động may ra còn trông được có chỗ thành công. Huống gì tôi đã suy đi tính lại, lúc này bỏ sự bạo động ra, không còn có việc gì đáng làm hơn nữa.
 {: .text-justify}
 
 Muốn học cách Thân Bao Tư khất binh để cứu Sở, nhưng có chỗ nào là Tần Đình cho mình đứng khóc mà cầu viện binh? Muốn học cách Việt Vương Câu Tiễn nhịn nhục báo thù Ngô, nhưng có nơi nào là Cối Kê cho mình nương thân để sắp đặt? Còn muốn lấy văn tự để cổ động quốc dân gọi là cho xong phận sự đời mình đối với nước non, nhưng khốn thay văn tự cũng không còn lựa chỗ đất nào để gieo rắc tuyên truyền nó được mới thảm.
@@ -212,7 +212,7 @@ Rút súng lục bắn vào một tên lính Pháp, sau chĩa súng vào một t
 Nói xong liền quay súng lại bắn vào cổ mình mà chết.
 {: .notice .text-justify}
 
-Trời ơi! Tin hung báo đưa tới, không khác gì con dao đâm một mũi chí mạng vào trong cái kế bạo động của tôi. Thế là bao nhiêu quân giới còn giấu đút ở Hồng Kong không thể chuyển về nướ được!
+Trời ơi! Hung tin báo tới, không khác gì con dao đâm một mũi chí mạng vào trong cái kế bạo động của tôi. Thế là bao nhiêu quân giới còn giấu đút ở Hồng Kong không thể chuyển về nướ được!
 {: .text-justify}
 
 Lúc này đảng cách mạng Trung Hoa toan đánh thành Quảng Đông, tôi mưu với các đồng chí ở đó chuyển lại tặng cho đảng Trung Hoa. Do người anh của Tôn Trung Sơn là Tôn Thọ Bình phái người đến nhận. Làm thế định là kết cảm tình đảng với cách mạng Trung Hoa sau này.
@@ -244,13 +244,13 @@ Lại có cơn giông thổi giận thêm.
 Từ tháng 3 năm Canh Tuất (1910) trở đi, tôi bước vào cái thời kỳ hết sức thê lương.
 {: .text-justify}
 
-Tin tức nước nhà, có khi vắng bặt mấy tháng trời, tôi không tiếp được mảy may nào. Vì bảo hộ thẳng tay làm chính sách khám xét thư từ và tịch thâu tiền bạc trong nước gửi ra ngoài cho chúng tôi.
+Tin tức nước nhà, có khi cả mấy tháng trời, tôi không tiếp được mảy may nào. Vì bảo hộ thẳng tay làm chính sách khám xét thư từ và tịch thâu tiền bạc trong nước gửi ra ngoài cho chúng tôi.
 {: .text-justify}
 
-Thỉnh thoảng có người làm dưới tàu Tây qua đây nói một vài tin miệng cho mình nghe, đều là những tin tức kinh tâm động phách. Nếu không phải là tin Đàm quân Kỳ Sanh bị đày, thì cũng là tin Lê quân Võ bị bắt. Những tin nói đảng nhân này, đảng nhân kia bị bêu đầu bằm xác, thường thường theo tiếng còi tàu mà đưa qua đến tai chúng tôi. Thật đau lòng hết sức!
+Thỉnh thoảng có người làm dưới tàu Tây qua đây nói một vài tin miệng cho mình nghe, đều là những tin tức kinh tâm động phách. Nếu không phải là tin Đàm quân Kỳ Sanh bị đày, thì cũng là tin Lê quân Võ bị bắt. Những tin nói đảng nhân này, đảng nhân kia bị bêu đầu bằm xác, thường thường theo tiếng còi tàu mà đưa đến tai tôi. Thật đau lòng hết sức!
 {: .text-justify}
 
-Tôi lúc này dời về ở tỉnh thành Quảng Châu. Đem những thứ sách còn lại, dấu tên bịt họ, đi bán sách rao. Lúc bấy giờ các học sinh, thương khách Trung Quốc, phần nhiều có tư tưởng cách mạng, thấy tôi đem sách bán, thường cũng có nhiều người hỏi mua. Có một điều rất buồn cười là nếu người trẻ đi bán thường về tay không, duy tôi đi bán thì ngày hoặc 2, 3 đồng, cũng có ngày được đến 5, 6 đồng. Có lẽ vì tôi râu mày bặm trợn, giày áo lang thang, nhiều người thấy lạ lại thương mà chịu mua đắt cho. Nên tiền bán sách của tôi cũng được khá.
+Tôi lúc này dời về Quảng Châu. Đem những thứ sách còn lại, dấu tên bịt họ, đi bán sách rao. Lúc bấy giờ các học sinh, thương khách Trung Quốc, phần nhiều có tư tưởng cách mạng, thấy tôi đem sách bán, thường cũng có nhiều người hỏi mua. Có một điều rất buồn cười là nếu người trẻ đi bán thường về tay không, duy tôi đi bán thì ngày hoặc 2, 3 đồng, cũng có ngày được đến 5, 6 đồng. Có lẽ vì tôi râu mày bặm trợn, giày áo lang thang, nhiều người thấy lạ lại thương mà chịu mua đắt cho. Nên tiền bán sách của tôi cũng được khá.
 {: .text-justify}
 
 Thường ngày sớm ra tối về, được ít đồng thì lại được nhóm năm ba đồng chí uống điên say liều. Tiền bán sách được bao nhiêu thường ngày đánh chén ráo. Có ngày kia rượu giữa bàn hết, ông Lương Lập Nham biết trong túi tôi còn tiền bảo mua thêm. Tôi bảo không tiền, Lương thò tay móc trong túi tôi được vài mươi xu, thét to mà rằng: 
@@ -296,7 +296,7 @@ Ngó bóng ngẫm mình cười lẫn khóc,\
 Đồng bào như thế dạ sao nguôi!
 {: .notice--warning .text-justify}
 
-Mỗi khi chúng tôi có việc khẩn dùng, trong nhà không sẵn tiền thì bà cầm đồ đạc, bán nữ trang liệu giùm cho chúng tôi. Bà chẳng những trọng nghĩa khí, mà can đảm cũng phi thường. Chúng tôi thường để tạc đạn, hỏa khí ở trong nhà mà bà cũng tự nhiên không sợ.
+Mỗi khi chúng tôi có việc khẩn dùng, trong nhà không sẵn tiền thì bà cầm đồ đạc, bán nữ trang liệu giùm cho chúng tôi. Bà chẳng những trọng nghĩa khí, mà can đảm cũng phi thường. Chúng tôi thường để lựu đạn, hỏa khí ở trong nhà mà bà cũng tự nhiên không sợ.
 {: .text-justify}
 
 Ông Trần Hữu lực và ông Đặng Tử Mẫn một đêm nọ mượn dao chặt củi của bà, giết một tên mật thám, sáng ngày bà dậy cười mà hỏi rằng:
@@ -357,7 +357,7 @@ Nhưng trong 8 tháng đó, tôi thấy trong mình vui vẻ, thư thái lạ l�
 Hồi này rảnh rang nhàn rỗi, tôi soạn ra được nhiều bài văn Quốc Ngữ. Nào truyện Lê Thái Tổ, nào truyện Trưng nữ Vương, nào là những khúc hát, bài ca cổ vũ tấm lòng yêu nước, yêu nòi, yêu giống. Tôi đem những bài ấy ra dạy cho những người ở trong sở ruộng học, sớm tối họ thường nghêu ngao ca hát làm vui. Ấy là tôi muốn gieo hạt giống cách mạng ở giữa khoảng non xanh nước biếc này vậy.
 {: .text-justify}
 
-Tháng 10 năm ấy (Tân Hợi, 1911) Phan quân Bá Ngọc ở Hồng Kong sang Thái, đem cái tin Võ Xương khởi nghĩa nói cho tôi nghe. Quân cách mạng Trung Hoa thu phục xong Võ Xương, chưa đầy ba tháng mà đánh đổ được Triều Mãn Thanh, dựng thành Dân quốc ở Nam Kinh. Thực là một việc mà tôi không dám nghĩ tới.
+Tháng 10 năm ấy (Tân Hợi, 1911) Phan quân Bá Ngọc ở Hồng Kong sang Thái, đem cái tin Võ Xương khởi nghĩa nói cho tôi nghe. Quân cách mạng Trung Hoa thu phục xong Võ Xương, chưa đầy ba tháng mà đánh đổ được Triều Mãn Thanh, dựng thành Dân Quốc ở Nam Kinh. Thực là một việc mà tôi không dám nghĩ tới.
 {: .text-justify}
 
 Hồi trước tôi còn ở bên Nhật, từng có cơ hội kết giao với những vị cốt cán của cách mạng Trung Hoa như Hoàng Khắc Cường, Chương Thái Viêm. Lại cùng bọn Trương Kế và chí sĩ các nước Triều Tiên, Nhật Bản, Ấn Độ và Philippines, tổ chức ra *"Đông Á Đồng Minh Hội"* .

@@ -46,7 +46,7 @@ Chân dung Trần Kỳ Mỹ
 Hạ tuần tháng 11 tới Hồng Kong anh em đồng chí trước đó tản tác các nơi, giờ đều quần tụ lại đây.
 {: .text-justify}
 
-Lúc này nghĩ rằng sau cách mạng đảng thành công thì Chính phủ Trung Hoa mới tất nhiên không hủ bại như Chính phủ cũ *(thất bại là tại chỗ đó!)*, và rồi Trung Hoa tất nối gót theo Nhật Bản mà làm một cường quốc. Nếu hai nước Trung-Nhật chung đổ toàn lực lại mà kình với Châu Âu thì chẵng những nước Việt Nam ta, mà nước Ấn Độ, Philippines cũng đồng thời đứng dậy cả.
+Lúc này nghĩ rằng sau cách mạng đảng thành công thì Chính phủ Trung Hoa mới tất nhiên không hủ bại như Chính phủ cũ *(thất bại là tại chỗ đó!)*, và rồi Trung Hoa tất nối gót theo Nhật Bản mà làm một cường quốc. Nếu hai nước Trung-Nhật chung đổ toàn lực lại mà kình với Châu Âu thì chẳng những nước Việt Nam ta, mà nước Ấn Độ, Philippines cũng đồng thời đứng dậy cả.
 {: .text-justify}
 
 Nghĩ thế tôi bèn thảo một bản, tựa là *"Liên Á xổ ngôn"*, cốt bày tỏ kêu gào hai nước Trung Hoa, Nhật Bản nên đấu sức cùng lòng, để sửa sang gây dựng đại cuộc Châu Á. Bài này truyền ra những người kiến thức đều khen ngợi tán thành.
@@ -58,7 +58,7 @@ Song thời cuộc Đông Á đến giờ *(năm 1924)*, xoay đổi khác hẳn
 Xưa nay Đông Tây các nước, tuyệt không một đảng cách mạng nào chỉ là đoàn ăn mày mà thành công được. Ngẫm lại trong nước không một tổ chức, một thế lực gì, mà chỉ trông chờ ngoại lực, điều gì cũng phải dựa vào lưng người. Khốn vì chúng tôi lúc ấy đã không thế lực nào mạnh ở trong, lại không phát triển ở ngoài, cứ ăn no, ngủ kỹ, bỏ suông ngày tháng *vô liêu* kia thì dầu biết hạ sách cũng phải làm, chỉ may rủi thôi!
 {: .text-justify}
 
-Mùa xuân năm Nhâm Tý (1912), nước Trung Hoa Dân Quốc thành lập, Tôn Trung Sơn tiên sinh được cử làm Trung Hoa lâm thời Đại Tổng Thống. Hạ tuần tháng hai tôi lên Nam Kinh yết kiến Tôn Trung Sơn, có được vào dự lần họp Quốc Hội đầu tiên. Lúc đó Nam Kinh Chính phủ mới được thành lập hai tháng, mà Viên Thế Khải lại muốn lên thay. Tôn Trung Sơn vì đại cuộc mà phải nhường Đại Tổng Thống họ Viên.
+Mùa xuân năm Nhâm Tý (1912), nước Trung Hoa Dân Quốc thành lập, Tôn Trung Sơn tiên sinh được cử làm Trung Hoa lâm thời Đại Tổng Thống. Hạ tuần tháng hai tôi lên Nam Kinh yết kiến Tôn Trung Sơn, có được vào dự lần họp Quốc Hội đầu tiên. Lúc đó Nam Kinh Chính phủ mới được thành lập hai tháng, mà Viên Thế Khải lại muốn lên thay. Tôn Trung Sơn vì đại cuộc mà phải nhường chức Đại Tổng Thống cho họ Viên.
 {: .text-justify}
 
 Tôi đến Nam Kinh chính vừa giữa lúc hai đám Tân-Cựu giao đấu, công việc rối như tơ vò, Tôn tiên sinh không có thời gian ứng tiếp. Tôi chỉ gặp được Tôn tiên sinh vài phút đồng hồ, sau chỉ đi lại tiếp chuyện với Hoàng Hưng tiên sinh. Qua lại vài lần mới bàn tới chuyện trợ giúp Việt Nam. Hoàng Hưng nói:
@@ -82,7 +82,7 @@ Quyền giáo dục nước tôi hoàn toàn ở trong tay người Pháp. Học
 Người nước tôi cầu một sự sống trong vạn cái chết, chỉ duy còn một cách là bạo động. Lấy bạo động là tiền đề để cải cách giáo dục vậy.
 {: .notice .text-justify}
 
-Tôi nhân lấy câu *"Giáo dục và bạo động đồng thời tiến hành"* của Giuseppe Mazzini mà cáo với tiên sinh và đồng thời lấy dẫn chứng về lịch sử những thất bại của đảng mình xưa nay. Cuối cùng tiên sinh cũng cho là phải, lấy 4000$ tặng ngay cho tôi, rồi đem 30 viên tạc đạn quân dụng làm quà.
+Tôi nhân lấy câu *"Giáo dục và bạo động đồng thời tiến hành"* của Giuseppe Mazzini mà cáo với tiên sinh và đồng thời lấy dẫn chứng về lịch sử những thất bại của đảng mình xưa nay. Cuối cùng tiên sinh cũng cho là phải, lấy 4000$ tặng ngay cho tôi, rồi đem 30 viên lựu đạn quân dụng làm quà.
 {: .text-justify}
 
 Lâu nay tôi khốn khổ về cảnh túng bấn nghèo nàn, không khác gì người hết gạo nhịn ăn lâu lắm rồi. Bây giờ được tiên sinh vác một số tiền lớn lao mà cho, khiến mình vui mừng yên ủi, vì lại có tiền để hoạt động. Ơn lớn của tiên sinh thiệt dầu đến chết tôi cũng không dám quên.
@@ -94,7 +94,7 @@ Vừa gặp lúc Dân đảng ở Quảng Đông cũng thành công đắc chí,
 Trung Hoa Dân Quốc dựng lên, như có luồng gió tiếng vang, rung động tới nước mình nhiều. Dân khí ta lại phấn chấn đáo để. Những hạng chí khí lại rủ nhau bỏ nước mạo hiểm trốn ra ngoài, chân nối gót nhau tới Quảng Châu đông lắm.
 {: .text-justify}
 
-Bọn ông Liệt Sanh ở Nam Kỳ qua; bọn ông Hải Thần ở Bắc Kỳ tới; bọn Đặng Tử Kính và Đặng Hồng Phấn thì ở Thái sang; Kỳ Ngoại Hầu từ Hong Kong về. Cho tới mấy anh em học tốt nghiệp ở trường Lục quân Quảng Tây, nay cũng đồng thời kéo đến Quảng Châu để hội họp nhau.
+Bọn ông Liệt Sanh ở Nam Kỳ qua; bọn ông Hải Thần ở Bắc Kỳ tới; bọn Đặng Tử Kính và Đặng Hồng Phấn thì ở Thái sang; Kỳ Ngoại Hầu từ Hồng Kong về. Cho tới mấy anh em học tốt nghiệp ở trường Lục quân Quảng Tây, nay cũng đồng thời kéo đến Quảng Châu để hội họp nhau.
 {: .text-justify}
 
 Anh em đồng chí ngó thấy vậy, đều khuyên nhủ, thúc giục tôi nên thừa cơ hội này mà cử đồ đại sự. Bình sinh tôi vốn ôm chủ nghĩa Dân Chủ nay lại được đa số anh em đồng chí thúc hối tán thành, cho nên tôi càng quả quyết làm.
@@ -160,7 +160,7 @@ Nghĩ thế, tôi cũng làm liều tới ông Tô Thiếu Lâu mà cầu cạnh
 Tôi liền ủy thác ông Hoàng Trọng Mậu đi với ông Tô, qua Hồng Kong tìm những người trong đảng cách mạng đã quen với việc ấy. Bí mật chế tạo, in thành phiếu khoán với 4 mệnh giá: 5$, 10$, 20$ và 100$. Mặt trước khắc *"Việt Nam Quang Phục Quân Quân Dụng Phiếu"*, chính giữa in số tiền, mặt sau khắc chữ Hán và chữ Quốc Ngữ ghi rõ đây là do *"Việt Nam Quang Phục Quân, Lâm Thời Chính Phủ"* phát hành. Người ký là Phan Sào Nam, người kiểm phát Hoàng Trọng Mậu.
 {: .text-justify}
 
-Phiếu bạc này in bằng điện, tinh xảo như tờ tiền của Trung Quốc. Người quyên góp chờ đến khi Dân quốc Chính phủ thành lập, đem phiếu ra thu hồi lại tiền, trước quyên góp một đồng thì sẽ nhận được hai đồng.
+Phiếu bạc này in bằng điện, tinh xảo như tờ tiền của Trung Quốc. Người quyên góp chờ đến khi Dân Quốc Chính phủ thành lập, đem phiếu ra thu hồi lại tiền, trước quyên góp một đồng thì sẽ nhận được hai đồng.
 {: .text-justify}
 
 ## Lập *"Chấn Hoa Hưng Á Hội"*
@@ -182,7 +182,7 @@ Sự nghiệp cách mạng vốn trọng thực tế, nhưng cũng có lúc cũn
 Trước lập một cơ quan, tô vẽ mặt ngoài để người ta chú ý đến, khiến người Quảng Đông đây tưởng rằng các ông bên trong cũng đã có 5, 6 phần rồi. Đó cũng là một cách *"hư giả thực chi"* của nhà binh vậy.
 {: .notice .text-justify}
 
-Tôi nghe lời họ bàn và ý mình cũng không thấy vấn đề gì, mới quyết làm theo cách ấy. Số bạc 4000$ của Trần Kỳ Mỹ tiên sinh cấp cho dùng vào việc trên ngốn hết 2,800$. Chúng tôi đặt ra *"Chấn Hoa Hưng Á Hội"*, thảo một chương trình và một bức tuyên ngôn đại lược như sau:
+Tôi nghe lời họ bàn và ý mình cũng không thấy vấn đề gì, mới quyết làm theo cách ấy. Số bạc 4000$ của Trần Kỳ Mỹ tiên sinh cấp cho dùng vào việc trên ngốn hết 2800$. Chúng tôi đặt ra *"Chấn Hoa Hưng Á Hội"*, thảo một chương trình và một bức tuyên ngôn đại lược như sau:
 {: .text-justify}
 
 Trung Hoa đất lớn, người đông, của nhiều, chiếm dải đất lớn nhất ở Châu Á. Lại là nước giàu truyền thống văn hóa nhất ở Phương Đông. Thiên chức Trung Hoa đáng làm huynh trưởng cho toàn Á mà vun trồng các tiểu quốc ở Á Đông mới là tròn chức trách ấy. Còn như thời đại Mãn Thanh, vứt bỏ cái chức trách huynh trưởng ấy, thiệt là làm nhục cho Trung Hoa lắm.\
