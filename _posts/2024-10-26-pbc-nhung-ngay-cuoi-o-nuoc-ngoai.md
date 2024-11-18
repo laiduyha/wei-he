@@ -1,5 +1,5 @@
 ---
-title: Kỳ 13 - Những ngày cuối ở nước ngoài
+title: Kỳ 15 - Những ngày cuối ở nước ngoài
 permalink: /pbc-nhung-ngay-cuoi-o-nuoc-ngoai
 layout: single
 classes: wide
@@ -44,7 +44,7 @@ Chỉ duy nhất một việc không bao giờ đổi, vì sinh nhai ở đất 
 Năm Nhâm Tuất (1922), lúc bấy giờ tôi đang ở Bắc Kinh thì nhận được giấy của người bạn là Lâm Lượng Sinh đang làm biên tập của Tạp chí Quân Sự Hàng Châu. Tạp chí này được lập ra để Trung Hoa Chính phủ tiện thu dụng những người Việt Nam từng tốt nghiệp trường sĩ quan ở Bắc Kinh mà không thể ở trong quân giới được. Tiếp được giấy của Lâm tiên sinh tôi mới bỏ Bắc Kinh về lại Hàng Châu, gánh chức biên tập viên cho tạp chí quân sự này, mỗi tháng được 70$.
 {: .text-justify}
 
-Tôi về Hàng Châu cũng vì nghĩ đây là chỗ danh lam thắng cảnh bậc nhất ở đất Trung Hoa này. Vườn ông Lâm Bô, mộ ông Nhạc Phi, đình ông Từ Tích Lân, miếu mộ bà Thu Cận, hết thảy đều ở chốn này. Nếu ở đây thường được đàm tâm với người chín suối, phúc phận cũng khá to. Vả lại bạn cũ cách mạng ở đây còn nhiều nhất, như cụ Mai Sơn (Nguyễn Thượng Hiền) cũng về ở chốn ấy.
+Tôi về Hàng Châu cũng vì nghĩ đây là chỗ danh lam thắng cảnh bậc nhất ở đất Trung Hoa này. Vườn ông Lâm Bô, mộ ông Nhạc Phi, đình ông Từ Tích Lân, miếu mộ bà Thu Cận, hết thảy đều ở chốn này. Nếu ở đây thường được đàm tâm với người chín suối, phúc phận chắc cũng lớn. Vả lại bạn cũ cách mạng ở đây còn nhiều, như cụ Mai Sơn (Nguyễn Thượng Hiền) cũng về ở chốn ấy.
 {: .text-justify}
 
 Giai đoạn này tuy làm thuê bằng bút mực, đại trượng phu ai có thiết gì. Được cái mỗi tháng dư được chút tiền thì cũng đủ chu cấp cho vài ba thiếu niên đi học. Ngoài ra còn có một việc cũng là thú vui tiêu khiển trong lúc cùng đồ. Hễ gặp bài xã luận, tiểu thuyết thì cố phát huy cho hết tinh thần thế giới cách mạng. Còn về những văn chương mà chửi mắng Đế quốc Thực Dân thì vì thuộc phạm trù quân sự, nên sướng miệng mà nói lắm.
@@ -54,7 +54,7 @@ Giai đoạn này tuy làm thuê bằng bút mực, đại trượng phu ai có 
 Tháng 7 năm Giáp Tý (1924), tôi về Quảng Đông ở lại ba tháng vì muốn cải tổ *"Việt Nam Quang Phục Hội"*. Nguyên trước đây *"Quang Phục Hội"* trải qua 4 năm tôi ngồi tù mà đảng nhân ta bảy rớt tám rụng rồi. *"Quang Phục Hội"* chỉ thành ra một bức thần vị để tế trên bàn thờ mà thôi.
 {: .text-justify}
 
-Đến mùa xuân năm Giáp Tý này vì chuyện <a href="/pbc-pham-hong-thai" target="_blank">Phạm Hồng Thái</a> ám sát quan toàn quyền Pháp mà sĩ khí cách mạng nước nhà tăng lên. Việc đảng may có hy vọng trùng hưng, nên anh em Quảng Đông khuyên tôi về lại để cải tổ.
+Đến mùa xuân năm Giáp Tý này vì chuyện <a href="/pbc-pham-hong-thai" target="_blank">Phạm Hồng Thái ám sát quan toàn quyền Pháp</a> mà sĩ khí cách mạng nước nhà tăng lên. Việc đảng may có hy vọng trùng hưng, nên anh em Quảng Đông khuyên tôi về lại để cải tổ.
 {: .text-justify}
 
 Vừa lúc ấy Tưởng Giới Thạch tiên sinh đang làm hiệu trưởng trường sĩ quan Hoàng Phố, Lý Tề Thâm thì làm giám đốc. Tưởng Giới Thạch trước kia cũng học ở Chấn Võ học viện nên cũng được coi là quen biết. Tôi cùng Nguyễn Hải Thần vào hiệu kiến hai ông ấy, tham quan trường, lại mưu việc đưa học sinh ta vào học. Tưởng cùng Lý rất tán thành.
@@ -104,8 +104,8 @@ Ngày 11 tháng 5 năm Ất Sửu (1925) tôi gấp lên Thượng Hải, tính 
 Ngờ đâu lúc tôi đi mà thời giờ hành động của tôi nhất nhất đều có kẻ mật báo với người Pháp. Mà người mật báo lại chính là thư ký ở chung với tôi, nhờ tôi nuôi nấng. Thật việc thiên hạ đến như thế, tôi làm sao biết được.
 {: .text-justify}
 
-12h chính trưa ngày 11 tháng 5, xe lửa Hàng Châu đi đến Bắc trạm. Tôi vì nóng lòng gửi tiền nên gửi lại hành lý ở ga, chỉ mang 1 cái vali nhỏ đi ra. Ra cửa ga thấy một chiếc xe khá lịch sự, xung quanh là bốn người Tây. Tôi không nhận ra được là người Pháp, vì ở xứ Thượng Hải này, người Tây ăn mặc sang trọng không biết chừng nào mà kể. Đem xe hơi rước khách cũng là thông lệ của các lãnh sự quán to. Tôi có biết đâu chiếc xe hơi này là hàng của quân bắt cóc người đâu!
+12h chính trưa ngày 11 tháng 5, xe lửa Hàng Châu đi đến Bắc trạm. Tôi vì nóng lòng gửi tiền nên gửi lại hành lý ở ga, chỉ mang 1 cái vali nhỏ đi ra. Ra cửa ga thấy một chiếc xe khá lịch sự, xung quanh là bốn người Tây. Tôi không nhận ra được là người Pháp, vì ở xứ Thượng Hải này, người Tây ăn mặc sang trọng không biết chừng nào mà kể. Đem xe hơi rước khách cũng là thông lệ của các lãnh sự quán lớn. Tôi có biết đâu chiếc xe hơi này là hàng của quân bắt cóc đâu!
 {: .text-justify}
 
-Tôi mới ra khỏi cửa ga vài ba bước, thì thấy một người Tây hung dữ lại trước mặt tôi, dùng tiếng Quan Thoại mà cự cãi. Đương lúc cự cãi thì lình ba người Tây nữa ở sau xe ra, hết sức đẩy tôi lên xe. Máy xe tức khắc nổ, thì tôi đã vào trong tô giới Pháp. Xe chạy tới đây, binh lính Pháp đã chờ sẵn. Lúc này tôi mới nhận ra mình bị bắt mất rồi!
+Tôi mới ra khỏi cửa ga vài ba bước, thì thấy một người Tây hung dữ lại trước mặt tôi, dùng tiếng Quan Thoại mà cự cãi. Đương lúc cự cãi thì thình lình ba người Tây nữa ở sau xe ra, hết sức đẩy tôi lên xe. Máy xe tức khắc nổ, và rồi tôi đã ở trong tô giới Pháp. Xe chạy tới đây, binh lính Pháp đã chờ sẵn. Lúc này tôi mới nhận ra mình bị bắt mất rồi!
 {: .text-justify}

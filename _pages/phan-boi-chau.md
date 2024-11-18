@@ -61,37 +61,42 @@ Phan Bội Châu viết *"Ngục Trung Thư"* lúc ở trong tù tại Quảng C
 * 1905 (38 tuổi) - Gặp các chính khách của Nhật Bản
 
 ### <a href="/pbc-ho-hao-sang-nhat">Kỳ 6. Hô hào thanh niên sang Nhật Học</a>
-* 1906 (39 tuổi) - Gặp Tôn Trung Sơn; Thu xếp cho lứa du học sinh đầu tiên sang Nhật học
-* 1907 (40 tuổi) - Đón Hội chủ Cường Để sang Nhật
+* 1906 (39 tuổi) - Gặp Tôn Trung Sơn
+* 1906 (39 tuổi) - Thu xếp cho lứa du học sinh đầu tiên sang Nhật học
 
-### <a href="/pbc-phong-trao-dong-du">Kỳ 7. Phong trào Đông Du</a>
+### <a href="/pbc-ho-hao-sang-nhat">Kỳ 7. Đính mật ước với Hoàng Hoa Thám</a>
+* 1907 (40 tuổi) - Đón Hội chủ Cường Để sang Nhật
 * 1908 (41 tuổi) - Đính mật ước với cụ Hoàng Hoa Thám
+
+### <a href="/pbc-phong-trao-dong-du">Kỳ 8. Phong trào Đông Du</a>
 * 1908 (41 tuổi) - Lập *"Tân Việt Nam Cống Hiến"* ở Hồng Kong
 * 1908 (41 tuổi) - Thu xếp cho phong trào Đông Du
 
-### <a href="/pbc-bi-nguoi-phap-dan-ap">Kỳ 8. Bị người Pháp đàn áp</a>
+### <a href="/pbc-bi-nguoi-phap-dan-ap">Kỳ 9. Bị người Pháp đàn áp</a>
 * 1908 (41 tuổi) - Pháp Nhật câu kết, bị trục xuất khỏi Nhật
 * 1910 (43 tuổi) - Tìm đường chuyển vũ khí từ Trung Quốc về nước nhưng thất bại
 
-### <a href="/pbc-viet-nam-quang-phuc-hoi">Kỳ 9. Lập *"Việt Nam Quang Phục Hội"* </a>
+### <a href="/pbc-bi-nguoi-phap-dan-ap">Kỳ 10. Nương náu</a>
 * 1911 (44 tuổi) - Qua Thái nương náu
+
+### <a href="/pbc-viet-nam-quang-phuc-hoi">Kỳ 11. Lập *"Việt Nam Quang Phục Hội"* </a>
 * 1912 (45 tuổi) - Lập *"Việt Nam Quang Phục Hội"*
 
-### <a href="/pbc-tien-hanh-bao-dong">Kỳ 10. Tiến hành bạo động và bị bắt</a>
+### <a href="/pbc-tien-hanh-bao-dong">Kỳ 12. Tiến hành bạo động và bị bắt</a>
 * 1912 (45 tuổi) - Tiến hành bạo động
 * 1913 (46 tuổi) - Bị bắt ở Quảng Châu
 
-### <a href="/pbc-the-chien-thu-i">Kỳ 11. Thế chiến thứ I</a>
+### <a href="/pbc-the-chien-thu-i">Kỳ 13. Thế chiến thứ I</a>
 * 1913 (46 tuổi) - Bị bắt ở Quảng Châu
 * 1914 (47 tuổi) - Thế chiến thứ I nổ ra (Pháp-Đức gây chiến)
 * 1915 (48 tuổi) - Giao thiệp với Đức-Áo
 * 1917 (49 tuổi) - Được thả khỏi tù tìm đường về nước
 
-### <a href="/pbc-lan-loi-sau-the-chien">Kỳ 12. Lăn lộn sau thế chiến</a>
+### <a href="/pbc-lan-loi-sau-the-chien">Kỳ 14. Lăn lộn sau thế chiến</a>
 * 1918 (50 tuổi) - Thế chiến kết thúc, Pháp thắng Đức thua.
 * 1920 (52 tuổi) - Giao thiệp với Đảng Cộng Sản Nga
 
-### <a href="/pbc-nhung-ngay-cuoi-o-nuoc-ngoai">Kỳ 13. Những ngày cuối ở nước ngoài</a>
+### <a href="/pbc-nhung-ngay-cuoi-o-nuoc-ngoai">Kỳ 15. Những ngày cuối ở nước ngoài</a>
 * 1922 (54 tuổi) - Về Hàng Châu làm nghề viết báo
 * 1924 (56 tuổi) - Cải tổ *"Việt Nam Quang Phục Hội"* thành *"Việt Nam Quốc Dân Đảng"*
 * 1925 (57 tuổi) - Bị mật thám Pháp bắt ở Thượng Hải

@@ -11,7 +11,7 @@ parent:
 Ngày đó là ngày tết Nguyên Tiêu, người Hàng Châu có tục xem đèn. Bên bờ Hồ Tây đèn nháy như sao, trai hồng gái lục, bể người rừng hoa, náo nhiệt cực kỳ. Đột nhiên trong ngàn tiếng pháo tre, nghe thấy ba tiếng súng lục. Tức khắc có người chết nằm ngã giữa đất. Lính tuần xem lại soát ở trong người thấy có 2,150$, trong túi lại có một cái đồng hồ vàng 60$.
 {: .notice--info .text-justify}
 > <cite>
-<a href="/pbc-lan-loi-sau-the-chien#phan-bá-ngọc-bị-ám-sát">Kỳ 12 - Lăn lộn sau thế chiến</a>
+<a href="/pbc-lan-loi-sau-the-chien#phan-bá-ngọc-bị-ám-sát">Kỳ 14 - Lăn lộn sau thế chiến</a>
 </cite>
 
 ![alt]({{ 'assets/images/ky-ngoai-hau-cuong-de-tuoi-trung-nien.jpeg' | absolute_url }})

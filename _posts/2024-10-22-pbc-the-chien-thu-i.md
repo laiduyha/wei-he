@@ -1,5 +1,5 @@
 ---
-title: Kỳ 11 - Thế chiến thứ I
+title: Kỳ 13 - Thế chiến thứ I
 permalink: /pbc-the-chien-thu-i
 layout: single
 classes: wide
@@ -108,7 +108,7 @@ Một vạn đồng bạc từ Thái đến Quảng Đông, anh em đồng chí 
 - Một phần thì cấp cho Hoàng Trọng Mậu, toan đánh đường Hà Khẩu - Vân Nam.
 {: .text-justify}
 
-Số bạc này tính ra chỉ có 8,000$ mà công dụng chia ra nhiều ngả thì thất bại là chắc rồi. Võ Mẫn Kiến, Nguyễn Hải Thần cùng mươi người anh em đánh lén một đồn Tây ở Lạng Sơn, cuối cùng thất bại lại còn có người bị thương. Hoàng Trọng Mậu thất bại nhiều lần từ Vân Nam về Quảng Tây, rồi qua Hồng Kong để đi qua Thái, cuối cùng bị bắt tại đây.
+Số bạc này tính ra chỉ có 8000$ mà công dụng chia ra nhiều ngả thì thất bại là chắc rồi. Võ Mẫn Kiến, Nguyễn Hải Thần cùng mươi người anh em đánh lén một đồn Tây ở Lạng Sơn, cuối cùng thất bại lại còn có người bị thương. Hoàng Trọng Mậu thất bại nhiều lần từ Vân Nam về Quảng Tây, rồi qua Hồng Kong để đi qua Thái, cuối cùng bị bắt tại đây.
 {: .text-justify}
 
 Ôi thôi! Vì ý kiến mà chia ra phe phái, hỏng đi việc nước. Đây là bài học mà chúng ta phải trông theo mà làm gương vậy!
@@ -164,6 +164,6 @@ Giả như Đảng các ngài khởi nghĩa được ở Đông Dương thì ch�
 Nghe người Đức nói như thế, Trương, Lê mới góp hết ý kiến anh em ta ở Bắc Kinh, như Hoàng Đình Tuân, Đặng Hồng Phấn, thương thảo lại các điều kiện, làm thành một bản hợp đồng đến Thiên Tân để ký kết với người Đức. Hai ông mới đi vào tô giới người Anh, chưa đến tô giới Đức thì bị quân Anh chụp bắt. Xét trong túi có hợp đồng nên dẫn độ về lãnh sự Pháp. Ông Lê bị bắt trước, ông Trương may nhờ đi sau mà chạy thoát được. Ông Lê bị bắt giải về Hà Nội, bắt tội thông Đức, bị án chung thân rồi chết trong sở ngục.
 {: .text-justify}
 
-Cái kết quả này, sau điều tra thì vì có một mật thám cho Pháp là người Vân Nam được bạc thưởng 3000$ mà người này lại là bạn thân thiết của **Phan Bá Ngọc**, từng học ở trường sĩ quan.
+Cái kết quả này, sau điều tra thì vì có một mật thám cho Pháp là người Vân Nam được bạc thưởng 3000$ mà người này lại là bạn thân thiết của *Phan Bá Ngọc*, từng học ở trường sĩ quan.
 {: .text-justify}
 

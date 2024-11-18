@@ -1,5 +1,5 @@
 ---
-title: Kỳ 10 - Tiến hành bạo động và bị bắt
+title: Kỳ 12 - Tiến hành bạo động và bị bắt
 permalink: /pbc-tien-hanh-bao-dong
 layout: single
 classes: wide
@@ -141,6 +141,7 @@ Bơ vơ đất khách bác cùng tôi;\
 Riêng bác cay chua nếm đủ mùi.\
 Tính mạng bao phen gần chết hụt.\
 Mày râu ba lượt bị giam rồi!\
+ \
 Trời toan đại dụng nên rèn chí.\
 Chúa giúp thành công tất có hồi.\
 Nếu phải đường đời bằng phẳng hết.\
@@ -150,11 +151,14 @@ Anh hùng hào kiệt có hơn ai.
 Còn tôi thì tự an ủi mình bằng một bài thơ Nôm như sau này:
 {: .text-justify}
 
+**Cảm tác vào nhà ngục Quảng Đông**\
+ \
 Vẫn là hào kiệt vẫn phong lưu,\
 Chạy mỏi chân thì hãy ở tù.\
 Đã khách không nhà trong bốn biển,\
 Lại người có tội giữa năm châu.\
 Bủa tay ôm chặt bồ kinh tế,\
+ \
 Mở miệng cười tan cuộc oán thù.\
 Thân nọ vẫn còn, còn sự nghiệp,\
 Bao nhiêu nguy hiểm sợ gì đâu.

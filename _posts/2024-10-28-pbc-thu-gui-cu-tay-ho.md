@@ -17,7 +17,7 @@ Nếu dân đã không còn, thì chủ có ở đâu?\
 Là cốt để hòa hoãn ý kiến của cụ Tây Hồ.....
 {: .notice--info .text-justify}
 > <cite>
-<a href="/pbc-phong-trao-dong-du#quay-lại-nhật-bản">Kỳ 7. Phong trào Đông Du</a>
+<a href="/pbc-phong-trao-dong-du#quay-lại-nhật-bản">Kỳ 8. Phong trào Đông Du</a>
 </cite>
 
 ## Thơ gởi cụ Tây Hồ

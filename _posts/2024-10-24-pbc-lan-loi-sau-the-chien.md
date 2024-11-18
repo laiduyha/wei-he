@@ -1,5 +1,5 @@
 ---
-title: Kỳ 12 - Lăn lộn sau thế chiến
+title: Kỳ 14 - Lăn lộn sau thế chiến
 permalink: /pbc-lan-loi-sau-the-chien
 layout: single
 classes: wide
@@ -74,10 +74,10 @@ Tổng Tư Lệnh ở Trùng Khánh là Hoàng Phục Sinh. Ông là người ti
 Thời ở Nam Kinh tôi đã một lần gặp Hoàng ở phủ Tổng Thống. Bây giờ gặp lại, tay bắt mặt mừng rất vui vẻ, lại có ý muốn giữ chúng tôi lại. Nhưng vì chúng tôi nóng lòng muốn về nước, Hoàng không thể kéo lại được nên mới tặng hai anh em chúng tôi 370$ làm tiền đi đường.
 {: .text-justify}
 
-Nhưng đường từ Trùng Khánh tới Vân Nam thì giặc cướp đầy đường, không thể đi được. Phải trú lại Trùng Khánh non nửa tháng, mới gặp dịp Đường đốc thắng trận trở về Vân Nam, chúng tôi mới xin theo. Phải tới cuối tháng 11 thì mới đến Vân Nam.
+Nhưng đường từ Trùng Khánh tới Vân Nam thì giặc cướp đầy đường, không thể đi được. Trú lại Trùng Khánh non nửa tháng, mới gặp dịp Đường đốc thắng trận trở về Vân Nam, chúng tôi mới xin theo. Phải tới cuối tháng 11 thì mới đến Vân Nam.
 {: .text-justify}
 
-Tính ra kể từ tháng 8 ra đi từ Hàng Châu đến Vân Nam, trải qua dải đất Trung Hoa cả thảy 6 tỉnh thành. Lội khe vượt núi, giải gió dầm mưa, nếm hết mùi gian nan hiểm trở. Mà ai ngờ đâu cái mùi gian nan hiểm hiểm trở đó chỉ là nếm chơi cho biết mà thôi. 
+Tính ra kể từ tháng 8 ra đi từ Hàng Châu đến Vân Nam, trải qua dải đất Trung Hoa cả thảy 6 tỉnh thành. Lội khe vượt núi, dãi gió dầm mưa, nếm hết mùi gian nan hiểm trở. Mà ai ngờ đâu cái mùi gian nan hiểm hiểm trở đó chỉ là nếm chơi cho biết mà thôi. 
 {: .text-justify}
 
 Ngày tôi tới thành Vân Nam là ngày 29 tháng 11 âm lịch, dày đặc trong ngoài thành là cờ ba sắc (cờ Pháp) với cờ năm sắc treo tứ tung. Chung quanh đường sắt Điền Việt cờ ba sắc che ngập trời, chúng tôi trông thấy mà ngơ ngác rụng rời.
@@ -92,7 +92,7 @@ Cũng là vì trong mấy tháng bôn tẩu trong núi dài rừng rậm không 
 Chúng tôi trong lúc cơ hàn bĩ cực, lại nỡ đem số bạc mới kiếm được hơn 1000$ vứt vào hư không vô ích. Nghĩ cũng quá ngu! Nhưng ý chúng tôi trước kia cũng tưởng Châu Âu đại chiến phải tận 6, 7 năm nữa mới tan. Ai dè việc thiên hạ, bỏ sai một con tính vào thì hao công tốn của nhiều không kể xiết. Thế là bao kế hoạch, lý tưởng trước kia mang tới đây, tất thảy đều theo mây gió cả!
 {: .text-justify}
 
-Tôi tức khắc rời Vân Nam, theo đường cũ mà về lại Hàng Châu. Đi đến Trùng Khánh, thì tiền trong túi đã sạch sành sanh!!! Vạn bất đắc dĩ lại phải vào yết kiến Hoàng Phục Sinh. Hoàng khuyên tôi ở lại Trùng Khánh, giúp việc văn thư cho Hoàng. Hoàng liền sau đó cấp cho tôi một mảnh bằng trong đó nói:
+Tôi tức khắc rời Vân Nam, theo đường cũ mà về lại Hàng Châu. Đi đến Trùng Khánh, thì tiền trong túi đã sạch sành sanh!!! Vạn bất đắc dĩ lại phải vào yết kiến Hoàng Phục Sinh. Hoàng khuyên tôi ở lại Trùng Khánh, giúp việc văn thư cho Hoàng. Hoàng liền sau đó cấp cho tôi một mảnh bằng trong đó ghi:
 {: .text-justify}
 
 Đặc sính Phan thị Hán tiên sinh vi Xuyên quân Tổng tư lịnh tư mưu quan, bổng kim nhất bạch thất thập nguyên.\
@@ -121,7 +121,7 @@ Cả thảy những chuyện này không phải vì tôi thổi mà nó lên, c�
 ## Chuyện Phan Bá Ngọc (con Phan Đình Phùng)
 
 ### Việc cụ Mai Lão Bạng
-Tháng 2, năm Mậu Ngọ (1918), tôi đang vì việc dựng bia kỷ niệm cho Sakitaro Asaba (Thiền Vũ Thái Lang) tiên sinh, nên lưu lại Nhật Bản. Bỗng nhận được thư của Phan Bá Ngọc, bảo tôi cứu cho cụ Mai Lão Bạnh ra khỏi ngục ở Quảng Đông. Việc vận động thì để Phan đảm nhật, tổn phí bao nhiêu thì có người lo. 
+Tháng 2, năm Mậu Ngọ (1918), tôi đang vì việc dựng bia kỷ niệm cho Sakitaro Asaba (Thiền Vũ Thái Lang) tiên sinh, nên lưu lại Nhật Bản. Bỗng nhận được thư của Phan Bá Ngọc, bảo tôi cứu cho cụ Mai Lão Bạng ra khỏi ngục ở Quảng Đông. Việc vận động thì để Phan đảm nhận, tổn phí bao nhiêu thì có người lo. 
 {: .text-justify}
 
 Nghĩ lại trước kia tôi cùng cụ Mai bị giam ở Quảng Đông, tôi ở ngục Quan Âm Sơn, còn cụ Mai thì bị giam ở dinh cảnh sát. Hai bên đông tây cách biệt nên không biết được tin của nhau. Khi Long tha cho tôi thì tôi nghĩ là nó cũng tha cho cụ Mai ở Quảng Đông rồi, nào ngờ giờ lại nghe tin cụ vẫn trong ngục. 
@@ -133,10 +133,10 @@ Tôi bèn biên một giấy xin tha gửi cho Quảng Đốc Mạc Vinh Tân xi
 Đến hạ tuần tháng 3 thì cụ Mai được tha ra. Khoảng tháng tư thì cụ đến Thượng Hải, cùng với hai đồng chí khác là ông Hy Cao và ông Kim Đài. Hai ông này bị đày ở tận Côn Luân, phải kết bè vượt biển, vượt qua bao gian nan khốn khổ mới thoát được thân. Nay biết được tin cả ba ông thì rất mừng. Ngờ đâu sau đó bốn ngày thì lại nhận được tin ba người đó bị bắt cả rồi. 
 {: .text-justify}
 
-Được tin tôi vội bỏ Nhật Bản về lại Hàng Châu để tìm ra chân tướng vụ việc. Vì việc này tôi rất muộn phiền, cứu cụ ra tù mà hóa ra là dâng tặng quà cho mật thám Pháp để chúng lập được công. Lại tạo thành sự nghiệp cho con người kia phản cha, bán nước!
+Được tin tôi vội bỏ Nhật Bản về lại Hàng Châu để tìm ra chân tướng vụ việc. Vì việc này tôi rất muộn phiền, cứu cụ ra tù mà hóa ra là dâng tặng quà cho mật thám Pháp để chúng lập được công. Lại tạo thành sự nghiệp cho kẻ kia phản cha, bán nước!
 {: .text-justify}
 
-*"Ngã tuy bất sát Bá Nhân, Bá nhân do ngã nhi tử"*. Liệu sự liệu nhân ngu ám đến thế, tội tôi trong việc này lại quá lớn, không biết chối vào đâu!
+*"Ngã tuy bất sát Bá Nhân, Bá nhân do ngã nhi tử"*. Liệu sự, liệu nhân ngu ám đến thế, tội tôi trong việc này lại quá lớn, không biết chối vào đâu!
 {: .text-justify}
 
 ### <a target="_blank" href="/pbc-phap-viet-de-hue">*"Pháp-Việt đề huề"* luận</a>
@@ -200,7 +200,7 @@ Tháng bảy năm Kỷ Dậu (1919), tôi rời Hàng Châu, quay lại Nhật B
 Năm Nhâm Tuất (1922) ngày 15 tháng Giêng, tôi còn ở Bắc Kinh làm biên tập viên cho *"Đông Á Tần Văn"* thì nhận được tin ở Hàng Châu có một vụ ám sát.
 {: .text-justify}
 
-Ngày đó là ngày tết Nguyên Tiêu, người Hàng Châu có tục xem đèn. Bên bờ Hồ Tây đèn nháy như sao, trai hồng gái lục, bể người rừng hoa, náo nhiệt cực kỳ. Đột nhiên trong ngàn tiếng pháo tre, nghe thấy ba tiếng súng lục. Tức khắc có người chết nằm ngã giữa đất. Lính tuần xem lại soát ở trong người thấy có 2,150$, trong túi lại có một cái đồng hồ vàng 60$.
+Ngày đó là ngày tết Nguyên Tiêu, người Hàng Châu có tục xem đèn. Bên bờ Hồ Tây đèn nháy như sao, trai hồng gái lục, bể người rừng hoa, náo nhiệt cực kỳ. Đột nhiên trong ngàn tiếng pháo tre, nghe thấy ba tiếng súng lục. Tức khắc có người chết nằm ngã giữa đất. Lính tuần xem lại soát ở trong người thấy có 2150$, trong túi lại có một cái đồng hồ vàng 60$.
 {: .text-justify}
 
 Ôi! Người đó cũng là đồng bào ta, lại là con nhà nòi chống Pháp kỳ cựu. Sau này lại đi nối giáo cho giặc, cuối cùng cũng phải chết thảm!
@@ -215,7 +215,7 @@ Dưới Banner của Marx, Engels, Lenin và Stalin!. Áp phích thiết kế ch
 </a>
 </cite>
 
-Tháng 11, Năm Canh Thân (1920), tôi nghe được Đảng Cộng Sản Liên Xô nhóm họp ở Bắc Kinh khá nhiều, mà đại bản doanh của họ thì ở trong trường Đại Học Bắc Kinh. Tôi vì sẵn tính ham lạ, mà cũng muốn nghiên cứu chân lý Cộng Sản, nhưng không biết lấy gì tự giới thiệu với họ. Bèn đem bản sách *"Liên Bang Nga Chân Tướng Điều Tra Ký"* của Bố Trí Di Trĩ, người Nhật Bản, tráo đi lật lại tìm ngầm ý sâu xa, sau đó dịch ra sách Hán Văn. Trên dưới diễn dịch cực kỹ chủ nghĩa Lao Nông cùng với chế độ của họ.
+Tháng 11, Năm Canh Thân (1920), tôi nghe được Đảng Cộng Sản Liên Xô nhóm họp ở Bắc Kinh, mà đại bản doanh của họ thì ở trong trường Đại Học Bắc Kinh. Tôi vì sẵn tính ham lạ, mà cũng muốn nghiên cứu chân lý Cộng Sản, nhưng không biết lấy gì tự giới thiệu với họ. Bèn đem bản sách *"Liên Bang Nga Chân Tướng Điều Tra Ký"* của Bố Trí Di Trĩ, người Nhật Bản, tráo đi lật lại tìm ngầm ý sâu xa, sau đó dịch ra sách Hán Văn. Trên dưới diễn dịch cực kỹ chủ nghĩa Lao Nông cùng với chế độ của họ.
 {: .text-justify}
 
 Xong tôi cắp sách đi Bắc Kinh, vào trường tôi thăm Thái Nguyên Bôi tiên sinh. Thái xem xong bản sách của tôi cũng rất tương đắc, mới giới thiệu tôi với 2 người Nga: một là trưởng đoàn Liên bang Xô Viết tới Trung Quốc, Đoàn trưởng (tên chữ Nga tôi không nhớ được), một là Tham Tán Lạp tiên sinh thuộc đại sứ Nga. Lần này là lần đầu tiên tôi tiếp xúc với người Nga. Tôi có hỏi Lạp tiên sinh:
@@ -224,9 +224,11 @@ Xong tôi cắp sách đi Bắc Kinh, vào trường tôi thăm Thái Nguyên B�
 Người nước tôi cũng muốn đi du học quý quốc, nhờ tiên sinh chỉ đường vẽ lối cho.
 {: .notice .text-justify}
 
+Lạp đáp:
+
 Lao Nông Chính phủ đối với tất cả đồng bào thế giới du học ở Nga rất là hoan nghênh. Người Việt Nam sang du học lại tiện lợi lắm:\
  \
-Do Bắc Kinh đến Vladivostok (Hải Sâm Uy) bằng đường thủy đều được. Từ Vladivostok tới Moskva (Mạc Tư Khoa) thì lại có đường sắt. Kể ra hành trình chỉ có 10 ngày thôi.\
+Có thể từ Bắc Kinh đến Vladivostok (Hải Sâm Uy) bằng đường thủy, rồi từ Vladivostok tới Moskva (Mạc Tư Khoa) bằng đường sắt. Kể ra hành trình chỉ có 10 ngày thôi.\
  \
 Học sinh tới Nga, nên đến Bắc Kinh trước, có quan Đại Sứ ở đó, vào xin lĩnh chứng thư và giấy giới thiệu. Nếu có rồi thì mọi phí tổn sau khi đến Moskva sẽ được Chính phủ tài trợ cho. Kể từ Việt Nam đến đất Nga, chi phí chỉ trong khoảng 200$ chắc cũng dễ lo liệu.\
  \
@@ -242,7 +244,9 @@ Còn như học phí, sinh hoạt phí trong lúc học ở Nga thì đều do C
 Ông Hoàng Đình Tuân thông dịch bằng tiếng Anh lại cho tôi nghe. Tôi còn nhớ họ có nói thêm rằng:
 {: .text-justify}
 
-Chúng tôi thấy được người Việt Nam là bắt đầu từ ông. Ông nếu dùng được chữ Anh làm một bản sách kể hết chân tướng của người Pháp ở Việt Nam rồi gửi lại cho chúng tôi. Chúng tôi cảm tạ không dám quên.
+Chúng tôi thấy được người Việt Nam là bắt đầu từ ông.\
+ \
+Ông nếu dùng được chữ Anh làm một bản sách kể hết chân tướng của người Pháp ở Việt Nam rồi gửi lại cho chúng tôi. Chúng tôi cảm tạ không dám quên.
 {: .notice .text-justify}
 
 Khổ vì tôi không làm được sách Anh Văn, không có cách nào trả lại thành ý đó. Coi như tôi không có duyên với chủ nghĩa Cộng Sản vậy.

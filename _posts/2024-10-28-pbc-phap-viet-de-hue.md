@@ -17,14 +17,13 @@ Người Pháp được thư ấy, tất bớt nghi ngờ Đảng ta. Ta cũng n
 Theo như lời ông Lê nói cũng là đắc sách lắm. Tôi tin lời hai người làm một bài văn đề rằng *"Pháp-Việt đề huề luận"*, dưới đề *"Độc Tinh Tử soạn"*, cuối bài có viết 5 chữ *"Phan Bá Ngọc phụng thơ"*. Đoạn Lê cầm bài văn ấy về nước. Bốn năm tháng sau, người con yêu của cụ Phan Đình Phùng quả thật quay ra làm tôi trung cho Pháp!
 {: .notice--info .text-justify}
 > <cite>
-<a href="/pbc-lan-loi-sau-the-chien#pháp-việt-đề-huề-luận">Kỳ 12 - Lăn lộn sau thế chiến</a>
+<a href="/pbc-lan-loi-sau-the-chien#pháp-việt-đề-huề-luận">Kỳ 14 - Lăn lộn sau thế chiến</a>
 </cite>
-
 
 ![alt]({{ 'assets/images/bia-phap-viet-de-hue.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://vi.m.wikisource.org/wiki/Trang:Phap-Viet_de_hue_chinh_kien_thu.pdf/1">
-Bìa bản sách Pháp-Việt đề huề - Tân Dân Thư quán xuất bản
+Sách Pháp-Việt đề huề chính kiến thư - Tân Dân Thư quán xuất bản
 </a>
 </cite>
 
@@ -87,8 +86,10 @@ Việt-nam thuộc quyền người Nhật phỏng người Nhật có chịu đ
 {: .text-justify} 
 
 Có ba cái lý-do ấy mà tôi biết rằng cái thời-kỳ người Nhật lấy được Việt-nam, tức là thời-kỳ nhân-chủng Việt-Nam phải tiêu-diệt đó. Than ôi! người Nam ta ôi! thà rằng cùng mặt giời kia đều lặn chẳng còn hơn ru! Các ông đang đứng dưới tường siêu, ngồi trong thuyền thủng kia ôi, thử nhắm mắt bình tâm, nghĩ kỹ những mầm họa-hoạn như tôi đã nói ở trên xem có lý chăng! hay không lý ấy chăng! Nếu không lý ấy thì tôi là một người cuồng vọng, không đáng dườm tai các ông; nếu có lý ấy thì tôi xin cùng các ông nghiên cứu cái mưu-kế thế nào cho được lưỡng lợi để cùng sinh tồn. Ôi! lấy lẽ thổ-địa nhân-dân nguyên có mà bàn thì người Nam là chủ mà người Pháp là khách; lấy lẽ thế lực quyền hạn hiện tại mà bàn thì người Pháp là anh mà người Nam là em. Chủ khách biết hiệp sức cùng lo thì dẫu trước mặt lửa bùng cháy chiếu, không sợ rằng không thể dập được. Anh em biết đồng lòng cứu nạn thì dẫu nửa đêm kẻ cướp vào nhà, không sợ rằng không thể đánh nổi.
+{: .text-justify} 
 
 Từ nay về sau, đại-thế biến thiên, thời-cục thay đổi, cái cảnh khốn của người Pháp không ở cuộc chiến-tranh này mà ở cuộc chiến-tranh sau; cái ngày chết của người Nam không ở lúc thuộc Pháp bây giờ, mà ở lúc thuộc Nhật sau này đó.
+{: .text-justify} 
 
 Trước đây tôi vẫn giữ cái lý-thuyết bài Pháp, vì tôi nghĩ rằng tôi là người Việt-Nam, lẽ nào tôi không vì nước Nam nghĩ kế tự-lập ru! Nhưng từ khi cuộc Âu-chiến phát sinh thì tôi liền khóa miệng buộc lưỡi, không nói một câu gì. Ngòi bút của tôi và ngọn lưỡi của tôi cùng tai mắt các ông không cùng giao-thông, đã lâu hàng bốn năm rồi. Bởi vì ban đầu tôi rất trông nom cuộc Âu-chiến chóng xong thì cái lòng nham-hiểm của người Nhật hoặc không dám hung-hăng nữa, tôi sẽ không cần phải nói. Nhưng chậm đến ngày nay, cái vạ chiến-tranh chưa dứt, mà thế-lực người Nhật, ngày một bành trướng lên đến cái độ rất cao. Tôi e cái lòng tôi hoài nghi trước kia, sớm tối sẽ thành ra sự thực, cái cơ khốn quẫn của người Pháp cùng cái vạ gớm ghê của người Nam, thế tất không sao tránh khỏi, phòng bị sớm được lúc nào, hoặc có tìm ra cái mưu khéo vạn toàn thì tôi sẵn lòng muốn lắm. Tôi muốn thế nào?
 {: .text-justify} 
@@ -100,4 +101,4 @@ Tôi muốn từ nay về sau, người Nam chớ coi người Pháp là giống
 {: .text-justify} 
 
 In tại nhà in Nghiêm-Hàm 58, Phố hàng Bông — Hanoi
-{: .notice .text-justify} 
+{: .notice--warning .text-justify} 

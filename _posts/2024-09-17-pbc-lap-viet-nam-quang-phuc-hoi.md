@@ -1,5 +1,5 @@
 ---
-title: Kỳ 9 - Lập Việt Nam Quang Phục Hội
+title: Kỳ 11 - Lập Việt Nam Quang Phục Hội
 permalink: /pbc-viet-nam-quang-phuc-hoi
 layout: single
 classes: wide
