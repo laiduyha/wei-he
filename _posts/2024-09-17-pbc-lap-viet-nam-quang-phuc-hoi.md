@@ -46,10 +46,10 @@ Chân dung Trần Kỳ Mỹ
 Hạ tuần tháng 11 tới Hồng Kong anh em đồng chí trước đó tản tác các nơi, giờ đều quần tụ lại đây.
 {: .text-justify}
 
-Lúc này nghĩ rằng sau cách mạng đảng thành công thì Chính phủ Trung Hoa mới tất nhiên không hủ bại như Chính phủ cũ *(thất bại là tại chỗ đó!)*, và rồi Trung Hoa tất nối gót theo Nhật Bản mà làm một cường quốc. Nếu hai nước Trung-Nhật chung đổ toàn lực lại mà kình với Châu Âu thì chẳng những nước Việt Nam ta, mà nước Ấn Độ, Philippines cũng đồng thời đứng dậy cả.
+Lúc này nghĩ rằng sau cách mạng đảng thành công thì Chính phủ Trung Hoa mới tất nhiên không hủ bại như Chính phủ cũ *(thất bại là tại chỗ đó!)*, và rồi Trung Hoa tất nối gót theo Nhật Bản mà làm một cường quốc. Nếu hai nước Trung-Nhật chung sức toàn lực mà kình với Châu Âu thì chẳng những nước Việt Nam ta, mà nước Ấn Độ, Philippines cũng đồng thời có cơ hội đứng dậy cả.
 {: .text-justify}
 
-Nghĩ thế tôi bèn thảo một bản, tựa là *"Liên Á xổ ngôn"*, cốt bày tỏ kêu gào hai nước Trung Hoa, Nhật Bản nên đấu sức cùng lòng, để sửa sang gây dựng đại cuộc Châu Á. Bài này truyền ra những người kiến thức đều khen ngợi tán thành.
+Nghĩ thế tôi bèn thảo một bản, tựa là *"Liên Á xổ ngôn"*, cốt bày tỏ kêu gào hai nước Trung Hoa, Nhật Bản nên đấu sức cùng lòng, để sửa sang gây dựng đại cuộc Châu Á. Bài này truyền ra nhiều tri thức xứ Trung đều khen ngợi tán thành.
 {: .text-justify}
 
 Song thời cuộc Đông Á đến giờ *(năm 1924)*, xoay đổi khác hẳn sự trông mong của mình lúc đó. Thế mới biết việc đời lý luận đi tới thực tiễn không phải là chuyện dễ dàng. Bọn mình hay ngồi nói ngông tưởng hão, chỉ tổ làm trò cười cho người ta mà thôi.
@@ -66,10 +66,10 @@ Tôi đến Nam Kinh chính vừa giữa lúc hai đám Tân-Cựu giao đấu, 
 
 Nước tôi viện Việt là nghĩa vụ của bọn tôi, không thể từ được; nhưng lúc này bàn tới hơi sớm. Nay chỉ có thể nghĩ giùm được cho các ngài một việc sau:\
  \
-Tuyển phái học sinh Việt Nam vào học trường Trung Hoa, hay là vào quan dinh Trung Hoa. Có sẵn nhân tài sẽ chờ cơ hội, dầu có chậm trễ cũng chẳng qua độ 10 năm. Các ngài lưu tâm việc này, có cần những gì chúng tôi có thể giúp đỡ cho được. Ngoài chuyện ấy, lúc này không việc gì có thể giúp dùm các ngài.
+Tuyển mộ du học sinh Việt Nam vào học trường Trung Hoa, hay là vào quan dinh Trung Hoa. Có sẵn nhân tài sẽ chờ cơ hội, dầu có chậm trễ cũng chẳng qua độ 10 năm. Các ngài lưu tâm việc này, có cần những gì chúng tôi có thể giúp đỡ cho được. Ngoài chuyện ấy, lúc này không việc gì có thể giúp dùm các ngài.
 {: .notice .text-justify}
 
-Tôi nghe lời Hoàng nói, quá chừng thất vọng, nghĩ rằng: *"Phái tống học sinh thì chẳng qua là nước cờ thua ngày xưa mà thôi"*. Tôi ghé qua Thượng Hải, gặp người bạn khi xưa là Đô đốc Trần Kỳ Mỹ mà thổ lộ rằng:
+Tôi nghe lời Hoàng nói, quá chừng thất vọng, ngán ngẩm nghĩ rằng: *"Tuyển du học sinh thì chẳng qua lại là nước cờ thua ngày xưa mà thôi"*. Tôi ghé qua Thượng Hải, gặp người bạn khi xưa là Đô đốc Trần Kỳ Mỹ mà thổ lộ rằng:
 
 Lúc này tôi định cho người về trong nước làm bạo động cách mạng...
 {: .notice .text-justify}
@@ -85,7 +85,7 @@ Người nước tôi cầu một sự sống trong vạn cái chết, chỉ duy
 Tôi nhân lấy câu *"Giáo dục và bạo động đồng thời tiến hành"* của Giuseppe Mazzini mà cáo với tiên sinh và đồng thời lấy dẫn chứng về lịch sử những thất bại của đảng mình xưa nay. Cuối cùng tiên sinh cũng cho là phải, lấy 4000$ tặng ngay cho tôi, rồi đem 30 viên lựu đạn quân dụng làm quà.
 {: .text-justify}
 
-Lâu nay tôi khốn khổ về cảnh túng bấn nghèo nàn, không khác gì người hết gạo nhịn ăn lâu lắm rồi. Bây giờ được tiên sinh vác một số tiền lớn lao mà cho, khiến mình vui mừng yên ủi, vì lại có tiền để hoạt động. Ơn lớn của tiên sinh thiệt dầu đến chết tôi cũng không dám quên.
+Lâu nay tôi khốn khổ luôn gặp cảnh túng bấn nghèo nàn, không khác gì người hết gạo nhịn ăn lâu lắm rồi. Bây giờ được tiên sinh vác một số tiền lớn mà cho, khiến trong lòng vừa vui mừng, vừa an tâm vì lại có tiền để hoạt động. Ơn lớn của tiên sinh thiệt dầu đến chết tôi cũng không dám quên.
 {: .text-justify}
 
 Vừa gặp lúc Dân đảng ở Quảng Đông cũng thành công đắc chí, Hồ Hán Dân làm Đô Đốc, cùng với cảnh sát trưởng Trần Cảnh Hoa, vốn tỏ ý đồng tình với đảng cách mạng nước ta, cho nên tôi nhân dịp lại đi Quảng Châu và định ở luôn tại đó.

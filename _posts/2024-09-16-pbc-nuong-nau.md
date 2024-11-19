@@ -35,20 +35,20 @@ Từ tháng 3 năm Canh Tuất (1910) trở đi, tôi bước vào cái thời k
 Tin tức nước nhà, có khi cả mấy tháng trời, tôi không tiếp được mảy may nào. Vì bảo hộ thẳng tay làm chính sách khám xét thư từ và tịch thâu tiền bạc trong nước gửi ra ngoài cho chúng tôi.
 {: .text-justify}
 
-Thỉnh thoảng có người làm dưới tàu Tây qua đây nói một vài tin miệng cho mình nghe, đều là những tin tức kinh tâm động phách. Nếu không phải là tin Đàm quân Kỳ Sanh bị đày, thì cũng là tin Lê quân Võ bị bắt. Những tin nói đảng nhân này, đảng nhân kia bị bêu đầu bằm xác, thường thường theo tiếng còi tàu mà đưa đến tai tôi. Thật đau lòng hết sức!
+Thỉnh thoảng có người làm dưới tàu Tây qua đây nói một vài tin miệng cho mình nghe, đều là những tin tức kinh tâm động phách. Nếu không phải là tin Đàm Kỳ Sanh bị đày, thì cũng là tin Lê Võ bị bắt. Những tin nói đảng nhân này, đảng nhân kia bị bêu đầu bằm xác, thường thường theo tiếng còi tàu mà đưa đến tai tôi. Thật đau lòng hết sức!
 {: .text-justify}
 
-Tôi lúc này dời về Quảng Châu. Đem những thứ sách còn lại, dấu tên bịt họ, đi bán sách rao. Lúc bấy giờ các học sinh, thương khách Trung Quốc, phần nhiều có tư tưởng cách mạng, thấy tôi đem sách bán, thường cũng có nhiều người hỏi mua. Có một điều rất buồn cười là nếu người trẻ đi bán thường về tay không, duy tôi đi bán thì ngày hoặc 2, 3 đồng, cũng có ngày được đến 5, 6 đồng. Có lẽ vì tôi râu mày bặm trợn, giày áo lang thang, nhiều người thấy lạ lại thương mà chịu mua đắt cho. Nên tiền bán sách của tôi cũng được khá.
+Tôi lúc này dời về Quảng Châu. Đem những thứ sách còn lại, dấu tên bịt họ, đi bán sách rao. Lúc bấy giờ các học sinh, thương khách Trung Quốc, phần nhiều có tư tưởng cách mạng, thấy tôi đem sách bán, thường cũng có nhiều người hỏi mua. Có một điều rất buồn cười là nếu người trẻ đi bán toàn về tay không, duy tôi đi bán thì ngày hoặc 2, 3 đồng, cũng có ngày được đến 5, 6 đồng. Có lẽ vì tôi râu mày bặm trợn, quần áo lang thang, nhiều người thấy lạ lại thương mà chịu mua đắt cho. Thế nên tiền bán sách của tôi cũng được khá.
 {: .text-justify}
 
-Thường ngày sớm ra tối về, được ít đồng thì lại được nhóm năm ba đồng chí uống điên say liều. Tiền bán sách được bao nhiêu thường ngày đánh chén ráo. Có ngày kia rượu giữa bàn hết, ông Lương Lập Nham biết trong túi tôi còn tiền bảo mua thêm. Tôi bảo không tiền, Lương thò tay móc trong túi tôi được vài mươi xu, thét to mà rằng: 
+Thường ngày sớm ra tối về, được ít đồng thì lại được nhóm năm ba đồng chí uống điên say liều. Tiền bán sách được bao nhiêu hầu hết đều đem đi đánh chén ráo. Có ngày kia rượu giữa bàn hết, ông Lương Lập Nham biết trong túi tôi còn tiền bảo mua thêm. Tôi bảo không tiền, Lương thò tay móc trong túi tôi được vài mươi xu, thét to mà rằng: 
 {: .text-justify}
 
 Phải đâm họng ông mới được! Cớ sao keo một chén rượu không cho chúng tôi say!
 {: .notice .text-justify}
 
 ## Chu Sư Thái
-Từ đó về sau suốt 5, 6 tháng tôi chỉ làm ông thầy đồ già bán sách. Sớm tối nương dựa vào một bà nữ sĩ nghĩa hiệp trên 70 tuổi đầu. Bà họ Chu, tên là Bách Linh, là nữ giáo sư. Tục Quảng Đông gọi nữ giáo đầu là Sư Thái, nên bà được gọi là Chu Sư Thái. Chu ân nhân là người huyện Hương Sơn, Quảng Đông, tinh thông Hán Văn. Bà ở góa từ ngày còn trẻ, mở trường tư dạy học trò gái, sinh nhai bằng nghề ruộng bút.
+Từ đó về sau suốt 5, 6 tháng tôi chỉ làm ông thầy đồ già bán sách. Sớm tối nương dựa vào một bà nữ sĩ nghĩa hiệp trên 70 tuổi đầu. Bà họ Chu, tên là Bách Linh, là nữ giáo đầu. Tục Quảng Đông gọi nữ giáo đầu là Sư Thái, nên bà được gọi là Chu Sư Thái. Chu ân nhân là người huyện Hương Sơn, Quảng Đông, tinh thông Hán Văn. Bà ở góa từ ngày còn trẻ, mở trường tư dạy học trò gái, sinh nhai bằng nghề ruộng bút.
 {: .text-justify}
 
 Con trai bà là Chu Thiết Sinh cũng làm nghề dạy học. Thiết Sinh gặp tôi bán sách ở giữa đường, dắt tôi vào chào mẹ. Bà sẵn có tính nghĩa hiệp, khi gặp biết chúng tôi là người cách mạng Việt Nam, tỏ ý mừng lắm, bảo với chúng tôi rằng:
@@ -93,10 +93,10 @@ Mỗi khi chúng tôi có việc khẩn dùng, trong nhà không sẵn tiền th
 Chúng mày hôm qua có làm thịt được một con heo phải không?
 {: .notice .text-justify}
 
-Con trai bà là Chu quân cũng vì chuyện của tôi mà bị Long Tế Quang (Tổng đốc Quảng Đông) giam cầm hơn 10 ngày, bà cũng thản nhiên.
+Con trai bà cũng vì chuyện của tôi mà bị Long Tế Quang (Tổng đốc Quảng Đông) giam cầm hơn 10 ngày, bà cũng thản nhiên.
 {: .text-justify}
 
-Lữ quán có ba tên trước ở nhờ nhà bà, đến sau lấy tư cách mật thám hỏi dò việc đảng. Vào nhà đem số tiền khá nhiều tặng bà. Bà nói chuyện và dò ý, khi biết lai lịch số tiền đó, liền giận ra mặt:
+Lữ quán có ba tên trước ở nhờ nhà bà, đến sau làm mật thám vào hỏi dò việc của đảng. Vào nhà đem số tiền khá nhiều tặng bà. Bà nói chuyện và dò ý, khi biết lai lịch số tiền đó, liền giận ra mặt:
 {: .text-justify}
 
 Tao trước kia tưởng chúng mày là người, bây giờ chúng mày ra chó. Chúng mày còn lại thăm tao nữa ư?
@@ -133,7 +133,7 @@ Qua đến năm sau, người trong đảng như bọn các ông Tử Kính, Vĩ
 Tháng 2 năm Tân Hợi (1911), sau khi bị Nhật trục xuất, các ông viết thư sang Hồng Kong kêu tôi qua. Tôi suy nghĩ muốn bắt chước Ngũ Tử Tư ngày xưa cày ruộng đợi thời, cũng là kế hay bèn đáp tàu sang Thái.
 {: .text-justify}
 
-Sang đây, tôi tới ở sở ruộng Bạn Thầm (tỉnh Phichit, Thái Lan), tắm gió gội sương, dầm mưa trải nắng, cùng mấy anh em thiếu niên cùng chia sớt đắng cay, hầu cho tiêu bớt nỗi đau thương, ăn không ngồi rồi.
+Sang đây, tôi tới ở sở ruộng Bạn Thầm (tỉnh Phichit, Thái Lan), tắm gió gội sương, dầm mưa trải nắng, cùng mấy anh em chia sẻ đắng cay, nhằm cho tiêu bớt nỗi đau thương, ăn không ngồi rồi.
 {: .text-justify}
 
 Tôi sống cái đời nông phu cực nhọc trước sau 8 tháng.
@@ -145,7 +145,7 @@ Nhưng trong 8 tháng đó, tôi thấy trong mình vui vẻ, thư thái lạ l�
 Hồi này rảnh rang nhàn rỗi, tôi soạn ra được nhiều bài văn Quốc Ngữ. Nào truyện Lê Thái Tổ, nào truyện Trưng nữ Vương, nào là những khúc hát, bài ca cổ vũ tấm lòng yêu nước, yêu nòi, yêu giống. Tôi đem những bài ấy ra dạy cho những người ở trong sở ruộng học, sớm tối họ thường nghêu ngao ca hát làm vui. Ấy là tôi muốn gieo hạt giống cách mạng ở giữa khoảng non xanh nước biếc này vậy.
 {: .text-justify}
 
-Tháng 10 năm ấy (Tân Hợi, 1911) Phan quân Bá Ngọc ở Hồng Kong sang Thái, đem cái tin Võ Xương khởi nghĩa nói cho tôi nghe. Quân cách mạng Trung Hoa thu phục xong Võ Xương, chưa đầy ba tháng mà đánh đổ được Triều Mãn Thanh, dựng thành Dân Quốc ở Nam Kinh. Thực là một việc mà tôi không dám nghĩ tới.
+Tháng 10 năm ấy (Tân Hợi, 1911) Phan Bá Ngọc ở Hồng Kong sang Thái, đem cái tin Võ Xương khởi nghĩa nói cho tôi nghe. Quân cách mạng Trung Hoa thu phục xong Võ Xương, chưa đầy ba tháng mà đánh đổ được Triều Mãn Thanh, dựng thành Dân Quốc ở Nam Kinh. Thực là một việc mà tôi không dám nghĩ tới.
 {: .text-justify}
 
 Hồi trước tôi còn ở bên Nhật, từng có cơ hội kết giao với những vị cốt cán của cách mạng Trung Hoa như Hoàng Khắc Cường, Chương Thái Viêm. Lại cùng bọn Trương Kế và chí sĩ các nước Triều Tiên, Nhật Bản, Ấn Độ và Philippines, tổ chức ra *"Đông Á Đồng Minh Hội"* .

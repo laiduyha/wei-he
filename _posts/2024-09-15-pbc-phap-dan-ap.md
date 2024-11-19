@@ -219,16 +219,13 @@ Chẳng ngờ khi đến thuế quan, vì rương chở quá nặng, quan cảnh
 
 Ưu thế kỷ hồ thương hải khấp,\
 Kinh nhân nhất chỉ ngọc sơn đồi.\
- \
-*Nghĩa là:*\
-Lo nước bao phen sa huyết lệ,\
-Tin quê đưa tới luống kinh tâm.\
- \
-*Lại còn một câu nữa:*\
 Khả vô mãnh hỏa thiêu sầu khứ,\
 Thiên hựu cuồng phong tống hận tai.\
  \
 *Nghĩa là:*\
+ \
+Lo nước bao phen sa huyết lệ,\
+Tin quê đưa tới luống kinh tâm.\
 Đã không ngọn lửa thiêu sầu rụi,\
 Lại có cơn giông thổi giận thêm.
 {: .notice--warning .text-justify}
