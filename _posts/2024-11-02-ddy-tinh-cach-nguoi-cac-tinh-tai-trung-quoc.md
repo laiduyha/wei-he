@@ -209,7 +209,7 @@ Có câu *"đến Bắc Kinh mới thấy quan mình nhỏ, đến Đông Bắc 
 {: .text-justify}
 
 ## Người Hồng Kông（香港）
-Người Hồng Kông sớm nhất là di dân Quảng Đông, bị nuớc Anh thống trị lâu dải. Trên người Hồng Kông có cả đặc trưng tính cách phương Đông và phương Tây, hàm súc của phương Đông, thẳng thắn của phương Tây, nhiệt tình của phương Đông, lãnh đạm của phương Tây, tình cảm của phương Đông, khách quan của phương Tây.
+Người Hồng Kông sớm nhất là di dân Quảng Đông, bị nuớc Anh thống trị lâu dải.Trên người Hồng Kông có cả đặc trưng tính cách phương Đông và phương Tây, hàm súc của phương Đông, thẳng thắn của phương Tây, nhiệt tình của phương Đông, lãnh đạm của phương Tây, tình cảm của phương Đông, khách quan của phương Tây.
 {: .text-justify}
 
 Trừ một số cá biệt ra đa số người Hồng Kông không tự đánh giá thấp nguồn gốc, dòng máu của mình và không tự phủ định. Cái phủ định là đại lục *“không dân chủ”*, *“hủ bại”* tâm trạng phổ biến là *“yêu nước, yêu Hồng Kông, nhưng chưa chắc đã yêu đảng”*.
@@ -253,7 +253,7 @@ Có người là quan thường dựa vào chính sách mà sống cuộc sống
 Phụ nữ rất cởi mở và rất có cá tính. Người Bắc Kinh muốn học đại học là học được, ngay cả với những truờng nổi tiếng như Thanh Hoa, Bắc Đại. Sau khi tốt nghiệp nói chung được các cơ quan nhà nước và doanh nghiệp ưu tiên tuyển dụng.
 {: .text-justify}
 
-Chỗ nào ở Bắc Kinh cũng có quan, ngay ông lão đạp xe ba gác cũng ra vẻ ta đây vì nhà nào chả có dây mơ rễ má với mấy vị quan. Chính vì thế mới có câu nói ở trên *“không đến Bắc Kinh không biết mình chỉ là quan nhỏ”*.
+Chỗ nào ở Bắc Kinh cũng có quan, ngay ông lão đạp xe ba gác cũng ra vẻ ta đây vì nhà nào chả có dây mơ rễ má với mấy vị quan. Chính vì thế mới có câu nói *“không đến Bắc Kinh không biết mình chỉ là quan nhỏ”*.
 {: .text-justify}
 
 Hộ khẩu ở Bắc Kinh quí báu lắm, người Bắc Kinh cũng bài ngoại, nói chung cảm thấy mình là *“ngưòi của Trung Ương”*. Rất nhiều người ngoại tỉnh ở Bắc Kinh sau khi trở thành người Bắc Kinh thì thế hệ sau của họ cũng bài ngoại. Cảnh sát nói chung đặc biệt *“chiếu cố”* mấy người ngoại tỉnh. Tuy vậy tính bao dung rất khá (tất nhiên không thể so sánh với Thâm Quyến).
