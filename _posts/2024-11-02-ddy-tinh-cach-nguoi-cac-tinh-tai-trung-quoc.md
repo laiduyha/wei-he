@@ -8,8 +8,8 @@ parent:
  label: Dương Danh Dy
  url: duong-danh-dy
 toc: true
-toc_label: Danh sách các tỉnh
-toc_icon: cog
+toc_label: Danh sách
+toc_icon: map
 toc_sticky: true
 ---
 
@@ -20,7 +20,14 @@ toc_sticky: true
 Lưu ý là câu chữ sẽ có đôi chỗ phân biệt vùng miền giới tính, nhưng là người cầu học thì cậu hãy cứ coi đây là nhận định chung, bỏ qua cái tiểu tiết để có cái tổng quát vậy.
 {: .notice--warning .text-justify}
 
-## Người Hà Nam
+![alt]({{ 'assets/images/ban-do-hanh-chinh-trung-quoc.png' | absolute_url }})
+> <cite>
+<a target="_blank" href="https://meeymap.com/tin-tuc/ban-do-trung-quoc">
+Bản đồ các đơn vị hành chính Trung Quốc
+</a>
+</cite>
+
+## Người Hà Nam（河南省）
 Tỉnh Hà Nam là cái nôi của dân tộc Trung Hoa, trong sáu cố đô của Trung Quốc có ba cái ở Hà Nam. Thế nhưng thanh danh hiện nay rất xấu, các công ty lớn tại Bắc Kinh, Thượng Hải, Quảng Châu, Thâm Quyến đều không muốn thuê dùng người Hà Nam.
 {: .text-justify}
 
@@ -45,7 +52,7 @@ Người Hà Nam ở nhà rất coi trọng lễ nghĩa, các chuyện ma chay c
 Nói chung tiếng xấu với người Hà Nam đã thâm căn cố đế. Nhiều người thường trách mắng người Hà Nam, nhưng lại quên mất rằng tổ tiên người Khách Gia thậm chí người Thượng Hải đều là người Hà Nam.
 {: .text-justify}
 
-## Người Hồ Bắc
+## Người Hồ Bắc（湖北省）
 Là láng giềng của tỉnh Hà Nam, trình độ xảo quyệt không thua người Hà Nam, hàng giả tại một đường phố tại Hồ Bắc đã từng nổi tiếng tại Trung Quốc. Tuy vậy thanh danh người Hồ Bắc không xấu như vậy, đây được coi là tỉnh có nhiều hồ nước, nước nhiều tự nhiên tính tình linh hoạt, và có nhiều mỹ nữ.
 {: .text-justify}
 
@@ -64,7 +71,7 @@ Người Hồ Bắc hướng nội, biết giấu mình chờ thời, nhưng dũ
 Hồ Bắc cũng là tỉnh có nhiều nông dân vào thành phố làm thuê.
 {: .text-justify}
 
-## Người Hồ Nam
+## Người Hồ Nam（湖南省）
 Người Hồ Nam được gọi là *“người phương Bắc của phương Nam”* tính cách bộc trực, khí khái dữ dội như ớt cay, cổ họng cũng tương đối lớn. Sử sách cổ có nhiều từ ca ngợi người Hồ Nam nhất. Ví dụ:
 {: .text-justify}
 
@@ -72,13 +79,13 @@ Người Hồ Nam được gọi là *“người phương Bắc của phương 
 - Không có Hồ Nam không thành quân đội.
 - Người Hồ Nam chưa đổ, Hoa Hạ chưa đổ.
 
-Quân Hồ Nam của Tăng Quốc Phiên, Tả Tông Đưòng đã kéo dài thêm hương hoả nhà Thanh gần nửa thế kỷ, nhiều nguyên lão khai quốc của đảng cộng sản là người Hồ Nam. Có thể nói bộ cận đại sử Trung Quốc và nửa bộ hiện đại sử Trung Quốc là do người Hồ Nam dùng máu tươi và sinh mệnh của mình viết nên.
+Quân Hồ Nam của Tăng Quốc Phiên, Tả Tông Đường đã kéo dài thêm hương hoả nhà Thanh gần nửa thế kỷ, nhiều nguyên lão khai quốc của đảng cộng sản là người Hồ Nam. Có thể nói bộ cận đại sử Trung Quốc và nửa bộ hiện đại sử Trung Quốc là do người Hồ Nam dùng máu tươi và sinh mệnh của mình viết nên.
 {: .text-justify}
 
 Người Hồ Nam thông minh, dũng cảm, mạnh mẽ quả quyết, dám đảm nhiệm việc lớn coi thiên hạ hưng vong là trách nhiệm của mình, *“nước Trung Hoa chỉ diệt vong khi người Hồ Nam chết hết”*. Người Hồ Nam tập trung được mỹ đức ưu tú của dân tộc Trung Hoa. Học tập, đi lính đánh nhau, lao động đều tốt.
 {: .text-justify}
 
-Thế nhưng gần đây phong khí xã hội đã có xu thế giảm sút. Trường Sa là thành phố tiêu dùng điển hình, các nhà tắm đầy thành phố (đều kèm theo gái) nhung giá rất đắt, dân địa phương không có tiền vào tắm và thường do người Quảng Đông tới làm mưa làm gió.
+Thế nhưng gần đây phong khí xã hội đã có xu thế giảm sút. Trường Sa là thành phố tiêu dùng điển hình, các nhà tắm đầy thành phố (đều kèm theo gái) nhưng giá rất đắt, dân địa phương không có tiền vào tắm và thường do người Quảng Đông tới làm mưa làm gió.
 {: .text-justify}
 
 Song Phong là *”quê hương làm các loại giấy chứng nhận giả”* của Trung Quốc. Huyện Sâm Châu toàn là tham quan. Người Hồ Nam có 3 loại khí: linh khí, phỉ khí và bá khí, một khi trở thành nhóm bạo lực thì nguy hại cực lớn.
@@ -90,7 +97,7 @@ Song Phong là *”quê hương làm các loại giấy chứng nhận giả”*
 Hồ Nam có nhiều gái đẹp, đảm đang thông tuệ, làm việc tháo vát, nhưng làm vợ thì không đáng tin lắm, đã có câu nói *”Tương nữ đa tình”* (gái Hồ Nam thường đa tình), số người làm việc trong ngành dịch vụ bằng vai phải lứa với các chị em Tứ Xuyên, Đông Bắc. Ở đây có câu *“chỉ cười nghèo chứ không cười xướng ca”*. Là tỉnh lớn xuất khẩu *“các vợ hai”*.
 {: .text-justify}
 
-## Người Quảng Đông
+## Người Quảng Đông（广东省）
 Người Quảng Đông là nhóm người phức tạp nhất Trung Quốc, thân thể nói chung nhỏ, lùn, trán rô, mắt nhỏ mà sâu, mũi hơi rộng, môi dày. Có 3 ngôn ngữ chính: tiếng Phổ Thông, tiếng Triều Châu, tiếng Khách Gia.
 {: .text-justify}
 
@@ -160,7 +167,7 @@ Sách giả, thuốc lá giả, đĩa giả, tiền giả... do người Quảng
 Quảng Châu, Đông Quán, Thâm Quyến là những thành phố không có cảm giác an toàn nhất, Thành phố Đông Quán vừa bẩn vừa loạn, cũng có sông đào nhưng mùi thối thấu trời. Đáng sợ nhất là ban ngày mà trộm cướp vẫn hoành hành. Quảng Đông là tỉnh lớn nhát về “vợ hai”, tại Thâm Quyến, Đông Quán có rất nhiều “thôn vợ hai” rất tráng lệ.
 {: .text-justify}
 
-## Người Quảng Tây
+## Người Quảng Tây（广西省）
 Ở Quảng Tây chủ yếu có hai loại tiếng địa phương là tiếng Quế, Liễu (tiếng Quế Lâm và Liễu Châu rất gần tiếng Hồ Nam) và tiếng Nam Ninh (loại biến chủng của tiếng Phổ Thông Quảng Đông, rất khó nghe). Khí hậu Quảng Tây viêm nhiệt.
 {: .text-justify}
 
@@ -182,7 +189,7 @@ Quảng Tây có rất nhiều nơi du ngoạn đẹp, nhưng không biết kinh
 Đàn ông Quảng Tây tiểu khí, tự tư, nhát gan, nhưng một khi đến Quảng Đông thì đã có biến đổi lớn về tính cách. “Đảng ô tô” chủ yếu là người Quảng Tây. Người nông thôn Quảng Tây tương đối thiện lương (kể cả người Choang ở vùng xa xôi hẻo lánh mà về cơ bản đã bị tộc Hán đồng hoá) thành thực, trung hậu, không có tính công kích, chỉ cần người ta thương hại là được. Nghiện đánh bạc, chơi các loại sổ xố khiến nhiều người tan cửa nát nhà, rất nhiều người chưa từng ngồi xe lửa.
 {: .text-justify}
 
-## Người Hải Nam
+## Người Hải Nam（海南省）
 Là nơi tổ tiên người Lê dời đến sớm nhất, là một quận thời Tây Hán, đến Ngũ Đại là nơi di dân Trung Nguyên đến nhiều nhất. Trong đó thời Tống, Minh, Thanh qui mô di dân lớn nhất mà chủ yếu là từ Phúc Kiến, Quảng Đông, Quảng Tây.
 {: .text-justify}
 
@@ -201,7 +208,7 @@ Hải Nam cũng là quê hương Hoa Kiều, nhưng nhiều người trong bọn
 Có câu *"đến Bắc Kinh mới thấy quan mình nhỏ, đến Đông Bắc mới thấy gan mình bé, đến Quảng Đông mới thấy tiền mình ít, đến Hải Nam mới thấy sức khoẻ mình rất không tốt!"*
 {: .text-justify}
 
-## Người Hồng Kông
+## Người Hồng Kông（香港）
 Người Hồng Kông sớm nhất là di dân Quảng Đông, bị nuớc Anh thống trị lâu dải. Trên người Hồng Kông có cả đặc trưng tính cách phương Đông và phương Tây, hàm súc của phương Đông, thẳng thắn của phương Tây, nhiệt tình của phương Đông, lãnh đạm của phương Tây, tình cảm của phương Đông, khách quan của phương Tây.
 {: .text-justify}
 
@@ -220,7 +227,7 @@ Người Hồng Kông mặc dù đã gần bị Tây hoá nhưng bất kể là 
 Người Hồng Kông cũng như người Đài Loan phần lớn bao *“vợ hai”* tại đại lục, ngay phu vận tải cũng bao *“em gái Tứ Xuyên”* tại Thâm Quyến.
 {: .text-justify}
 
-## Người Ma Cao
+## Người Ma Cao（澳门）
 Bị Bồ Đào Nha thống trị hơn 400 năm nhưng quan niệm văn hoá truyền thống vẫn không thay đổ. Ma Cao và Hồng Kông chỉ cách nhau một cửa sông Châu Giang, nhưng Hồng Kông thì chen chúc náo nhiệt khiến lòng người chẳng mấy khi yên, còn Ma Cao tuy chen chúc mà không náo nhiệt, căng thẳng mà vẫn yên tĩnh khiến người ta thoải mái thư nhàn.
 {: .text-justify}
 
@@ -236,7 +243,7 @@ Kinh tế Ma Cao đơn nhất, ngoài đánh bạc và du lịch ra chẳng có 
 Do không giàu có như Hồng Kông nên rất nhiều người Ma Cao thích đến mua sắm tại Chu Hải (Quảng Đông).
 {: .text-justify}
 
-## Người Bắc Kinh
+## Người Bắc Kinh（北京）
 Là vùng thấy nhiều biết rộng, vừa tiêm nhiễm văn hoá vua quan vừa chịu tàn dư của phong tục con em nhà Mãn. Vô cùng lười biếng, rất nhiều người thà ở nhà hưởng bảo hiểm thấp chứ không chịu đi làm. Khá nhiều người dựa vào tiền bồi thường nhà cửa cổ xưa do cha ông để lại khi phải di chuyển hoặc giá nhà đất gia tăng để sinh sống.
 {: .text-justify}
 
@@ -249,7 +256,7 @@ Phụ nữ rất cởi mở và rất có cá tính. Người Bắc Kinh muốn 
 Chỗ nào ở Bắc Kinh cũng có quan, ngay ông lão đạp xe ba gác cũng ra vẻ ta đây vì nhà nào chả có dây mơ rễ má với mấy vị quan. Chính vì thế mới có câu nói ở trên *“không đến Bắc Kinh không biết mình chỉ là quan nhỏ”*.
 {: .text-justify}
 
-Hộ khẩu ở Bắc Kinh quí báu lắm, người Bắc Kinh cũng bài ngoại, nói chung cảm thấy mình là *“ngưòi của Trung Ương”* (rất nhiều người ngoại tỉnh ở Bắc Kinh sau khi trở thành người Bắc Kinh thì thế hệ sau của họ cũng bài ngoại). Cảnh sát nói chung đặc biệt *“chiếu cố”* mấy người ngoại tỉnh. Tuy vậy tính bao dung rất khá (tất nhiên không thể so sánh với Thâm Quyến).
+Hộ khẩu ở Bắc Kinh quí báu lắm, người Bắc Kinh cũng bài ngoại, nói chung cảm thấy mình là *“ngưòi của Trung Ương”*. Rất nhiều người ngoại tỉnh ở Bắc Kinh sau khi trở thành người Bắc Kinh thì thế hệ sau của họ cũng bài ngoại. Cảnh sát nói chung đặc biệt *“chiếu cố”* mấy người ngoại tỉnh. Tuy vậy tính bao dung rất khá (tất nhiên không thể so sánh với Thâm Quyến).
 {: .text-justify}
 
 Mở công ty nên hết sức tránh nhận người Bắc Kinh. Người Bắc Kinh cái gì cũng minh bạch, nhưng chỉ biết nói mà không thể làm, nghiệp vụ còn giỏi hơn ông chủ (người Bắc Kinh thích hợp làm nhân viên tài vụ, nhân phẩm đáng tin, lại trốn không nổi). Người Bắc Kinh mồm lưỡi dẻo quẹo.
@@ -267,7 +274,7 @@ Cùng với việc chính sách được nới rộng, chế độ hộ khẩu n
 Văn hoá Bắc Kinh là sự hoà nhập của nhiều loại: văn hoá thể chế quan phương, văn hoá của phần tử trí thức và văn hoá dân gian. Tất cả đều ở trạng thái cộng sinh, văn hoá hiện đại chung sống hoà bình với văn hoá truyền thống, cái nào cũng có phong cách riêng, cũng có nét tự hào riêng.
 {: .text-justify}
 
-## Người Thiên Tân
+## Người Thiên Tân（天津）
 Thật khó tưởng tượng nổi, ở ngay cạnh Bắc Kinh mà tiếng nói lại vô cùng độc đáo (nghe nói bị ảnh hưởng của quân đội Hoài của Lý Hồng Chương). Đây là một thành phố trực thuộc Trung Ương dễ bị người ta quên. 
 {: .text-justify}
 
@@ -283,7 +290,7 @@ Thực ra Thiên Tân không phát triển lắm, Bắc Kinh đã hút cạn cá
 Người Thiên Tân xưa nay không phục người Bắc Kinh, bóng đá mà gặp nhau là tử chiến! Kiến trúc ở Thiên Tân còn đậm màu sắc văn hoá truyền thống, nghệ nhân dân gian nhiều. Thiên Tân không thích hợp với định cư, dù cát bụi không bằng Bắc Kinh.
 {: .text-justify}
 
-## Người Hà Bắc
+## Người Hà Bắc（河北省）
 Từ xưa Yên Triệu đã nhiều tráng sĩ khẳng khái bi tráng. Người Hà Bắc trung hậu vụ thực, cam chịu làm chiếc lá xanh để làm đẹp Bắc Kinh. Vì Bắc Kinh mà chịu cắt điện, chịu ô nhiễm, chịu gió cát.
 {: .text-justify}
 
@@ -299,7 +306,7 @@ Tiếng nói các vùng tại Hà Bắc khác nhau rất lớn. Tiếng Ký Châ
 Phụ nữ Hà Bắc thật thà chất phác lương thiện, làm vợ rất thích hợp. Rất nhiều nông dân tỉnh ngoài vào Bắc Kinh làm thuê hâm mộ người Hà Bắc: vì lộ phí về nhà vợ chỉ tốn 30 NDT(khoảng chưa tới 1 triệu vnd).
 {: .text-justify}
 
-## Người Sơn Tây
+## Người Sơn Tây（山西省）
 Nền tảng văn hoá sâu dày, nhưng cặn bã chiếm đa số. *“Mặt vuông, đường nét rõ ràng, mũi ngắn mà to”* là hình tượng điển hình của người Sơn Tây.
 {: .text-justify}
 
@@ -324,18 +331,21 @@ Người Sơn Tây nổi tiếng vì hà tiện. Người Sơn Tây dù ăn vậ
 Thương nhân Sơn Tây đi khắp thiên hạ, nhưng vẫn *“lá rụng về cội”*, thường đặt tổng bộ của mình tại mấy nơi nho nhỏ thuộc tỉnh quê hương cho nên không phát triển được.
 {: .text-justify}
 
-## Người Nội Mông Cổ
+## Người Nội Mông Cổ（内蒙古）
 Ở đây chủ yếu nói về phần phía tây Nội Mông, vì người dân từ Xích Phong trở về đông nói tiếng Đông Bắc. Mặc dù là khu tự trị nhưng hiện nay người Hán chiếm đa số.
 {: .text-justify}
 
 Thể hình người Mông Cổ thô khoẻ, mặt rộng tai lớn, con mắt như có thần, trán nhô, tóc quăn, tiếng nói kêu vang, cánh tay dài hơn người, trông uy vũ nhưng là cái dũng của kẻ thất phu. Có tấm lòng thiện lương, đôn hậu với người, tính cách sảng khoái, dám yêu dám ghét, ít có đường ngang ngõ tắt, uống rượu khoẻ, rất nhiều người đã Hán hoá.
 {: .text-justify}
 
-Người Hán ở phần tây Mông cổ rất giống người Tây Bắc dù được gọi là Hoa Bắc, tiếng nói có màu sắc Tây Bắc, thật thà, an phận thủ cựu, không làm quan và buôn bán được. Bao Đầu, Hô Hoà Hạo (thành phố gang thép lớn của Trung Quốc và thủ phủ của Nội Mông) chủ yếu là người Hán di dân tới, không có nền tảng văn hoá gì.
+Người Hán ở phần tây Mông Cổ rất giống người Tây Bắc dù được gọi là Hoa Bắc, tiếng nói có màu sắc Tây Bắc, thật thà, an phận thủ cựu, không làm quan và buôn bán được. Bao Đầu, Hô Hoà Hạo (thành phố gang thép lớn của Trung Quốc và thủ phủ của Nội Mông) chủ yếu là người Hán di dân tới, không có nền tảng văn hoá gì.
 {: .text-justify}
 
-## Người Đông Bắc
-Người khu vực này gồm 3 tỉnh Hắc Long Giang, Liêu Ninh, Cát Lâm và phần phía đông khu tự trị Nội Mông Cổ. Sở dĩ gộp lại để nói vì ngôn ngữ, phong tục các vùng này rất giống nhau. Thời cổ đại Đông Bắc là vùng đất hoang dại, người Hán ngày nay ở đó chủ yếu là thế hệ sau của những người di dân nghèo khổ Sơn Đông, Hà Bắc.
+## Người Đông Bắc（东北部）
+Người khu vực này gồm 3 tỉnh Hắc Long Giang, Liêu Ninh, Cát Lâm và phần phía đông khu tự trị Nội Mông Cổ. Sở dĩ gộp lại để nói vì ngôn ngữ, phong tục các vùng này rất giống nhau.
+{: .text-justify}
+
+Thời cổ đại Đông Bắc là vùng đất hoang dại, người Hán ngày nay ở đó chủ yếu là thế hệ sau của những người di dân nghèo khổ Sơn Đông, Hà Bắc.
 {: .text-justify}
 
 Nơi đây cũng từng là thiên đường của những tội phạm bị lưu đày, những kẻ sát nhân vượt ngục trốn tội từ Trung Nguyên tới. Chỉ trong nửa thế kỷ mà đã chịu sự thống trị của Thanh, Nga, Nhật, Quân Phiệt, Trung Hoa Dân Quốc, CHND Trung Hoa. Ở trong tình trạng vô pháp vô thiên lâu dài, cộng thêm sự hoà nhập Mãn, Mông, Triều. 
@@ -365,7 +375,10 @@ Rất dũng cảm, đấu tranh mạnh (kẻ trộm cắp Tân Cương tinh ác 
 Phần đông người Đông Bắc rất lương thiện, có lúc nhiệt tình đến mức người ta khó tiếp nhận. Có một số rất ít lòng dạ hẹp hòi, thích làm phỉ, xảo quyệt hung ác nên chú ý phòng ngừa.
 {: .text-justify}
 
-Người Đông Bắc không cao to như một số miêu tả. Người Đông Bắc thích đánh nhau mà không tính hậu quả. Khi đánh nhau người Đông Bắc thường tìm vũ khí nơi gần nhất, chuyên đánh vào chỗ nguy hiểm (không ai muốn đánh nhau với người Đông Bắc). Lại dễ bị lợi dụng làm kẻ giết người, đánh thuê. Nhiều hộp đêm thích thuê người Đông Bắc làm bảo vệ. Tội phạm bạo lực ở Bắc Kinh chủ yếu là do người Đông Bắc làm, thu lộ phí đen trên mấy con đường ở Bắc Kinh về cơ bản đều là người Đông Bắc, tổ chức xã hội đen trên thị trường bán buôn tại Bắc Kinh đều do người Đông Bắc làm chủ.
+Người Đông Bắc không cao to như một số miêu tả. Người Đông Bắc thích đánh nhau mà không tính hậu quả. Khi đánh nhau người Đông Bắc thường tìm vũ khí nơi gần nhất, chuyên đánh vào chỗ nguy hiểm (không ai muốn đánh nhau với người Đông Bắc). Lại dễ bị lợi dụng làm kẻ giết người, đánh thuê. Nhiều hộp đêm thích thuê người Đông Bắc làm bảo vệ.
+{: .text-justify}
+
+Tội phạm bạo lực ở Bắc Kinh chủ yếu là do người Đông Bắc làm, thu lộ phí đen trên mấy con đường ở Bắc Kinh về cơ bản đều là người Đông Bắc, tổ chức xã hội đen trên thị trường bán buôn tại Bắc Kinh đều do người Đông Bắc làm chủ.
 {: .text-justify}
 
 Xã hội đen tại Quảng Châu, Thâm Quyến, Hải Nam phần đông là người Đông Bắc, gần đây tại hầu hết các thành phố lớn và vừa trong nước đều có nhóm tội phạm Đông Bắc xuất hiện (và cả tại Đông Âu, Nga, Bắc Mỹ, Nhật).
@@ -374,11 +387,13 @@ Xã hội đen tại Quảng Châu, Thâm Quyến, Hải Nam phần đông là n
 Đây là địa phương có tửu lượng lớn nhất Trung Quốc, tỷ lệ phụ nữ hút thuốc lá, uống rượu cũng là cao nhất.
 {: .text-justify}
 
-Có nhiều mỹ nữ, thân cao, chân dài, nhưng da không mịn lắm, tính cách quá bộc trực, thậm chí ngay trên xe công cộng cũng ăn to nói lớn. 
-Gốc nền văn hoá quá mờ nhạt, thích trang điểm nhưng lại không biết trang điểm. Thế nhưng con gái Đông Bắc lại ngu dại đến đáng yêu, thích ai dù chết cũng không rời, hận ai có thể giết người không run tay, muốn lấy con gái Đông Bắc phải có sự chuẩn bị về tư tưởng. Tuy vậy có số ít gái Đông Bắc không thua kém *“em gái Xuyên”*, *“em gái Tương”* trong nghề.
+Có nhiều mỹ nữ, thân cao, chân dài, nhưng da không mịn lắm, tính cách quá bộc trực, thậm chí ngay trên xe công cộng cũng ăn to nói lớn. Gốc nền văn hoá quá mờ nhạt, thích trang điểm nhưng lại không biết trang điểm.
 {: .text-justify}
 
-Người Đông Bắc tương đối thông minh nhưng chịu khổ kém nên số nông dân vào thành phố làm thuê rất ít, và cũng ít người chuyên tâm làm kỹ thuật, tuy vậy có khả năng mở quán ăn, công ty.
+Thế nhưng con gái Đông Bắc lại ngu dại đến đáng yêu, thích ai dù chết cũng không rời, hận ai có thể giết người không run tay, muốn lấy con gái Đông Bắc phải có sự chuẩn bị về tư tưởng. Tuy vậy có số ít gái Đông Bắc không thua kém *“em gái Xuyên”*, *“em gái Tương”* trong nghề.
+{: .text-justify}
+
+Người Đông Bắc tương đối thông minh nhưng chịu khổ kém nên số nông dân vào thành phố làm thuê rất ít, và cũng ít người chuyên tâm làm kỹ thuật. Tuy vậy có khả năng mở quán ăn, công ty.
 {: .text-justify}
 
 Mấy năm gần đây, người Đông Bắc di dân tới Bắc Mỹ, Đông Âu tăng vọt. Có một số người đã lập nên sự nghiệp, nhưng cũng có một số người bôi đen Trung Quốc. 
@@ -401,7 +416,7 @@ So sánh thêm thì thấy:
 Đàn ông Đông Bắc nói năng ngọt ngào, giỏi nịnh phụ nữ, nhưng đa số có khuynh hướng coi đàn ông là nhất, có người còn đánh vợ.
 {: .text-justify}
 
-## Người Sơn Đông
+## Người Sơn Đông（山东省）
 Quê hương Khổng Mạnh, tỉnh của lễ nghĩa, từ xưa Sơn Đông đã có nhiều tuớng, nhiều kẻ sĩ trung nghĩa. Có thể là do quá thẳng thắn, nên ít có nhà mưu lược và hoàng đế.
 {: .text-justify}
 
@@ -420,17 +435,20 @@ Người Sơn Đông thích ăn màn thầu (bánh bột mì hấp không nhân)
 Quan niệm của người Giao Đông tương đối mạnh, nhiều người Thanh Đảo cho rằng làm người Sơn Đông có chút thiệt. Đội bóng đá Thanh Đảo thi đấu quyết tử với đội bóng của tỉnh. Phụ nữ Thanh Đảo rất thời thượng, mỹ nữ không ít. Một vài nơi trong tỉnh còn nghèo.
 {: .text-justify}
 
-## Người Giang Tô
-Miền nam Giang Tô và miền bắc Giang Tô hoàn toàn không giống nhau. 
+## Người Giang Tô（江苏省）
+Miền Nam Giang Tô và miền Bắc Giang Tô hoàn toàn không giống nhau. 
 {: .text-justify}
 
 Miền Nam mưa thuận gió hoà là nơi có nhiều tài tử giai nhân. Trong lịch sử số người đỗ tiến sĩ đều nhiều hơn bất kỳ tỉnh nào. Các đại gia nghệ thuật, đại gia văn học, bậc thầy khoa học đời nào cũng nhiều.
 {: .text-justify}
 
-Người Nam Giang Tô nhã nhặn, có nhiều môn đệ thư huơng, nhà ở đẹp, món ăn ngon, con gái cũng đa tài đa nghệ, dịu hiền mê người (làm vợ rất tốt nhưng hay tiếng to tiếng nhỏ). Nơi này mưa phùn nhiều, gió lành thổi khắp, ngay nam giới cũng có tướng phụ nữ, da mịn, nói năng nhẹ nhàng, hành động từ tốn, giỏi tính toán, nhưng tinh ranh quá. Người ở đây rất thông minh khí chất thư sinh, số người ra nước ngoài học tập đứng đầu cả nước.
+Người Nam Giang Tô nhã nhặn, có nhiều môn đệ thư huơng, nhà ở đẹp, món ăn ngon, con gái cũng đa tài đa nghệ, dịu hiền mê người (làm vợ rất tốt nhưng hay tiếng to tiếng nhỏ).
 {: .text-justify}
 
-Người Nam Giang Tô rất tôn trọng pháp luật, trị an ở Nam Kinh, Tô Châu cũng đứng hàng đầu. Đàn ông nam Giang Tô nhu nhược dễ bị bắt nạt. Năm 1937, người Nhật một lúc sát hại hơn 30 vạn người mà nhiều người chạy không kịp. Năm 1644 quân Thanh vây thành Dương Châu, Giang Âm, một lính Mãn Thanh có thể giải 60 người ra pháp trưòng mà không phải trói, rồi lần lượt chém từng người, mà không ai dám chạy!
+Nơi này mưa phùn nhiều, gió lành thổi khắp, ngay nam giới cũng có tướng phụ nữ, da mịn, nói năng nhẹ nhàng, hành động từ tốn, giỏi tính toán, nhưng tinh ranh quá. Người ở đây rất thông minh, khí chất thư sinh, số người ra nước ngoài học tập đứng đầu cả nước.
+{: .text-justify}
+
+Người Nam Giang Tô rất tôn trọng pháp luật, trị an ở Nam Kinh, Tô Châu cũng đứng hàng đầu. Đàn ông Nam Giang Tô nhu nhược dễ bị bắt nạt. Năm 1937, người Nhật một lúc sát hại hơn 30 vạn người mà nhiều người chạy không kịp. Năm 1644 quân Thanh vây thành Dương Châu, Giang Âm, một lính Mãn Thanh có thể giải 60 người ra pháp trưòng mà không phải trói, rồi lần lượt chém từng người, mà không ai dám chạy!
 {: .text-justify}
 
 Từ Châu là trung tâm của vùng Bắc Giang Tô, người ở đây cao lớn. Trước đây động một chút là khởi nghĩa, sau này lại nhiều ăn mày (trong lịch sử Bắc Giang Tô, Bắc An Huy nổi tiếng vì có nhiều ăn mày). Có tiền cũng đi ăn xin. Tiếng Từ Châu giống mà lại không giống tiếng Sơn Đông, tiếng Hà Nam, tự thành một giọng riêng.
@@ -439,7 +457,7 @@ Từ Châu là trung tâm của vùng Bắc Giang Tô, người ở đây cao l�
 Bắc Giang Tô kinh tế tương đối lạc hậu, hình tượng với bên ngoài không hay lắm, nhất là tính thích chiếm lợi nhỏ nổi tiếng số một. Trong bản tìm bạn trai của một cô gái Thượng Hải đã ghi *“nhân sĩ Bắc Giang Tô xin miễn bàn”*.
 {: .text-justify}
 
-## Người Thượng Hải
+## Người Thượng Hải（上海市）
 Thượng Hải là thành phố phát triển nhất của Trung Quốc, tính bao dung kém, thịnh hành tiếng địa phương, người ngoại tỉnh khó hoà nhập.
 {: .text-justify}
 
@@ -461,7 +479,7 @@ Cho nên có không ít nhà ngân hàng, thương nhân và học giả ngườ
 Người Thượng Hải kiếm tiền không giỏi, nhưng có tư cách, sinh hoạt nghiêm túc, biết giữ chữ tín, tông trọng luật pháp. Chất lượng sản phẩm Thượng Hải đứng đầu cả nước. Người Thượng Hải không tranh giành với người, thích hợp với việc kết bạn nhưng trước tiên phải làm cho họ nể mình.
 {: .text-justify}
 
-## Người An Huy
+## Người An Huy（安徽省）
 Từ xưa An Huy đã là nơi cùng khổ, ở giữa sông Trường Giang và sông Hoài, thiên tai không dứt. Mỗi lần chiến tranh, loạn lạc đều không tránh An Huy.
 {: .text-justify}
 
@@ -486,40 +504,87 @@ Nam Kinh là thành phố gương mẫu cả nước về trị an, tội phạm
 Nam An Huy phong cảnh rất đẹp là nơi du lịch phát triển.
 {: .text-justify}
 
-## Người Chiết Giang
-Từ xưa là vùng đất hoang dại. Từ sau đời Đông Tấn khi mở mang Giang Nam mới được lhai thác. Thời Nam Tống trở thành vùng giàu nhất Trung Quốc. Chiết Giang nhiều sông nhiều núi, tiếng địa phương phức tạp như Phúc Kiến, tiếng Hàng Châu, tiếng Thiệu Hưng, tiếng Ninh Ba, tiếngd Đài Châu, tiếng Ô Châu chẳng ai nghe hiểu ai. Chiết Giang là tỉnh văn hoá lớn của Trung Quốc, có nhiều nhân tài”Giang nam nhiều sông nhiều núi nhiều tài tử”, nhưng hiện nay về giáo dục, khoa học, y tế, thể dục thể thao đều kém Giang Tô nhiều.
+## Người Chiết Giang（浙江省）
+Từ xưa là vùng đất hoang dại. Từ sau đời Đông Tấn khi mở mang Giang Nam mới được khai thác. Thời Nam Tống trở thành vùng giàu nhất Trung Quốc.
 {: .text-justify}
 
-Trong lịch sử Chiết Giang đã từng có nhiều đại thương nhân giàu có nhất thiên hạ, tài phiệt Chiết Giang là cơ sở của chính quyền Tưỏng Giói Thạch. Thương nhân An Huy là nhóm người biết kiếm tiền nhất nước. Đầu óc người Chiết Giang linh hoạt, giỏi suy tính, biết cách thay đổi, đoàn kết, thực tiễn. Phụ nữ dịu dàng như nước, chịu được khổ, buôn bán không thua nam giới. Giày da và quần áo của người Ôn Châu bán khắp thế giới. Người Chiết Giang đặt chan hàu như trên mọingành nghề của Trung Quốc như nhà đất, điện, khai thác mỏ, xây dựng, internet, kỹ thuật cao v.v… Trứoc đây Chiết Giang llà tỉnh xuất khẩu lao động lớn nhưng hiện nay ít thấy nông dân Chiét Giang vào thành phố làm thuê vì họ đã hoàn thành tích luỹ tư bản nguyên thuỷ. Người Chiết Giang lấy bốn biển làm nhà, như kiến chạy khắp thiên hạ, hầu như xó xỉnh nào cũng có người Chiết Giang. Thương nhân Chiết Giang mà Ôn Châu là đại biểu được gọi là *“người Do Thái Trung Quốc”*.
+Chiết Giang nhiều sông nhiều núi. Tiếng địa phương phức tạp như Phúc Kiến, tiếng Hàng Châu, tiếng Thiệu Hưng, tiếng Ninh Ba, tiếng Đài Châu, tiếng Ô Châu chẳng ai nghe hiểu ai.
 {: .text-justify}
 
-Năng lực sinh tồn của người Chiết Giang khiến người phương Tây khiếp sợ. Trong đầu óc người Chiết Giang, buôn bán không có vùng miền, thị trưòng không có giới hạn. Chỉ cần kiếm được tiền thì dù là khuy áo, bật lửa, kính bút, giầy dép họ đều làm tất. Có tới 5 triệu người Chiết Giang thành đạt ở ngoài. Người Chiết Giang kinh doanh nhà đất khắp nước, khai thác than ở Sơn Tây, bán quần áo, giầy dép ở châu Âu, thậm chí mở siêu thị ở châu Phi.
+Chiết Giang là tỉnh văn hoá lớn của Trung Quốc, có nhiều nhân tài *”Giang nam nhiều sông, nhiều núi, nhiều tài tử”*, nhưng hiện nay về giáo dục, khoa học, y tế, thể dục thể thao đều kém Giang Tô nhiều.
 {: .text-justify}
 
-Nhưng cũng có nhiều thương nhân người Chiết Giang làm hàng giả bán hàng giả, buôn lậu. Giày da, thắt lưng, quần áo Ôn Châu đã từng là đại danh từ cho sự giả mạo xấu xa, ảnh hưởng nghiêm trọng tới danh tiếng hàng hoá Trung Quốc. Gần đây Mỹ tẩy chay hàng hoá Trung Quốc, Tây Ban nha đốt giầy Trung Quốc về cơ bản đều có liên quan tới người Chiết Giang, các cơ sở sắc tình ở Ô Châu nổi tiếng xấu cả nước. Chiết Giang cũng phân hoá hai cực, miền tây và một số nơi trong tỉnh còn nghèo.
+Trong lịch sử Chiết Giang đã từng có nhiều đại thương nhân giàu có nhất thiên hạ, tài phiệt. Chiết Giang là cơ sở của chính quyền Tưởng Giới Thạch. Thương nhân Chiết Giang là nhóm người biết kiếm tiền nhất nước. Đầu óc người Chiết Giang linh hoạt, giỏi suy tính, biết cách thay đổi, đoàn kết, thực tiễn. Phụ nữ dịu dàng như nước, chịu được khổ, buôn bán không thua nam giới.
 {: .text-justify}
 
-## Người Giang Tây
-Trong ngòi bút của Vưong Bột(nhà thơ Đưòng nổi tiếng), đây là “quê hương của cá và gạo”. Các danh nhân văn hoá các đời nối nhau xuất hiện, Đào Uyên Minh, Vương An Thạch, Âu Dương Tu, Văn Thiên Tưòng, Thang Hiển Tổ…Lý học Trình Chu, tâm vuơng Lục vưong , Phật học Thiền tôn, Đạo học Lão Trang đều bắt nguồn ở Giang Tây, hoặc hình thành tại Giang Tây. Có thể nói Giang Tây chiếm một nửa văn hoá truyền thống ưu tú của Trung Quốc.
+Giày da và quần áo của người Ôn Châu bán khắp thế giới. Người Chiết Giang đặt chân hầu như trên mọi ngành nghề của Trung Quốc như nhà đất, điện, khai thác mỏ, xây dựng, internet, kỹ thuật cao... Trước đây Chiết Giang là tỉnh xuất khẩu lao động lớn nhưng hiện nay ít thấy nông dân Chiết Giang vào thành phố làm thuê vì họ đã hoàn thành tích luỹ tư bản.
 {: .text-justify}
 
-Phần lớn người Giang Tây là người Khách Gia, cũng phần lớn là những dòng họ ở Trung nguyên phương Bắc thời Tấn, Đưòng di dân đến, là những người thừa kế văn hoá chính thống, được tôi rèn lâu dài tư tưởng trung thành của nhà Nho và quan niệm vô vi của Đạo giáo, nên bằng lòng với hiện trạng, trung dung bảo thủ, trung thành, giữ chữ tín, ý thức mạo hiểm không sâu, quan niệm gia tộc rất mạnh, có tới 8994 nhà thờ họ tại Giang Tây, nhiều nhất nước, do vậy tiếp nhận tư duy mới, sự vật mới rất khó. Giang Tây thuộc vùng “đầu Ngô đuôi Sở” cộng thêm là thành phố trong nội địa, nên người Giang Tây có ý thức kinh tế tiểu nông như đóng của, bảo thủ, tự mãn tự rúc ở trình độ nhất định. Những tổ tiên của người Giang Tây phần lớn là chaỵ trốn chiến tranh mà đến nên tâm thái mong muốn hoà bình, an cư lạc nghiệp ảnh hưởng đến hậu duệ. Người Giang Tây thật thà, hàm súc, không khoe khoang và cũng không giỏi thể hiện.
+Người Chiết Giang lấy bốn biển làm nhà, như kiến chạy khắp thiên hạ, hầu như xó xỉnh nào cũng có người Chiết Giang. Thương nhân Chiết Giang, mà Ôn Châu là đại biểu, được gọi là *“người Do Thái Trung Quốc”*.
 {: .text-justify}
 
-Người Giang Tây khá giống câu nói “ngưòi sợ nổi tiếng, lợn sợ béo” đạo xử thế này có cái hay là quan hệ giao tiếp tương đối hài hoà. Nhưng quan niệm này đồng thời cũng có khuyết điểm là không để cho người ta biết mình. Người Giang Tây nổi tiếng vì phong cách thận trọng. Con gái Giang Tây tuy không nổi tiếng phong tình như gái Hồ Nam sát ngay cạnh, nhưng tính nết hiền thục, nấu ăn rất giỏi.
+Năng lực sinh tồn của người Chiết Giang khiến người phương Tây khiếp sợ. Trong đầu óc người Chiết Giang, buôn bán không có vùng miền, thị trưòng không có giới hạn. Chỉ cần kiếm được tiền thì dù là khuy áo, bật lửa, kính bút, giày dép họ đều làm tất.
 {: .text-justify}
 
-Mặc dù là thủ phủ của tỉnh nhưng Nam Xưong là thành phố loại vừa miền trung của Trung Quốc, thành phố tương đối loạn, đầy rác rưởi, cữô nào cũng thấy người vi phạm kỷ luật trật tự, động một tí là cãi nhau. Cảnh Đức vốn được gọi là thủ đô sành sứ nay đã thành hư danh, hàng giả rất thịnh hành. Giang Tây là tỉnh nghèo nhất vùng Hoa Đông, số huyện nghèo đứng đầu cả nước, tại đây khó tìm ra một vùng giàu có.
+Có tới 5 triệu người Chiết Giang thành đạt ở ngoài. Người Chiết Giang kinh doanh nhà đất khắp nước, khai thác than ở Sơn Tây, bán quần áo, giày dép ở châu Âu, thậm chí mở siêu thị ở châu Phi.
 {: .text-justify}
 
-## Người Phúc Kiến
-Phúc Kiến là tỉnh non xanh nước biếc nhưng giao thông rất kém, không đủ đát canh tác, chỉ giỏi buôn bán và lừa gạt. Nhiều Hoa Kiều và kiều bào ở Đài Loan. Bắc Mỹ, bắc Âu đều có người Phúc Kiến, ngoại tệ từ nước ngoài chảy về không dứt, các thôn đều có ngân hàng. Người Phúc Kiến đặc biệt giỏi buôn bán, chăm chỉ chịu được khổ, thích mạo hiểm năng lực thích ứng mạnh, thích thú giang hồ đó đây, không có học cũng làm ăn buôn bán(người đi học ở Phúc Kiến rất ít). Người Phúc Kiến không dễ tin người.
+Nhưng cũng có nhiều thương nhân người Chiết Giang làm hàng giả bán hàng giả, buôn lậu. Giày da, thắt lưng, quần áo Ôn Châu đã từng là đại danh từ cho sự giả mạo xấu xa, ảnh hưởng nghiêm trọng tới danh tiếng hàng hoá Trung Quốc.
 {: .text-justify}
 
-Quần áo, giầy mũ Tuyền Châu, Tân Giang, Thạch Sư nổi tiếng thiên hạ, người huyện Sa mở quán ăn nhỏ khắp nước. Người Phu Điền ngoài việc bán quần áo còn có phương thuốc gia truyền chữa bệnh liên quan đến tính biệt, có tới80% hiệu thuốc chữa các bệnh thuộc loại đó có ông chủ là người vùng này. Là tỉnh có nhiều tiếng địa phương như tiếng Phúc Châu, tiếng Ninh Đức, tiếng Tuyền Châu, tiếng Long Nhâm.. chẳng ai nghe hiểu ai. Nghe nói có nơi người bên này núi nghe không hiểu người bên kia núi nói, không khuyếch đại chút nào.. Dùng gái để lừa tiền tại Phúc Châu một dạo nổi tiếng.
+Gần đây Mỹ tẩy chay hàng hoá Trung Quốc, Tây Ban nha đốt giày Trung Quốc về cơ bản đều có liên quan tới người Chiết Giang, các cơ sở sắc tình ở Ô Châu nổi tiếng xấu cả nước.
 {: .text-justify}
 
-## Người Đài Loan
+Chiết Giang cũng phân hoá hai cực, miền tây và một số nơi trong tỉnh còn nghèo.
+{: .text-justify}
+
+## Người Giang Tây（江西省）
+Trong ngòi bút của Vưong Bột (nhà thơ Đường nổi tiếng), đây là *“quê hương của cá và gạo”*.
+{: .text-justify}
+
+Các danh nhân văn hoá các đời nối nhau xuất hiện, Đào Uyên Minh, Vương An Thạch, Âu Dương Tu, Văn Thiên Tưòng, Thang Hiển Tổ... Lý học Trình Chu, Phật học Thiền Tông, Đạo học Lão Trang đều bắt nguồn ở Giang Tây, hoặc hình thành tại Giang Tây.
+{: .text-justify}
+
+Có thể nói Giang Tây chiếm một nửa văn hoá truyền thống ưu tú của Trung Quốc.
+{: .text-justify}
+
+Phần lớn người Giang Tây là người Khách Gia, cũng phần lớn là những dòng họ ở Trung Nguyên phương Bắc thời Tấn. Đường di dân đến, là những người thừa kế văn hoá chính thống, được tôi rèn lâu dài tư tưởng trung thành của nhà Nho và quan niệm vô vi của Đạo giáo, nên bằng lòng với hiện trạng, tư tưởng trung dung, trung thành, giữ chữ tín, ý thức mạo hiểm không sâu, quan niệm gia tộc rất mạnh. 
+{: .text-justify}
+
+Có tới 8994 nhà thờ họ tại Giang Tây, nhiều nhất nước, do vậy tiếp nhận tư duy mới, sự vật mới rất khó. Giang Tây thuộc vùng *“đầu Ngô đuôi Sở”*, cộng thêm là thành phố trong nội địa, nên người Giang Tây có ý thức kinh tế tiểu nông như đóng của, bảo thủ, tự mãn tự rúc ở trình độ nhất định.
+{: .text-justify}
+
+Những tổ tiên của người Giang Tây phần lớn là chạy trốn chiến tranh mà đến nên tâm thái mong muốn hoà bình, an cư lạc nghiệp ảnh hưởng đến hậu duệ. Người Giang Tây thật thà, hàm súc, không khoe khoang và cũng không giỏi thể hiện.
+{: .text-justify}
+
+Người Giang Tây khá giống câu nói *“ngưòi sợ nổi tiếng, lợn sợ béo”*. Đạo xử thế này có cái hay là quan hệ giao tiếp tương đối hài hoà. Nhưng quan niệm này đồng thời cũng có khuyết điểm là không để cho người ta biết mình.
+{: .text-justify}
+
+Người Giang Tây nổi tiếng vì phong cách thận trọng. Con gái Giang Tây tuy không nổi tiếng phong tình như gái Hồ Nam sát ngay cạnh, nhưng tính nết hiền thục, nấu ăn rất giỏi.
+{: .text-justify}
+
+Mặc dù là thủ phủ của tỉnh nhưng Nam Xưong là thành phố loại vừa miền trung của Trung Quốc. Thành phố tương đối loạn, đầy rác rưởi, chỗ nào cũng thấy người vi phạm kỷ luật trật tự, động một tí là cãi nhau.
+{: .text-justify}
+
+Cảnh Đức vốn được gọi là thủ đô sành sứ nay đã thành hư danh, hàng giả rất thịnh hành. Giang Tây là tỉnh nghèo nhất vùng Hoa Đông, số huyện nghèo đứng đầu cả nước, tại đây khó tìm ra một vùng giàu có.
+{: .text-justify}
+
+## Người Phúc Kiến（福建省）
+Phúc Kiến là tỉnh non xanh nước biếc nhưng giao thông rất kém, không đủ đát canh tác, dân chỉ giỏi buôn bán và lừa gạt.
+{: .text-justify}
+
+Nhiều Hoa Kiều và kiều bào ở Đài Loan, bắc Mỹ, bắc Âu đều có người Phúc Kiến. Ngoại tệ từ nước ngoài chảy về không dứt, các thôn đều có ngân hàng.
+{: .text-justify}
+
+Người Phúc Kiến đặc biệt giỏi buôn bán, chăm chỉ chịu được khổ, thích mạo hiểm năng lực thích ứng mạnh, thích thú giang hồ đó đây, không có học cũng làm ăn buôn bán (người đi học ở Phúc Kiến rất ít). Người Phúc Kiến không dễ tin người.
+{: .text-justify}
+
+Quần áo, giày mũ Tuyền Châu, Tân Giang, Thạch Sư nổi tiếng thiên hạ. Người huyện Sa mở quán ăn nhỏ khắp nước. Người Phu Điền ngoài việc bán quần áo còn có phương thuốc gia truyền chữa bệnh liên quan đến tính biệt, có tới 80% hiệu thuốc chữa các bệnh thuộc loại đó có ông chủ là người vùng này.
+
+Là tỉnh có nhiều tiếng địa phương như tiếng Phúc Châu, tiếng Ninh Đức, tiếng Tuyền Châu, tiếng Long Nhâm... chẳng ai nghe hiểu ai. Nghe nói có nơi người bên này núi nghe không hiểu người bên kia núi nói, không khuyếch đại chút nào... Dùng gái để lừa tiền tại Phúc Châu một dạo nổi tiếng.
+{: .text-justify}
+
+## Người Đài Loan（台灣）
 Người Đài Loan hiện nay chủ yếu là do người dân đã ở đó từ trước, di dân nam Phúc Kiến thời kỳ đầu và di dân đại lục khi Quốc Dân đảng chạy ra đó tổ thành. Đài Loan là văn hoá đảo nhỏ là một nên văn hoá á Trung Quốc phụ thuộc Trung Quốc. Người Nhật thống trị Đài Loan 50 năm, người Đài Loan bị coi là công dânhạng hai, quan văn làm không đến trưởng khoa (khoa một đơn vị hành chính dưới cấp phòng) quan võ không đến cấp tá. Nghe nói người Đài Loan hiện nay ít có cảm giác đồng thuận với người Trung Quốc đại lục phần lớn chỉ cho mình là người Đài Loan, đồng thời đã bị Tây hoá nặng nề
 {: .text-justify}
 
@@ -529,90 +594,237 @@ Thế nhưng người Đài Loan đến đại lục kinh doanh khong thích bà
 Người Đài Loan trên đảo có cảm giác quần thể rất mạnh, nhưng các phe phái đấu tranh rất dữ. Tuy vậy tính cách nhu nhược. Mafia Đài Loan thích dùng vũ khí tất nhiên là vũ sĩ đao. Tuy vậy mafia không được coi là chính đạo ở đây.
 {: .text-justify}
 
-## Người Tứ Xuyên
-Tứ Xuyên có thể coi là tỉnh lớn văn hoá trong lịch sử, mỗi đời đều có nhiều nhân tài. Nổi tiếng có nhà thơ Lý Bạch đời Đường (cũng có thuyết nói là người Cam Túc), có “ba Tô” đời Tống (chỉ 3 cha con nhà văn Tô Tuần), các nhà văn hiện đại Ba Kim, Quách Mạt Nhược, các chính khách tướng lĩnh như Chu Đức, Lưu Bá Thừa, Trần Nghị, Đặng Tiểu Bình v.v.. đều là người Tứ Xuyên. Đất Ba Thục thời xưa được gọi là “thiên phủ chi quốc” (kho của nhà trời), sản vật dồi dào, Lưu Bang, Lưu Bị đều lấy đó làm căn cứ địa, dân số khá đông. Nhưng bị trói buộc, hạn chế bởi văn hoá bồn địa (vùng trũng), bản tính bảo thủ, khép kín. Người Tứ Xuyên hiếu chiến, hay chửi bậy, họng to nói lớn. Đàn ông Tứ Xuyên phần lớn béo lùn, mặt to, mũi nghiêng, mắt to, thông minh lanh lợi. Thích uống rượu, kỹ thuật nấu rượu nhất Trung Quốc, có nhiều loại rượu ngon.
+## Người Tứ Xuyên（四川）
+Tứ Xuyên có thể coi là tỉnh lớn văn hoá trong lịch sử, mỗi đời đều có nhiều nhân tài.
 {: .text-justify}
 
-Người Tứ Xuyên giỏi ăn uống chơi bời, thích đánh bạc. Thích ăn cay, lẩu cay nổi tiếng cả nước. Thành Đô là một thành phố nhàn tản, nhiều người chơi chim cảnh, hoặc đi dạo phố. Nhiều thành phố thị trấn ở Tứ Xuyên thiếu sức sống. Năng lực phụ nữ Tứ Xuyên rất mạnh, nhiều đàn ông phải dựa vào vợ nuôi sống. Mỹ nữ Tứ Xuyên rất nhiều, là tỉnh lớn nhiều mỹ nữ nhất Trung Quốc. Số lượng làm “vợ hai” đông nhất nước, số phụ nữ phong trần cũng đông nhất nước. Tứ Xuyên là tỉnh có nhiều nông dân vào thành phố làm thuê, họ tới hầu hết các thành phố lớn trong nước, nhất là vùng đồng bằng sông Châu Giang.
+Nổi tiếng có nhà thơ Lý Bạch đời Đường (cũng có thuyết nói là người Cam Túc), có “ba Tô” đời Tống (chỉ 3 cha con nhà văn Tô Tuần), các nhà văn hiện đại có Ba Kim, Quách Mạt Nhược. Các chính khách tướng lĩnh như Chu Đức, Lưu Bá Thừa, Trần Nghị, Đặng Tiểu Bình... đều là người Tứ Xuyên.
 {: .text-justify}
 
-## Người Trùng Khánh
-Thời xưa Tứ Xuyên thuộc đất của người Thục, Trùng Khánh thuộc đất của người Ba, người Ba và người Thục coi nhau là tử thù(hiện nay hai đội bóng hai nơi này gặp nhau là tử chiến) Nhưng Ba Thục đã trải qua mấy lần chiến tranh loạn lạc, thời Minh, Thanh khi quân đội vào Xuyên đã gây ra nhiều cuộc thảm sát, người Thổ Giả dưòng như bị giết gần hết(đến đầu đời Thanh chỉ còn 90 vạn người) Vì vậy dân Tứ Xuyên ngày nay là sự hoà nhập của di dân Hồ, Quảng, Vân Nam. Trùng Khánh là thành phố trên núi, còn bề bộn lắm.
+Đất Ba Thục thời xưa được gọi là *“thiên phủ chi quốc”* (kho của nhà trời), sản vật dồi dào. Lưu Bang, Lưu Bị đều lấy đó làm căn cứ địa, dân số khá đông. Nhưng nơi đây bị trói buộc, hạn chế bởi văn hoá bồn địa (vùng trũng), bản tính bảo thủ, khép kín.
 {: .text-justify}
 
-Số người Trùng Khánh nghiện hút tương đối nhiều, thịnh hành đánh bạc, người mở quán trà đông, uống trà nhiều có khả năng để đánh bạc, chủ quán trà phần lớn là mafia. Mùa hè chỗ nào cũng thấy người đầu trọc chân đất đi du ngoạn hoặc vây quanh nồi lẩu sặc mùi ớt ăn uống. Đàn ông Trùng Khánh hiếu sắc. Trùng Khánh ban đêm được coi là Hồng Kông nhỏ, trăm hồng ngàn tía vô cùng phồn hoa. Mấy huyện của Trùng Khánh dù kinh tế chưa ra làm sao nhưng ngành dịch vụ rất sôi nổi. Người Trùng Khánh không giống người Hồ Bắc làm xong rồi mới chơi mà lại chơi rồi mới làm.
+Người Tứ Xuyên hiếu chiến, hay chửi bậy, họng to nói lớn. Đàn ông Tứ Xuyên phần lớn béo lùn, mặt to, mũi nghiêng, mắt to, thông minh lanh lợi. Thích uống rượu, kỹ thuật nấu rượu nhất Trung Quốc, có nhiều loại rượu ngon.
 {: .text-justify}
 
-Phụ nữ Trùng Khánh cũng giống như phụ nữ Tứ Xuyên có thói quen chơi mạt chược. Họ không ưa đàn ông bản địa mà thích rời xa quê hương đi làm thuê. Trùng Khánh có trên 32 triệu dân, nhưng số người có trình độ từ trung cấp chuyên nghiệp trở lên chỉ có hơn 1 triệu, vào khoảng 3%. Người Tứ Xuyên đều cho rằng Trùng Khánh chỉ là một bộ phận của Tứ Xuyên, nhưng người Trùng Khánh sau khi được tách ra thành thành phố trực thuộc trung ương đã trở mặt không cho là như vậy. Tuy nhiên về nguồn gốc lịch sử hai nơi không có khác biệt lớn.
+Người Tứ Xuyên giỏi ăn uống chơi bời, thích đánh bạc. Thích ăn cay, lẩu cay nổi tiếng cả nước. Thành Đô là một thành phố nhàn tản, nhiều người chơi chim cảnh, hoặc đi dạo phố. Nhiều thành phố thị trấn ở Tứ Xuyên thiếu sức sống.
 {: .text-justify}
 
-## Người Quý Châu
-Quý Châu là tỉnh dễ bị lãng quên nhất, nghe nói khi thành lập tỉnh còn tranh cãi không thôi. Quý Chây là tỉnh duy nhất tại Trung Quốc không có đồng bằng, vào Quý Châu như vào một đất nước toàn núi đồi, hầu như không thấy một mảnh đất bằng phẳng nào lớn một chút.
+Năng lực phụ nữ Tứ Xuyên rất mạnh, nhiều đàn ông phải dựa vào vợ nuôi sống. Mỹ nữ Tứ Xuyên rất nhiều, là tỉnh lớn nhiều mỹ nữ nhất Trung Quốc. Số lượng làm *“vợ hai”* đông nhất nước. Số phụ nữ phong trần cũng đông nhất nước.
 {: .text-justify}
 
-Dân vùng núi có cuộc sống tương đối nghèo nàn. Thành phố thủ phủ Quý Dương có hơn 1 triệu dân, gần đây được Cục Khí tượng quốc gia cho là “thủ đô nghỉ mát của Trung Quốc” khiến người Quý Dương rất tự hào đắc ý. Tuân Nghĩa là nơi Hồng quân đi qua trên đường trường chinh, với cuộc họp mang tính lịch sử mà nổi tiếng.
+Tứ Xuyên là tỉnh có nhiều nông dân vào thành phố làm thuê, họ tới hầu hết các thành phố lớn trong nước, nhất là vùng đồng bằng sông Châu Giang.
 {: .text-justify}
 
-Trong 3 tỉnh Vân Nam, Quý Châu, Tứ Xuyên tập quán ăn uống và ngôn ngữ của Quý Châu gần với Tứ Xuyên hơn. Quý Châu có thể coi như tỉnh của dân di cư, ngoài một số dan tộc thiểu số như Mèo, Bố Y… ra, người Hán đến đó đều qua mấy lần di dân lớn. Do mấy nguên nhân như là miền núi xa xôi, giao thông không tiện, phát triển chậm, văn hoá lạc hậu.. Quý Châu ít có nhân tài. Người Qưúy Châu tại các tỉnh trong nội địa, khoả mạnh hay làm, nhưng tinh thần chịu khổ không bằng người Tứ Xuyên. Gàn đây số nông dân vào thành phố làm thuê tăng nhiều, phần lứon tới đồng bằng sông Chau Giang, số thiếu nữ lâm vào cảnh phong trần không ít.
+## Người Trùng Khánh（重庆）
+Thời xưa Tứ Xuyên thuộc đất của người Thục. Trùng Khánh thuộc đất của người Ba, người Ba và người Thục coi nhau là tử thù (hiện nay hai đội bóng, cứ gặp nhau là tử chiến).
 {: .text-justify}
 
-## Người Vân Nam
-Trong 3 tỉnh vùng Tây Nam, Vân Nam là tỉnh có mầu sắc vùng biên nhất. Thời Hán Vũ đế được gọi là “đám mây đầy màu sắc ở phương nam”. Thành phố thủ phủ Côn Minh bốn mùa là xuân khí hậu tốt lành cảnh vật tuyệt đẹp. Vân Nam là tỉnh có nhiều dân tộc thiểu số nhất Trung Quốc, Các dân tộc đều có văn hoá độc đáo của mình như ca múa của dân tộc Bạch tại Đại Lý, nhạc cổ của tộc Nạp Tây vùng Lệ Giang. Dân tộc Thái ở Xi Song Bản Na phong tình, đều là những điểm du lịch đông khách. Nhìn chung do được thiên nhiên ưu đãi về địa lý và môi trường văn hoá nên Vân Nam được coi là tỉnh có sức hấp dẫn lớn về du lịch
+Đất Ba Thục đã trải qua mấy lần chiến tranh loạn lạc. Thời Minh, Thanh khi quân đội vào Tứ Xuyên đã gây ra nhiều cuộc thảm sát. Người Thổ Giả dưòng như bị giết gần hết (đến đầu đời Thanh chỉ còn 90 vạn người). Vì vậy dân Tứ Xuyên ngày nay là sự hoà nhập của di dân Hồ, Quảng, Vân Nam.
 {: .text-justify}
 
-Vân Nam phát triển tương đối muộn vì người nội địa rất ít muốn tới vùng đất xa xôi này. Sau thời cận đại mới có người tới . Những người nổi tiếng của Vân Nam là nhà hàng hải Trịnh Hoà, nhà âm nhạc Nhiếp Nhĩ, nhà triết học Ngãi Tư Kỳ. Ưu đãi của thiên nhiên đã khiến người Vân Nam phải trả bằng tính khép kin. So sánh với người Tứ Xuyên, người Vân Nam tỏ ra thoả mãn với cái vòng nho nhỏ của mình, an cư lạc nghiệp, tầm nhìn ngắn hẹp, tính cách nhu nhược, ít ra ngoài, rất ít gặp người Vân Nam tại các nơi khác trong nuớc.
+Trùng Khánh là thành phố trên núi, còn bề bộn lắm.
 {: .text-justify}
 
-Kinh tế Vân Nam phát triển không hài hoà, còn nhiều vùng nghèo. Thuốc lá là ngành công nghiệp chủ đạo và cũng là tỉnh lớn nhất về ma tuý.Có vùng biên giới gần “tam giác vàng”, rất nhiều người kiếm sống bắng cách buôn ma tuý, có nhiều “thôn gái goá”(đàn ông bị bắn chết)
+Số người Trùng Khánh nghiện hút tương đối nhiều, thịnh hành đánh bạc, người mở quán trà đông, uống trà nhiều có khả năng để đánh bạc, chủ quán trà phần lớn là mafia. Mùa hè chỗ nào cũng thấy người đầu trọc chân đất đi du ngoạn hoặc vây quanh nồi lẩu sặc mùi ớt ăn uống.
 {: .text-justify}
 
-Vân Nam là tỉnh khá đông dân(45 triệu), người Vân Nam nhỏ bé ít trai tài gái sắc
+Đàn ông Trùng Khánh hiếu sắc. Trùng Khánh ban đêm được coi là Hồng Kông nhỏ, trăm hồng ngàn tía vô cùng phồn hoa. Mấy huyện của Trùng Khánh dù kinh tế chưa ra làm sao nhưng ngành dịch vụ rất sôi nổi. Người Trùng Khánh không giống người Hồ Bắc làm xong rồi mới chơi, mà lại chơi rồi mới làm.
 {: .text-justify}
 
-## Người Tây Tạng
-Có nguồn gốc là hậu duệ của Thổ Phiên thời xa xưa, và pha tạp với huyết thống thổ dân Tây bắc. Vưong triều Thổ phiên Tùng Tán Can Bố thịnh trị một thời. Sau khi Hốt Tất Liệt chinh tây mới bị đưa hẳn vào bản đồ Trung Quốc. Người Tây Tạng mang khí hậu cao nguyên, tia tử ngoại ở đây chiếu khá mạnh, sắc mặt người đen, da có màu giống da người Ấn Độ, tuy vậy không đen đều. Đàn ông người Tạng tóc quăn. Phụ nữ Tây Tạng không đẹp. Người Tây Tạng coi trọng thờ cúng, chân thật mà khoan dung. Tây Tạng là nước Phật, ở đây không có đạo nào khác.
+Phụ nữ Trùng Khánh cũng giống như phụ nữ Tứ Xuyên có thói quen chơi mạt chược. Họ không ưa đàn ông bản địa mà thích rời xa quê hương đi làm thuê.
 {: .text-justify}
 
-Nói chung người Tây Tạng ít nói chuyện vệ sinh( nghe nói rất nhiều người chỉ tắm rửa khi mới chào đời và sau khi chết). Họ hiếu khách, thường mời uống trà sữa, rượu hoa quả. Vùng núi phía Nam là “Giang Nam của Tây Tạng” có khí hậu á nhiệt đới, sản vật dồi dào, là nơi bắt nguồn của văn minh Tây Tạng nhưng phần lớn bị Ấn Độ chiếm đóng(120.000km2, lớn hơn tỉnh Chiết Giang) là một bang của Ấn Độ. Ceylan vốn là thuộc quốc của Tây Tạng, “Tạng độc”(tổ chức người Tạng đòi độc lập) tại hải ngoại được Ấn Độ, Âu Mỹ ủng hộ. Người Tây Tạng có quầy hàng nhỏ tại nhiều nơi trong nuớc, bán một số đồ trang sức đặc sắc Tây Tạng, so với người Duy Ngô Nhĩ(Urge) thì tương đối ôn hoà, ít có tội phạm bạo lực. Người Hán ở Tây Tạng chưa hình thành văn hoá địa vực, chủ yếu là người Tứ Xuyên, Trùng Khánh v.v. đến Tây Tạng buôn bán và làm nhân viên. Diện Tích Tây Tạng rộng lớn, dân số ít, khí hậu khắc nghiệt, người Hán chủ yếu tập trung tại các thành phố, phần đông người Tạng đã qua cuộc sống du mục.
+Trùng Khánh có trên 32 triệu dân, nhưng số người có trình độ từ trung cấp chuyên nghiệp trở lên chỉ có hơn 1 triệu, vào khoảng 3%.
 {: .text-justify}
 
-## Người Thiểm Tây
-Thiểm Tây là nơi phát nguyên nên văn minh truyền thống Trung Quốc, ở đây có thể tìm thấy dấu vết ban đầu của Hoàng Đế(ông tổ nhân văn ban đầu” của Hoa Hạ. Các triều đại Tây Chu, Tần, Tây Hán, Tuỳ, Đường đều đóng đô ở đây, nghe nói có rất nhiều thôn trang cứ đào đất lên là thấy văn vật. Có rất nhiều danh nhân trong lịch sử, Bạch Cư Dị, Tư Mã Thiên, Lỹ Tự Thành… đều là người Thiểm Tây. Cơ thể người Thiểm Tây phát triển đều, rất khỏe, quân Tần xưa được mệnh danh là “đội quân hổ báo”, khiến quân chư hầu nghe thấy gió là bỏ chạy
+Người Tứ Xuyên đều cho rằng Trùng Khánh chỉ là một bộ phận của Tứ Xuyên, nhưng người Trùng Khánh sau khi được tách ra thành thành phố trực thuộc Trung Ương đã trở mặt không cho là như vậy. Tuy nhiên về nguồn gốc lịch sử hai nơi này không có khác biệt lớn.
 {: .text-justify}
 
-Người mặt vuông dài rất phổ biến, chất phác thật tàh nhưng lại sảng khoái hào phóng. Nhưng họkhá bảo thủ, bằng lòngvới hiện trạng, thích hò hát nhưng không giỏi kiếm tiền do vậy về tổng thể, Thiểm Tây vẫn là tỉnh nghèo.
+## Người Quý Châu（贵州省）
+Quý Châu là tỉnh dễ bị lãng quên nhất, nghe nói khi thành lập tỉnh còn tranh cãi không thôi.
 {: .text-justify}
 
-Người ThiểmTây không những thích hát dân ca mà chửi người không thua người Đông Bắc. Người Thiểm Tây ăn uống giản dị, thích ăn thịt thái to, uống rượu bằng bát. Đàn ông Thiểm Tây quyến luyến gia đình, ít người ham gái, càng không có “vợ hai”. Con Gái Thiểm Bắc dịu dàng nhưng nội tâm cương nghị.
+Quý Châu là tỉnh duy nhất tại Trung Quốc không có đồng bằng, vào Quý Châu như vào một đất nước toàn núi đồi, hầu như không thấy một mảnh đất bằng phẳng nào lớn một chút.
 {: .text-justify}
 
-Thiểm Tây có nhiều món ăn bình dân nổi tiếng, nhưng phần lớn là món ăn của dân tộc Hồ. Tây An là cố đô lớn nhất của Trung Quốc, đại học Tây An là đại học nổi tiếng của vùng tây. Người Tây An tương đối xảo quyệt bị coi là xấu nhất trong vùng Tây Bắc. Vùng Thiểm bác tuy nghèo nhưng dân gian hiền hậu do đó đảng cộng sản Trung Quốc mới đứng được ở đó lâu dài; phong tục, ngôn ngữ Thiểm Bắc gần gũi với Tứ Xuyên, Hồ Bắc.
+Dân vùng núi có cuộc sống tương đối nghèo nàn. Thành phố thủ phủ Quý Dương có hơn 1 triệu dân, gần đây được Cục Khí Tượng Quốc Gia cho là *“thủ đô nghỉ mát của Trung Quốc”* khiến người Quý Dương rất tự hào đắc ý.
 {: .text-justify}
 
-## Người Ninh Hạ
-Ninh Hạ là nơi tập trung người Hồi đông nhất Trung Quốc, dân Hồi chiếm 1/3 dân số trong tỉnh. Dân Hồi đến từ Trung Á tạp cư với dân bản địa . Theo đạo islam, thức ăn đơn giản, thích ăn thịt bò, cừu, kiêng thịt lợn, thích đội mũ trắng không vành. Diện tích Ninh Hạ nhỏ, có 6 triệu dân, người mang họ Mã đông nhất, thổ phỉ “Mã gia quân” nổi tiếng ở Tây bắc. Người Hán ở Ninh Hạ rất ít là thổ phiên, phần lớn đến từ Sơn Tây, thời Minh di dân đến khai hoang có tới hàng chục vạn người . Phần lớn Ninh Hạ là sa mạc.
+Tuân Nghĩa là nơi Hồng quân đi qua trên đường trường chinh, với cuộc họp mang tính lịch sử mà nổi tiếng.
 {: .text-justify}
 
-Rất nhiều người Ninh Hạ nhìn bên ngoài thấy hung dữ nhưng thực ra trong lòng nhân hậu, đối xử với người chân thành. Kinh tế Ninh Hạ tương đối lạc hậu, không có nơi nào giàu có, rất ít có danh nhân, giống với các tỉnh tây bắc khác tính ccáh người nơi đay bộc trực, bảo thủ kém thông minh. Khôngcó mỹ nữ. Ngân Xuyên là thủ phủ tỉnh nhưng qui mô chỉ bằng thành phố loại vừa vùng duyên hải.
+Trong 3 tỉnh Vân Nam, Quý Châu, Tứ Xuyên tập quán ăn uống và ngôn ngữ của Quý Châu gần với Tứ Xuyên hơn.
 {: .text-justify}
 
-## Người Cam Túc
-TỪ xưa Cam Túc đã là vùng biên tái, đất đai chủ yếu là hoàng thổ sa mạc. Rất nhiều địa phương *“xuân phong bất độ Ngọc Môn Quan”* (gió xuân không tới Ngọc môn quan) hoặc *“Tây xuất Dương quan vô cố nhân”* (ra khỏi tây Dương quan là không có bạn) có thể nói là vô cùng thê lương. Tài nguyên văn hoá rất phong phú nhất là văn hoá Đông Hoàng, thứ nữa là con đường tơ lụa. Danh nhân Cam Túc trong lịch sử có Phi tuớng quân Lý Quảng, Đưòng Cao Tôn Lỹ Zuyên, “thi tiên” Lý Bạch nghe nói quê ở Lũng Tây. Các nơi ở CamTúc đều nghèo.Ở một góc Tay bắc trong lịch sử thường loạn lạc không yên, nơi chính quyền giao tiếp dân tộc hội hợp.
+Quý Châu có thể coi như tỉnh của dân di cư, ngoài một số dân tộc thiểu số như Mèo, Bố Y... ra, người Hán đến đó đều qua mấy lần di dân lớn. Do mấy nguyên nhân như là miền núi xa xôi, giao thông không tiện, phát triển chậm, văn hoá lạc hậu...
 {: .text-justify}
 
-Cũng có thể do là nơi phân tranh trong lịch sử, nên nơi này bị nhiều vết thương từ bên ngoài và đã ảnh hưởng nhiều tới tính cách người Cam Túc rất lớn, như quá bảo thủ, ít sáng tạo, chậm tiếp thu cái mới. Thành phố Lan Châu bốn mặt là núi, ô nhiễm nặng nề nhưng con gái ăn nói rất cởi mở. Ninh Hội là huyện nghèo cấp quốc gia, hiện nay ngay nước uống cũng còn là vấn đề nhưng là nơi năm đó Hồng quân hội sư trên đường trường chinh, tuy vậy dân rất hiếu học. Nghe nói chỉ riêng vùng thung lũng Silicon Bắc Kinh đã có tới hơn 1000 nhân tài cao cấp người Ninh Hội. Có thể vì là vùng sa mạc nên người Cam Túc phần đông mặt đỏ, thân người khoẻ mạnh, ít ốm vặt.
+Quý Châu ít có nhân tài. Người Quý Châu tại các tỉnh trong nội địa, khỏe mạnh hay làm, nhưng tinh thần chịu khổ không bằng người Tứ Xuyên.
 {: .text-justify}
 
-## Người Thanh Hải
-Câu nói *“Ông mày đứng đái ở đầu Tam Giang thì có tới hai phần ba người Trung Quốc uống được”* là để hình dung người Thanh Hải. Thanh Hải là nguồn nước lớn nhất Trung Quốc. Thanh Hải rộng tới 720.000 km2 nhưng chỉ có 5 triệu dân, nếu chỉ xét riêng về dân số sợ không tính nổi là một tỉnh. Dân cư chủ yếu là người Hán, người Tạng (trong lịch sử phần lớn thuộc vùng Tạng, hiện nay người Hán đã chiếm ưu thế tuyệt đối). Do dân số ít lại là vùng tụ cư của nhiều dân tộc cho nên không hình thành văn hoá địa vực độc đáo. Trên cao nguyên tia tử ngoại chiếu mạnh nên người sống ở đó có nước da đen nâu, tính cách sảng khoái, chất phác, lương thiện, trung hậu, chưa bị ngoại giới làm ô nhiễm. Do ở sâu trong nội địa, nên học phong kém, khép kín, ít va đập, phát triển chậm, không có ngành sản xuất then chốt, chủ yếu là dựa vào xuất nguyên liệu, ít dân buôn, yên tâm với hiện trạng, hầu như chưa có danh nhân. Người Thanh Hải có tửu lượng có thể nói là đứng đầu cả nước. Nghe nói tại vùng dân tộc ít người rất dễ mua được súng. Thủ phủ Tây Ninh chỉ là một thành phố loại vừa, một số thành phố khác thực ra chỉ là thị trấn nhỏ.
+Gần đây số nông dân vào thành phố làm thuê tăng nhiều, phần lớn tới đồng bằng sông Châu Giang. Số thiếu nữ lâm vào cảnh phong trần không ít.
 {: .text-justify}
 
-## Người Tân Cương
-Diện tích rộng lớn, tài nguyên phong phú, là tỉnh giàu nhất vùng Tây Bắc. Huyết thống và thành phần dân tộc khá phức tạp, nguồn gốc sớm nhất là Hung Nô rồi đến Đột Quyết rồi lại hỗn tạp với Mông Cổ, Tacta để hình thành dân tộc Duy Ngô Nhĩ và các dân tộc ít người khác. Tộc Duy Ngô Nhĩ thuộc hệ ngôn ngữ Đột Quyết, có nguồn gốc giống với dân tộc Thổ Nhĩ Kỳ, thực ra khá gần gũi với người da trắng. Phần lớn dân tộc thiểu số tụ cư tại miền nam, và phần đông theo đạo islam. Dân tộc thiểu số giỏi ca múa, mỗi khi vào dịp lễ hội Islam già trẻ gái trai đều cuồng hoan hết sức. Người Duy Ngô Nhĩ hào sảng, nhiệt tình, hiếu khách, một khi đã kết bạn là mang hết rượu ngon thức nhắm tốt ra thiết đãi khách, khiến khách không có cảm giác là khách mà như nhà mình vậy. Tuy vậy kiêng cấm cũng nhiều, người ngoài tới nếu không am hiểu rất dễ bị trở mặt. Nữ giới cấm mặc quần áo hở hang, cấm đánh rắm (dù là kêu hay xịt). Không được ăn thịt lợn, lừa, chó.
+## Người Vân Nam（云南省）
+Trong 3 tỉnh vùng Tây Nam, Vân Nam là tỉnh có màu sắc vùng biên nhất. Thời Hán Vũ đế được gọi là *“đám mây đầy màu sắc ở Phương Nam”*. Thành phố thủ phủ Côn Minh bốn mùa là xuân, khí hậu tốt lành, cảnh vật tuyệt đẹp.
 {: .text-justify}
 
-Đàn ông Duy Ngô Nhĩ nói chung đẹp trai, thân người cao lớn, mặt có góc cạnh, lộ rõ khí chất đàn ông. Phụ nữ có rất nhiều người đẹp mang đặc sắc Trung Á. Người Duy Ngô Nhĩ rất ít khi kết hôn với người Hán, tại vùng xa phía Nam thế lực “Đông Đột”(một tổ chức chống đối) khá mạnh có mặt tại Đức, Mỹ, Australia, Thổ Nhĩ Kỳ v.v. Những người Duy Ngô Nhĩ giàu có thường kinh doanh cửa hàng ăn của dân tộc tại các thành phố lớn trong nội địa.
+Vân Nam là tỉnh có nhiều dân tộc thiểu số nhất Trung Quốc. Các dân tộc đều có văn hoá độc đáo của mình như: ca múa của dân tộc Bạch tại Đại Lý; nhạc cổ của tộc Nạp Tây vùng Lệ Giang; dân tộc Thái ở Xi Song Bản Na phong tình, đều là những điểm du lịch đông khách.
 {: .text-justify}
 
-Do nghèo khổ nên kẻ trộm người Duy Ngô Nhĩ có mặt tại hầu hết các thành phố lớn trong nuớc, vì sự đoàn kết dân tộc nên chính quyền địa phương không dám nghiêm trị, khiến có kẻ không sợ dám công khai trấn lột, ở tong tộc người Đông Hương, Duy Ngô Nhĩ có nhiều người buôn bán ma tuý, gần đây còn tham gia các trò lừa gạt, bán hàng giả. Người Hán ở Tân Cương có lịch sử ngắn ngủi về cơ bản là người trong các binh đoàn xây dựng tại đây sau khi phục viên đã ở lại và một số thanh niên lên núi xuống làng thời cách mạng văn hoá, và một số nông dân nghèo người Hà Nam, Hồ Bắc.. đến mưu sinh, nên chưa hình thành văn hoá địa vực rõ rệt, họ tập trung tại một số vùng như Urumqi, Shihezi, Karamay.
+Nhìn chung do được thiên nhiên ưu đãi về địa lý và môi trường văn hoá nên Vân Nam được coi là tỉnh có sức hấp dẫn lớn về du lịch.
+{: .text-justify}
+
+Vân Nam phát triển tương đối muộn vì người nội địa rất ít muốn tới vùng đất xa xôi này. Sau thời cận đại mới có người tới. Những người nổi tiếng của Vân Nam là nhà hàng hải Trịnh Hoà, nhà âm nhạc Nhiếp Nhĩ, nhà triết học Ngãi Tư Kỳ.
+{: .text-justify}
+
+Ưu đãi của thiên nhiên đã khiến người Vân Nam phải trả bằng tính khép kín. So sánh với người Tứ Xuyên, người Vân Nam tỏ ra thoả mãn với cái vòng nho nhỏ của mình, an cư lạc nghiệp, tầm nhìn ngắn hẹp, tính cách nhu nhược, ít ra ngoài. Rất ít gặp người Vân Nam có mặt tại các nơi khác ở trong nuớc.
+{: .text-justify}
+
+Kinh tế Vân Nam phát triển không hài hoà, còn nhiều vùng nghèo. Thuốc lá là ngành công nghiệp chủ đạo và cũng là tỉnh lớn nhất sản xuất ma tuý. Có vùng biên giới gần *“tam giác vàng”*. Rất nhiều người kiếm sống bắng cách buôn ma tuý, có nhiều *“thôn gái goá”* (đàn ông bị bắn chết).
+{: .text-justify}
+
+Vân Nam là tỉnh khá đông dân (45 triệu). Người Vân Nam nhỏ bé ít trai tài, gái sắc.
+{: .text-justify}
+
+## Người Tây Tạng（西藏）
+Có nguồn gốc là hậu duệ của Thổ Phiên thời xa xưa, và pha tạp với huyết thống thổ dân Tây Bắc. Vưong triều Thổ phiên Tùng Tán Can Bố thịnh trị một thời. Sau khi Hốt Tất Liệt chinh Tây mới bị đưa hẳn vào bản đồ Trung Quốc.
+{: .text-justify}
+
+Người Tây Tạng mang khí hậu cao nguyên, tia tử ngoại ở đây chiếu khá mạnh, sắc mặt người đen, da có màu giống da người Ấn Độ, tuy vậy không đen đều. Đàn ông người Tạng tóc quăn. Phụ nữ Tây Tạng không đẹp.
+{: .text-justify}
+
+Người Tây Tạng coi trọng thờ cúng, chân thật mà khoan dung. Tây Tạng là nước Phật, ở đây không có đạo nào khác.
+{: .text-justify}
+
+Người Tây Tạng nói chung ít nói chuyện vệ sinh (nghe nói rất nhiều người chỉ tắm rửa khi mới chào đời và sau khi chết). Họ hiếu khách, thường mời uống trà sữa, rượu hoa quả.
+{: .text-justify}
+
+Vùng núi phía Nam là *“Giang Nam của Tây Tạng”*, có khí hậu á nhiệt đới, sản vật dồi dào, là nơi bắt nguồn của văn minh Tây Tạng nhưng phần lớn bị Ấn Độ chiếm đóng (120.000km2, lớn hơn tỉnh Chiết Giang) là một bang của Ấn Độ.
+{: .text-justify}
+
+Ceylan vốn là thuộc quốc của Tây Tạng. *“Tạng độc”* (tổ chức người Tạng đòi độc lập) tại hải ngoại được Ấn Độ, Âu Mỹ ủng hộ. Người Tây Tạng có quầy hàng nhỏ tại nhiều nơi trong nuớc, bán một số đồ trang sức đặc sắc Tây Tạng. So với người Duy Ngô Nhĩ (Urge) thì tương đối ôn hoà, ít có tội phạm bạo lực.
+{: .text-justify}
+
+Người Hán ở Tây Tạng chưa hình thành văn hoá địa vực, chủ yếu là người Tứ Xuyên, Trùng Khánh đến Tây Tạng buôn bán và làm nhân viên. Diện Tích Tây Tạng rộng lớn, dân số ít, khí hậu khắc nghiệt. Người Hán chủ yếu tập trung tại các thành phố, phần đông người Tạng đã qua cuộc sống du mục.
+{: .text-justify}
+
+## Người Thiểm Tây（陕西省）
+Thiểm Tây là nơi phát nguyên nên văn minh truyền thống Trung Quốc, ở đây có thể tìm thấy dấu vết ban đầu của Hoàng Đế (ông tổ nhân văn ban đầu của Hoa Hạ).
+{: .text-justify}
+
+Các triều đại Tây Chu, Tần, Tây Hán, Tuỳ, Đường đều đóng đô ở đây. Nghe nói có rất nhiều thôn trang cứ đào đất lên là thấy văn vật.
+{: .text-justify}
+
+Có rất nhiều danh nhân trong lịch sử như Bạch Cư Dị, Tư Mã Thiên, Lỹ Tự Thành... đều là người Thiểm Tây. Cơ thể người Thiểm Tây phát triển đều, rất khỏe. Quân Tần xưa được mệnh danh là *“đội quân hổ báo”*, khiến quân chư hầu nghe thấy gió là bỏ chạy.
+{: .text-justify}
+
+Người mặt vuông dài rất phổ biến, chất phác thật thà nhưng lại sảng khoái hào phóng. Tính tình khá bảo thủ, bằng lòng với hiện trạng, thích hò hát nhưng không giỏi kiếm tiền do vậy về tổng thể Thiểm Tây vẫn là tỉnh nghèo.
+{: .text-justify}
+
+Người Thiểm Tây không những thích hát dân ca mà chửi người không thua người Đông Bắc. Người Thiểm Tây ăn uống giản dị, thích ăn thịt thái to, uống rượu bằng bát. Đàn ông Thiểm Tây quyến luyến gia đình, ít người ham gái, càng không có “vợ hai”. Con Gái Thiểm Bắc dịu dàng nhưng nội tâm cương nghị.
+{: .text-justify}
+
+Thiểm Tây có nhiều món ăn bình dân nổi tiếng, nhưng phần lớn là món ăn của dân tộc Hồ. Tây An là cố đô lớn nhất của Trung Quốc. Đại học Tây An là đại học nổi tiếng của vùng phía tây Trung Quốc. Người Tây An tương đối xảo quyệt, bị coi là xấu nhất trong vùng Tây Bắc.
+{: .text-justify}
+
+Vùng Thiểm Bắc tuy nghèo nhưng dân tình hiền hậu do đó Đảng Cộng Sản Trung Quốc mới đứng được ở đó lâu dài. Phong tục, ngôn ngữ Thiểm Bắc gần gũi với Tứ Xuyên, Hồ Bắc.
+{: .text-justify}
+
+## Người Ninh Hạ（宁夏）
+Ninh Hạ là nơi tập trung người Hồi đông nhất Trung Quốc. Dân đạo Hồi chiếm 1/3 dân số trong tỉnh. Dân Hồi đến từ Trung Á tạp cư với dân bản địa. Do theo đạo Hồi nên thức ăn đơn giản, thích ăn thịt bò, cừu, kiêng thịt lợn, thích đội mũ trắng không vành.
+{: .text-justify}
+
+Diện tích Ninh Hạ nhỏ, có 6 triệu dân, người mang họ Mã đông nhất. Thổ phỉ *“Mã gia quân”* là nổi tiếng ở Tây bắc. Người Hán ở Ninh Hạ rất ít, phần lớn đến từ Sơn Tây. Thời Minh di dân đến khai hoang có tới hàng chục vạn người.
+{: .text-justify}
+
+Phần lớn Ninh Hạ là sa mạc.
+{: .text-justify}
+
+Rất nhiều người Ninh Hạ nhìn bên ngoài thấy hung dữ nhưng thực ra trong lòng nhân hậu, đối xử với người chân thành. Kinh tế Ninh Hạ tương đối lạc hậu, không có nơi nào giàu có, rất ít có danh nhân.
+{: .text-justify}
+
+Giống với các tỉnh Tây Bắc khác, tính cách người nơi đây bộc trực, bảo thủ, kém thông minh. Không có mỹ nữ.
+{: .text-justify}
+
+Ngân Xuyên là thủ phủ tỉnh nhưng qui mô chỉ bằng thành phố loại vừa vùng duyên hải.
+{: .text-justify}
+
+## Người Cam Túc（甘肃）
+Từ xưa Cam Túc đã là vùng biên thùy. Đất đai chủ yếu là hoàng thổ sa mạc. Rất nhiều địa phương *“xuân phong bất độ Ngọc Môn Quan”* (gió xuân không tới Ngọc môn quan) hoặc *“Tây xuất Dương quan vô cố nhân”* (ra khỏi tây Dương quan là không có bạn). Có thể nói là vô cùng thê lương.
+{: .text-justify}
+
+Tài nguyên văn hoá rất phong phú nhất là văn hoá Đông Hoàng, thứ nữa là con đường tơ lụa. Danh nhân Cam Túc trong lịch sử có Phi tuớng quân Lý Quảng, Đường Cao Tông Lý Uyên, *“thi tiên”* Lý Bạch nghe nói quê ở Lũng Tây.
+{: .text-justify}
+
+Các nơi ở Cam Túc đều nghèo. Do ở một góc Tây Bắc nên trong lịch sử thường loạn lạc không yên. Đây cững là nơi chính quyền giao tiếp, hội họp với các dân tộc bên ngoài.
+{: .text-justify}
+
+Cũng có thể do là nơi phân tranh trong lịch sử, nên nơi này bị nhiều vết thương từ bên ngoài và đã ảnh hưởng nhiều tới tính cách người Cam Túc rất lớn: như quá bảo thủ, ít sáng tạo, chậm tiếp thu cái mới.
+{: .text-justify}
+
+Thành phố Lan Châu bốn mặt là núi, ô nhiễm nặng nề nhưng con gái ăn nói rất cởi mở. Ninh Hội là huyện nghèo cấp quốc gia, hiện nay ngay nước uống cũng còn là vấn đề nhưng là nơi năm đó Hồng quân hội sư trên đường trường chinh. Tuy vậy dân rất hiếu học. Nghe nói chỉ riêng vùng thung lũng Silicon Bắc Kinh đã có tới hơn 1000 nhân tài cao cấp người Ninh Hội.
+{: .text-justify}
+
+Có thể vì là vùng sa mạc nên người Cam Túc phần đông mặt đỏ, thân người khoẻ mạnh, ít ốm vặt.
+{: .text-justify}
+
+## Người Thanh Hải（青海省）
+Câu nói *“Ông mày đứng đái ở đầu Tam Giang thì có tới hai phần ba người Trung Quốc uống được”* là để hình dung người Thanh Hải. Thanh Hải là nguồn nước lớn nhất Trung Quốc. Thanh Hải rộng tới 720.000 km2 nhưng chỉ có 5 triệu dân, nếu chỉ xét riêng về dân số sợ không tính nổi là một tỉnh.
+{: .text-justify}
+
+Dân cư chủ yếu là người Hán và người Tạng. Trong lịch sử phần lớn thuộc vùng Tạng, hiện nay người Hán đã chiếm ưu thế tuyệt đối. Do dân số ít lại là vùng tụ cư của nhiều dân tộc cho nên không hình thành văn hoá địa vực độc đáo.
+{: .text-justify}
+
+Trên cao nguyên tia tử ngoại chiếu mạnh nên người sống ở đó có nước da đen nâu, tính cách sảng khoái, chất phác, lương thiện, trung hậu, chưa bị ngoại giới làm ô nhiễm.
+{: .text-justify}
+
+Do ở sâu trong nội địa, nên học vấn kém, khép kín, ít va đập, phát triển chậm, không có ngành sản xuất then chốt, chủ yếu là dựa vào xuất nguyên liệu. Ít dân buôn, yên tâm với hiện trạng, hầu như chưa có danh nhân.
+{: .text-justify}
+
+Người Thanh Hải có tửu lượng có thể nói là đứng đầu cả nước. Nghe nói tại vùng dân tộc ít người rất dễ mua được súng. Thủ phủ Tây Ninh chỉ là một thành phố loại vừa, một số thành phố khác thực ra chỉ là thị trấn nhỏ.
+{: .text-justify}
+
+## Người Tân Cương（新疆）
+Diện tích rộng lớn, tài nguyên phong phú, là tỉnh giàu nhất vùng Tây Bắc.
+{: .text-justify}
+
+Huyết thống và thành phần dân tộc khá phức tạp, nguồn gốc sớm nhất là Hung Nô rồi đến Đột Quyết rồi lại hỗn tạp với Mông Cổ, Tacta để hình thành dân tộc Duy Ngô Nhĩ và các dân tộc ít người khác.
+{: .text-justify}
+
+Tộc Duy Ngô Nhĩ thuộc hệ ngôn ngữ Đột Quyết, có nguồn gốc giống với dân tộc Thổ Nhĩ Kỳ, thực ra khá gần gũi với người da trắng.
+{: .text-justify}
+
+Phần lớn dân tộc thiểu số tụ cư tại miền nam, và phần đông theo đạo Hồi. Dân tộc thiểu số giỏi ca múa, mỗi khi vào dịp lễ hội đạo Hồi già trẻ gái trai đều hoan hỉ hết sức.
+{: .text-justify}
+
+Người Duy Ngô Nhĩ hào sảng, nhiệt tình, hiếu khách, một khi đã kết bạn là mang hết rượu ngon thức nhắm tốt ra thiết đãi khách. Khiến khách không có cảm giác là khách mà như nhà mình vậy.
+{: .text-justify}
+
+Tuy vậy kiêng cấm cũng nhiều, người ngoài tới nếu không am hiểu rất dễ phạm đại kị. Nữ giới cấm mặc quần áo hở hang, cấm đánh rắm (dù là kêu hay xịt). Không được ăn thịt lợn, lừa, chó.
+{: .text-justify}
+
+Đàn ông Duy Ngô Nhĩ nói chung đẹp trai, thân người cao lớn, mặt có góc cạnh, lộ rõ khí chất đàn ông. Phụ nữ có rất nhiều người đẹp mang đặc sắc Trung Á. Người Duy Ngô Nhĩ rất ít khi kết hôn với người Hán.
+{: .text-justify}
+
+Tại vùng xa phía Nam có thế lực *“Đông Đột”* (một tổ chức chống đối) khá mạnh. Cơ sở có mặt tại cả Đức, Mỹ, Australia, Thổ Nhĩ Kỳ...
+{: .text-justify}
+
+Những người Duy Ngô Nhĩ giàu có thường kinh doanh cửa hàng ăn của dân tộc tại các thành phố lớn trong nội địa.
+{: .text-justify}
+
+Do nghèo khổ nên kẻ trộm người Duy Ngô Nhĩ có mặt tại hầu hết các thành phố lớn trong nuớc. Vì sự đoàn kết dân tộc trong cả nước nên chính quyền địa phương không dám nghiêm trị, khiến có kẻ không sợ mà dám công khai trấn lột. 
+{: .text-justify}
+
+Ở trong tộc người Đông Hương, Duy Ngô Nhĩ có nhiều người buôn bán ma tuý. Gần đây còn tham gia các trò lừa gạt, bán hàng giả.
+{: .text-justify}
+
+Người Hán ở Tân Cương có lịch sử ngắn ngủi. Về cơ bản là:
+- Người trong các binh đoàn xây dựng, sau khi phục viên đã ở lại.
+- Bên cạnh đó là một số thanh niên lên núi xuống làng thời cách mạng văn hoá.
+- Một số khác là nông dân nghèo người Hà Nam, Hồ Bắc... đến mưu sinh.
+{: .text-justify}
+
+Cho nên tại đây chưa hình thành văn hoá địa vực rõ rệt. Dân cư tập trung tại một số vùng như Urumqi, Shihezi, Karamay.
 {: .text-justify}
