@@ -2,11 +2,10 @@
 title: 阮攸《龙城琴者歌》- Nguyễn Du《Long Thành Cầm Giả Ca》
 layout: single
 classes: wide
+categories: nguyen-du
 parent:
   label: Nguyễn Du
   url: nguyen-du
-categories: 
-  - Nguyen-Du
 ---
 
 ![alt]({{ 'assets/images/yang-shu-tao-gong-bi-shi-nu-hua.jpg' | absolute_url }})

@@ -24,7 +24,7 @@ Nguyễn Du có mái tóc bạc sớm, mái tóc như biểu tượng của nh�
 {: .text-justify}
 
 ## Danh sách
-{% assign posts = site.posts | where_exp: "item", "item.categories contains 'Nguyen-Du'" %}
+{% assign posts = site.posts | where_exp: "item", "item.categories contains 'nguyen-du'" %}
 {% for post in posts %}
   {% include archive-single.html %}
 {% endfor %}

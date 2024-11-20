@@ -29,10 +29,10 @@ Phan Châu Trinh và con trai Phan Châu Dật tại Pháp
 </a>
 </cite>
 
-Tháng 2 năm đó, bọn ông Tử Kính đã phò tá Hội chủ Kỳ Ngoại Hầu đến Hồng Kong, viết thơ sang Nhật gọi tôi qua. Lúc bấy giờ, 4 người thiếu niên vừa mới được vô học trường Nhật, lại được nghe tin Hội chủ xuất dương yên ổn, thật mấy năm nay chỉ có chuyện này tôi thấy vui mừng khoan khoái hết sức.
+Tháng 2 năm đó, bọn ông Tử Kính đã phò tá Hội chủ Kỳ Ngoại Hầu đến Hồng Kông, viết thơ sang Nhật gọi tôi qua. Lúc bấy giờ, 4 người thiếu niên vừa mới được vô học trường Nhật, lại được nghe tin Hội chủ xuất dương yên ổn, thật mấy năm nay chỉ có chuyện này tôi thấy vui mừng khoan khoái hết sức.
 {: .text-justify}
 
-Tôi nóng lòng muốn biết tình hình trong nước gần đây ra sao, lại sẵn có dịp đi nghinh tiếp Hội Chủ, nên chi hạ tuần tháng hai, tôi đáp tàu ở Nhật sang Hồng Kong. 
+Tôi nóng lòng muốn biết tình hình trong nước gần đây ra sao, lại sẵn có dịp đi nghinh tiếp Hội Chủ, nên chi hạ tuần tháng hai, tôi đáp tàu ở Nhật sang Hồng Kông. 
 {: .text-justify}
 
 Tới đây, vừa gặp ông Tây Hồ Phan quân Châu Trinh mới từ nước nhà qua. Lúc mới gặp, thì Phan quân mặc áo cụt, đi giày rách, đầu tóc bờm xờm, trông như phường lao động nước ta; bởi vì ông thay lốt làm một tên nấu bếp ở dưới tàu, đây chắc hẳn là thủ đoạn của ông Lý Tuệ chỉ lối. Khi thấy chúng tôi, ông chưa chào đã cười, tôi dậy bắt tay ông, vui không thể nói được.

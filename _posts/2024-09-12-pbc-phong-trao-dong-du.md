@@ -48,7 +48,7 @@ Khoảng trung tuần tháng chạp, qua cửa ải Nam Quan, theo đường Qu�
 Thống lãnh Trần Thế Hoa thay thuyền đặc biệt cho tôi đến Nam Ninh. Đồ đạc trong thuyền hết thảy đều do ông cung ứng. Cảm tình của người Trung Quốc đối với ta, âu đây cũng là một chứng cứ.
 {: .text-justify}
 
-Thuyền đến Nam Ninh rồi tới Hồng Kong, trên đường tại Lưỡng Quảng tôi gặp Lưu Ấm Sinh đang gấp gáp muốn qua Nhật gặp Kỳ Ngoại Hầu đưa một bản văn kiện để điều giải ý kiến trong nước.
+Thuyền đến Nam Ninh rồi tới Hồng Kông, trên đường tại Lưỡng Quảng tôi gặp Lưu Ấm Sinh đang gấp gáp muốn qua Nhật gặp Kỳ Ngoại Hầu đưa một bản văn kiện để điều giải ý kiến trong nước.
 {: .text-justify}
 
 Nguyên trước kia tôi và các cụ trong đảng với Kỳ Ngoại Hầu, vốn muốn lợi dụng Quân Chủ để thu phục nhân tâm, còn mục đích thật thì cốt ở khôi phục quốc gia mà thôi. Vì danh nghĩa ấy, sở dĩ sau khi tôi xuất dương, người phụ họa khá đông.
@@ -57,7 +57,7 @@ Nguyên trước kia tôi và các cụ trong đảng với Kỳ Ngoại Hầu, 
 Từ sau Phan Châu Trinh ở Nhật Bản về, lại xướng mạnh lên thuyết *"Tôn dân đổ vua, dựa Pháp cầu tiến bộ"* chuyên công kích Quân Chủ mà không nói đến người Pháp. Dư luận lúc ấy rất phân vân, cơ hồ nổi lên nhiều tranh cãi trong đảng. Lưu Ấm Sinh sở dĩ ra đi, chính vì lẽ ấy.
 {: .text-justify}
 
-Tôi gấp bỏ Hồng Kong đến Tokyo, thượng tuần tháng hai, năm Đinh Mùi (1907) thì tới nơi. Anh em thấy tôi ai nấy đều vui mừng, mà trong lòng tôi thiệt là một múi sầu như kim châm, vì lo nỗi đảng phân liệt. Tôi mới tự mình thảo một bức thư gửi ông Lưu để đưa về cho cụ Tây Hồ. Trong thư có câu: 
+Tôi gấp bỏ Hồng Kông đến Tokyo, thượng tuần tháng hai, năm Đinh Mùi (1907) thì tới nơi. Anh em thấy tôi ai nấy đều vui mừng, mà trong lòng tôi thiệt là một múi sầu như kim châm, vì lo nỗi đảng phân liệt. Tôi mới tự mình thảo một bức thư gửi ông Lưu để đưa về cho cụ Tây Hồ. Trong thư có câu: 
 
 Dân chi bất tồn, chủ ư hà hữu?\
  \
@@ -78,7 +78,7 @@ Các thuyết bài quân, nếu mai này lan rộng thì nhân tâm Trung, Bắc
 Vậy nên in một món văn thư, phái người đưa về Nam Kỳ. Lợi dụng nhân tâm nhớ cũ yêu vua, vận động ủng hộ tiền bạc. Hễ có được tiền bạc rồi, thì việc khác mới bắt tay làm được. Nếu không thế Trung, Bắc Kỳ e sắp đổ bể cả.
 {: .notice .text-justify}
 
-Hầu lấy làm phải lắm, bảo tôi làm một bài văn *"Ai cáo Nam Kỳ phụ lão"*. In xong, tôi lại tiễn ông Lưu về lại Hồng Kong, để đem các kiện văn thư để chuyển về nước.
+Hầu lấy làm phải lắm, bảo tôi làm một bài văn *"Ai cáo Nam Kỳ phụ lão"*. In xong, tôi lại tiễn ông Lưu về lại Hồng Kông, để đem các kiện văn thư để chuyển về nước.
 {: .text-justify}
 
 ## Cụ Tăng Bạt Hổ tạ thế
@@ -117,16 +117,16 @@ Lúc này, bài văn khuyến học của tôi được truyền bá rồi. Thi�
 - Bắc Kỳ có Đặng Tử Mẫn, Đàm Khanh v.v...
 {: .text-justify}
 
-Họ tắm gội nắng mưa, xông pha sương gió, liều mạng đi tìm học vấn, nối gót theo chân nhau trên đường sang Quảng Đông và Hồng Kong.
+Họ tắm gội nắng mưa, xông pha sương gió, liều mạng đi tìm học vấn, nối gót theo chân nhau trên đường sang Quảng Đông và Hồng Kông.
 {: .text-justify}
 
-Bởi vậy chúng tôi bèn đặt ra tại Hồng Kong một cơ quan của đảng ta, để có nơi tiếp rước học sinh và thâu nhập bạc tiền cùng các giấy tờ bí mật. Chúng tôi để ông Đặng Tử Kính trông coi.
+Bởi vậy chúng tôi bèn đặt ra tại Hồng Kông một cơ quan của đảng ta, để có nơi tiếp rước học sinh và thâu nhập bạc tiền cùng các giấy tờ bí mật. Chúng tôi để ông Đặng Tử Kính trông coi.
 {: .text-justify}
 
-Tôi lại lập ra ở Hồng Kong một nhà Hội gọi là *"Việt Nam Thương Đoàn Công Hội"* để giúp đỡ việc cho đảng. Công Hội này ông Võ Mẫn Kiến làm người chủ trì.
+Tôi lại lập ra ở Hồng Kông một nhà Hội gọi là *"Việt Nam Thương Đoàn Công Hội"* để giúp đỡ việc cho đảng. Công Hội này ông Võ Mẫn Kiến làm người chủ trì.
 {: .text-justify}
 
-Lúc đó những bà con mình theo người Pháp qua làm ăn tại Hồng Kong, cũng động lòng vì nghĩa lớn, rủ nhau vô hội một cách hăm hở vô cùng. Chẳng phải vậy là dấu tỏ ra nhân tâm nước mình chưa chết hẳn đó sao?
+Lúc đó những bà con mình theo người Pháp qua làm ăn tại Hồng Kông, cũng động lòng vì nghĩa lớn, rủ nhau vô hội một cách hăm hở vô cùng. Chẳng phải vậy là dấu tỏ ra nhân tâm nước mình chưa chết hẳn đó sao?
 {: .text-justify}
 
 Chỉ tiếc rằng tôi thiếu tài bao bọc, lại kém sức chu toàn, thành ra mầm giống vừa mới mọc lên thì gió mưa đã làm cho xiêu đổ. Việt Nam Công hội chỉ có cái tên, rồi chưa được mấy năm, lại nhân bị can thiệp mà phải giải tán, đáng thương biết bao!

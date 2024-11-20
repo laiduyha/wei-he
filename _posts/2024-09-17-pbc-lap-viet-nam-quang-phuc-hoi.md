@@ -43,7 +43,7 @@ Chân dung Trần Kỳ Mỹ
 </a>
 </cite>
 
-Hạ tuần tháng 11 tới Hồng Kong anh em đồng chí trước đó tản tác các nơi, giờ đều quần tụ lại đây.
+Hạ tuần tháng 11 tới Hồng Kông anh em đồng chí trước đó tản tác các nơi, giờ đều quần tụ lại đây.
 {: .text-justify}
 
 Lúc này nghĩ rằng sau cách mạng đảng thành công thì Chính phủ Trung Hoa mới tất nhiên không hủ bại như Chính phủ cũ *(thất bại là tại chỗ đó!)*, và rồi Trung Hoa tất nối gót theo Nhật Bản mà làm một cường quốc. Nếu hai nước Trung-Nhật chung sức toàn lực mà kình với Châu Âu thì chẳng những nước Việt Nam ta, mà nước Ấn Độ, Philippines cũng đồng thời có cơ hội đứng dậy cả.
@@ -94,7 +94,7 @@ Vừa gặp lúc Dân đảng ở Quảng Đông cũng thành công đắc chí,
 Trung Hoa Dân Quốc dựng lên, như có luồng gió tiếng vang, rung động tới nước mình nhiều. Dân khí ta lại phấn chấn đáo để. Những hạng chí khí lại rủ nhau bỏ nước mạo hiểm trốn ra ngoài, chân nối gót nhau tới Quảng Châu đông lắm.
 {: .text-justify}
 
-Bọn ông Liệt Sanh ở Nam Kỳ qua; bọn ông Hải Thần ở Bắc Kỳ tới; bọn Đặng Tử Kính và Đặng Hồng Phấn thì ở Thái sang; Kỳ Ngoại Hầu từ Hồng Kong về. Cho tới mấy anh em học tốt nghiệp ở trường Lục quân Quảng Tây, nay cũng đồng thời kéo đến Quảng Châu để hội họp nhau.
+Bọn ông Liệt Sanh ở Nam Kỳ qua; bọn ông Hải Thần ở Bắc Kỳ tới; bọn Đặng Tử Kính và Đặng Hồng Phấn thì ở Thái sang; Kỳ Ngoại Hầu từ Hồng Kông về. Cho tới mấy anh em học tốt nghiệp ở trường Lục quân Quảng Tây, nay cũng đồng thời kéo đến Quảng Châu để hội họp nhau.
 {: .text-justify}
 
 Anh em đồng chí ngó thấy vậy, đều khuyên nhủ, thúc giục tôi nên thừa cơ hội này mà cử đồ đại sự. Bình sinh tôi vốn ôm chủ nghĩa Dân Chủ nay lại được đa số anh em đồng chí thúc hối tán thành, cho nên tôi càng quả quyết làm.
@@ -157,7 +157,7 @@ Nghĩ thế, tôi cũng làm liều tới ông Tô Thiếu Lâu mà cầu cạnh
 Đây là một cách thức huy động vốn ở đất Lưỡng Quảng này. Ta sẽ phái người phân tán ở khắp nơi, đem tờ *"Quân Dụng Phiếu"* coi như là tờ giấy nợ mà đổi lấy tiền về. Sau này cách mạng thành công thì sẽ theo tờ phiếu này mà trả lại tiền. Việc này thành thì lấy tiền đổi lại phiếu khoán cũng rất dễ, rủi không thành thì cũng là một cách dối người lấy tiền theo lối văn minh vậy.
 {: .text-justify}
 
-Tôi liền ủy thác ông Hoàng Trọng Mậu đi với ông Tô, qua Hồng Kong tìm những người trong đảng cách mạng đã quen với việc ấy. Bí mật chế tạo, in thành phiếu khoán với 4 mệnh giá: 5$, 10$, 20$ và 100$. Mặt trước khắc *"Việt Nam Quang Phục Quân Quân Dụng Phiếu"*, chính giữa in số tiền, mặt sau khắc chữ Hán và chữ Quốc Ngữ ghi rõ đây là do *"Việt Nam Quang Phục Quân, Lâm Thời Chính Phủ"* phát hành. Người ký là Phan Sào Nam, người kiểm phát Hoàng Trọng Mậu.
+Tôi liền ủy thác ông Hoàng Trọng Mậu đi với ông Tô, qua Hồng Kông tìm những người trong đảng cách mạng đã quen với việc ấy. Bí mật chế tạo, in thành phiếu khoán với 4 mệnh giá: 5$, 10$, 20$ và 100$. Mặt trước khắc *"Việt Nam Quang Phục Quân Quân Dụng Phiếu"*, chính giữa in số tiền, mặt sau khắc chữ Hán và chữ Quốc Ngữ ghi rõ đây là do *"Việt Nam Quang Phục Quân, Lâm Thời Chính Phủ"* phát hành. Người ký là Phan Sào Nam, người kiểm phát Hoàng Trọng Mậu.
 {: .text-justify}
 
 Phiếu bạc này in bằng điện, tinh xảo như tờ tiền của Trung Quốc. Người quyên góp chờ đến khi Dân Quốc Chính phủ thành lập, đem phiếu ra thu hồi lại tiền, trước quyên góp một đồng thì sẽ nhận được hai đồng.

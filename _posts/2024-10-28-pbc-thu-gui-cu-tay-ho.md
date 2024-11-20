@@ -8,7 +8,7 @@ parent:
   url: phan-boi-chau
 ---
 
-Tôi gấp bỏ Hồng Kong đến Tokyo, thượng tuần tháng hai, năm Đinh Mùi (1907) thì tới nơi. Anh em thấy tôi ai nấy đều vui mừng, mà trong lòng tôi thiệt là một múi sầu như kim châm, vì lo nỗi đảng phân liệt. Tôi mới tự mình thảo một bức thư gửi ông Lưu để đưa về cho cụ Tây Hồ. Trong thư có câu:\
+Tôi gấp bỏ Hồng Kông đến Tokyo, thượng tuần tháng hai, năm Đinh Mùi (1907) thì tới nơi. Anh em thấy tôi ai nấy đều vui mừng, mà trong lòng tôi thiệt là một múi sầu như kim châm, vì lo nỗi đảng phân liệt. Tôi mới tự mình thảo một bức thư gửi ông Lưu để đưa về cho cụ Tây Hồ. Trong thư có câu:\
  \
 Dân chi bất tồn, chủ ư hà hữu?\
 *Nghĩa là:*\

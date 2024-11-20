@@ -130,7 +130,7 @@ Tôi đi Thái cùng với thư giới thiệu của Bá Tước Okuma Shigenobu
 Qua đến năm sau, người trong đảng như bọn các ông Tử Kính, Vĩnh Long, Ngọ Sanh và Minh Chung, cả thảy đều lục tục qua Thái. Rủ nhau chịu khó cày cấy ruộng nương, chăn nuôi gà  vịt, để làm kế trữ sức lâu dài.
 {: .text-justify}
 
-Tháng 2 năm Tân Hợi (1911), sau khi bị Nhật trục xuất, các ông viết thư sang Hồng Kong kêu tôi qua. Tôi suy nghĩ muốn bắt chước Ngũ Tử Tư ngày xưa cày ruộng đợi thời, cũng là kế hay bèn đáp tàu sang Thái.
+Tháng 2 năm Tân Hợi (1911), sau khi bị Nhật trục xuất, các ông viết thư sang Hồng Kông kêu tôi qua. Tôi suy nghĩ muốn bắt chước Ngũ Tử Tư ngày xưa cày ruộng đợi thời, cũng là kế hay bèn đáp tàu sang Thái.
 {: .text-justify}
 
 Sang đây, tôi tới ở sở ruộng Bạn Thầm (tỉnh Phichit, Thái Lan), tắm gió gội sương, dầm mưa trải nắng, cùng mấy anh em chia sẻ đắng cay, nhằm cho tiêu bớt nỗi đau thương, ăn không ngồi rồi.
@@ -145,7 +145,7 @@ Nhưng trong 8 tháng đó, tôi thấy trong mình vui vẻ, thư thái lạ l�
 Hồi này rảnh rang nhàn rỗi, tôi soạn ra được nhiều bài văn Quốc Ngữ. Nào truyện Lê Thái Tổ, nào truyện Trưng nữ Vương, nào là những khúc hát, bài ca cổ vũ tấm lòng yêu nước, yêu nòi, yêu giống. Tôi đem những bài ấy ra dạy cho những người ở trong sở ruộng học, sớm tối họ thường nghêu ngao ca hát làm vui. Ấy là tôi muốn gieo hạt giống cách mạng ở giữa khoảng non xanh nước biếc này vậy.
 {: .text-justify}
 
-Tháng 10 năm ấy (Tân Hợi, 1911) Phan Bá Ngọc ở Hồng Kong sang Thái, đem cái tin Võ Xương khởi nghĩa nói cho tôi nghe. Quân cách mạng Trung Hoa thu phục xong Võ Xương, chưa đầy ba tháng mà đánh đổ được Triều Mãn Thanh, dựng thành Dân Quốc ở Nam Kinh. Thực là một việc mà tôi không dám nghĩ tới.
+Tháng 10 năm ấy (Tân Hợi, 1911) Phan Bá Ngọc ở Hồng Kông sang Thái, đem cái tin Võ Xương khởi nghĩa nói cho tôi nghe. Quân cách mạng Trung Hoa thu phục xong Võ Xương, chưa đầy ba tháng mà đánh đổ được Triều Mãn Thanh, dựng thành Dân Quốc ở Nam Kinh. Thực là một việc mà tôi không dám nghĩ tới.
 {: .text-justify}
 
 Hồi trước tôi còn ở bên Nhật, từng có cơ hội kết giao với những vị cốt cán của cách mạng Trung Hoa như Hoàng Khắc Cường, Chương Thái Viêm. Lại cùng bọn Trương Kế và chí sĩ các nước Triều Tiên, Nhật Bản, Ấn Độ và Philippines, tổ chức ra *"Đông Á Đồng Minh Hội"* .

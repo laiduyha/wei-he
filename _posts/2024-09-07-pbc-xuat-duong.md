@@ -9,16 +9,16 @@ parent:
 hongkong:
   - url: /assets/images/hong-kong-1900-1.jpg
     image_path: /assets/images/hong-kong-1900-1.jpg
-    title: "Khách sạn Mountain Palace, Hồng Kong"
+    title: "Khách sạn Mountain Palace, Hồng Kông"
   - url: /assets/images/hong-kong-1900-2.jpg
     image_path: /assets/images/hong-kong-1900-2.jpg
-    title: "Chợ trung tâm Hồng Kong"
+    title: "Chợ trung tâm Hồng Kông"
   - url: /assets/images/hong-kong-1900-3.jpg
     image_path: /assets/images/hong-kong-1900-3.jpg
-    title: "Thương nhân ở bến tàu Hồng Kong"     
+    title: "Thương nhân ở bến tàu Hồng Kông"     
   - url: /assets/images/hong-kong-1900-4.jpg
     image_path: /assets/images/hong-kong-1900-4.jpg
-    title: "Đường phố Hồng Kong"   
+    title: "Đường phố Hồng Kông"   
 ---
 
 {% include gallery id="hongkong" layout="half" %}
@@ -114,10 +114,10 @@ Tàu đến bến, chúng tôi lên bờ, ở loanh quanh hết hơn một tuầ
 Vì tôi mới bỏ nước trốn đi, người Pháp chưa hề nghe biết. Lúc ra khỏi bờ cõi áp chế rồi, mình thấy hoàn cảnh mình đều là không khí tự do, mặc ý mình đi lại thong thả, trái lại, thân mình về trước không khác gì một con ngựa hay bị nhốt trong chuồng, lại bị người ta may kín cả hai mắt lại tối đen, nay bỗng chốc được cắt chỉ mở mắt ra mà chạy nhởn nhơ rong ruổi ở giữa khoảng đồng rộng mênh mông, sung sướng thảnh thơi biết mấy. Nhưng nghĩ mình thì vậy, nhớ tới cái cảnh đồng bào đang bị bó buộc, thì ruột mình muốn dứt ra từng khúc.
 {: .text-justify}
 
-Tại Hồng Kong thấy học trò đi học vui vẻ đông đảo, cảnh buôn bán tấp nập đêm ngày; dọc đường không hề thấy ai bị lính bắt đứng lại xét hỏi giấy thân; không có ai đi đêm không đèn mà bị lính thộp ngực dẫn về bốt; không có thứ lính tuần hung bạo ngang tàng, bắt bớ người vô tội ở giữa đường không có cảnh tượng người bản xứ bị người Âu Tây bát nạt mà phải nép mình một bên đường.
+Tại Hồng Kông thấy học trò đi học vui vẻ đông đảo, cảnh buôn bán tấp nập đêm ngày; dọc đường không hề thấy ai bị lính bắt đứng lại xét hỏi giấy thân; không có ai đi đêm không đèn mà bị lính thộp ngực dẫn về bốt; không có thứ lính tuần hung bạo ngang tàng, bắt bớ người vô tội ở giữa đường không có cảnh tượng người bản xứ bị người Âu Tây bát nạt mà phải nép mình một bên đường.
 {: .text-justify}
 
-Ôi! Hồng Kong cũng là đất dưới quyền ngoại nhân cai trị, nhưng Hồng Kong có vẻ mùa xuân tươi cười, không phải như ở xứ mình.
+Ôi! Hồng Kông cũng là đất dưới quyền ngoại nhân cai trị, nhưng Hồng Kông có vẻ mùa xuân tươi cười, không phải như ở xứ mình.
 {: .text-justify}
 
 Lúc này tôi nghe nói quan Hiệp đốc đại thần Nguyễn Thiện Thuật trước kia vì quốc nạn mà chạy sang Quảng Đông, giờ đang ngụ trong nhà thờ họ Lưu ở Sa Hà. Nguyễn công là người ngang hàng với bậc thân phụ tôi, lại là một tay Cần Vương ngày trước, nay tôi sang tới đây, chẳng lẽ không nói cho cụ biết.
@@ -135,7 +135,7 @@ Tôi gửi cho Sầm một bức thư, nói rõ tình hình tỉnh Quảng và n
 Nhưng tôi gửi thư mấy ngày, chẳng thấy họ Sầm trả lời gì hết. Chắc lão sợ người Âu Tây như cọp, ấy là thói quen của đám quan lại nhà Thanh mình không lạ gì.
 {: .text-justify}
 
-Trở về Hồng Kong, đợi tàu qua Nhật. Song vì hồi này cuộc hòa giữa Nga với Nhật bàn định chưa xong, thành ra ở Hồng Kong không có tàu đi Nhật, tôi phải đáp tàu Chiêu Thương đi lên Thượng Hải.
+Trở về Hồng Kông, đợi tàu qua Nhật. Song vì hồi này cuộc hòa giữa Nga với Nhật bàn định chưa xong, thành ra ở Hồng Kông không có tàu đi Nhật, tôi phải đáp tàu Chiêu Thương đi lên Thượng Hải.
 {: .text-justify}
 
 Lúc ấy đã sau ngày rằm tháng ba. Tới Thượng Hải, mới thấy cuộc lữ hành của mình có lắm nông nổi khó khăn đẻ ra lần hồi. Việc khó khăn thứ nhất, là ngôn ngữ. Cả tiếng Anh lẫn tiếng Trung, tôi chưa từng học tập bao giờ. Cũng may cho mình giao tiếp đều là người Trung. Nếu biết chữ Hán thì có thể dùng ngọn bút thay thế cho tấc lưỡi. Nhưng cũng bất tiện đáo để.

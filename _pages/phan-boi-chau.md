@@ -69,7 +69,7 @@ Phan Bội Châu viết *"Ngục Trung Thư"* lúc ở trong tù tại Quảng C
 * 1908 (41 tuổi) - Đính mật ước với cụ Hoàng Hoa Thám
 
 ### <a href="/pbc-phong-trao-dong-du">Kỳ 8. Phong trào Đông Du</a>
-* 1908 (41 tuổi) - Lập *"Tân Việt Nam Cống Hiến"* ở Hồng Kong
+* 1908 (41 tuổi) - Lập *"Tân Việt Nam Cống Hiến"* ở Hồng Kông
 * 1908 (41 tuổi) - Thu xếp cho phong trào Đông Du
 
 ### <a href="/pbc-bi-nguoi-phap-dan-ap">Kỳ 9. Bị người Pháp đàn áp</a>

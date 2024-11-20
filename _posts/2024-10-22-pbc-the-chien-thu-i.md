@@ -59,10 +59,10 @@ Than ôi! Trong 4 năm này, vô số trai gái ở trong nước, lòng son má
 Bây giờ đem những hung tin nghe được trong ngục biên lược ra:
 {: .text-justify}
 
-1. Ông Lương Lập Nham bị bắt ở Hồng Kong.
+1. Ông Lương Lập Nham bị bắt ở Hồng Kông.
 2. Ông Trần Hữu Lực bị bắt ở Thái Lan.
 3. Ông Hoàng Trọng Mậu bị thất bại ở Quảng Tây.
-4. Ông Hoàng Trọng Mậu bị bắt ở Hồng Kong.
+4. Ông Hoàng Trọng Mậu bị bắt ở Hồng Kông.
 5. Ông Đậu Cơ Quang thất bại ở Vân Nam.
 6. Ông Đậu Cơ Quang tuận nghĩa ở Hà Nội.
 7. Ông Lâm Đức Mậu và ông Giáo Trung, bị bắt ở Thái Lan.
@@ -108,7 +108,7 @@ Một vạn đồng bạc từ Thái đến Quảng Đông, anh em đồng chí 
 - Một phần thì cấp cho Hoàng Trọng Mậu, toan đánh đường Hà Khẩu - Vân Nam.
 {: .text-justify}
 
-Số bạc này tính ra chỉ có 8000$ mà công dụng chia ra nhiều ngả thì thất bại là chắc rồi. Võ Mẫn Kiến, Nguyễn Hải Thần cùng mươi người anh em đánh lén một đồn Tây ở Lạng Sơn, cuối cùng thất bại lại còn có người bị thương. Hoàng Trọng Mậu thất bại nhiều lần từ Vân Nam về Quảng Tây, rồi qua Hồng Kong để đi qua Thái, cuối cùng bị bắt tại đây.
+Số bạc này tính ra chỉ có 8000$ mà công dụng chia ra nhiều ngả thì thất bại là chắc rồi. Võ Mẫn Kiến, Nguyễn Hải Thần cùng mươi người anh em đánh lén một đồn Tây ở Lạng Sơn, cuối cùng thất bại lại còn có người bị thương. Hoàng Trọng Mậu thất bại nhiều lần từ Vân Nam về Quảng Tây, rồi qua Hồng Kông để đi qua Thái, cuối cùng bị bắt tại đây.
 {: .text-justify}
 
 Ôi thôi! Vì ý kiến mà chia ra phe phái, hỏng đi việc nước. Đây là bài học mà chúng ta phải trông theo mà làm gương vậy!

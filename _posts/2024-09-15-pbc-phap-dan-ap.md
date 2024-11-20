@@ -180,7 +180,7 @@ Chẳng những thế mà thôi, cho đến những anh em đồng chí ở tron
 Tháng 4 mùa hạ năm Kỷ Dậu (1909), đảng ta phải trải muôn cay ngàn đắng mới quyên góp được một số tiền nữa gửi ra, tôi đem trao hết cho một hiệu buôn Nhật để nhờ họ lén mua quân giới cho mình. Vì chúng tôi muốn bạo động, thế nào cũng phải có ít nhiều quân giới.
 {: .text-justify}
 
-Quân giới mua xong rồi, do Đặng quân Tử Mẫn bí mật đem qua Hồng Kong. Lúc ấy là hạ tuần tháng 5 giữa lúc tôi cũng đang ở đó. Vừa nghe tin nước nhà đưa sang, nói rằng Hoàng Hoa Thám tướng quân đang giao chiến với Pháp binh gấp lắm, Chúng tôi thiết nghĩ việc cứu viện Hoàng tướng quân là một việc nghĩa phải làm, không thế nào trì hoãn được. Bởi vậy chúng tôi nghĩ cách làm sao vận tải được khí giới về nước cho mau.
+Quân giới mua xong rồi, do Đặng quân Tử Mẫn bí mật đem qua Hồng Kông. Lúc ấy là hạ tuần tháng 5 giữa lúc tôi cũng đang ở đó. Vừa nghe tin nước nhà đưa sang, nói rằng Hoàng Hoa Thám tướng quân đang giao chiến với Pháp binh gấp lắm, Chúng tôi thiết nghĩ việc cứu viện Hoàng tướng quân là một việc nghĩa phải làm, không thế nào trì hoãn được. Bởi vậy chúng tôi nghĩ cách làm sao vận tải được khí giới về nước cho mau.
 {: .text-justify}
 
 Muốn chở quân giới vào đất Trung Kỳ tất phải mượn đường Thái Lan mới được. Vì đó tôi phải tức tốc lên đường đi tới Bangkok, kinh đô nước Thái tìm cách yết kiến nhà đương cuộc Thái cầu họ giúp đỡ cho mình.
@@ -205,7 +205,7 @@ Rút súng lục bắn vào một tên lính Pháp, sau chĩa súng vào một t
 Nói xong liền quay súng lại bắn vào cổ mình mà chết.
 {: .notice .text-justify}
 
-Trời ơi! Hung tin báo tới, không khác gì con dao đâm một mũi chí mạng vào trong cái kế bạo động của tôi. Thế là bao nhiêu quân giới còn giấu đút ở Hồng Kong không thể chuyển về nướ được!
+Trời ơi! Hung tin báo tới, không khác gì con dao đâm một mũi chí mạng vào trong cái kế bạo động của tôi. Thế là bao nhiêu quân giới còn giấu đút ở Hồng Kông không thể chuyển về nướ được!
 {: .text-justify}
 
 Lúc này đảng cách mạng Trung Hoa toan đánh thành Quảng Đông, tôi mưu với các đồng chí ở đó chuyển lại tặng cho đảng Trung Hoa. Do người anh của Tôn Trung Sơn là Tôn Thọ Bình phái người đến nhận. Làm thế định là kết cảm tình đảng với cách mạng Trung Hoa sau này.

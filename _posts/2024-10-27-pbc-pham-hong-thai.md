@@ -27,16 +27,16 @@ Tôi vừa đọc đến đây, chân tay rung động. Liền đó 4, 5 ngày c
 Xem đó thì biết việc này ảnh hưởng lớn biết dường nào! Tôi tuy không can dự vào việc này, nhưng đã nghe đích xác nên xin ghi lại vào đây.
 {: .text-justify}
 
-Tháng 2, năm Giáp Tý (1924), Toàn quyền Đông Dương Merlin toan đi Tokyo Nhật Bản, đường đi ngang qua Hồng Kong và Thượng Hải. Đảng ta ở ngoài đã được nghe tin như vậy. Nhiều người ở Quảng Đông lại càng múa tay muốn thử. Nhưng nói nghe thì dễ, làm thật thì khó, trăm việc gì cũng vậy, huống gì đối với việc ám sát quan Toàn quyền này.
+Tháng 2, năm Giáp Tý (1924), Toàn quyền Đông Dương Merlin toan đi Tokyo Nhật Bản, đường đi ngang qua Hồng Kông và Thượng Hải. Đảng ta ở ngoài đã được nghe tin như vậy. Nhiều người ở Quảng Đông lại càng múa tay muốn thử. Nhưng nói nghe thì dễ, làm thật thì khó, trăm việc gì cũng vậy, huống gì đối với việc ám sát quan Toàn quyền này.
 {: .text-justify}
 
-Vả lại chuyến đi này của Merlin, cốt để kết mật ước với Chính phủ Nhah65t, quan hệ với cục diện Đông Dương rất lớn. Vì thế việc phòng vệ cho Merlin càng vạn phần nghiêm ngặt. Khi Merlin chưa xuất phát thì trinh thám trưởng Đông Dương đã phái nhiều tay chân rải ra khắc Quảng Đông, Hồng Kong, Thượng Hải, v.v... 
+Vả lại chuyến đi này của Merlin, cốt để kết mật ước với Chính phủ Nhah65t, quan hệ với cục diện Đông Dương rất lớn. Vì thế việc phòng vệ cho Merlin càng vạn phần nghiêm ngặt. Khi Merlin chưa xuất phát thì trinh thám trưởng Đông Dương đã phái nhiều tay chân rải ra khắc Quảng Đông, Hồng Kông, Thượng Hải, v.v... 
 {: .text-justify}
 
 Tuy nhiên bọn nó đề phòng càng chặt, thì bên này cũng ra công phu ứng phó. Cây dùi của Trương Tử Phòng, tiếng súng của An Trọng Căn đã muốn làm, dù có ngăn ngừa thì cũng không ngăn được.
 {: .text-justify}
 
-Thương tuần tháng 5, năm Giáp Tý (1924), Merlin từ Nhật Bản về lại Hồng Kong, toan qua Quảng Đông để can thiệp vào việc Chính quyền tàng trữ đảng ta. Chiếc tàu của Merlin là tàu binh của Pháp, vậy nên giờ nào đi, giờ nào đến người ngoài không thể dò biết được. Thế mà cuối cùng bên ta cũng có được thông tin về hành trình này của Merlin và nó đến được tai của Phạm Hồng Thái.
+Thương tuần tháng 5, năm Giáp Tý (1924), Merlin từ Nhật Bản về lại Hồng Kông, toan qua Quảng Đông để can thiệp vào việc Chính quyền tàng trữ đảng ta. Chiếc tàu của Merlin là tàu binh của Pháp, vậy nên giờ nào đi, giờ nào đến người ngoài không thể dò biết được. Thế mà cuối cùng bên ta cũng có được thông tin về hành trình này của Merlin và nó đến được tai của Phạm Hồng Thái.
 {: .text-justify}
 
 Phạm Hồng Thái lúc đầu xuất xuất dương đã ngầm mang chí lớn. Tự thề làm An Trọng Căn nước Việt. Ngày tháng 3, ở Quảng Đông đã nghe được Merlin sắp đi tới nơi, lưỡi gươm ở trong vỏ đã thực sự muốn rút ra. Phạm quân lúc này cùng với người bạn kín là Lê Tán Anh cùng nhau tính việc hành thích. Một mặt thì lo bịt tai mắt bọn trinh thám, một mặt thì tranh thủ nhằm rình chụp thời cơ.
