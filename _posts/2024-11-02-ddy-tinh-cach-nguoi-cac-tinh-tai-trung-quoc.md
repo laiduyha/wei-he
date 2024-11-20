@@ -585,10 +585,16 @@ Là tỉnh có nhiều tiếng địa phương như tiếng Phúc Châu, tiếng
 {: .text-justify}
 
 ## Người Đài Loan（台灣）
-Người Đài Loan hiện nay chủ yếu là do người dân đã ở đó từ trước, di dân nam Phúc Kiến thời kỳ đầu và di dân đại lục khi Quốc Dân đảng chạy ra đó tổ thành. Đài Loan là văn hoá đảo nhỏ là một nên văn hoá á Trung Quốc phụ thuộc Trung Quốc. Người Nhật thống trị Đài Loan 50 năm, người Đài Loan bị coi là công dânhạng hai, quan văn làm không đến trưởng khoa (khoa một đơn vị hành chính dưới cấp phòng) quan võ không đến cấp tá. Nghe nói người Đài Loan hiện nay ít có cảm giác đồng thuận với người Trung Quốc đại lục phần lớn chỉ cho mình là người Đài Loan, đồng thời đã bị Tây hoá nặng nề
+Người Đài Loan hiện nay chủ yếu là do người dân đã ở đó từ trước, di dân nam Phúc Kiến thời kỳ đầu và di dân đại lục khi Quốc Dân đảng chạy ra đó tổ thành. Đài Loan là một đảo nhỏ, có một nền văn hoá nửa Trung Quốc và chịu ảnh hưởng nhiều từ Trung Quốc.
 {: .text-justify}
 
-Thế nhưng người Đài Loan đến đại lục kinh doanh khong thích bàn chuyện chính trị. Người Đài Loan vô cùng mê tín, rất thích bao “nàng hai”. Tuy vậy họ sống có qui củ, có thứ tự trên dưới già trẻ, trọng nam khinh nữ.
+Người Nhật thống trị Đài Loan 50 năm, người Đài Loan bị coi là công dân hạng hai, quan văn làm không đến trưởng khoa (khoa một đơn vị hành chính dưới cấp phòng), quan võ không đến cấp tá.
+{: .text-justify}
+
+Nghe nói người Đài Loan hiện nay ít có cảm giác đồng thuận với người Trung Quốc đại lục, Phần lớn chỉ cho mình là người Đài Loan, đồng thời đã bị Tây hoá nặng nề. Thế nhưng người Đài Loan đến đại lục kinh doanh khong thích bàn chuyện chính trị.
+{: .text-justify}
+
+Người Đài Loan vô cùng mê tín, rất thích bao “nàng hai”. Tuy vậy họ sống có qui củ, có thứ tự trên dưới già trẻ, trọng nam khinh nữ.
 {: .text-justify}
 
 Người Đài Loan trên đảo có cảm giác quần thể rất mạnh, nhưng các phe phái đấu tranh rất dữ. Tuy vậy tính cách nhu nhược. Mafia Đài Loan thích dùng vũ khí tất nhiên là vũ sĩ đao. Tuy vậy mafia không được coi là chính đạo ở đây.
