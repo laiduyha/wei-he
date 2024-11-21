@@ -13,11 +13,9 @@ toc_icon: map
 toc_sticky: true
 ---
 
-**Lời tựa**\
- \
 Đây là nhận định của Dương Danh Hy vào những năm đầu thế kỷ 20 (2000-2020) khi Trung Quốc bắt đầu mở cửa và phát triển vượt bậc .\
  \
-Lưu ý là câu chữ sẽ có đôi chỗ phân biệt vùng miền giới tính, nhưng là người cầu học thì cậu hãy cứ coi đây là nhận định chung, bỏ qua cái tiểu tiết để có cái tổng quát vậy.
+Lưu ý là câu chữ sẽ có đôi chỗ phân biệt vùng miền giới tính, nhưng là người cầu học thì cậu hãy cứ coi đây là nhận định chung, bỏ qua cái tiểu tiết để có cái nhìn tổng quát vậy.
 {: .notice--warning .text-justify}
 
 ![alt]({{ 'assets/images/ban-do-hanh-chinh-trung-quoc.png' | absolute_url }})
