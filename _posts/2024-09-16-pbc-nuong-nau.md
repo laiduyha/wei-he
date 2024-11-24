@@ -1,6 +1,6 @@
 ---
 title: Kỳ 10 - Nương náu
-permalink: /pbc-nương-náu
+permalink: /pbc-nuong-nau
 layout: single
 classes: wide
 parent:

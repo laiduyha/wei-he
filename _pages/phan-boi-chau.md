@@ -76,7 +76,7 @@ Phan Bội Châu viết *"Ngục Trung Thư"* lúc ở trong tù tại Quảng C
 * 1908 (41 tuổi) - Pháp Nhật câu kết, bị trục xuất khỏi Nhật
 * 1910 (43 tuổi) - Tìm đường chuyển vũ khí từ Trung Quốc về nước nhưng thất bại
 
-### <a href="/pbc-bi-nguoi-phap-dan-ap">Kỳ 10. Nương náu</a>
+### <a href="/pbc-nuong-nau">Kỳ 10. Nương náu</a>
 * 1911 (44 tuổi) - Qua Thái nương náu
 
 ### <a href="/pbc-viet-nam-quang-phuc-hoi">Kỳ 11. Lập *"Việt Nam Quang Phục Hội"* </a>

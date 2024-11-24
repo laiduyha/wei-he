@@ -32,7 +32,7 @@ Trận đánh đầu tiên của Thế chiến I - Trận Liege (08-1914)
 </cite>
 
 ## Tin buồn ở trong ngục
-Sở dĩ lúc đầu Long Tế Quan bắt tôi vì nghi ngờ chúng tôi có quan hệ với Trần Quýnh Minh (tỉnh trưởng trước đó của Quảng Đông). Nhà Chu Sư Thái cũng bị khám xét, nhưng may là chỉ thấy được những chứng cứ của Đảng cách mạng Việt Nam, chứ không có một tý gì quan hệ với Trần Quýnh Minh. Long còn bắt người con là Chu Thiết Sinh giam cầm 15 ngày tra đi hỏi lại, nhưng cũng không thấy liên hệ nên mới không nghi ngờ nữa.
+Sở dĩ lúc đầu Long Tế Quang bắt tôi vì nghi ngờ chúng tôi có quan hệ với Trần Quýnh Minh (tỉnh trưởng trước đó của Quảng Đông). Nhà Chu Sư Thái cũng bị khám xét, nhưng may là chỉ thấy được những chứng cứ của Đảng cách mạng Việt Nam, chứ không có một tý gì quan hệ với Trần Quýnh Minh. Long còn bắt người con là Chu Thiết Sinh giam cầm 15 ngày tra đi hỏi lại, nhưng cũng không thấy liên hệ nên mới không nghi ngờ nữa.
 {: .text-justify}
 
 Nhưng Long vẫn coi chúng tôi là món hàng ngon để đem đi buôn chác với người Pháp. Long giam chúng tôi ở Sở Lục Quân để kỳ kèo nhằm xin mượn đường xe lửa lên Vân Nam để đánh Đường Kế Nghiêu. Thật không ngờ có một ngày tính mạng tôi lại chẳng khác gì một món hàng để trao đổi!
@@ -44,7 +44,7 @@ May nhờ trời thương, lúc bất giờ Tổng lý ở Bắc Kinh là Đàm 
 Long bất đắc dĩ mới giam tôi ở Quan Âm Sơn. Cấm tuyệt người nước ta không ai được đi lại thăm hỏi, và cũng không cho tôi gặp người ngoài. Thế nhưng với lãnh sự Pháp thì nói là đã chém tôi rồi. Vì Long vừa muốn mua chuộc người Pháp mà lại sợ trái mệnh lệnh Bắc Kinh, nên chỉ một mình tôi là vừa có cả tin sống và chết lẫn lộn. Còn cụ Mai Lão Bạng thì giam riêng ở dinh cảnh sát.
 {: .text-justify}
 
-Trong suốt 4 năm trong tù, tôi tuyệt không thấy mặt một người nước ta, mà ngay cả tiếng Việt cũng không bao giờ nghe được. May ở trong lúc giam ngục làm bạn được một cậu nấu bếp cho phạm nhân là Lưu Á Tam, người Quảng Đông. Tôi cũng xưng là người Quảng Đông nên cả hai rất thân thiết. Mỗi ngày tôi đều nhờ Á Tam đi qua quán Chu Thị một lần, do đó tin tức bên ngoài vẫn thường vào được trong ngục.
+Trong suốt 4 năm trong tù, tôi tuyệt không thấy mặt một người nước ta, mà ngay cả tiếng Việt một câu cũng không được nghe. May ở trong ngục làm bạn được một cậu nấu bếp cho phạm nhân là Lưu Á Tam, người Quảng Đông. Tôi cũng xưng là người Quảng Đông nên cả hai rất thân thiết. Mỗi ngày tôi đều nhờ Á Tam đi qua quán Chu Thị một lần, do đó tin tức bên ngoài vẫn lọt vào được trong ngục.
 {: .text-justify}
 
 Sinh hoạt trong lao khổ nhất là không có rượu uống. Một năm bảy tháng họa may được một bầu rượu thì cho là sung sướng tuyệt vời. Đến như đồ nhắm rượu thì chỉ có văn tự ở trong bụng nhả ra là rất ngon rồi!
@@ -53,10 +53,10 @@ Sinh hoạt trong lao khổ nhất là không có rượu uống. Một năm b�
 Năm Giáp Dần (1914) đầu tháng 7, tôi vào nhà giam được 8 tháng，trong suốt thời gian đó Á Tam thường mua báo cho tôi xem rồi tôi đọc lại cho nghe. Một ngày kia, trong lúc đọc Quốc Dân Nhật Báo, thấy một hàng chữ to **Âu Châu Chiến Vận Khi Hỷ**, tôi xem đoạn này xong, tưởng ngỡ cách mạng trong nước sẽ tận dụng được thời cơ, để người trong ngục như tôi được vỗ tay hoan hỉ. Nào có biết từ đó về sau thì những tin xấu, tin buồn trùng trùng điệp điệp kéo tới!
 {: .text-justify}
 
-Than ôi! Trong 4 năm này, vô số trai gái ở trong nước, lòng son máu nóng, vì nước vì nòi mà phải vứt cả đầu cằm, còn tôi lại may mắn sống sót. Ôi! Trời quá thương chăng!
+Than ôi! Trong 4 năm này, vô số trai gái ở trong nước lòng son máu nóng, vì nước vì nòi mà hy sinh quên mình, còn tôi lại may mắn sống sót. Ôi! Trời quá thương chăng!
 {: .text-justify}
 
-Bây giờ đem những hung tin nghe được trong ngục biên lược ra:
+Bây giờ đem những hung tin nghe được trong ngục biên lược ra thấy quả là nhiều:
 {: .text-justify}
 
 1. Ông Lương Lập Nham bị bắt ở Hồng Kông.
@@ -65,8 +65,8 @@ Bây giờ đem những hung tin nghe được trong ngục biên lược ra:
 4. Ông Hoàng Trọng Mậu bị bắt ở Hồng Kông.
 5. Ông Đậu Cơ Quang thất bại ở Vân Nam.
 6. Ông Đậu Cơ Quang tuận nghĩa ở Hà Nội.
-7. Ông Lâm Đức Mậu và ông Giáo Trung, bị bắt ở Thái Lan.
-8. Ông Lâm Đức Mậu và ông Giáo Trung đồng một ngày tuận nghĩa ở Hà Nội.
+7. Ông Lâm Đức Mậu, ông Giáo Trung bị bắt ở Thái Lan.
+8. Ông Lâm Đức Mậu, ông Giáo Trung đồng một ngày tuận nghĩa ở Hà Nội.
 9. Ông Nguyễn Trọng Thường về nước bị bắt.
 10. Ông Hoàng Trọng Mậu, ông Trần Hữu Lức tuận nghĩa ở Hà Nội.
 11. Vua Duy Tân cách mạng thất bại.
@@ -77,19 +77,22 @@ Than ôi! Thảm thay! Hơn ba năm sống gửi nhà lao, mà những tin tức
 {: .text-justify}
 
 ## Lãnh Sự Đức-Áo hỏi thăm Đảng cách mạng Việt Nam
-Tháng 9, năm Ất Mão (1915), tôi đang rầu rĩ trong ngục, bỗng chốc Á Tam đưa cho tôi một bức thư kín. Mở ra xem, mới hay ông Đặng Tử Kính ở Thái Lan qua Quảng Đông, biên thư gửi tôi.
+Tháng 9, năm Ất Mão (1915), tôi đang rầu rĩ trong ngục, bỗng Á Tam đưa cho tôi một bức thư kín. Mở ra xem mới hay ông Đặng Tử Kính ở Thái Lan qua Quảng Đông biên thư gửi tôi.
 {: .text-justify}
 
-Hai Công Sứ Đức-Áo trú ở Thái Lan có thăm hỏi Đảng cách mạng Việt Nam, có gặp qua ông Thân Vương là người giúp ta có ruộng cày bên Thái. Ông Thân Vương giới thiệu ông Đặng với hai người ấy. Ông Đặng tới yết kiến thì hai ông bảo rất vui lòng giúp chúng tôi nhưng cần phải gặp lãnh tụ Đảng. Nhân người Thái vẫn quen biết tôi và Kỳ Ngoại Hầu mà Công Sứ kia cũng đã nghe tiếng sẵn, nên bảo ông Đặng qua Quảng Đông tìm chúng tôi. Nhưng lúc đó Kỳ Ngoại Hầu còn ở Châu Âu, mà tôi thì đang còn trong ngục. Ông Đặng không biết làm thế nào nên gửi thư hỏi qua ý kiến của tôi.
+Hai Công Sứ Đức-Áo trú ở Thái Lan có thăm hỏi Đảng cách mạng Việt Nam, có gặp qua ông Thân Vương là người giúp ta có ruộng cày bên Thái. Ông Thân Vương giới thiệu ông Đặng với hai người ấy. Ông Đặng tới yết kiến thì hai ông bảo rất vui lòng giúp chúng tôi nhưng cần phải gặp lãnh tụ Đảng.
+{: .text-justify}
+
+Nhân người Thái vẫn quen biết tôi và Kỳ Ngoại Hầu mà Công Sứ kia cũng đã nghe tiếng sẵn, nên bảo ông Đặng qua Quảng Đông tìm chúng tôi. Nhưng lúc đó Kỳ Ngoại Hầu còn ở Châu Âu, mà tôi thì đang còn trong ngục. Ông Đặng không biết làm thế nào nên gửi thư hỏi qua ý kiến của tôi.
 {: .text-justify}
 
 Tôi nghĩ cụ Mai Sơn (Nguyễn Thượng Hiền) tiên sinh mới từ Bắc Kinh về lại Quảng Đông, nên nhờ cụ qua Thái thay mặt cho Đảng. Cụ Mai Sơn từ trước tới giờ chưa đi vào đất Thái, nên tôi lại viết thư cho ông Đặng, giới thiệu cụ Mai Sơn cho ông Thân Vương đồng thời nhờ Thân Vương giới thiệu với hai Công Sứ. 
 {: .text-justify}
 
-Cụ Mai Sơn đến Thái Lan, đi đến cửa Công Sứ nước Đức thì đã có người chờ sẵn ở cửa. Vừa đưa danh thiếp vào tức khắc hai Công Sứ ra tận cửa, bắt tay hai người mình, rồi dắt nhau đi tản bộ. Đến một chỗ kia không thấy có bóng người, Công Sứ nước Đức lấy ra 1 vạn bạc tiền Thái trao cho hai cụ bảo:
+Cụ Mai Sơn đến Thái Lan, đi đến cửa Công Sứ nước Đức thì đã có người chờ sẵn ở cửa. Vừa đưa danh thiếp vào tức khắc hai Công Sứ ra tận cửa, bắt tay hai người mình, rồi dắt nhau đi tản bộ. Đến chỗ không có bóng người, Công Sứ nước Đức lấy ra 1 vạn bạc tiền Thái trao cho hai cụ bảo:
 {: .text-justify}
 
-Chính thức giúp cho các ngài, nay chưa phải là thời cơ đã đến. Một vạn đồng bạc này, gọi là thay một cốc cafe, làm một việc môi giới với người quý quốc vậy. Nếu ở trong nước, các ngài làm sao cho phát sinh ra một việc ảnh hưởng lớn, đến tận tai Chính phủ hai nước chúng tôi, tất nhiên hai nước chúng tôi sẽ tiếp tục giúp cho.\
+Chính thức giúp cho các ngài nay chưa phải là thời cơ. Một vạn đồng bạc này gọi là thay một cốc cafe, kết giao với người quý quốc vậy. Nếu ở trong nước, các ngài làm sao cho phát sinh ra một việc ảnh hưởng lớn, đến tận tai Chính phủ hai nước chúng tôi, tất nhiên hai nước chúng tôi sẽ tiếp tục giúp cho.\
  \
 Nếu việc không thành thì cũng coi như là giúp đỡ vậy. Nay số tiền chút đỉnh này là xuất tự ý của hai người chúng tôi, còn chưa phải là ý của Chính phủ hai nước chúng tôi đâu.
 {: .notice .text-justify}
@@ -103,8 +106,8 @@ Thân mật mà hàm ý tinh tế như thế, trọng việc nước mà kết n
 Một vạn đồng bạc từ Thái đến Quảng Đông, anh em đồng chí ta ở đây chia làm ba phần:
 {: .text-justify}
 
-- Một phần thì cụ Tán Nguyễn nhận về Đồng Hưng, toan đánh lén về Măng Cay.
-- Một phần thì cụ Mai Sơn nhận lấy về Long Châu, toan đánh ngả Lạng Sơn.
+- Một phần thì cụ Tán Nguyễn nhận về Đông Hưng, toan đánh lén về Măng Cay.
+- Một phần thì cụ Mai Sơn nhận để về Long Châu, toan đánh ngả Lạng Sơn.
 - Một phần thì cấp cho Hoàng Trọng Mậu, toan đánh đường Hà Khẩu - Vân Nam.
 {: .text-justify}
 
@@ -115,16 +118,16 @@ Số bạc này tính ra chỉ có 8000$ mà công dụng chia ra nhiều ngả 
 {: .text-justify}
 
 ## Thế chiến thứ I - Kết minh với người Đức
-Tháng 3, Năm Đinh Tỵ (1917), Long Tế Quang thua phải bỏ Quảng Đông chạy về Quỳnh Châu. Lúc này Long mới tha tôi, cấp cho 200$. Tháng tư năm ấy tôi quay lại nhà Chu Thị thì Chu Sư Thái nói với tôi rằng:
+Tháng 3, năm Đinh Tỵ (1917), Long Tế Quang thua phải bỏ Quảng Đông chạy về Quỳnh Châu. Lúc này Long mới tha tôi, cấp cho 200$. Tháng tư năm ấy, tôi quay lại nhà Chu Thị thì Chu Sư Thái nói với tôi rằng:
 {: .text-justify}
 
 Gần vài tháng nay trinh thám Pháp không ngày nào không đến nhà ta.
 {: .notice .text-justify}
 
-Bởi vì Long thua bỏ Quảng Đông, người Pháp chắc biết tôi cũng thoát ngục nên rình bắt gắt lắm. Tôi nghỉ lại Quảng Đông một ngày liền chạy về Thượng Hải. Nhưng Thượng Hải là tô giới của Anh, Pháp, người làm cho Pháp đông quá, nên tôi cũng không dám ở Thượng Hải. Nghe Mai Sơn tiên sinh đang ở Hàng Châu, tôi liền qua Hàng Châu ngay.
+Bởi vì Long thua bỏ Quảng Đông, người Pháp chắc biết tôi cũng thoát ngục nên rình bắt gắt lắm. Tôi nghỉ lại Quảng Đông một ngày liền chạy về Thượng Hải. Nhưng Thượng Hải là tô giới của Anh, Pháp, bọn gián điệp Pháp đông quá, nên tôi cũng không dám ở Thượng Hải. Nghe Mai Sơn tiên sinh đang ở Hàng Châu, tôi liền qua Hàng Châu ngay.
 {: .text-justify}
 
-Vừa lúc đó Lê Dư ở trong nước ra, đang ở Nhật Bản cùng với Kỳ Ngoại Hầu. Lê viết giấy mời tôi qua, bảo rằng có sẵn 2000$ hễ đến Nhật Bản thì trao lại ngay. Tuy nhiên trong lòng tôi lúc này còn một mối bận tâm khác. Châu Âu đại chiến đã 3 năm mà chưa kết thúc, mà tin tức phần nhiều đang nghiêng về phía Đức. 9 huyện ở phía Bắc nước Pháp cả thảy đều rơi vào tay người Đức v.v... Những tin như thế làm tôi càng thêm nóng nảy, bồn chồn mà về nước.
+Vừa lúc đó Lê Dư ở trong nước ra, đang ở Nhật Bản cùng với Kỳ Ngoại Hầu. Lê viết giấy mời tôi qua, bảo rằng có sẵn 2000$ hễ đến Nhật Bản thì trao lại ngay. Tuy nhiên trong lòng tôi lúc này còn một mối bận tâm khác. Châu Âu đại chiến đã 3 năm mà chưa kết thúc, mà tin tức phần nhiều đang nghiêng về phía Đức. 9 huyện ở phía Bắc nước Pháp cả thảy đều rơi vào tay người Đức v.v... Những tin như thế làm tôi càng thêm nóng nảy, bồn chồn muốn về nước.
 {: .text-justify}
 
 Nhưng các lối Quảng Đông, Quảng Tây đã chông gai đen nghịt. Chỉ duy có lối từ đường Vân Nam về nước ta đang còn có thể đi được, vả lại ở Vân Nam tôi cũng có nhiều bạn quen cũ. Vì thế tôi nóng lòng muốn đi Vân Nam. Nhưng tính các tổn phí thì ít nhất cũng 1000$ nên khi nghe đến món tiền của Lê Dư nói tôi cũng muốn qua lấy.
@@ -133,7 +136,7 @@ Nhưng các lối Quảng Đông, Quảng Tây đã chông gai đen nghịt. Ch�
 Không lâu sau lại tiếp được bức thư của ông Trần Hữu Công nói rằng:
 {: .text-justify}
 
-Kế hoạch của Bộ Tham Mưu Nhật Bản tuyên chiến với Đức không phải là chân tướng của nó đâu. Chẳng qua đây là cách xỏ lá của họ, chỉ là trây máu ăn phần: toan chờ lúc hai bên cùng kiệt thì Nhật nó mới ra tay đâm một lúc được hai cọp.\
+Kế hoạch của Bộ Tham Mưu Nhật Bản tuyên chiến với Đức không phải là chân tướng của nó đâu. Chẳng qua đây là cách xỏ lá của họ, chỉ là dây máu ăn phần: toan chờ lúc hai bên cùng kiệt thì Nhật nó mới ra tay đâm một lúc được hai cọp.\
  \
 Hiện có được tin trọng yếu rằng Nhật-Đức có ý muốn kết điều ước đặc biệt. Nếu kế hoạch này thực hiện thì cục diện ngoại giao lại biến hóa lần nữa.
 {: .notice .text-justify}
