@@ -100,7 +100,7 @@ Nếu việc không thành thì cũng coi như là giúp đỡ vậy. Nay số t
 Xem việc này tuy nhỏ, những cũng đủ thấy được tinh thần người Đức lúc hành sự, không chuộng hư văn, không đánh trống khua chiêng. Lúc đầu tự tìm kiếm lấy Đảng ta, sau lại vứt vạn bạc như không. Khi trao bạc thì ở vào chốn không người, lại yêu cầu mình làm cho có ảnh hưởng thì mới tin và hẹn trước cho vài trăm vạn để mình có hy vọng.
 {: .text-justify}
 
-Thân mật mà hàm ý tinh tế như thế, trọng việc nước mà kết người ngoài, không để ra một tí sơ hở. So với cách hành sự của người nước ta, được như thế có bao nhiêu người? Nghĩ mà buồn tuyệt!
+Thân mật mà hàm ý tinh tế như thế, trọng việc nước mà kết người ngoài, không để ra một tí sơ hở. So với cách hành sự của người nước ta, được như thế có bao nhiêu người? Nghĩ mà chạnh lòng!
 {: .text-justify}
 
 Một vạn đồng bạc từ Thái đến Quảng Đông, anh em đồng chí ta ở đây chia làm ba phần:

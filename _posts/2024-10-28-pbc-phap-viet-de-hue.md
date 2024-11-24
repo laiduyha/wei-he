@@ -8,11 +8,11 @@ parent:
   url: phan-boi-chau
 ---
 
-Lúc đầu tôi vẫn không tin lời Lê lắm, nhưng lại nghĩ nếu thật như lời họ nói thì việc mình viết bản luận này mà tương kế tựu kế chắc là cũng có chỗ hay. Tôi mới mưu cùng bàn việc với Bá Ngọc. Bá Ngọc lúc đó là người cộng sự nhiều năm với tôi, từng cùng nhau vào sinh ra tử không ít lần, kể ra thật không ai hơn Phan Bá Ngọc nữa. Phan lúc này mới nói với tôi rằng:\
+Lúc đầu tôi vẫn không tin lời Lê lắm, nhưng lại nghĩ nếu thật như lời họ nói thì việc mình viết bản luận này mà tương kế tựu kế chắc là cũng có chỗ hay. Tôi mới mưu cùng bàn việc với Bá Ngọc. Bá Ngọc lúc đó là người cộng sự nhiều năm với tôi, từng cùng nhau vào sinh ra tử không ít lần, kể ra thật không ai hơn Phan Bá Ngọc. Phan lúc này mới nói với tôi rằng:\
  \
 "Muốn việc thành đại sự phải có âm mưu. Nay tiên sinh chỉ nên làm một bài lý luận chuyên nói về chuyện Pháp-Việt đề huề, hai bên đều có ích cả.\
  \
-Người Pháp được thư ấy, tất bớt nghi ngờ Đảng ta. Ta cũng nhân đó đưa người vào trong dò xét được tình trạng người Pháp. Mà mật tình của người trong nước cũng có thể thông được với người ngoài."\
+Người Pháp được thư ấy, tất bớt nghi ngờ Đảng ta. Ta cũng nhân đó đưa người vào trong dò xét được tình trạng người Pháp. Mà mật tình trong nước cũng có thể thông được với bên ngoài."\
  \
 Theo như lời ông Lê nói cũng là đắc sách lắm. Tôi tin lời hai người làm một bài văn đề rằng *"Pháp-Việt đề huề luận"*, dưới đề *"Độc Tinh Tử soạn"*, cuối bài có viết 5 chữ *"Phan Bá Ngọc phụng thơ"*. Đoạn Lê cầm bài văn ấy về nước. Bốn năm tháng sau, người con yêu của cụ Phan Đình Phùng quả thật quay ra làm tôi trung cho Pháp!
 {: .notice--info .text-justify}
