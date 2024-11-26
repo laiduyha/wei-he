@@ -305,7 +305,7 @@ Thực ra nếu nhìn từ góc độ khác sẽ thấy nam giới Thượng H�
 Cho nên có không ít nhà ngân hàng, thương nhân và học giả người thi nhân, nhưng khó có võ tướng và hiệp khách. Thương nhân Thượng Hải đều là người tinh thông nghề nghiệp, vừa thông thạo hàng hoá, vừa giỏi lý luận.
 {: .text-justify}
 
-Người Thượng Hải kiếm tiền không giỏi, nhưng có tư cách, sinh hoạt nghiêm túc, biết giữ chữ tín, tông trọng luật pháp. Chất lượng sản phẩm Thượng Hải đứng đầu cả nước. Người Thượng Hải không tranh giành với người, thích hợp với việc kết bạn nhưng trước tiên phải làm cho họ nể mình.
+Người Thượng Hải kiếm tiền không giỏi, nhưng có tư cách, sinh hoạt nghiêm túc, biết giữ chữ tín, tôn trọng luật pháp. Chất lượng sản phẩm Thượng Hải đứng đầu cả nước. Người Thượng Hải không tranh giành với người, thích hợp với việc kết bạn nhưng trước tiên phải làm cho họ nể mình.
 {: .text-justify}
 
 ## Người An Huy（安徽省）
