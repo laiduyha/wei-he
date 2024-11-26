@@ -497,7 +497,7 @@ Quảng Tây có rất nhiều nơi du ngoạn đẹp, nhưng không biết kinh
 Người Quảng Đông là nhóm người phức tạp nhất Trung Quốc, thân thể nói chung nhỏ, lùn, trán rô, mắt nhỏ mà sâu, mũi hơi rộng, môi dày. Có 3 ngôn ngữ chính: tiếng Phổ Thông, tiếng Triều Châu, tiếng Khách Gia.
 {: .text-justify}
 
-Trong lịch sử Quảng Đông là một vùng pha tạp của Bách Việt, vùng ven biển còn có người Đông Nam Á đến ở, gọi là người Quảng Phủ, gồn cả người Hồng Kông, Ma Cao; người vùng Triều, Sán cũng có ngôn ngữ và phong tục độc đáo. Hai loại người này thuộc người ở đất Quảng Đông. Xem xét từ mặt sinh vật thấy nguồn gốc dân tộc không giống người phương Bắc.
+Trong lịch sử Quảng Đông là một vùng pha tạp của Bách Việt, vùng ven biển còn có người Đông Nam Á đến ở, gọi là người Quảng Phủ, gồm cả người Hồng Kông, Ma Cao; người vùng Triều, Sán cũng có ngôn ngữ và phong tục độc đáo. Hai loại người này thuộc người ở đất Quảng Đông. Xem xét từ mặt sinh vật thấy nguồn gốc dân tộc không giống người phương Bắc.
 {: .text-justify}
 
 Sau *“Ngũ Hồ loạn Hoa”* người Hán vùng Trung Nguyên (chủ yếu là ở Hà Nam) di cư một lượng lớn về phía Nam, tập trung sinh sống tại vùng Mai Châu, Hà Nguyên, và một phần vùng Kiết Dương, Sán Vỹ, nói tiếng Khách Gia. Bộ phận người Hán này phải được coi là người Hán “thuần chủng” về huyết thống nhất (người phương Bắc luôn luôn ở vào vị thế dân tộc hoà nhập). Có khoảng hơn 10 triệu người.
@@ -509,10 +509,10 @@ Tôn Trung Sơn, Lý Gia Thành cũng đều là người Khách Gia. Quảng Đ
 Do người Quảng Đông bị ma quỉ hoá tuyên truyền nên tại Mỹ và Canada có có phong trào *“bài Hoa”* kéo dài nửa thế kỷ. Quảng Đông là nơi bắt nguồn cách mạng dân chủ cận đại, là giao điểm của văn minh Đông-Tây là lô cốt đầu cầu và người lính đứng đầu của cải cách mở cửa.
 {: .text-justify}
 
-Người Quảng Đông là nhóm người hải dương, tràn đấy khí huyết và sức sống, đầu óc linh hoạt, giàu tính mạo hiểm, tính sáng tạo, dám đi trước thiên hạ. Người Quảng Đông không thích thú lý luận rỗng tuếch, và cũng chẳng để ý bàn bạc triết lý và cũng không hứng thú với chính trị. Người người đều vào ra bận rộn vì tiền, suốt ngày hết đông lại tây.
+Người Quảng Đông là nhóm người hải dương, tràn đấy khí huyết và sức sống, đầu óc linh hoạt, giàu tính mạo hiểm, tính sáng tạo, dám đi trước thiên hạ. Người Quảng Đông không thích lý luận rỗng tuếch, chẳng để ý bàn bạc triết lý và cũng không hứng thú với chính trị. Người người đều vào ra bận rộn vì tiền, suốt ngày hết chạy đông lại chạy tây.
 {: .text-justify}
 
-Người phương Bắc suy nghĩ trước, hành động sau, còn người Quảng Đông lại hành động truớc rồi mới suy nghĩ sau, coi trọng hiệu quả và giá trị, không coi trọng hình thức và thể hiện bề ngoài.
+Người phương Bắc suy nghĩ trước, hành động sau, còn người Quảng Đông lại hành động truớc rồi mới suy nghĩ sau; coi trọng hiệu quả và giá trị, không coi trọng hình thức và thể hiện bề ngoài.
 {: .text-justify}
 
 Hiện nay Quảng Đông đã trở thành vùng kinh tế phát triển nhất Trung Quốc. Phụ nữ Quảng Đông rất hiền hậu, giỏi việc bếp núc. Thế nhưng hình tượng nhân văn của Quảng Đông lại là hộ phất điển hình.
@@ -521,10 +521,10 @@ Hiện nay Quảng Đông đã trở thành vùng kinh tế phát triển nhất
 Lạnh nhạt, bài ngoại, tự đại. Quảng Châu là thế giới phồn hoa, là thành phố lãnh đạm nhất thế giới, nếu như chỉ hỏi đường với một người Quảng Đông mà lại nói tiếng tỉnh ngoài thì rất ít khi được trả lời. Láng giềng với nhau mà cũng cửa đóng then cài, chẳng ai để ý tới ai, thêm một việc chẳng bằng bớt đi một việc. Ở Quảng Châu muốn tìm một người sẵn sàng làm việc nghĩa còn khó hơn lên trời.
 {: .text-justify}
 
-Người Quảng Đông bài ngoại từ lâu, đã từng gọi những người ngoài Quảng Đông là *“thằng vơ vét”*, gọi phụ nữ là *“em gái xứ Bắc”*, gọi người phương Tây là *“quỉ”*... Thậm chí ngay người Triều Sán ngay trong tỉnh cũng bị gọi là *“thằng lạnh nhạt”*. Nhiều người Quảng Đông tri thức địa lý nghèo nàn, thường tự cho mình là trung tâm, ngoài Quảng Đông ra đều là phương Bắc cả.
+Người Quảng Đông bài ngoại từ lâu, đã từng gọi những người ngoại tỉnh là *“thằng vơ vét”*, gọi phụ nữ là *“em gái xứ Bắc”*, gọi người phương Tây là *“quỉ”*... Thậm chí ngay người Triều Sán ngay trong tỉnh cũng bị gọi là *“thằng lạnh nhạt”*. Nhiều người Quảng Đông tri thức địa lý nghèo nàn, thường tự cho mình là trung tâm, ngoài Quảng Đông ra đều là phương Bắc cả.
 {: .text-justify}
 
-Người Quảng Đông không có văn hoá. Có văn hoá trà, văn hoá rượu, văn hoá ăn thịt rắn, văn hoá uống canh, nhưng không tiếp nhận quốc tuý, chỉ sung bái văn hoá Hồng Kông, Đài Loan. người Quảng Đông về cơ bản không xem truyền hình Trung Ương, giữa kinh tế và văn hoá không bao giờ có sự cùng tiến, hầu như là sa mạc văn hoá. 500 doanh nghiệp lớn nhất nước, 500 doanh nghiệp lớn nhất thế giới chẳng có mấy đơn vị chịu đặt tổng bộ tại Quảng Đông
+Người Quảng Đông không có văn hoá. Có văn hoá trà, văn hoá rượu, văn hoá ăn thịt rắn, văn hoá uống canh, nhưng không tiếp nhận quốc tuý, chỉ sung bái văn hoá Hồng Kông, Đài Loan. Người Quảng Đông về cơ bản không xem truyền hình Trung Ương, giữa kinh tế và văn hoá không bao giờ có sự cùng tiến, hầu như là sa mạc văn hoá. 500 doanh nghiệp lớn nhất nước, 500 doanh nghiệp lớn nhất thế giới chẳng có mấy đơn vị chịu đặt tổng bộ tại Quảng Đông
 {: .text-justify}
 
 Người Quảng Đông không có tố chất. Mặc dù chưa ăn xong là họ đã sách túi chạy đi, rất vụ thực. Chẳng mềm tay trước mọi thứ của người khác. Tiêu thụ đũa ăn, hộp cơm dùng một lần nhiều nhất toàn quốc. Bất kể là nam hay nữ, ban ngày đều mặc quần áo ngủ đi dạo phố, vào siêu thị như chỗ không người.
@@ -533,7 +533,7 @@ Người Quảng Đông không có tố chất. Mặc dù chưa ăn xong là h�
 Người Quảng Đông không quan tâm việc lớn quốc gia, không quan tâm tới sự phát triển của thế giới. Vinh nhục của đất nước chẳng hề bận lòng chỉ theo lối sống nhỏ bé của mình, chỉ quan tâm tới giá nhà ở và cổ phiếu của mình.
 {: .text-justify}
 
-Nghiện đánh bạc thành tính, nổi tiếng thế giới. Loại sổ xố nào cũng chơi, hễ phát hành là bán hết.
+Nghiện đánh bạc thành tính, nổi tiếng thế giới. Loại xổ số nào cũng chơi, hễ phát hành là bán hết.
 {: .text-justify}
 
 Người Quảng Đông rất mê tín, thích đi lễ tại đền chùa, mỗi năm mấy lần. Bàn thờ trong nhà ngày lễ ngày tết không bao giờ để tắt khói hương. Bảng số ô tô, số nhà, số điện thoại, ngày kết hôn, ngày mở cửa hàng đều chọn số 6 và số 8. Còn đến mức mổ bụng mẹ để sinh con đứng ngày đã chọn.
@@ -560,13 +560,13 @@ Người Quảng Đông rất kiêu ngạo trong buôn bán. Làm ăn, qua lại
 Sách giả, thuốc lá giả, đĩa giả, tiền giả... do người Quảng Đông chế tạo lan tràn khắp nước. Cho thêm nước vào bình gaz, cho thêm thuốc nhuộm màu độc hại vào thực phẩm, biến cồn công nghiệp thành rượu nổi tiếng, lại còn thuốc giả, máy móc nhái thương hiệu nuớc ngoài.
 {: .text-justify}
 
-Quảng Châu, Đông Quán, Thâm Quyến là những thành phố không có cảm giác an toàn nhất, Thành phố Đông Quán vừa bẩn vừa loạn, cũng có sông đào nhưng mùi thối thấu trời. Đáng sợ nhất là ban ngày mà trộm cướp vẫn hoành hành. Quảng Đông là tỉnh lớn nhát về “vợ hai”, tại Thâm Quyến, Đông Quán có rất nhiều “thôn vợ hai” rất tráng lệ.
+Quảng Châu, Đông Quán, Thâm Quyến là những thành phố không có cảm giác an toàn nhất, Thành phố Đông Quán vừa bẩn vừa loạn, cũng có sông đào nhưng mùi thối thấu trời. Đáng sợ nhất là ban ngày mà trộm cướp vẫn hoành hành. Quảng Đông là tỉnh lớn nhất về “vợ hai”, tại Thâm Quyến, Đông Quán có rất nhiều “thôn vợ hai” rất tráng lệ.
 {: .text-justify}
 
 ## Người Hồng Kông（香港）
 ![alt]({{ 'assets/images/tq-quangdong.png' | absolute_url }})
 
-Người Hồng Kông sớm nhất là di dân Quảng Đông, bị nuớc Anh thống trị lâu dải.Trên người Hồng Kông có cả đặc trưng tính cách phương Đông và phương Tây, hàm súc của phương Đông, thẳng thắn của phương Tây, nhiệt tình của phương Đông, lãnh đạm của phương Tây, tình cảm của phương Đông, khách quan của phương Tây.
+Người Hồng Kông sớm nhất là di dân Quảng Đông, bị nuớc Anh thống trị lâu dài. Trên người Hồng Kông có cả đặc trưng tính cách phương Đông và phương Tây, hàm súc của phương Đông, thẳng thắn của phương Tây, nhiệt tình của phương Đông, lãnh đạm của phương Tây, tình cảm của phương Đông, khách quan của phương Tây.
 {: .text-justify}
 
 Trừ một số cá biệt ra đa số người Hồng Kông không tự đánh giá thấp nguồn gốc, dòng máu của mình và không tự phủ định. Cái phủ định là đại lục *“không dân chủ”*, *“hủ bại”* tâm trạng phổ biến là *“yêu nước, yêu Hồng Kông, nhưng chưa chắc đã yêu đảng”*.
@@ -587,7 +587,7 @@ Người Hồng Kông cũng như người Đài Loan phần lớn bao *“vợ h
 ## Người Ma Cao（澳门）
 ![alt]({{ 'assets/images/tq-quangdong.png' | absolute_url }})
 
-Bị Bồ Đào Nha thống trị hơn 400 năm nhưng quan niệm văn hoá truyền thống vẫn không thay đổ. Ma Cao và Hồng Kông chỉ cách nhau một cửa sông Châu Giang, nhưng Hồng Kông thì chen chúc náo nhiệt khiến lòng người chẳng mấy khi yên, còn Ma Cao tuy chen chúc mà không náo nhiệt, căng thẳng mà vẫn yên tĩnh khiến người ta thoải mái thư nhàn.
+Bị Bồ Đào Nha thống trị hơn 400 năm nhưng quan niệm văn hoá truyền thống vẫn không thay đổi. Ma Cao và Hồng Kông chỉ cách nhau một cửa sông Châu Giang, nhưng Hồng Kông thì chen chúc náo nhiệt khiến lòng người chẳng mấy khi yên, còn Ma Cao tuy chen chúc mà không náo nhiệt, căng thẳng mà vẫn yên tĩnh khiến người ta thoải mái thư nhàn.
 {: .text-justify}
 
 Chỗ nào cũng thấy tình người ấm áp rất ít khi nghe thấy tiếng tranh cãi, càng chẳng thấy những hành động thô bạo. Có thể là nơi này đất hẹp người ít, người đi đường gặp nhau đều có cảm giác như là đã biết nhau rồi.
@@ -614,7 +614,7 @@ Tỉnh Hải Nam là tỉnh thành lập sau cùng của Trung Quốc, trước 
 Dân Hải Nam gốc rất bảo thủ, tầm nhìn hẹp, tự cho mình là giỏi, nhưng ngay khi nói cũng để lộ sự yếu đuối. Nước da đen là một đặc trưng điển hình, thân người lùn nhỏ, rất ít trai tài gái sắc.
 {: .text-justify}
 
-Người Hải Nam chịu được nghèo nhưng không chịu được khổ. Do có nhiều di dân, thương nhân Hả Nam đã lộ rõ đặc sắc ưa thích đầu cơ, nhưng tư duy với tầm nhìn ngắn hẹp.
+Người Hải Nam chịu được nghèo nhưng không chịu được khổ. Do có nhiều di dân, thương nhân Hải Nam đã lộ rõ đặc sắc ưa thích đầu cơ, nhưng tư duy với tầm nhìn ngắn hẹp.
 {: .text-justify}
 
 Hải Nam cũng là quê hương Hoa Kiều, nhưng nhiều người trong bọn họ vẫn thuộc loại nghèo không thành đạt như người Triều Sán và người Khách Gia ở nước ngoài. Đây là nơi buôn lậu khá phổ biến. Kinh tế Hải Nam còn rất yếu.
@@ -641,7 +641,7 @@ Vân Nam phát triển tương đối muộn vì người nội địa rất ít
 Ưu đãi của thiên nhiên đã khiến người Vân Nam phải trả bằng tính khép kín. So sánh với người Tứ Xuyên, người Vân Nam tỏ ra thoả mãn với cái vòng nho nhỏ của mình, an cư lạc nghiệp, tầm nhìn ngắn hẹp, tính cách nhu nhược, ít ra ngoài. Rất ít gặp người Vân Nam có mặt tại các nơi khác ở trong nuớc.
 {: .text-justify}
 
-Kinh tế Vân Nam phát triển không hài hoà, còn nhiều vùng nghèo. Thuốc lá là ngành công nghiệp chủ đạo và cũng là tỉnh lớn nhất sản xuất ma tuý. Có vùng biên giới gần *“tam giác vàng”*. Rất nhiều người kiếm sống bắng cách buôn ma tuý, có nhiều *“thôn gái goá”* (đàn ông bị bắn chết).
+Kinh tế Vân Nam phát triển không hài hoà, còn nhiều vùng nghèo. Thuốc lá là ngành công nghiệp chủ đạo và cũng là tỉnh lớn nhất sản xuất ma tuý. Có vùng biên giới gần *“tam giác vàng”*. Rất nhiều người kiếm sống bằng cách buôn ma tuý, có nhiều *“thôn gái goá”* (đàn ông bị bắn chết).
 {: .text-justify}
 
 Vân Nam là tỉnh khá đông dân (45 triệu). Người Vân Nam nhỏ bé ít trai tài, gái sắc.
@@ -729,7 +729,7 @@ Người Tứ Xuyên đều cho rằng Trùng Khánh chỉ là một bộ phận
 ## Người Thiểm Tây（陕西省）
 ![alt]({{ 'assets/images/tq-thiemtay.png' | absolute_url }})
 
-Thiểm Tây là nơi phát nguyên nên văn minh truyền thống Trung Quốc, ở đây có thể tìm thấy dấu vết ban đầu của Hoàng Đế (ông tổ nhân văn ban đầu của Hoa Hạ).
+Thiểm Tây là nơi phát nguyên nền văn minh truyền thống Trung Quốc, ở đây có thể tìm thấy dấu vết ban đầu của Hoàng Đế (ông tổ nhân văn ban đầu của Hoa Hạ).
 {: .text-justify}
 
 Các triều đại Tây Chu, Tần, Tây Hán, Tuỳ, Đường đều đóng đô ở đây. Nghe nói có rất nhiều thôn trang cứ đào đất lên là thấy văn vật.
@@ -888,5 +888,5 @@ Vùng núi phía Nam là *“Giang Nam của Tây Tạng”*, có khí hậu á 
 Ceylan vốn là thuộc quốc của Tây Tạng. *“Tạng độc”* (tổ chức người Tạng đòi độc lập) tại hải ngoại được Ấn Độ, Âu Mỹ ủng hộ. Người Tây Tạng có quầy hàng nhỏ tại nhiều nơi trong nuớc, bán một số đồ trang sức đặc sắc Tây Tạng. So với người Duy Ngô Nhĩ (Urge) thì tương đối ôn hoà, ít có tội phạm bạo lực.
 {: .text-justify}
 
-Người Hán ở Tây Tạng chưa hình thành văn hoá địa vực, chủ yếu là người Tứ Xuyên, Trùng Khánh đến Tây Tạng buôn bán và làm nhân viên. Diện Tích Tây Tạng rộng lớn, dân số ít, khí hậu khắc nghiệt. Người Hán chủ yếu tập trung tại các thành phố, phần đông người Tạng đã qua cuộc sống du mục.
+Người Hán ở Tây Tạng chưa hình thành văn hoá địa vực, chủ yếu là người Tứ Xuyên, Trùng Khánh đến Tây Tạng buôn bán và làm nhân viên. Diện tích Tây Tạng rộng lớn, dân số ít, khí hậu khắc nghiệt. Người Hán chủ yếu tập trung tại các thành phố, phần đông người Tạng đã qua cuộc sống du mục.
 {: .text-justify}
