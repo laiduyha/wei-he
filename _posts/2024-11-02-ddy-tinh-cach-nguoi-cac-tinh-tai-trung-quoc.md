@@ -362,7 +362,7 @@ Năng lực sinh tồn của người Chiết Giang khiến người phương T�
 Có tới 5 triệu người Chiết Giang thành đạt ở ngoài. Người Chiết Giang kinh doanh nhà đất khắp nước, khai thác than ở Sơn Tây, bán quần áo, giày dép ở châu Âu, thậm chí mở siêu thị ở châu Phi.
 {: .text-justify}
 
-Nhưng cũng có nhiều thương nhân người Chiết Giang làm hàng giả bán hàng giả, buôn lậu. Giày da, thắt lưng, quần áo Ôn Châu đã từng là đại danh từ cho sự giả mạo xấu xa, ảnh hưởng nghiêm trọng tới danh tiếng hàng hoá Trung Quốc.
+Nhưng cũng có nhiều thương nhân người Chiết Giang làm hàng giả, bán hàng giả, buôn lậu. Giày da, thắt lưng, quần áo Ôn Châu đã từng là đại danh từ cho sự giả mạo xấu xa, ảnh hưởng nghiêm trọng tới danh tiếng hàng hoá Trung Quốc.
 {: .text-justify}
 
 Gần đây Mỹ tẩy chay hàng hoá Trung Quốc, Tây Ban nha đốt giày Trung Quốc về cơ bản đều có liên quan tới người Chiết Giang, các cơ sở sắc tình ở Ô Châu nổi tiếng xấu cả nước.
