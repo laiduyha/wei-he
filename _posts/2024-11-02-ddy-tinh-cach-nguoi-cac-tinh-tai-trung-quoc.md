@@ -430,7 +430,7 @@ Người Đài Loan hiện nay chủ yếu là do người dân đã ở đó t�
 Người Nhật thống trị Đài Loan 50 năm, người Đài Loan bị coi là công dân hạng hai, quan văn làm không đến trưởng khoa (khoa một đơn vị hành chính dưới cấp phòng), quan võ không đến cấp tá.
 {: .text-justify}
 
-Nghe nói người Đài Loan hiện nay ít có cảm giác đồng thuận với người Trung Quốc đại lục, Phần lớn chỉ cho mình là người Đài Loan, đồng thời đã bị Tây hoá nặng nề. Thế nhưng người Đài Loan đến đại lục kinh doanh khong thích bàn chuyện chính trị.
+Nghe nói người Đài Loan hiện nay ít có cảm giác đồng thuận với người Trung Quốc đại lục. Phần lớn chỉ cho mình là người Đài Loan, đồng thời đã bị Tây hoá nặng nề. Thế nhưng người Đài Loan đến đại lục kinh doanh không thích bàn chuyện chính trị.
 {: .text-justify}
 
 Người Đài Loan vô cùng mê tín, rất thích bao “nàng hai”. Tuy vậy họ sống có qui củ, có thứ tự trên dưới già trẻ, trọng nam khinh nữ.
