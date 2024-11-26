@@ -206,7 +206,7 @@ Lâm Phần được gọi là thành phố than, năm nay được xếp vào l
 Những kẻ làm quan ở Sơn Tây vô cùng ngu muội, thích ra vẻ ta đây, lên thêm một chức là đã có người chết, chính quyền mà như nha môn. Đàn ông tuy đáng tin nhưng bủn xỉn.
 {: .text-justify}
 
-Người Sơn Tây nổi tiếng vì hà tiện. Người Sơn Tây dù ăn vận *“nhà quan”* vẫn không hợp thời, ăn uống giản dị, và ăn gì cũng phái có dấm, Phụ nữ mặc dù coi trọng đạo lý nhưng khi làm vợ cũng có chút sĩ diện.
+Người Sơn Tây nổi tiếng vì hà tiện. Người Sơn Tây dù ăn vận *“nhà quan”* vẫn không hợp thời, ăn uống giản dị, ăn gì cũng phái có dấm. Phụ nữ mặc dù coi trọng đạo lý nhưng khi làm vợ cũng có chút sĩ diện.
 {: .text-justify}
 
 Thương nhân Sơn Tây đi khắp thiên hạ, nhưng vẫn *“lá rụng về cội”*, thường đặt tổng bộ của mình tại mấy nơi nho nhỏ thuộc tỉnh quê hương cho nên không phát triển được.
@@ -227,7 +227,7 @@ Có thể là do đất hẹp người đông (sắp đạt 100 triệu dân), n
 Trịnh Châu, Tân Hương, An Dương tập trung rất nhiều công ty lừa gạt, dùng các phương thức như uỷ thác gia công, liên minh, để lừa gạt, chính quyền địa phương về căn bản không quản lý.
 {: .text-justify}
 
-Người Hà Nam phổ biến có địa vị không cao tại các thành phố lớn nhưng tiếng tăm lại rất nổi; thu nhặt đồ phế phẩm rất nhiều, và thường thuận tay giắt bò. Số gái điếm cũng không ít, thường lang thang tại thành phố. Tỷ lệ người Hà Nam phạm tội ở Bắc Kinh chỉ dưới người Đông Bắc, nên ở đâu cũng bị chèn ép, thậm chí nhiều người Hà Nam phải nói dối là người Hà Bắc, người Sơn Đông.
+Người Hà Nam phổ biến có địa vị không cao tại các thành phố lớn nhưng tiếng tăm lại rất nổi; thu nhặt đồ phế phẩm rất nhiều, và thường thuận tay dắt bò. Số gái điếm cũng không ít, thường lang thang tại thành phố. Tỷ lệ người Hà Nam phạm tội ở Bắc Kinh chỉ dưới người Đông Bắc, nên ở đâu cũng bị chèn ép, thậm chí nhiều người Hà Nam phải nói dối là người Hà Bắc, người Sơn Đông.
 {: .text-justify}
 
 Thực ra người Hà Nam rất chăm chỉ, chịu khổ được, tập quán sinh hoạt vốn thật thà chất phác, nhất là người nông thôn. Tuy vậy có nhược điểm là bảo thủ, thành kiến, không nghĩ đến tiến thủ. Là tỉnh có sức lao động lớn nhất Trung Quốc.

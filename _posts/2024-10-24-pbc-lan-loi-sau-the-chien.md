@@ -59,7 +59,7 @@ Tổng Tư Lệnh Nam quân là Vương Thiên Túng, truyền đem chúng tôi 
 May sao lúc đó trong Nam quân có Hà Hải Thanh là sư trưởng, từng quen biết tôi. Tôi mới cầu cứu Hà sư trưởng. Bị giam trên một giờ đồng hồ thì được giấy xin tha của Hà sư trưởng đến, Vương mới tha cho chúng tôi về lại lữ quán.
 {: .text-justify}
 
-Lúc này, đất Trung rất nhiều thổ phỉ, mà lúc đó thì không có phép tắc, luật pháp gì cả. Dân thường không dám đi đường. Chủ quán có nói với chúng tôi rằng:
+Lúc này, đất Trung rất nhiều thổ phỉ, mà lại không có phép tắc, luật pháp gì cả. Dân thường không dám ra ngoài đường. Chủ quán có nói với chúng tôi rằng:
 {: .text-justify}
 
 Các ông phải chờ có đại quân đi mà đi theo, nếu không thì không đợi tới quan bắt mà thổ phỉ đánh thịt mất!
