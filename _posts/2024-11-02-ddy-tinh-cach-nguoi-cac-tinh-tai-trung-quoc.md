@@ -293,7 +293,7 @@ Thượng Hải là thành phố phát triển nhất của Trung Quốc, tính 
 May mà không phải là thủ đô, nếu không ngay người Bắc Kinh cũng không coi ra gì. Với người Thượng Hải người ngoại tỉnh nhất loạt đều là *“dân nhà quê”*. Thế nhưng Thượng Hải mới có hơn một trăm năm lịch sử, có tới 1/3 dân Thượng Hải là di dân Ninh Ba.
 {: .text-justify}
 
-Phụ nữ Thượng Hải cử chỉ dễ nhìn, ăn nói hoà nhã rất có phong cách nữ giới. Nhưng con gái Thượng Hải không thích hợp với người ngoại tỉnh, phần lớn, chỉ thích lấy chồng Nhật, chồng Hàn quốc, trong đó lấy chồng Nhật là lý tưởng của không ít cô...
+Phụ nữ Thượng Hải cử chỉ dễ nhìn, ăn nói hoà nhã rất có phong cách nữ giới. Nhưng con gái Thượng Hải không thích lấy chồng trong nước. Phần lớn chỉ thích lấy chồng Nhật, chồng Hàn quốc, trong đó lấy chồng Nhật là lý tưởng của không ít cô...
 {: .text-justify}
 
 Đàn ông Thượng Hải tiểu khí, tự tư, tính toán chi li, thường cãi vã hồi lâu trên đường phố, nhát gan, sợ vợ, thậm chí giặt cả đồ lót cho vợ, thường bị gọi là *“thằng nhỏ”*.
