@@ -10,6 +10,12 @@ parent:
   url: duong-cua-dao
 ---
 
+![alt]({{ 'assets/images/long-guo-ping-deng-shan-ting-quan.jpg' | absolute_url }})
+> <cite>
+<a target="_blank" href="https://www.baike.com/wikiid/5644319668872120399">
+龙国屏《登山听泉》- Long Quốc Bình《Lên Núi Nghe Nguồn》
+</a>
+
 Một võ sĩ vô cùng kiêu ngạo đến chào đại sư Thiền Tông. Anh ta vốn là một võ sĩ xuất sắc và nổi tiếng. Thế nhưng khi nhìn thấy vẻ trang nghiêm và cử chỉ nhã nhặn của thiền sư, tự nhiên anh ta cảm thấy tự ti.
 {: .text-justify}
 
@@ -54,7 +60,5 @@ Thế thì con không cần phải hỏi ta nữa. Con đã biết câu trả l�
 {: .notice .text-justify}
 
 > <cite>
-<a target="_blank" href="https://www.thuvienpdf.com/tuyen-tap-truyen-ngan-cuc-hay-trung-quoc">
 Dương Danh Dy -《Tuyển tập truyện cực ngắn hay Trung Quốc》
-</a>
 </cite>

@@ -24,7 +24,7 @@ Mỗi ngày sư phụ đều kiên trì học tập, dạy dỗ học trò, xưa
 Sao hôm nay sư phụ lại khóc than thương tâm vậy?
 {: .notice .text-justify}
 
-Sở dĩ ta khó là vì trước lúc lâm chung ta đã tự vấn lương tâm:\
+Sở dĩ ta khóc là vì trước lúc lâm chung ta đã tự vấn lương tâm:\
  \
 *"Có kiên trì học tập không? Phẩm hạnh có đoan chính không? Có làm việc thiện không?"*\
  \
@@ -36,7 +36,5 @@ Thì ta chỉ có thể trả lời là *"chưa"*. Vì thế ta khóc.
 {: .notice .text-justify}
 
 > <cite>
-<a target="_blank" href="https://www.thuvienpdf.com/tuyen-tap-truyen-ngan-cuc-hay-trung-quoc">
 Dương Danh Dy -《Tuyển tập truyện cực ngắn hay Trung Quốc》
-</a>
 </cite>

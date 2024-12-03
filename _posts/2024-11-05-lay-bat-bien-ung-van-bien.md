@@ -41,7 +41,5 @@ Họ có (hữu) pháp thuật, nhưng hữu là hữu hạn, hữu tận, hữu
 Quan hệ giữa có và không là bất biến ứng vạn biến. Tôi *"vô biến"* đương nhiên là thắng *"hữu biến"*!
 {: .notice .text-justify}
 > <cite>
-<a target="_blank" href="https://www.thuvienpdf.com/tuyen-tap-truyen-ngan-cuc-hay-trung-quoc">
 Dương Danh Dy -《Tuyển tập truyện cực ngắn hay Trung Quốc》
-</a>
 </cite>
