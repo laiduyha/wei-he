@@ -10,10 +10,10 @@ parent:
   url: duong-cua-dao
 ---
 
-![alt]({{ 'assets/images/long-guo-ping-deng-shan-ting-quan.jpg' | absolute_url }})
+![alt]({{ 'assets/images/ma-yuan-san-ge-peng-you.jpg' | absolute_url }})
 > <cite>
-<a target="_blank" href="https://www.baike.com/wikiid/5644319668872120399">
-龙国屏《登山听泉》- Long Quốc Bình《Lên Núi Nghe Nguồn》
+<a target="_blank" href="https://www.puzdy.com/254992.html">
+马援《三个朋友 - 指松、竹、梅》- Mã Viện《Ba người bạn - Thông, Trúc, Mai》
 </a>
 
 Một võ sĩ vô cùng kiêu ngạo đến chào đại sư Thiền Tông. Anh ta vốn là một võ sĩ xuất sắc và nổi tiếng. Thế nhưng khi nhìn thấy vẻ trang nghiêm và cử chỉ nhã nhặn của thiền sư, tự nhiên anh ta cảm thấy tự ti.

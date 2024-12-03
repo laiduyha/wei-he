@@ -10,6 +10,12 @@ parent:
   url: duong-cua-dao
 ---
 
+![alt]({{ 'assets/images/long-guo-ping-deng-shan-ting-quan.jpg' | absolute_url }})
+> <cite>
+<a target="_blank" href="https://www.baike.com/wikiid/5644319668872120399">
+龙国屏《登山听泉》- Long Quốc Bình《Lên Núi Nghe Nguồn》
+</a>
+
 Thiền sư Đạo Thụ xây dựng một ngôi chùa, gần một *"miếu quán"* của một đạo sĩ. Đạo sĩ ngứa mắt vì ngôi chùa bên cạnh nên hằng ngày đều dùng pháp thuật gọi một số yêu ma quỷ quái đến gây rối với chúng tăng. Hôm thì mưa to gió lớn, hôm thì đom đóm lập lòe... để dọa chúng tăng sợ hãi bỏ đi.
 {: .text-justify}
 
