@@ -17,9 +17,9 @@ Chẳng khác nào tự lấy dây buộc lại,\
 Trói cả chân và che cả mắt mình.
 
 Chỉ muốn biết những gì đã từng biết,\
-Luôn muốn nghe những gì vẫn thường nghe,\
-Và cũng tin những gì trước giờ tin,\
-Là kẹt trong hồn mộng Trang Chu ấy.
+Luôn muốn nghe những gì vẫn hằng nghe,\
+Và lại tin những gì trước giờ tin,\
+Rồi mắc kẹt trong vũng lầy ngộ nhận.
 
 Đi loanh quanh trong mê cung nhận thức,\
 Bước luẩn quẩn mà không biết điểm ra.\
@@ -32,7 +32,7 @@ Trắng và Đen bản chất thuộc về một,\
 Hà cớ gì lại phải tách làm hai?
 
 Chỉ đến khi thấy rõ được bản nguyên,\
-Trong thế giới của nhị nguyên làm chủ.\
+Trong thế giới mà nhị nguyên làm chủ.\
 Thì đường mòn rồi cũng sẽ hiện ra,\
 Dẫn lối thoát khỏi mê cung nhận thức.
 
