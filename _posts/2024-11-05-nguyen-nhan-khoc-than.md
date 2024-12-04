@@ -10,6 +10,12 @@ parent:
   url: duong-cua-dao
 ---
 
+![alt]({{ 'assets/images/wang-jia-chun-lao-fu-leng-yan-kan-shi-jie.jpg' | absolute_url }})
+> <cite>
+<a target="_blank" href="https://www.puzdy.com/254992.html">
+王家春《老夫冷眼看世界》- Vương Gia Xuân《Lão phu mắt lạnh mà nhìn đời》
+</a>
+
 Một vị ẩn sĩ trú trong vùng núi sâu. Do phẩm đức cao thượng, hiền từ nên được mọi người tôn trọng. Ngài không hề làm tổn hại các sinh mệnh trong thiên nhiên, ngay khi đi đường cũng rất cẩn thận vì sợ lỡ ra dẫm chết con kiến.
 {: .text-justify}
 
