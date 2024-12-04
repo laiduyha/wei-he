@@ -92,6 +92,134 @@ Thay vào đó, tôi thấy họ đang tạo ra hệ thống riêng của mình 
 Trung Quốc sẽ cải tiến các thể chế và hệ thống của nó, nhưng theo cách riêng của Trung Quốc. Bất kể cải cách của họ là như thế nào, có một thứ sẽ không đổi: họ sẽ duy trì một chính quyền trung ương mạnh.
 {: .text-justify}
 
+---
+
+**Hỏi**: *Nền kinh kế Trung Quốc đã phát triển rất nhanh, nhưng thay đổi diễn ra chậm hơn về mặt chính trị?*
+{: .text-justify}
+
+**Đáp**: Tôi nghĩ bạn phải nhìn lại văn hóa và lịch sử Trung Quốc. Trong lịch sử Trung Quốc, một chính quyền trung ương mạnh có nghĩa là một đất nước hòa bình. Một trung ương yếu đồng nghĩa với lộn xộn và hỗn loạn. Và điều này xảy ra cùng với các lãnh chúa. Mỗi người có một luật thuộc về anh ta. Vì thế bạn sẽ không thể thấy bất kỳ sự thay đổi nếu chúng chệch hướng khỏi nguyên tắc trên.
+{: .text-justify}
+
+**Hỏi**: *Một nước Trung Quốc tập quyền mạnh đồng nghĩa với (sự cầm quyền của) Đảng Cộng sản Trung Quốc?*
+{: .text-justify}
+
+**Đáp**: Với Đảng Cộng sản hiện tại, vâng, đúng thế. Nhưng Đảng Cộng sản Trung Quốc là gì? Nó không bao giờ còn là cộng sản theo đúng nghĩa của từ này. Nó chỉ là một cái nhãn cũ dán trên một cái chai cũ trong đó có chứa rượu mới.
+{: .text-justify}
+
+**Hỏi**: *Nhưng cấu trúc chính trị vẫn còn nguyên?*
+{: .text-justify}
+
+**Đáp**: Cấu trúc chính trị có từ trước chủ nghĩa cộng sản. Trung Quốc có một thành ngữ: sơn cao hoàng đế viễn – trên núi thì cao, hoàng đế thì ở xa, ta chính là ông vua ở đây. Và điều này đã tồn tại hàng ngàn năm qua.
+{: .text-justify}
+
+**Hỏi**: *Và ông tin rằng điều đó sẽ tiếp tục duy trì một thời gian nữa bất chấp tất cả các thay đổi đang diễn ra?*
+{: .text-justify}
+
+**Đáp**: À, bây giờ chính quyền trung ương có thể sử dụng trực thăng, mạng Internet, điện thoại di động và khả năng triển khai cơ động của lực lượng an ninh. Nhưng tư duy cơ bản không đổi.
+{: .text-justify}
+
+**Hỏi**: *Thế còn thế hệ trẻ thì sao, với khả năng tiếp cận thông tin của họ, ông có thấy họ đang thay đổi cán cân chút nào không? Còn các giai tầng dưới và công nhân (gốc) nông dân trong các thành phố - có khả năng một cuộc nổi dậy sẽ xảy ra khi họ nhìn thấy sự bất công trong thu nhập không?*
+{: .text-justify}
+
+**Đáp**: Không, tôi không nhìn thấy chút cơ hội nào cho một cuộc nổi dậy thành công. Có một cuộc bạo động ở Ô Khảm, Quảng Đông. Phó Bí thư tỉnh uỷ đã xuống và giải quyết nó. Họ có một Bộ Công an rất quyền lực.
+{: .text-justify}
+
+**Hỏi**: *Đó có phải là bí mật của sự tồn tại lâu dài của họ? Rất nhiều chính phủ đã cố gắng nắm giữ quyền lực bằng vũ lực, đặc biệt là ở Đông Âu và Liên Xô, nhưng họ đều đã thất bại?*
+{: .text-justify}
+
+**Đáp**: Trung Quốc khác với Đông Âu. Đông Âu là một phần của phong trào Phục Hưng, một phần của khát vọng được trở thành một đất nước tự do, độc lập về tư tưởng nơi mọi người đều có thể sáng tạo. Trung Quốc là Trung Quốc. Như tôi đã nói, nguyên tắc cốt yếu mà tất cả mọi người Trung Quốc đều biết là nếu như chính quyền trung ương mạnh, đất nước sẽ an toàn. Nếu trung ương yếu, đất nước sẽ lâm nguy.
+{: .text-justify}
+
+**Hỏi**: *Điều đó cho thấy Mùa xuân Ả-rập mà chúng ta nhìn thấy ở Trung Đông sẽ không xảy ra ở Trung Quốc trong tương lai gần.*
+{: .text-justify}
+
+**Đáp**: Không, tôi không nhìn thấy nối liên hệ giữa Mùa xuân Ả-rập và Trung Quốc. Đó chỉ là do truyền thông và sự tưởng tượng của họ. Khi tôi đọc điều đó, tôi nói: “Những người này không hiểu gì về Trung Quốc cả”. Người Trung Quốc có một lịch sử lâu đời, lịch sử đó quyết định suy nghĩ của cả chính phủ và người dân.
+{: .text-justify}
+
+**Hỏi**: *Liệu những công nhân nông thôn không được hưởng lợi từ tình trạng tham nhũng tràn lan có thể muốn thay đổi hệ thống hay không?*
+{: .text-justify}
+
+**Đáp**: Họ không được tổ chức, và họ muốn gia nhập tầng lớp trung lưu thành thị. Họ không nhìn thấy tương lai trong nổi loạn, thứ mà chỉ mang lại thêm cho họ nhiều hỗn loạn. Họ chỉ nhìn thấy tương lai trong việc gia nhập dân cư các thành phố.
+{: .text-justify}
+
+**Hỏi**: *Có đủ sự dịch chuyển linh động trong xã hội để họ hi vọng rằng một ngày nào đó họ có thể gia nhập tầng lớp trung lưu được không?*
+{: .text-justify}
+
+**Đáp**: Tôi nghĩ ở Trung Quốc, sự linh động xã hội vẫn tồn tại ở đó. Nó không phải là một xã hội phân tầng trong theo nghĩa này. Nếu lấy ví dụ về nước Anh, nước mà tôi hiểu rõ, mỗi thế hệ sẽ sản sinh ra một nhóm thượng lưu. Nhóm này lớn lên và cưới nhau, và tạo thành giới thượng lưu. Và con cái của họ, bởi vì cả di truyền và cơ hội giáo dục, tiếp tục ở trong tầng lớp thượng lưu. Trung Quốc sẽ phải mất một thời gian dài để có được tình trạng đó. Singapore đang có nguy cơ đạt đến tình trạng đó sớm hơn dự kiến do sự tiến bộ nhanh chóng về mặt giáo dục. Vì thế con người vươn lên rất nhanh, những đứa con của tài xế taxi lớn lên vào đại học, con trai lấy con gái, cả hai đều có xuất thân từ (gia đình) bán hàng rong hoặc lái xe taxi, và khi cưới nhau, họ vươn đến giai cấp thượng lưu. Sau đó đặc tính di truyền cộng với các cơ hội giáo dục mà họ mang lại cho con cái họ sẽ tạo ra sự phân tầng giai cấp đó. Điều này xảy ra với mọi xã hội. Rồi cuối cùng, khi sự bất mãn lên cao, nhóm bên dưới sẽ nói: “Được rồi, hãy xáo lại bài”. Đó là cách mà cuộc cách mạng cộng sản đã diễn ra. Quốc dân đang (Koumintang) bị lật đổ. Bây giờ, một tầng lớp tinh hoa của cộng sản nổi lên. Nhưng chúng ta chưa đạt đến vị trí đó.
+{: .text-justify}
+
+**Hỏi**: *Các nhà lý luận chính thức của Đảng Cộng sản đang nói rằng họ sẽ bắt đầu bằng dân chủ độc đảng và sẽ tiếp tục tiến lên từ đó. Ông nhìn quá trình này diễn ra như thế nào?*
+{: .text-justify}
+
+**Đáp**: Họ sẽ cho phép các cuộc bầu cử nhưng là giữa các ứng cử viên được họ chấp thuận. Đó là dân chủ độc đảng.
+{: .text-justify}
+
+**Hỏi**: *Bước tiếp theo sẽ là gì?*
+{: .text-justify}
+
+**Đáp**: Tôi không biết. Tôi không nhìn thấy triển vọng bầu cử tự do. Trung Quốc sẽ không bao giờ có điều đó. Các bạn có thể tưởng tượng ra được một người Trung Quốc nói, “Tên tôi là Jimmy Carter. Tôi đang tranh cử chức Chủ tịch nước” không?
+{: .text-justify}
+
+**Hỏi**: *Nhưng điều đó đã xảy ra ở Đài Loan.*
+{: .text-justify}
+
+**Đáp**: Đài Loan chỉ là một khu vực nhỏ với chỉ 23 triệu người.
+{: .text-justify}
+
+**Hỏi**: *Vậy là ông không nhìn thấy triển vọng bầu cử phổ thông đầu phiếu sẽ diễn ra ở Trung Quốc, hoặc là sự cần thiết phải có điều đó?*
+{: .text-justify}
+
+**Đáp**: Không, tôi không thấy thế. Tôi có thể thấy bầu cử phổ thông đầu phiếu diễn ra ở cấp làng hoặc cơ quan lập pháp cấp tỉnh, nhưng ở trung ương, những người cai trị, các bí thư Đảng và các tỉnh trưởng của họ - thì không.
+{: .text-justify}
+
+**Hỏi**: *Điều gì sẽ xảy ra nếu có sự chia rẽ bên trong những người đứng đầu? Ví dụ, Ôn Gia Bảo, khi ông ta còn là Thủ tướng, đã được coi như là một nhà cải cách chính trị, và ông ta đã nói về dân chủ với đặc trưng Trung Quốc.*
+{: .text-justify}
+
+**Đáp**: Ông ta không phải là số một, ông ta là số ba. Và tốt hơn là để số ba nói về việc đó. Vẫn còn có cựu chủ tịch Giang Trạch Dân, người vẫn còn nhiều quyền lực (tức ông Giang là người số hai – NBT). Tôi nghĩ Ôn Gia Bảo sẽ thấy ông ta nằm trong nhóm thiểu số gồm một hoặc hai người trong bộ máy lãnh đạo tập thể, Bộ Chính trị. Họ là những người đã được vào đó với sự lựa chọn vô cùng cẩn thận. Liệu họ sẽ nói, hãy vất bỏ hệ thống và tiến hành bầu cử phổ thông? Lúc đó bất kỳ ai cũng có thể đứng lên và được bầu. Điều này đi ngược với ý muốn của họ.
+{: .text-justify}
+
+**Hỏi**: *Họ có quan tâm đến hệ thống chính trị của Singapore hay không?*
+{: .text-justify}
+
+**Đáp**: À, họ quan tâm đến tất cả các hệ thống chính trị để tìm kiếm ý tưởng, nhưng làm thế nào để nó phù hợp với hệ thống của họ được?
+{: .text-justify}
+
+**Hỏi**: *Chúng ta vận hành một hệ thống bầu cử phổ thông đầu phiếu.*
+{: .text-justify}
+
+**Đáp**: Tôi không thấy họ sẽ làm điều đó. Bạn có thấy không ? Hãy nhìn vào kích cỡ quốc gia của họ.
+{: .text-justify}
+
+**Hỏi**: *Vậy họ sẽ quan tâm đến mặt nào của nền chính trị Singapore?*
+{: .text-justify}
+
+**Đáp**: Họ quan tâm đến cách mà chúng ta có thể khiến người dân thường đều đặn tham gia vào các phiên đối thoại với người dân, các ủy ban ở khu dân cư, hiệp hội nhân dân. Nói cách khác, chúng ta biết những gì đang diễn ra ở cơ sở và chúng ta quan tâm giải quyết các vấn đề đó. Tôi tin họ cũng thực thi và đưa ra các mệnh lệnh. Liệu rằng các mệnh lệnh đó có được tiến hành hay không là một vấn đề khác. Họ đã yêu cầu, tỉ dụ như, hãy giữ liên hệ với người dân ở cơ sở của anh và quan tâm đến họ. Nhưng khi anh câu kết với các công ty phát triển bất động sản và buộc dân thường phải rời bỏ ruộng đất của họ để phát triển dự án mà không có sự đền bù thỏa đáng, thì làm sao những điều đó phù hợp với hệ thống của chúng ta được?
+{: .text-justify}
+
+**Hỏi**: *Nếu Quốc dân đảng vẫn còn nắm quyền ở Đại lục, liệu nó có thực hiện phổ thông đầu phiếu? Bởi vì Tôn Dật Tiên tin tưởng vào nền dân chủ kiểu phương Tây.*
+{: .text-justify}
+
+**Đáp**: Không, không, tôi không thấy thế chút nào cả. Họ phát triển nó ở Đài Loan bởi vì đó là một khu vực nhỏ và họ phụ thuộc vào Mỹ để sinh tồn. Vì thế họ chấp nhận phổ thông đầu phiếu bởi vì người Mỹ sẽ không bảo vệ họ để họ điều hành một hệ thống chuyên chế.
+{: .text-justify}
+
+**Hỏi**: *Nhưng hiện giờ Đài Loan vận hành một hệ thống dân chủ, và Hồng Kong sẽ có quyền bầu cử phổ thông trong vài năm tới, liệu sẽ có thêm áp lực về cải cách ở Đại lục không? Liệu người Trung Quốc có bắt đầu gây áp lực nên chính phủ của họ để cho họ thử cái mà họ nhìn thấy ở những người đồng bào Đài Loan và Hồng Kong của mình không?*
+{: .text-justify}
+
+**Đáp**: À, họ có thể muốn điều đó nhưng họ sẽ gây áp lực cho chính phủ bằng cách nào? Họ có lá phiếu trong tay không? Họ có sẵn sàng để lật đổ chính phủ bằng cách mạng không? Tôi không thấy những người cầm quyền định từ bỏ quyền lực của họ. Tôi không tin chính những người Trung Quốc lại tin rằng với 1,3 tỷ người bạn lại có thể có phổ thông đầu phiếu để bầu ra Chủ tịch nước. Điều đó không khả thi.
+{: .text-justify}
+
+**Hỏi**: *Điều gì làm ông nghĩ như vậy?*
+{: .text-justify}
+
+**Đáp**: Bạn làm thế nào để vận động được 1,3 tỷ người?
+{: .text-justify}
+
+**Hỏi**: *Nhưng lấy ví dụ, những người Ấn Độ đã làm được điều đó.*
+{: .text-justify}
+
+**Đáp**: Và kết quả của họ không được tốt đẹp...vì những lý do khác.
+{: .text-justify}
+
 > <cite>
 <a target="_blank" href="https://nghiencuuquocte.org/2014/09/03/ly-quang-dieu-viet-ve-chinh-tri-trung-quoc/">
 Biên dịch: Trần Xuân Thủy | Hiệu đính: Lê Hồng Hiệp

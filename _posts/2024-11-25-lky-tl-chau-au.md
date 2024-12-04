@@ -38,8 +38,7 @@ Tuy nhiên tiếng nói trên trường quốc tế của châu Âu bị giảm 
 
 ---
 
-Tôi viết sách này với tâm trạng buồn bã hơn là muốn chế giễu sự suy yếu không thể tránh khỏi của châu Âu. Tôi không muốn làm người châu Âu thất vọng.
-Người châu Âu là những dân tộc rất văn minh. Vâng, họ là những nhà thực dân – người Pháp, người Bỉ, người Anh và người Tây Ban Nha. Nhưng người Pháp có sứ mệnh khai hóa văn minh (mission civilisatrice) để chuyển nền văn minh của họ sang cho người châu Phi. Và về tổng thể, người Anh ra đi để lại sau lưng họ các thể chế, trong đó có ở Singapore. Chúng tôi có nền pháp quyền, có các đạo luật, chúng tôi có tiếng Anh và chúng tôi đủ khôn ngoan để không thay đổi bất cứ thứ nào trong số những di sản này. Chúng giúp chúng tôi phát triển. Các thể chế của họ đã đủ hiệu quả rồi. Điều mà tôi làm là đảm bảo rằng chúng tôi không phá hoại các thể chế này mà chỉ làm cho chúng mạnh hơn.
+Tôi viết sách này với tâm trạng buồn bã hơn là muốn chế giễu sự suy yếu không thể tránh khỏi của châu Âu. Tôi không muốn làm người châu Âu thất vọng. Người châu Âu là những dân tộc rất văn minh. Vâng, họ là những nhà thực dân – người Pháp, người Bỉ, người Anh và người Tây Ban Nha. Nhưng người Pháp có sứ mệnh khai hóa văn minh (mission civilisatrice) để chuyển nền văn minh của họ sang cho người châu Phi. Và về tổng thể, người Anh ra đi để lại sau lưng họ các thể chế, trong đó có ở Singapore. Chúng tôi có nền pháp quyền, có các đạo luật, chúng tôi có tiếng Anh và chúng tôi đủ khôn ngoan để không thay đổi bất cứ thứ nào trong số những di sản này. Chúng giúp chúng tôi phát triển. Các thể chế của họ đã đủ hiệu quả rồi. Điều mà tôi làm là đảm bảo rằng chúng tôi không phá hoại các thể chế này mà chỉ làm cho chúng mạnh hơn.
 {: .text-justify}
 
 Đối lập hoàn toàn, người Bỉ đã để Congo lại trong một đống hỗn độn. Họ khai thác nguyên liệu thô và khi thời điểm buộc họ phải rời đi, nơi này tan rã theo cuộc chiến giữa các bộ tộc. Ngày nay Congo vẫn còn vướng vào rắc rối. Tại Guinea, Charles de Gaulle đã rất tức giận với Ahmed Sékou Touré, một nhà đấu tranh mạnh mẽ vì tự do, đến nỗi mà người Pháp đã dỡ hết tất cả đường dây điện và điện thoại trước khi họ rời đi. Guinea vẫn chưa phục hồi lại từ chuyện này. Người Pháp không làm như vậy đối với tất cả thuộc địa của mình nhưng họ đã làm với Guinea vì Sékou Touré đã quấy nhiễu chính phủ Pháp. Do vậy, Sékou Touré thừa hưởng một hệ thống không hoạt động, một hệ thống mà ông không bao giờ có thể làm cho hoạt động lại được.
@@ -59,8 +58,7 @@ Những điều này tạo nên sự khác biệt. Nếu người Anh để lạ
 **Hỏi:** *Ông nghĩ nước Anh trong 20 năm tới sẽ năng động hơn hay kém năng động hơn?*
 {: .text-justify}
 
-**Đáp:** Sẽ tàm tạm thôi. Đó là một đất nước đã xây dựng nên một đế chế hùng mạnh, sau đó đã phá hủy đế chế này sau Thế chiến II vì người Mỹ buộc họ
-phải như vậy. Sau khi họ mất Ấn Độ, Pakistan và Bangladesh, những phần thuộc địa còn lại không còn quan trọng. Và nếu bạn quan sát thái độ của người Úc, New Zealand và Canada, những nước từng là thành viên của khối Thịnh Vượng Chung, khối này giờ đây chẳng còn ý nghĩa gì với họ. Trong mắt họ, những người chơi quan trọng hiện nay là Mỹ, là NATO và những tổ chức không chính thức tương tự ở Thái Bình Dương. Họ đang gắn mình với những cường quốc lớn tiếp theo, những quốc gia mà họ nghĩ họ chia sẻ nhiều nhất về mặt văn hóa và địa chính trị.
+**Đáp:** Sẽ tàm tạm thôi. Đó là một đất nước đã xây dựng nên một đế chế hùng mạnh, sau đó đã phá hủy đế chế này sau Thế chiến II vì người Mỹ buộc họ phải như vậy. Sau khi họ mất Ấn Độ, Pakistan và Bangladesh, những phần thuộc địa còn lại không còn quan trọng. Và nếu bạn quan sát thái độ của người Úc, New Zealand và Canada, những nước từng là thành viên của khối Thịnh Vượng Chung, khối này giờ đây chẳng còn ý nghĩa gì với họ. Trong mắt họ, những người chơi quan trọng hiện nay là Mỹ, là NATO và những tổ chức không chính thức tương tự ở Thái Bình Dương. Họ đang gắn mình với những cường quốc lớn tiếp theo, những quốc gia mà họ nghĩ họ chia sẻ nhiều nhất về mặt văn hóa và địa chính trị.
 {: .text-justify}
 
 **Hỏi:** *Giả sử không có một châu Âu hội nhập và giả sử Trung Quốc tiếp tục phát triển và trở nên vượt trội tại châu Á, liệu châu Âu có càng ngày càng trở nên không còn liên quan với người dân Đông Nam Á, trong đó có Singapore không?*
@@ -120,23 +118,19 @@ phải như vậy. Sau khi họ mất Ấn Độ, Pakistan và Bangladesh, nhữ
 **Hỏi:** *Ông đã đưa ra lập luận “một bộ lạc” khi nói về các nước Scandinavia – rằng họ rất cố kết và ủng hộ một nhà nước phúc lợi vì về mặt di truyền họ tương đồng với nhau. Ông có mở rộng lập luận này cho người Nhật và người Trung Quốc không, vì cả hai dân tộc này cũng tương đối đồng nhất về thành phần chủng tộc?*
 {: .text-justify}
 
-**Đáp:** Tôi đồng ý với trường hợp người Nhật. Đó là lý do tại sao họ không muốn dân nhập cư. Nhưng Trung Quốc thì không. Trung Quốc không phải là một bộ lạc đơn nhất, mà ngược lại, có rất nhiều bộ lạc trong đó. Có thể nói họ nói cùng một ngôn ngữ, sử dụng cùng một chữ viết, nhưng có nhiều giọng
-khác nhau trên khắp đất nước và không có chính phủ trung ương nào có thể bắt thi hành một chính sách đồng bộ đối với toàn thể đế chế này. Đó là lý do
-tại sao tại các tỉnh, họ nói rằng phép vua thua lệ làng. Trong mỗi tỉnh, họ có thể nói “Ở đây tôi là hoàng đế.” Đó là một đất nước rộng lớn với nhiều tỉnh khác nhau mang rất nhiều cách hành xử khác nhau.
+**Đáp:** Tôi đồng ý với trường hợp người Nhật. Đó là lý do tại sao họ không muốn dân nhập cư. Nhưng Trung Quốc thì không. Trung Quốc không phải là một bộ lạc đơn nhất, mà ngược lại, có rất nhiều bộ lạc trong đó. Có thể nói họ nói cùng một ngôn ngữ, sử dụng cùng một chữ viết, nhưng có nhiều giọng khác nhau trên khắp đất nước và không có chính phủ trung ương nào có thể bắt thi hành một chính sách đồng bộ đối với toàn thể đế chế này. Đó là lý do tại sao tại các tỉnh, họ nói rằng phép vua thua lệ làng. Trong mỗi tỉnh, họ có thể nói “Ở đây tôi là hoàng đế.” Đó là một đất nước rộng lớn với nhiều tỉnh khác nhau mang rất nhiều cách hành xử khác nhau.
 {: .text-justify}
 
 **Hỏi:** *Tình trạng căng thẳng cơ bản về chủng tộc ở châu Âu ngày nay có khác so với tình trạng này lúc ông ở đó vào những năm 1940 không?*
 {: .text-justify}
 
-**Đáp:** Rất khó để trả lời điều này vì tôi không sống ở đó. Con gái của (Bộ trưởng Cao cấp đã nghỉ hưu) Goh Chok Tong cưới một người Anh và sống gần
-Bradford. Ông có đến thăm các cháu của mình, những đứa trẻ có bề ngoài của người da trắng hơn là người Hoa. Ông nói với tôi rằng bọn trẻ rất hòa thuận với hàng xóm của chúng. Nhưng đó là do chúng là tầng lớp trung lưu.
+**Đáp:** Rất khó để trả lời điều này vì tôi không sống ở đó. Con gái của (Bộ trưởng Cao cấp đã nghỉ hưu) Goh Chok Tong cưới một người Anh và sống gần Bradford. Ông có đến thăm các cháu của mình, những đứa trẻ có bề ngoài của người da trắng hơn là người Hoa. Ông nói với tôi rằng bọn trẻ rất hòa thuận với hàng xóm của chúng. Nhưng đó là do chúng là tầng lớp trung lưu.
 {: .text-justify}
 
 **Hỏi:** *Liệu điều này có thay đổi trong tương lai khi Trung Quốc trỗi dậy?*
 {: .text-justify}
 
-**Đáp:** Không, tôi không nghĩ vậy. Việc Trung Quốc trỗi dậy không có gì liên quan đến chuyện này. Người Nhật có một đất nước hùng mạnh trước chiến tranh, nhưng điều này không làm thay đổi quan điểm của người châu Âu về họ. Người châu Âu tin rằng họ là một dân tộc thượng đẳng, và người Trung
-Quốc cũng vậy. Vậy là hòa.
+**Đáp:** Không, tôi không nghĩ vậy. Việc Trung Quốc trỗi dậy không có gì liên quan đến chuyện này. Người Nhật có một đất nước hùng mạnh trước chiến tranh, nhưng điều này không làm thay đổi quan điểm của người châu Âu về họ. Người châu Âu tin rằng họ là một dân tộc thượng đẳng, và người Trung Quốc cũng vậy. Vậy là hòa.
 {: .text-justify}
 
 **Hỏi:** *Một vấn đề với dân nhập cư, những người không thể hội nhập vào xã hội châu Âu, đó là khủng bố tự sinh trong nước. Chúng ta đã chứng kiến một số ví dụ cho tình trạng này...*
@@ -148,16 +142,13 @@ Quốc cũng vậy. Vậy là hòa.
 **Hỏi:** *Ông có thấy lo lắng cho tình trạng phản ứng dữ dội chống lại người nhập cư, và sự nổi lên của các đảng cực hữu trong các hệ thống chính trị châu Âu? Điều này sẽ làm cho châu Âu trở nên xấu đi và phân mảnh?*
 {: .text-justify}
 
-**Đáp:** Tình trạng phân mảnh đã có sẵn ở đó. Chỉ là được tăng cường thêm, vậy thôi. Ngay cả khi những người dân nhập cư chỉ chiếm năm hoặc sáu phần
-trăm trong xã hội, thì sự phân mảnh vẫn ở đó. Nghĩ mà xem, bạn có thể phân loại thế giới theo những chủng tộc sau: da trắng, da vàng, da đen, da nâu; và bạn chỉ có thể trộn lẫn và hòa nhập nội trong mỗi màu da. Ví dụ, nếu một người Trung Quốc lấy một người Nhật Bản hoặc một người Việt
-Nam, thì đứa con có thể giả là người Trung Quốc hay người Việt Nam hay người Nhật Bản.
+**Đáp:** Tình trạng phân mảnh đã có sẵn ở đó. Chỉ là được tăng cường thêm, vậy thôi. Ngay cả khi những người dân nhập cư chỉ chiếm năm hoặc sáu phần trăm trong xã hội, thì sự phân mảnh vẫn ở đó. Nghĩ mà xem, bạn có thể phân loại thế giới theo những chủng tộc sau: da trắng, da vàng, da đen, da nâu; và bạn chỉ có thể trộn lẫn và hòa nhập nội trong mỗi màu da. Ví dụ, nếu một người Trung Quốc lấy một người Nhật Bản hoặc một người Việt Nam, thì đứa con có thể giả là người Trung Quốc hay người Việt Nam hay người Nhật Bản.
 {: .text-justify}
 
 **Hỏi:** *Ông sẽ bình chọn ai trong tất cả các vị lãnh đạo châu Âu mà ông đã gặp trong vòng 50 năm qua là người để lại ấn tượng với ông nhiều nhất?*
 {: .text-justify}
 
-**Đáp:** Cũng khó nói. Về mặt lịch sử, Winston Churchill nổi bật nhất. Ông là một nhà lãnh đạo vĩ đại vì nếu như ông không bất chấp đối đầu với những khó khăn dường như không thể vượt qua để chống lại Đức, thì thế giới hẳn đã rất khác. Thái độ của ông hoàn toàn mang tính bất chấp. “Chúng ta sẽ chiến đấu trên những bãi biển, chúng ta sẽ chiến đấu trên các bãi đáp, chúng ta sẽ chiến đấu trên ruộng đồng, trên đường phố, chúng ta sẽ chiến đấu trên các ngọn đồi. Chúng ta sẽ không bao giờ đầu hàng.” Lệnh tổng động viên của ông tuy phát ra với một giọng nói ngọng nhưng đã vận động được niềm tin và toàn thể dân tộc Anh ủng hộ ông, trong khi Pháp lại không có một vị lãnh đạo như vậy và họ đã nhượng bộ. Thống chế Petain sau khi rời quân ngũ đã tham gia chính trường và phục vụ cho chính quyền Vichy của Pháp. Winston Churchill là một nhân vật rất đặt biệt so với những người khác trong cùng thời kỳ lịch sử đó. Nếu như không có ông và Lực lượng Không quân Hoàng gia, nước Anh đã bị dày xéo bởi không quân Đức (Luftwaffe). Nhưng
-tinh thần và khí thế mà ông bơm vào các phi công của mình đã cứu được Anh. Sau đó Nhật tấn công Trân Châu Cảng và điều này đã dồn Mỹ vào cuộc chiến. Vì vậy đây là vận may cho ông. Nhưng ông vẫn một mình chống chọi lại đến một năm sau đó.
+**Đáp:** Cũng khó nói. Về mặt lịch sử, Winston Churchill nổi bật nhất. Ông là một nhà lãnh đạo vĩ đại vì nếu như ông không bất chấp đối đầu với những khó khăn dường như không thể vượt qua để chống lại Đức, thì thế giới hẳn đã rất khác. Thái độ của ông hoàn toàn mang tính bất chấp. “Chúng ta sẽ chiến đấu trên những bãi biển, chúng ta sẽ chiến đấu trên các bãi đáp, chúng ta sẽ chiến đấu trên ruộng đồng, trên đường phố, chúng ta sẽ chiến đấu trên các ngọn đồi. Chúng ta sẽ không bao giờ đầu hàng.” Lệnh tổng động viên của ông tuy phát ra với một giọng nói ngọng nhưng đã vận động được niềm tin và toàn thể dân tộc Anh ủng hộ ông, trong khi Pháp lại không có một vị lãnh đạo như vậy và họ đã nhượng bộ. Thống chế Petain sau khi rời quân ngũ đã tham gia chính trường và phục vụ cho chính quyền Vichy của Pháp. Winston Churchill là một nhân vật rất đặt biệt so với những người khác trong cùng thời kỳ lịch sử đó. Nếu như không có ông và Lực lượng Không quân Hoàng gia, nước Anh đã bị dày xéo bởi không quân Đức (Luftwaffe). Nhưng tinh thần và khí thế mà ông bơm vào các phi công của mình đã cứu được Anh. Sau đó Nhật tấn công Trân Châu Cảng và điều này đã dồn Mỹ vào cuộc chiến. Vì vậy đây là vận may cho ông. Nhưng ông vẫn một mình chống chọi lại đến một năm sau đó.
 {: .text-justify}
 
 > <cite>
