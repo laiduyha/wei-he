@@ -13,7 +13,7 @@ parent:
 ![alt]({{ 'assets/images/lky-china-politics-congress.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://nghiencuuquocte.org/2014/09/03/ly-quang-dieu-viet-ve-chinh-tri-trung-quoc/">
-Nguồn: Lee Kuan Yew (2013). “China: A Strong Centre”, in L.K. Yew, One Man’s View of the World (Singapore: Straits Times Press), pp. 14-27.
+Lee Kuan Yew (2013). “China: A Strong Centre”, in L.K. Yew, One Man’s View of the World (Singapore: Straits Times Press), pp. 14-27.
 </a>
 
 Để hiểu được Trung Quốc và tương lai của quốc gia này trong 20 năm tới, bạn phải hiểu về con người và xã hội của họ. Trong 5.000 năm, người Trung Quốc tin tưởng rằng đất nước chỉ an toàn khi chính quyền trung ương mạnh. Một chính quyền trung ương yếu có nghĩa là lộn xộn và hỗn loạn. Một chính quyền trung ương mạnh sẽ đưa đến một đất nước Trung Hoa hòa bình và thịnh vượng. Mọi người Trung Quốc đều hiểu điều đó. Đó là nguyên tắc cốt yếu của họ, được rút ra từ những bài học lịch sử sâu sắc nhất. Sẽ không có sự chệch hướng khỏi nguyên tắc này trong tương lai gần. Đây là một tư tưởng có trước thời cộng sản. Nó đã tồn tại qua hàng trăm năm, hàng ngàn năm.
