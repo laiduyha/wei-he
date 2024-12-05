@@ -20,6 +20,26 @@ China is a sleeping dragon, let China sleep, for when she awakes, the world will
 Napoleon Bonaparte
 </cite>
 
+
+Rồng say giấc trong giấc mộng trăm năm,\
+Giang sơn đổ, núi lở sông cũng mòn,\
+Chợt tỉnh giấc, thấy mình trong xiềng xích,\
+Bị chuốc thuốc, trong cảm giác mê man.\
+ \
+Mắt xanh, mũi lõ, súng gươm thì sáng loáng,\
+Hăm hở đi cạo vảy với chặt sừng,\
+Cay đắng thay kẻ xưa từng chỉ dạy,\
+Giờ cũng theo quân đào mỏ hại mình.\
+ \
+Phải chờ thời, kiên nhẫn dựng lại mình,\
+Nuốt thuốc đắng, cam lòng rũ áo cũ,\
+Học cách khoác áo mới của thời nay,\
+Rồi một ngày vươn mình lại trời không.
+
+> <cite>
+<a target="_blank" href="https://wei-he.xyz">Wéi Hé</a>
+</cite>
+
 ## Danh sách
 {% assign posts = site.posts | where_exp: "item", "item.categories contains 'trung-quoc'" %}
 {% for post in posts %}
