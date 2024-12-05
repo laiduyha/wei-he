@@ -21,20 +21,20 @@ Napoleon Bonaparte
 </cite>
 
 
-Rồng say giấc trong giấc mộng trăm năm,\
-Giang sơn đổ, núi lở sông cũng mòn,\
-Chợt tỉnh giấc, thấy mình trong xiềng xích,\
-Bị chuốc thuốc, trong cảm giác mê man.\
+Rồng say ngủ với giấc mộng trăm năm,\
+Giang sơn đổ, núi lở, sông cũng mòn,\
+Chợt tỉnh thức, tay xiềng chân bị xích,\
+Cơn mê thuốc, khiến thân tàn lực kiệt.\
  \
-Mắt xanh, mũi lõ, súng gươm thì sáng loáng,\
-Hăm hở đi cạo vảy với chặt sừng,\
-Cay đắng thay kẻ xưa từng chỉ dạy,\
+Mắt xanh, mũi lõ, hăm hở cùng gươm giáo,\
+Cào vảy, chặt sừng, ngốn ngấu nguồn tinh lực,\
+Cay đắng thay, kẻ xưa từng chỉ dạy,\
 Giờ cũng theo quân đào mỏ hại mình.\
  \
 Phải chờ thời, kiên nhẫn dựng lại mình,\
 Nuốt thuốc đắng, cam lòng rũ áo cũ,\
-Học cách khoác áo mới của thời này,\
-Rồi một ngày vươn mình lại trời không.
+Khoác lên người áo mới của thời này,\
+Để một ngày vươn mình lại trời không.
 
 > <cite>
 <a target="_blank" href="https://wei-he.xyz">Wéi Hé</a>
