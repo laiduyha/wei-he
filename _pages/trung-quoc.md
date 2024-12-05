@@ -33,7 +33,7 @@ Giờ cũng theo quân đào mỏ hại mình.\
  \
 Phải chờ thời, kiên nhẫn dựng lại mình,\
 Nuốt thuốc đắng, cam lòng rũ áo cũ,\
-Học cách khoác áo mới của thời nay,\
+Học cách khoác áo mới của thời này,\
 Rồi một ngày vươn mình lại trời không.
 
 > <cite>
