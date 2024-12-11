@@ -1,5 +1,5 @@
 ---
-title: 潮汐《不谓侠》- Triều Tịch《Bất Vị Hiệp》 (Nào Phải Hiệp Sĩ)
+title: 潮汐《不谓侠》- Triều Tịch《Bất Vị Hiệp》
 layout: single
 classes: wide
 
@@ -43,5 +43,5 @@ Trên mi mắt còn lưu vết sẹo dài
 {: .text-justify}
 
 > <cite>
-潮汐《不谓侠》- Triều Tịch《Bất Vị Hiệp》
+潮汐《不谓侠》- Triều Tịch《Bất Vị Hiệp》(Nào Phải Hiệp Sĩ)
 </cite>
