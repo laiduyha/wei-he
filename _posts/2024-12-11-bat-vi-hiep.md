@@ -1,13 +1,11 @@
 ---
-title: 潮汐《不谓侠》- Triều Tịch《Bất Vị Hiệp》
+title: 潮汐《不谓侠》- Triều Tịch《Bất Vị Hiệp》 (Nào Phải Hiệp Sĩ)
 layout: single
 classes: wide
 
 ---
 
 {% include video id="LV6SJZle8pU" provider="youtube" danmaku=video.danmaku %}
-
-# Bất Vị Hiệp - nào phải hiệp sĩ
 
 向江南折过花\
 Bẻ nhành hoa chốn Giang Nam\
