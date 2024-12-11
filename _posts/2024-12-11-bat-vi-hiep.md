@@ -43,5 +43,5 @@ Trên mi mắt còn lưu vết sẹo dài
 {: .text-justify}
 
 > <cite>
-潮汐《不谓侠》- Triều Tịch《Bất Vị Hiệp》(Nào Phải Hiệp Sĩ)
+潮汐《不谓侠》- Triều Tịch《Bất Vị Hiệp》(Nào Phải Hiệp Khách)
 </cite>
