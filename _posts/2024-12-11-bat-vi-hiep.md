@@ -6,7 +6,7 @@ categories:
   - nhac
 ---
 
-{% include video id="LV6SJZle8pU" provider="youtube" danmaku=video.danmaku %}
+{% include video id="imm6_ZaCDj4" provider="youtube" danmaku=video.danmaku %}
 
 向江南折过花\
 Đi Giang Nam ngắt một nhành hoa\
