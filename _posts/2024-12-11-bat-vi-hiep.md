@@ -2,7 +2,8 @@
 title: 潮汐《不谓侠》- Triều Tịch《Bất Vị Hiệp》
 layout: single
 classes: wide
-
+categories:
+  - nhac
 ---
 
 {% include video id="LV6SJZle8pU" provider="youtube" danmaku=video.danmaku %}
