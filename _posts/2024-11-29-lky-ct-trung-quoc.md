@@ -187,7 +187,7 @@ Trung Quốc sẽ cải tiến các thể chế và hệ thống của nó, như
 **Hỏi**: *Chúng ta vận hành một hệ thống bầu cử phổ thông đầu phiếu.*
 {: .text-justify}
 
-**Đáp**: Tôi không thấy họ sẽ làm điều đó. Bạn có thấy không ? Hãy nhìn vào kích cỡ quốc gia của họ.
+**Đáp**: Tôi không thấy họ sẽ làm điều đó. Bạn có thấy không? Hãy nhìn vào kích cỡ quốc gia của họ.
 {: .text-justify}
 
 **Hỏi**: *Vậy họ sẽ quan tâm đến mặt nào của nền chính trị Singapore?*

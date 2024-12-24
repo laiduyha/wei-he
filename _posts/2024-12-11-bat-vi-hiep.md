@@ -6,73 +6,73 @@ categories:
   - nhac
 ---
 
-{% include video id="Lx5lOYwgeUQ" provider="youtube" danmaku=video.danmaku %}
+{% include video id="IXK-k3tAo0E" provider="youtube" danmaku=video.danmaku %}
 
 向江南折过花\
-Đi Giang Nam ngắt một nhành hoa\
+Ngắt nhành hoa ở Giang Nam\
 对春风与红蜡\
-Giữa gió xuân ngồi cùng nến đỏ\
+Phối cùng gió xuân và nến đỏ\
 多情总似我\
-Đa tình thì phải như ta\
+Người đa tình như ta\
 风流爱天下\
-Phong lưu yêu thương toàn thiên hạ\
+Đem lòng yêu cả thiên hạ\
 人世肯相逢\
-Thế gian này có duyên gặp gỡ\
+Tương phùng khắp nhân thế\
 知己幸有七八\
 May mắn tri kỉ được mấy người\
 邀我拍坛去\
-Ôm một bầu rượu ta say\
+Cùng ta say chén rượu nồng\
 醉眼万斗烟霞\
-Mây khói lượn lờ trước mặt\
+Cùng ngắm sương khói lúc chiều buông\
  \
 向江北饮过马\
 Cưỡi ngựa phi qua Giang Bắc\
 对西风与黄沙\
 Đón gió tây mà đạp cát vàng\
 无情也似我\
-Vô tình cũng phải như ta\
+Kẻ vô tình như ta\
 引剑锋斩桃花\
-Vung kiếm chặt đi mối đào hoa\
+Vung kiếm đoạn tuyệt mối đào hoa\
 人世难相逢\
-Thế gian này thật khó gặp gỡ\
+Nhân thế nào dễ tương phùng\
 谢青山催白发\
-Núi ngàn năm xanh, tóc rồi điểm bạc\
+Núi xanh rồi cũng héo, tóc rồi thì cũng bạc\
 慷慨唯霜雪\
-Trong sương tuyết giữa trời lạnh giá\
+Dấu vết gió sương năm ấy\
 相赠眉间一道疤\
-Trên mi mắt còn lưu vết sẹo dài\
+Còn in hằn trên mi mắt này\
  \
 当此世赢输都算闲话\
-Cuộc đời này thắng thua là chuyện thường tình\
+Thắng thua trong đời đều là chuyện phiếm\
 来换杯陈酒\
-Đổi lấy chén rượu\
+Cạn chung rượu này\
 天纵我潇洒\
 Ta tiêu diêu giữa đất trời\
 风流不曾老\
-Phong lưu cả một đời\
+Phong lưu là cả một đời\
 弹铗唱作年华\
-Kéo đàn vang lên khúc niên hoa\
+Gươm đao này ghi dấu năm tháng oai hùng\
 凭我纵马去\
-Ta ngất ngưởng lưng ngựa\
+Từng trải qua đao kiếm trên lưng ngựa\
 过剑底杯中觅生涯\
-Trên lưỡi kiếm, dưới đáy ly là chân trời rộng lớn\
+Nhấp cạn chén rượu này mà ngẫm chuyện xưa\
  \
 当此世生死也算闲话\
-Cuộc đời này sống chết là chuyện thường tình\
+Sinh tử trong kiếp người cũng là chuyện thường tình\
 来换场豪醉\
-Chếnh choáng hơi men\
+Chỉ cần được say chén rượu này\
 不负天纵潇洒\
-Không phụ danh một đời tiêu sái\
+Không phụ một đời tiêu diêu tự tại\
 风流不曾老\
 Phong lưu cả một đời\
 弹铗唱作年华\
-Kéo đàn vang lên khúc niên hoa\
+Gươm đao ghi dấu năm tháng oai hùng\
 凭我自由去\
-Ta tự do ngao du\
+Ta chẳng phải là hiệp khách\
 只做狂人不谓侠\
-Làm lãng tử tiêu diêu giữa đất trời
+Chỉ thích làm lãng tử tiêu diêu giữa đất trời
 {: .text-justify}
 
 > <cite>
-潮汐《不谓侠》- Triều Tịch《Bất Vị Hiệp》(Nào Phải Hiệp Khách)
+潮汐《不谓侠》- Triều Tịch《Bất Vị Hiệp》(Chẳng phải Hiệp Khách)
 </cite>
