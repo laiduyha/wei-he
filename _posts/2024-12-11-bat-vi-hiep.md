@@ -21,9 +21,9 @@ Tương phùng khắp nhân thế\
 知己幸有七八\
 May mắn tri kỉ được mấy người\
 邀我拍坛去\
-Cùng ta say chén rượu nồng\
+Cùng ta say chén rượu này\
 醉眼万斗烟霞\
-Cùng ngắm sương khói lúc chiều buông\
+Ngồi ngắm sương khói lúc chiều buông\
  \
 向江北饮过马\
 Cưỡi ngựa phi qua Giang Bắc\
@@ -40,7 +40,7 @@ Núi xanh rồi cũng héo, tóc rồi thì cũng bạc\
 慷慨唯霜雪\
 Dấu vết gió sương năm ấy\
 相赠眉间一道疤\
-Còn in hằn trên mi mắt này\
+Vẫn còn in hằn trên mi mắt\
  \
 当此世赢输都算闲话\
 Thắng thua trong đời đều là chuyện phiếm\
@@ -58,7 +58,7 @@ Từng trải qua đao kiếm trên lưng ngựa\
 Nhấp cạn chén rượu này mà ngẫm chuyện xưa\
  \
 当此世生死也算闲话\
-Sinh tử trong kiếp người cũng là chuyện thường tình\
+Sinh tử kiếp người đều là chuyện thường tình\
 来换场豪醉\
 Chỉ cần được say chén rượu này\
 不负天纵潇洒\
@@ -68,9 +68,9 @@ Phong lưu cả một đời\
 弹铗唱作年华\
 Gươm đao ghi dấu năm tháng oai hùng\
 凭我自由去\
-Ta chẳng phải là hiệp khách\
+Ta đây chẳng muốn làm hiệp khách\
 只做狂人不谓侠\
-Chỉ thích làm lãng tử tiêu diêu giữa đất trời
+Mà chỉ thích làm lãng tử tiêu diêu giữa đất trời
 {: .text-justify}
 
 > <cite>
