@@ -6,7 +6,16 @@ categories:
   - nhac
 ---
 
+
+Cậu chẳng phải hiệp khách hay vị nhân sĩ giang hồ nào cả. Chỉ là khoảng khắc cậu quay lưng rời đi, tại sao lại tiêu sái đến vậy? Tựa hồ như ở phía sau chẳng còn điều gì có thể níu giữ cậu cả. Bao gồm cả tôi...
+{: .notice--warning .text-justify}
+
+> <cite>
+Uất Trì Cố Tử
+</cite>
+
 {% include video id="IXK-k3tAo0E" provider="youtube" danmaku=video.danmaku %}
+
 
 向江南折过花\
 Ngắt nhành hoa ở Giang Nam\

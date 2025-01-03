@@ -40,5 +40,7 @@ Kiều ơi, em đợi kiếp nào để yêu!
 {: .text-justify}
 
 > <cite>
+<a target="_blank" href="https://vanchuongthanhphohochiminh.vn/truong-nam-huong">
 Trương Nam Hương
+</a>
 </cite>
