@@ -17,19 +17,19 @@ Uất Trì Cố Tử
 
 
 向江南折过花\
-Ngắt nhành hoa ở Giang Nam\
+Ngắt một nhành hoa chốn Giang Nam\
 对春风与红蜡\
 Phối cùng gió xuân và nến đỏ\
 多情总似我\
 Người đa tình như ta\
 风流爱天下\
-Đem lòng yêu cả thiên hạ\
+Đem lòng yêu thương cả thiên hạ\
 人世肯相逢\
 Tương phùng khắp nhân thế\
 知己幸有七八\
 May mắn tri kỉ được mấy người\
 邀我拍坛去\
-Cùng ta say chén rượu này\
+Cùng ta say chén rượu nồng\
 醉眼万斗烟霞\
 Ngồi ngắm sương khói lúc chiều buông\
  \
@@ -51,26 +51,26 @@ Dấu vết gió sương năm ấy\
 Vẫn còn in hằn trên mi mắt\
  \
 当此世赢输都算闲话\
-Thắng thua trong đời đều là chuyện phiếm\
+Thắng thua ở đời đều là chuyện phiếm\
 来换杯陈酒\
 Cạn chung rượu này\
 天纵我潇洒\
 Ta tiêu diêu giữa đất trời\
 风流不曾老\
-Phong lưu là cả một đời\
+Phong lưu cả một đời\
 弹铗唱作年华\
-Gươm đao này ghi dấu năm tháng oai hùng\
+Gươm đao ghi dấu năm tháng oai hùng\
 凭我纵马去\
 Từng trải qua đao kiếm trên lưng ngựa\
 过剑底杯中觅生涯\
-Nhấp cạn chén rượu này mà ngẫm chuyện xưa\
+Nhấp cạn chén rượu mà ngẫm chuyện xưa\
  \
 当此世生死也算闲话\
-Sinh tử kiếp người đều là chuyện thường tình\
+Sinh tử kiếp người đều là chuyện thường\
 来换场豪醉\
 Chỉ cần được say chén rượu này\
 不负天纵潇洒\
-Không phụ một đời tiêu diêu tự tại\
+Không phụ một đời tiêu sái\
 风流不曾老\
 Phong lưu cả một đời\
 弹铗唱作年华\
@@ -78,7 +78,7 @@ Gươm đao ghi dấu năm tháng oai hùng\
 凭我自由去\
 Ta đây chẳng muốn làm hiệp khách\
 只做狂人不谓侠\
-Mà chỉ thích làm lãng tử tiêu diêu giữa đất trời
+Mà chỉ thích làm lãng tử ngông nghênh giữa đất trời
 {: .text-justify}
 
 > <cite>
