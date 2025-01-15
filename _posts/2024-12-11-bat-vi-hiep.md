@@ -23,8 +23,10 @@ Uất Trì Cố Tử
 *Người đa tình như ta*\
 风流爱天下\
 *Đem lòng yêu thương cả thiên hạ.*\
-人世肯相逢, 知己幸有七八\
-*Tương phùng khắp nhân thế, tri kỉ may mắn được mấy người?*\
+人世肯相逢\
+*Tương phùng khắp nhân thế*\
+知己幸有七八\
+*Tri kỉ may mắn được mấy người?*\
 邀我拍坛去, 醉眼万斗烟霞\
 *Cùng ta say chén rượu, ngồi ngắm sương khói lúc chiều buông.*\
  \
@@ -33,13 +35,15 @@ Uất Trì Cố Tử
 对西风与黄沙\
 *Đón gió tây mà đạp cát vàng.*\
 无情也似我\
-*Kẻ vô tình như ta*
+*Kẻ vô tình như ta*\
 引剑锋斩桃花\
 *Vung kiếm đoạn tuyệt mối đào hoa.*\
-人世难相逢, 谢青山催白发\
-*Nhân thế nào dễ tương phùng, núi xanh cũng héo, tóc rồi cũng bạc.*\
+人世难相逢\
+*Nhân thế nào dễ tương phùng*\
+谢青山催白发\
+*Núi xanh cũng héo, tóc rồi cũng bạc.*\
 慷慨唯霜雪, 相赠眉间一道疤\
-*Vết gió sương năm ấy, còn hằn rõ trên đôi hàng mi.*\
+*Vết gió sương năm ấy còn hằn rõ trên đôi hàng mi.*\
  \
 当此世赢输都算闲话\
 *Thắng thua ở đời đều là chuyện phiếm.*\
