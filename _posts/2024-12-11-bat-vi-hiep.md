@@ -15,70 +15,49 @@ Uất Trì Cố Tử
 
 {% include video id="IXK-k3tAo0E" provider="youtube" danmaku=video.danmaku %}
 
-
 向江南折过花\
-Ngắt một nhành hoa chốn Giang Nam\
+*Ngắt nhành hoa chốn Giang Nam*\
 对春风与红蜡\
-Phối cùng gió xuân và nến đỏ\
+*Phối gió xuân hòa cùng nến đỏ.*\
 多情总似我\
-Người đa tình như ta\
+*Người đa tình như ta*\
 风流爱天下\
-Đem lòng yêu thương cả thiên hạ\
-人世肯相逢\
-Tương phùng khắp nhân thế\
-知己幸有七八\
-May mắn tri kỉ được mấy người\
-邀我拍坛去\
-Cùng ta say chén rượu nồng\
-醉眼万斗烟霞\
-Ngồi ngắm sương khói lúc chiều buông\
+*Đem lòng yêu thương cả thiên hạ.*\
+人世肯相逢, 知己幸有七八\
+*Tương phùng khắp nhân thế, tri kỉ may mắn được mấy người?*\
+邀我拍坛去, 醉眼万斗烟霞\
+*Cùng ta say chén rượu, ngồi ngắm sương khói lúc chiều buông.*\
  \
 向江北饮过马\
-Cưỡi ngựa phi qua Giang Bắc\
+*Cưỡi ngựa phi qua Giang Bắc*\
 对西风与黄沙\
-Đón gió tây mà đạp cát vàng\
+*Đón gió tây mà đạp cát vàng.*\
 无情也似我\
-Kẻ vô tình như ta\
+*Kẻ vô tình như ta*
 引剑锋斩桃花\
-Vung kiếm đoạn tuyệt mối đào hoa\
-人世难相逢\
-Nhân thế nào dễ tương phùng\
-谢青山催白发\
-Núi xanh rồi cũng héo, tóc rồi thì cũng bạc\
-慷慨唯霜雪\
-Dấu vết gió sương năm ấy\
-相赠眉间一道疤\
-Vẫn còn in hằn trên mi mắt\
+*Vung kiếm đoạn tuyệt mối đào hoa.*\
+人世难相逢, 谢青山催白发\
+*Nhân thế nào dễ tương phùng, núi xanh cũng héo, tóc rồi cũng bạc.*\
+慷慨唯霜雪, 相赠眉间一道疤\
+*Vết gió sương năm ấy, còn hằn rõ trên đôi hàng mi.*\
  \
 当此世赢输都算闲话\
-Thắng thua ở đời đều là chuyện phiếm\
-来换杯陈酒\
-Cạn chung rượu này\
-天纵我潇洒\
-Ta tiêu diêu giữa đất trời\
-风流不曾老\
-Phong lưu cả một đời\
-弹铗唱作年华\
-Gươm đao ghi dấu năm tháng oai hùng\
-凭我纵马去\
-Từng trải qua đao kiếm trên lưng ngựa\
-过剑底杯中觅生涯\
-Nhấp cạn chén rượu mà ngẫm chuyện xưa\
+*Thắng thua ở đời đều là chuyện phiếm.*\
+来换杯陈酒，天纵我潇洒\
+*Cạn chung rượu này, ta tiêu diêu giữa đất trời.*\
+风流不曾老, 弹铗唱作年华\
+*Phong lưu cả đời, gảy đàn hát vang khúc niên hoa.*\
+凭我纵马去, 过剑底杯中觅生涯\
+*Nhấp cạn chén rượu, ngẫm chuyện đao kiếm thưở xưa.*\
  \
 当此世生死也算闲话\
-Sinh tử kiếp người đều là chuyện thường\
-来换场豪醉\
-Chỉ cần được say chén rượu này\
-不负天纵潇洒\
-Không phụ một đời tiêu sái\
-风流不曾老\
-Phong lưu cả một đời\
-弹铗唱作年华\
-Gươm đao ghi dấu năm tháng oai hùng\
-凭我自由去\
-Ta đây chẳng muốn làm hiệp khách\
-只做狂人不谓侠\
-Mà chỉ thích làm lãng tử ngông nghênh giữa đất trời
+*Sinh tử kiếp người đều là lẽ thường.*\
+来换场豪醉, 不负天纵潇洒\
+*Say chén rượu này, không phụ một đời tiêu sái.*\
+风流不曾老, 弹铗唱作年华\
+*Phong lưu cả đời, gảy đàn hát vang khúc niên hoa.*\
+凭我自由去, 只做狂人不谓侠\
+*Ta chỉ là lãng tử, ngông nghênh, tự tại giữa đất trời.*
 {: .text-justify}
 
 > <cite>
