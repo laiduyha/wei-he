@@ -33,6 +33,7 @@ hồ điệp chi mộng vi Chu dư? \
 [Chu dữ hồ điệp tắc tất hữu phân hĩ.]\
 此之謂物化\
 Thử chi vị vật hóa.
+{: .text-justify}
 
 ## Diễn giải của Thu Giang Nguyễn Duy Cần
 Xưa Trang Chu chiêm bao thấy mình là bướm vui phận làm bướm.\
@@ -41,6 +42,7 @@ Chợt tỉnh giấc, thì lại thấy mình là Chu.\
 Không biết Chu chiêm bao là bướm, hay bướm chiêm bao là Chu?\
 Chu và bướm ắt phải có tánh phận khác nhau.\
 Đó gọi là Vật hóa.
+{: .text-justify}
 
 ## Bản dịch
 Có một lần kia,\
@@ -54,6 +56,7 @@ Không biết giấc mơ Chu đã làm ra bướm,\
 Hay giấc mơ bướm đã làm ra Chu?\
 Chu và bướm ắt phải khác phận,\
 Đấy gọi là vật hóa.
+{: .text-justify}
 
 > <cite>
 <a target="_blank" href="https://vi.wikipedia.org/wiki/Nam_Hoa_kinh">
