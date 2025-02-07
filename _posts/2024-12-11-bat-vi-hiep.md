@@ -13,7 +13,7 @@ Hắn chẳng phải hiệp khách hay nhân sĩ giang hồ nào cả. Chỉ là
 Uất Trì Cố Tử
 </cite>
 
-{% include video id="IXK-k3tAo0E" provider="youtube" danmaku=video.danmaku %}
+{% include video id="l8IzkztNQCY" provider="youtube" danmaku=video.danmaku %}
 
 向江南折过花\
 *Ngắt nhành hoa chốn Giang Nam*\
