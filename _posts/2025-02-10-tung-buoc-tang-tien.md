@@ -1,11 +1,13 @@
 ---
 title: 步步高升 - Từng bước tăng tiến
+permalink: /tung-buoc-tang-tien
 layout: single
 classes: wide
-categories: duong-cua-dao
+categories: hoc-hanh
 parent:
-  label: Đường của đạo
-  url: duong-cua-dao
+  label: Học hành
+  url: hoc-hanh
+---
 ---
 
 ![alt]({{ 'assets/images/bu-bu-gao-sheng.jpg' | absolute_url }})
