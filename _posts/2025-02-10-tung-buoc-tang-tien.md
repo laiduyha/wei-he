@@ -8,7 +8,6 @@ parent:
   label: Học hành
   url: hoc-hanh
 ---
----
 
 ![alt]({{ 'assets/images/bu-bu-gao-sheng.jpg' | absolute_url }})
 > <cite>
