@@ -1,5 +1,5 @@
 ---
-title: 步步高升 - Từng bước tăng tiến
+title: Từng bước tăng tiến
 permalink: /tung-buoc-tang-tien
 layout: single
 classes: wide
@@ -12,7 +12,7 @@ parent:
 ![alt]({{ 'assets/images/bu-bu-gao-sheng.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://www.nipic.com/show/40403026.html">
-步步高升 - Từng bước tăng tiến
+《步步高升》-《Từng bước tăng tiến》
 </a>
 
 ## Quy luật
@@ -32,7 +32,7 @@ Còn khi cậu không có thử thách nào cả thì sẽ cảm thấy chán n�
 {: .text-justify}
 
 ## Học với kỹ thuật i + 1
-Khi học một ngôn ngữ nào đó hãy áp dụng kỹ thuật i + 1.
+Khi học một ngôn ngữ nào đó hãy áp dụng kỹ thuật **i \+ 1**.
 {: .text-justify}
 
 Xuất phát từ ý tưởng <a target="_blank" href="https://www.leonardoenglish.com/blog/comprehensible-input">
@@ -48,4 +48,5 @@ Where did dad **go**?\
 Is this the **place**?
 {: .text-justify}
 
-Bắt đầu thì có vẻ chậm, nhưng nó sẽ giống như hòn tuyết lăn vậy. Hãy tưởng tượng cậu đã có sẵn vốn từ với 1000 từ, thì việc luyện tập với mục tiêu **i \+ 1** chẳng phải sẽ mở ra rất nhiều cái mới sao?
+Ban đầu thì tốc độ có vẻ chậm, nhưng lâu dần nó sẽ giống như hòn tuyết lăn vậy.
+Hãy tưởng tượng cậu đã có sẵn vốn từ với 1000 từ, thì việc luyện tập với mục tiêu **i \+ 1** chẳng phải sẽ mở ra rất nhiều cái mới sao?
