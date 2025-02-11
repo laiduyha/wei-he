@@ -11,12 +11,12 @@ categories:
 Sa vào vở kịch của chúng tiên\
 Kiếp nạn Tây Du cứ nối liền\
 Số phận cam chịu làm sâu kiến\
-Cúi đầu hành phật cõi Tây Thiên.\
+Cúi đầu hành phật cõi Tây Thiên\
  \
 Tây Trúc một đường ta thẳng tiến\
 Vượt bao kiếp nạn ải vô biên\
 Rèn trí đúc tâm kiên trì chiến\
-Một ngày khuấy động Cửu Trùng Thiên.
+Một ngày khuấy động Cửu Trùng Thiên
 {: .text-justify}
 
 > <cite>
