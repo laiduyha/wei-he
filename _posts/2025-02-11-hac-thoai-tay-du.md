@@ -18,3 +18,7 @@ Vượt bao kiếp nạn ải vô biên,\
 Rèn trí đúc tâm kiên trì chiến,\
 Một ngày khuấy động Cửu Trùng Thiên.
 {: .text-justify}
+
+> <cite>
+<a target="_blank" href="https://wei-he.xyz">Wéi Hé</a>
+</cite>
