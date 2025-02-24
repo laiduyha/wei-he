@@ -44,8 +44,8 @@ Hóa ra để kiểm soát đám đông hám tiền chỉ cần hai công cụ:
 - Lý do
 
 ### Tiền
-Cậu cho họ thật nhiều tiền thì dù cho lý do có sai đến đâu đều có thể đúng.
-Một người nói sẽ nghĩ là tầm xàm, thì hai người nói, rồi trăm người có thể lung lay.
+Họ cho cậu thật nhiều tiền thì dù cho lý do có sai đến đâu đều có thể đúng.
+Một người nói sẽ nghĩ là tầm xàm, thì hai người nói, rồi trăm người bắt đầu lung lay.
 Nhưng rồi đến cả những người mình coi trọng, ông tiến sĩ này giáo sư kia đánh giá cái thể loại này có giá trị lắm.
 Thì dù giá trị quan của cậu có vững đến mức nào cũng sẽ có lúc bị lật lại.
 Bonus thêm là nếu lần lật lại này cậu thu được tiền từ nó, cậu sẽ cho rằng mình là người thức thời.
