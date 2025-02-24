@@ -130,5 +130,5 @@ Bỏ đi ego của chính mình mà chỉ nên coi đây là một cuộc dạo 
 Đừng bao giờ lấy cứng chọi cứng, dù cậu giỏi cỡ nào bạn cũng sẽ không địch lại được đám đông trừ khi cậu có thể tự tạo ra được đám đông của riêng mình.
 {: .text-justify}
 
-Hãy xem đám đông là dòng nước để cậu có thể giăng buồm mà đi, chúng ta chỉ là những người du hành trên dòng chảy của không thời gian ^^.
+Hãy xem đám đông là dòng nước để nó nâng đỡ cậu, đưa cậu đi xa hơn. Hãy tin nhưng đừng bám víu!
 {: .text-justify}
