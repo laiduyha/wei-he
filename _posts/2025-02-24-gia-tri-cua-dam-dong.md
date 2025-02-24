@@ -42,7 +42,7 @@ Vào thời điểm tớ viết bài này, mọi người vẫn đang "tranh lu�
 Tớ chỉ thấy cuộc tranh luận này giống kiểu `chó chê mèo lắm lông`. Cả hai đều tin và bấu víu vào một giá trị lửng lơ ở đâu đó không có thật.
 {: .text-justify}
 
-Những thứ lửng lơ nhưng mộng ảo đó lại mang về cho họ giá trị thật (thô ở đây là tiền), thế là họ tin vào nó tìm đủ mọi cách mọi lý do để lý giải, để biện minh và bấu víu vào nó.
+Những thứ lửng lơ nhưng mộng ảo đó lại mang về cho họ giá trị thật, thô ở đây là tiền, thế là họ tin vào nó tìm đủ mọi cách mọi lý do để lý giải, để biện minh và bấu víu vào nó.
 {: .text-justify}
 
 Thực ra để kiểm soát đám đông mong kiếm tiền từ đầu tư thì chỉ cần hai công cụ:
@@ -53,8 +53,10 @@ Thực ra để kiểm soát đám đông mong kiếm tiền từ đầu tư th�
 Họ cho cậu thật nhiều tiền thì dù cho lý do có sai đến đâu đều có thể đúng.
 Một người nói sẽ nghĩ là tầm xàm, thì hai người nói, rồi trăm người bắt đầu lung lay.
 Nhưng rồi đến cả những người mình coi trọng, ông tiến sĩ này giáo sư kia đánh giá cái thể loại này có giá trị lắm.
+{: .text-justify}
+
 Thì dù giá trị quan của cậu có vững đến mức nào cũng sẽ có lúc bị lật lại.
-Bonus thêm là nếu lần lật lại này cậu thu được tiền từ nó, cậu sẽ cho rằng mình là người thức thời.
+Thêm nữa là nếu lần lật lại này cậu thu được tiền từ nó, cậu sẽ cho rằng mình là người "thông minh", "thức thời".
 {: .text-justify}
 
 Cái gì không mua được bằng tiền thì mua được bằng nhiều tiền
@@ -71,8 +73,8 @@ Không biết trong năm nay công ty mình có những định hướng phát t
 Ô thế ra các "nhà đầu tư" bỏ tiền ra họ chỉ cần một lý do, một câu chuyện. Lý do mà giá trị quan của họ cho là đúng.
 {: .text-justify}
 
-Các anh xuất thân từ kỹ thuật thì tin vào kỹ thuật và khoa học.
-Các chị tài chính thì tin vào báo cáo tình hình kinh doanh.
+Các anh xuất thân từ kỹ thuật thì tin vào kỹ thuật và khoa học.\
+Các chị tài chính thì tin vào báo cáo tình hình kinh doanh.\
 Các cậu lính toe mới thì tin vào một niềm tin về một doanh nghiệp quật khởi, một câu chuyện thần thoại trên thương trường.
 {: .text-justify}
 
@@ -84,19 +86,32 @@ Bơm xả, nhấn chân ga, cho xe lướt. Họ chỉ tốn công depa nhưng q
 {: .text-justify}
 
 ## Khi cậu nghĩ là cậu học cao hiểu rộng nhiều khả năng cao cậu lại là đối tượng dễ bị lợi dụng
-Có người nói hiện nay đám đông kiến thức càng nhiều, khoa học càng phát triển thì đám đông sẽ càng ngày càng khôn ra. Tớ lại không nghĩ vậy. Kiến thức càng nhiều càng dễ bị lợi dụng.
+Có người nói hiện nay đám đông kiến thức càng nhiều, khoa học càng phát triển thì đám đông sẽ càng ngày càng khôn ra.
 {: .text-justify}
+
+Tớ lại không nghĩ vậy. Kiến thức càng nhiều càng dễ bị lợi dụng.
+{: .text-justify}
+
+---
 
 Bitcoin ngày xưa không có giá trị ngoại trừ là cuộc chơi tài chính. Nhưng sau vài vòng đảo qua đảo lại, giới tinh hoa họ có đủ tiền để thuê được những cái đầu kiệt xuất làm ra những sản phẩm tạo ra giá trị thực ở thị trường crypto.
 Tớ cũng không ngạc nhiên lắm nếu sau này crypto tiếp tục phát triển hoặc lụi tàn. 
+{: .text-justify}
+
 Cả hai khả năng đều có thể lý giải và có khả năng xảy ra. Tớ chỉ biết rằng bản chất nó là một công cụ đòn bẩy dựa trên niềm tin của đám đông.
 Thành công hay không thì hạ hồi phân giải.
 {: .text-justify}
 
-Đặc biệt giai đoạn hiện tại, xã hội đã được sắp xếp và phân hóa khá rõ ràng. Xã hội được vận hành theo nền kinh tế tri thức, tuy nhiên cửa thăng tiến và đi lên về mặt kinh tế và địa vị của người trẻ có tri thức càng ngày càng khó và cạnh tranh cũng càng cao. 
+---
+
+Đặc biệt giai đoạn hiện tại, xã hội đã được sắp xếp và phân hóa khá rõ ràng. Xã hội được vận hành theo nền kinh tế tri thức, tuy nhiên cửa thăng tiến và đi lên về mặt kinh tế và địa vị của người trẻ có tri thức càng ngày càng khó và cạnh tranh cũng càng cao.
+{: .text-justify}
+
 Nên nhu cầu và khát khao vươn lên, kiếm nhiều tiền của họ càng lớn. Thu nhập theo giá trị tuyệt đối của họ cũng cao. Cái mà họ cần chỉ là một lý do thực sự hợp lý theo nhận thức và thế giới quan của họ. 
 Tuy nhiên, như đã nói ở trên Lý do có thể được tạo ra bằng tiền. 
 {: .text-justify}
+
+---
 
 Giai đoạn hiện tại của tớ thì họ đánh vào FOMO, vào cảm giác bị bỏ lại, thua kém vì phải chạy sau đám đông.
 {: .text-justify}
