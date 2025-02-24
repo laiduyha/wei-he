@@ -88,7 +88,7 @@ Có người nói hiện nay đám đông kiến thức càng nhiều, khoa họ
 {: .text-justify}
 
 Bitcoin ngày xưa không có giá trị ngoại trừ là cuộc chơi tài chính. Nhưng sau vài vòng đảo qua đảo lại, giới `tinh hoa` họ có đủ tiền để thuê được những cái đầu kiệt xuất làm ra những sản phẩm tạo ra giá trị thực ở thị trường `Crypto`.
-Tớ cũng không ngạc nhiên lắm nếu với thời của cậu crypto tiếp tục phát triển hoặc lụi tàn. Cả hai khả năng đều có thể lý giải và có khả năng xảy ra vì bản chất nó là một công cụ đòn bẩy dựa trên niềm tin của đám đông.
+Tớ cũng không ngạc nhiên lắm nếu sau này crypto tiếp tục phát triển hoặc lụi tàn. Cả hai khả năng đều có thể lý giải và có khả năng xảy ra. Tớ chỉ biết rằng bản chất nó là một công cụ đòn bẩy dựa trên niềm tin của đám đông.
 Thành công hay không thì hạ hồi phân giải.
 {: .text-justify}
 
