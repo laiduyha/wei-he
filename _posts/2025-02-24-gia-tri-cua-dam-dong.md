@@ -36,10 +36,16 @@ Muốn kiếm tiền hãy nhớ một khẩu quyết:
 {: .text-justify}
 
 ## Giá trị quan của đám đông và cách đám đông bị thao túng
-Vào thời của tớ (2024) có một sự kiện.
-... 
+Vào thời điểm tớ viết bài này, mọi người vẫn đang "tranh luận" giá trị thực sự của PI Networks. Giới coin thủ thì bảo PI thủ là PI networks bản chất không phải là crypto vì không có cơ chế "xác thực" đúng nghĩa, cũng chả có tính phi tập trung. PI thủ thì cũng toàn những người mơ mộng cứ chờ xem, sau này ai giàu hơn ai sẽ biết.
+{: .text-justify}
 
-Hóa ra để kiểm soát đám đông hám tiền chỉ cần hai công cụ:
+Tớ chỉ thấy cuộc tranh luận này giống kiểu `chó chê mèo lắm lông`. Cả hai đều tin và bấu víu vào một giá trị lửng lơ ở đâu đó không có thật.
+{: .text-justify}
+
+Những thứ lửng lơ nhưng mộng ảo đó lại mang về cho họ giá trị thật (thô ở đây là tiền), thế là họ tin vào nó tìm đủ mọi cách mọi lý do để lý giải, để biện minh và bấu víu vào nó.
+{: .text-justify}
+
+Thực ra để kiểm soát đám đông mong kiếm tiền từ đầu tư thì chỉ cần hai công cụ:
 - Tiền
 - Lý do
 
