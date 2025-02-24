@@ -141,7 +141,7 @@ Giai đoạn hiện tại của tớ thì họ đánh vào FOMO, vào cảm giá
 Có vẻ sau này tớ nghĩ họ sẽ đánh vào cảm giác thỏa mãn cái tôi, tôi sẽ là một thứ gì đó khác biệt.
 {: .text-justify}
 
-Tuy nhiên cậu thử nghĩ xem ai cũng nghĩ mình khác biệt thì có chắc là những ngưới đó thực sự khác biệt????
+Tuy nhiên cậu thử nghĩ xem ai cũng nghĩ mình khác biệt thì có chắc là những người đó thực sự khác biệt????
 {: .text-justify}
 
 ## Vậy nên hành xử thế nào cho đúng?
