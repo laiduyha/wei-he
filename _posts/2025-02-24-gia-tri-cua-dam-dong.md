@@ -87,15 +87,21 @@ Bơm xả, nhấn chân ga, cho xe lướt. Họ chỉ tốn công depa nhưng q
 Có người nói hiện nay đám đông kiến thức càng nhiều, khoa học càng phát triển thì đám đông sẽ càng ngày càng khôn ra. Tớ lại không nghĩ vậy. Kiến thức càng nhiều càng dễ bị lợi dụng.
 {: .text-justify}
 
-Bitcoin ngày xưa không có giá trị ngoại trừ là cuộc chơi tài chính. Nhưng sau vài vòng đảo qua đảo lại, giới `tinh hoa` họ có đủ tiền để thuê được những cái đầu kiệt xuất làm ra những sản phẩm tạo ra giá trị thực ở thị trường `Crypto`.
-Tớ cũng không ngạc nhiên lắm nếu sau này crypto tiếp tục phát triển hoặc lụi tàn. Cả hai khả năng đều có thể lý giải và có khả năng xảy ra. Tớ chỉ biết rằng bản chất nó là một công cụ đòn bẩy dựa trên niềm tin của đám đông.
+Bitcoin ngày xưa không có giá trị ngoại trừ là cuộc chơi tài chính. Nhưng sau vài vòng đảo qua đảo lại, giới tinh hoa họ có đủ tiền để thuê được những cái đầu kiệt xuất làm ra những sản phẩm tạo ra giá trị thực ở thị trường crypto.
+Tớ cũng không ngạc nhiên lắm nếu sau này crypto tiếp tục phát triển hoặc lụi tàn. 
+Cả hai khả năng đều có thể lý giải và có khả năng xảy ra. Tớ chỉ biết rằng bản chất nó là một công cụ đòn bẩy dựa trên niềm tin của đám đông.
 Thành công hay không thì hạ hồi phân giải.
+{: .text-justify}
+
+Đặc biệt giai đoạn hiện tại, xã hội đã được sắp xếp và phân hóa khá rõ ràng. Xã hội được vận hành theo nền kinh tế tri thức, tuy nhiên cửa thăng tiến và đi lên về mặt kinh tế và địa vị của người trẻ có tri thức càng ngày càng khó và cạnh tranh cũng càng cao. 
+Nên nhu cầu và khát khao vươn lên, kiếm nhiều tiền của họ càng lớn. Thu nhập theo giá trị tuyệt đối của họ cũng cao. Cái mà họ cần chỉ là một lý do thực sự hợp lý theo nhận thức và thế giới quan của họ. 
+Tuy nhiên, như đã nói ở trên Lý do có thể được tạo ra bằng tiền. 
 {: .text-justify}
 
 Giai đoạn hiện tại của tớ thì họ đánh vào FOMO, vào cảm giác bị bỏ lại, thua kém vì phải chạy sau đám đông.
 {: .text-justify}
 
-Có vẻ sau này họ sẽ đánh vào cảm giác thỏa mãn cái tôi, tôi sẽ là một thứ gì đó khác biệt.
+Có vẻ sau này tớ nghĩ họ sẽ đánh vào cảm giác thỏa mãn cái tôi, tôi sẽ là một thứ gì đó khác biệt.
 Tuy nhiên cậu thử nghĩ xem ai cũng nghĩ mình khác biệt thì có chắc là những ngưới đó thực sự khác biệt????
 {: .text-justify}
 
