@@ -63,7 +63,7 @@ Cái gì không mua được bằng tiền thì mua được bằng nhiều ti�
 {: .notice--warning .text-justify}
 
 ### Lý do
-Có một lần tớ coi video 1 chị KOL của chứng khoán đi tới 1 cuộc họp cổ đông của doanh nghiệp nọ nói thế này:
+Có một lần tớ coi video một chị KOL của chứng khoán đi tới cuộc họp cổ đông của doanh nghiệp nọ nói thế này:
 {: .text-justify}
 
 Thực ra ở thị trường chứng khoán, nhà đầu tư không thiếu và không ngại chi tiền nhưng họ cần một lý do.
