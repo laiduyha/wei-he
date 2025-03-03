@@ -17,7 +17,7 @@ Nguyễn Bá Học
 
 Sa vào vở kịch của chúng tiên\
 Kiếp nạn Tây Du cứ tiếp liền\
-Số phận cam chịu làm sâu kiến\
+Quái yêu trên đường trăm vạn biến\
 Cúi đầu hành phật cõi Tây Thiên\
  \
 Tây Trúc một đường kiên định tiến\
