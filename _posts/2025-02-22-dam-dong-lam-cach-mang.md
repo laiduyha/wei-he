@@ -42,7 +42,7 @@ Jean Vincent, AFP (1966) "Hồng vệ binh - học sinh trung học và đại h
 Mao Trạch Đông đến cuối đời tuyên bố rằng hai thành tựu lớn nhất của đời mình là đưa Cách mạng Cộng sản đi đến chiến thắng và phát động được Cách mạng Văn hóa.
 {: .text-justify}
 
-Như học giả kiêm nhà ngoại giao Richard Solomon đã chỉ ra, Mao tìm thấy niềm vui trong sự **loạn**. Khi còn trẻ, Mao đã viết rằng để thay đổi, Trung Quốc phải *bị phá hủy và cải cách* và ông nhận ra rằng chỉ có nông dân mới có thể làm được điều đó. Mao tự coi mình là vị hầu vương dẫn dắt sự tàn phá đó.
+Mao tìm thấy niềm vui trong sự **loạn**. Khi còn trẻ, Mao đã viết rằng để thay đổi, Trung Quốc phải *bị phá hủy và cải cách* và ông nhận ra rằng chỉ có nông dân mới có thể làm được điều đó. Mao tự coi mình là vị hầu vương dẫn dắt sự tàn phá đó.
 {: .text-justify}
 
 Vào đầu những năm 1960, giữa lúc Đảng Cộng sản Trung Quốc đang có tranh cãi với Đảng Cộng sản Liên Xô, Mao đã viết một bài về hình tượng của *Tôn Ngộ Không*:
