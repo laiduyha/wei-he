@@ -175,3 +175,7 @@ Xem đám đông như nước triều có lên và có xuống. Nắm quy luật
 
 *Hãy tin nhưng đừng bám víu!*
 {: .text-justify}
+
+> <cite>
+<a target="_blank" href="https://wei-he.xyz">Wéi Hé</a>
+</cite>
