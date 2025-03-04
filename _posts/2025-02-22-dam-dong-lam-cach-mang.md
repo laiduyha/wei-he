@@ -59,7 +59,7 @@ Nay lại hoan hô Tôn đại thánh\
 Chỉ vì yêu khí mới hồi sinh.
 {: .notice--warning .text-justify}
 
-Tinh thần mà hình tượng *Tôn Ngộ Không* hướng đến đại diện cho sự *loạn*. Đó là bản lĩnh và khả năng lật đổ một trật tự đã được sắp xếp từ trước. Có vẻ vì nắm được công thức thành công bằng việc dựa trên sự "loạn" của đám đông, Mao đã đem chính công thức đó vào trong Cách mạng Văn hóa.
+Tinh thần mà hình tượng *Tôn Ngộ Không* hướng đến đại diện cho sự *loạn*. Đó là bản lĩnh và khả năng lật đổ một trật tự đã được sắp xếp từ trước. Có vẻ vì nắm được công thức thành công bằng việc dựa trên sự *loạn* của đám đông, Mao đã đem chính công thức đó vào trong Cách mạng Văn hóa.
 {: .text-justify}
 
 Tuy nhiên bản chất của cuộc Cách mạng Văn hóa này khác với cuộc Cách mạng Vô sản. Nếu Cách mạng Vô sản xuất phát từ tầng lớp dưới khi muốn xáo bài làm lại. Cái *loạn* đó có căn cứ từ bản chất mâu thuẫn trong các giai cấp xã hội. Còn ở Cách mạng Văn hóa thì cái loạn đó do chính ông tạo ra. Theo quan điểm của Mao tại thời điểm đó, *Tôn Ngộ Không* ở đây có thể được định nghĩa là bất kỳ biện pháp nào có thể làm gián đoạn các quy trình vận hành tiêu chuẩn của Đảng.
