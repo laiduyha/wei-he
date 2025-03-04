@@ -42,7 +42,7 @@ Jean Vincent, AFP (1966) "Hồng vệ binh - học sinh trung học và đại h
 Mao Trạch Đông đến cuối đời tuyên bố rằng hai thành tựu lớn nhất của đời mình là đưa Cách mạng Cộng sản đi đến chiến thắng và phát động được Cách mạng Văn hóa.
 {: .text-justify}
 
-Mao tìm thấy niềm vui trong sự **loạn**. Khi còn trẻ, Mao đã viết rằng để thay đổi, Trung Quốc phải *bị phá hủy và cải cách* và ông nhận ra rằng chỉ có nông dân mới có thể làm được điều đó. Mao tự coi mình là vị hầu vương dẫn dắt sự tàn phá đó.
+Nhiều học giả cho rằng, Mao tìm thấy niềm vui trong sự **loạn**. Khi còn trẻ, Mao đã viết rằng để thay đổi, Trung Quốc phải *bị phá hủy và cải cách* và ông nhận ra rằng chỉ có nông dân mới có thể làm được điều đó. Ông tự coi mình là vị hầu vương dẫn dắt sự tàn phá đó.
 {: .text-justify}
 
 Vào đầu những năm 1960, giữa lúc Đảng Cộng sản Trung Quốc đang có tranh cãi với Đảng Cộng sản Liên Xô, Mao đã viết một bài về hình tượng của *Tôn Ngộ Không*:
@@ -59,33 +59,33 @@ Nay lại hoan hô Tôn đại thánh\
 Chỉ vì yêu khí mới hồi sinh.
 {: .notice--warning .text-justify}
 
-Tinh thần mà hình tượng *Tôn Ngộ Không* hướng đến đại diện cho sự *loạn*. Đó là bản lĩnh và khả năng lật đổ một trật tự đã được sắp xếp từ trước. Có vẻ vì nắm được công thức thành công bằng việc dựa trên sự *loạn* của đám đông, Mao đã đem chính công thức đó vào trong Cách mạng Văn hóa.
+Tinh thần mà hình tượng *Tôn Ngộ Không* hướng đến đại diện cho sự *loạn*. Đó là bản lĩnh và khả năng lật đổ một trật tự đã được định sẵn từ trước. Có vẻ vì nắm được công thức thành công bằng việc dựa trên sự *loạn* của đám đông, nên Mao đã đem nó vào trong Cách mạng Văn hóa.
 {: .text-justify}
 
-Tuy nhiên bản chất của cuộc Cách mạng Văn hóa khác với cuộc Cách mạng Vô sản. Nếu trong Cách mạng Vô sản cái *loạn* xuất phát từ mâu thuẫn giữa các giai cấp xã hội, tầng lớp dưới lúc này muốn xáo bài làm lại. Thì với Cách mạng Văn hóa, cái *loạn* đó do chính ông tạo ra. Theo quan điểm của Mao tại thời điểm đó, *Tôn Ngộ Không* ở đây có thể được định nghĩa là bất kỳ biện pháp nào có thể làm gián đoạn các quy trình vận hành tiêu chuẩn của Đảng.
+Tuy nhiên bản chất của cuộc Cách mạng Văn hóa khác với cuộc Cách mạng Vô sản. Nếu trong Cách mạng Vô sản là cuộc cách mạng từ dưới lên. Cái *loạn* xuất phát từ mâu thuẫn giữa các giai cấp xã hội, tầng lớp dưới lúc này muốn xáo bài làm lại. Thì với Cách mạng Văn hóa lại là từ trên xuống, cái *loạn* đó do chính ông tạo ra. Theo quan điểm của Mao tại thời điểm đó, *Tôn Ngộ Không* ở đây có thể được định nghĩa là bất kỳ biện pháp nào có thể làm gián đoạn các quy trình vận hành tiêu chuẩn của Đảng.
 {: .text-justify}
 
-Lúc này ông nhóm lửa, khơi dậy mầm mống bạo loạn ở tầng lớp học sinh, sinh viên, những con người tự nghĩ mình trí thức, là cấp tiến. Giờ đây, chính giới trẻ Trung Quốc, chứ không phải những người nông dân, đã trở thành những những người bảo vệ lý tưởng Đảng, những **Hồng vệ binh** của Mao.
+Lúc này ông nhóm lửa, khơi dậy mầm mống bạo loạn ở tầng lớp học sinh, sinh viên. Những con người tự coi mình là trí thức, là cấp tiến. Giờ đây, chính giới trẻ Trung Quốc, chứ không phải những người nông dân, đã trở thành những những người bảo vệ lý tưởng Đảng, những **Hồng vệ binh** của Mao.
 {: .text-justify}
 
-Vào năm 1956, ông khuyên các trí thức *“Hãy để Trăm hoa đua nở”* và một năm sau đó lại một lần nữa khuyến khích trí thức phê bình Đảng. Là thành phần cầm quyền trong Đảng, các cán bộ không thích bị chỉ trích, và dù Mao đã hứa rằng những lời chỉ trích này sẽ chỉ giống như một cơn mưa rào, nhưng khi nó biến thành một cơn bão, ông đã nhanh chóng thanh trừng những người phê bình, chống đối.
+Vào năm 1956, ông khuyên các trí thức *“Hãy để Trăm hoa đua nở”* và một năm sau đó lại một lần nữa khuyến khích trí thức phê bình Đảng. Là thành phần cầm quyền trong Đảng, các cán bộ không thoải mái khi bị chỉ trích, và dù Mao đã hứa rằng những lời chỉ trích này sẽ chỉ giống như một cơn mưa rào, nhưng rốt cuộc khi nó biến thành một cơn bão, ông đã nhanh chóng thanh trừng những ai phê bình, chống đối.
 {: .text-justify}
 
-Ví dụ như ở chiến dịch *"Phê Đặng, phản kích làn gió lật án hữu khuynh"* do Mao khởi xướng, đã từng có một tấm áp phích có nội dung là *"Đặng, kẻ đi theo con đường tư bản chủ nghĩa không ăn năn hối cải, đã trở lại con đường này một lần nữa"*. Và dù sau này khi Cách mạng Văn hóa dần đến hồi kết, ông luôn nhấn mạnh rằng Trung Quốc sẽ thường xuyên phải trải qua những cuộc Cách mạng Văn hoá như vậy.
+Như ở chiến dịch *"Phê Đặng, phản kích làn gió lật án hữu khuynh"* do Mao khởi xướng, đã từng có một tấm áp phích có nội dung là *"Đặng, kẻ đi theo con đường tư bản chủ nghĩa không ăn năn hối cải, đã trở lại con đường này một lần nữa"*. Và dù sau này khi Cách mạng Văn hóa dần đến hồi kết, ông luôn nhấn mạnh rằng Trung Quốc sẽ thường xuyên phải trải qua những cuộc Cách mạng giống như Cách mạng Văn hoá vậy.
 {: .text-justify}
 
-Đối với Mao việc tiến hành Cách mạng liên tục, cũng giống như việc phải tắm giặt, gột rửa vậy. Sử dụng đám đông như là dòng thác lũ để cuốn trôi đi bụi bẩn bám vào hệ thống quan liêu của Đảng. Đảng cần phải được rèn luyện và gột rửa thông qua các cuộc Cách mạng như vậy.
-{: .text-justify}
-
-Sau mười năm mất mát đó, Đảng Cộng Sản Trung Quốc với Đặng Tiểu Bình dẫn dắt đã đưa đất nước thoát khỏi cảnh hỗn loạn, phát triển ổn định trong một thời gian dài để rồi trở thành cường quốc số một như ngày hôm nay.
+Đối với Mao, việc tiến hành Cách mạng liên tục cũng giống như việc phải tắm giặt, gột rửa vậy. Sử dụng đám đông như là dòng nước lũ để cuốn trôi đi cặn bẩn bám rễ vào hệ thống quan liêu của Đảng. Đảng qua đó sẽ được rèn luyện và gột rửa.
 {: .text-justify}
 
 Suy cho cùng Tôn Ngộ Không có thể đại náo Thiên Cung nhưng Thiên Đình vẫn ở đó chỉ là phải sắp xếp lại mà thôi!
 {: .text-justify}
 
+Sau mười năm mất mát đó, Đảng Cộng Sản Trung Quốc với Đặng Tiểu Bình dẫn dắt đã chuyển hướng, mở cửa. Đưa đất nước thoát khỏi cảnh hỗn loạn, phát triển ổn định trong một thời gian dài để rồi trở thành cường quốc số một như ngày hôm nay.
+{: .text-justify}
+
 ---
 
-Việc kiểm soát đám đông cũng giống như việc kiểm soát một nồi áp suất. Phải biết lúc nào nên xả van, và lúc nào nên khóa van tăng áp. Bài học của Mao nằm chỗ sau khi dẫn dắt đám đông thành công ông lại bị chính nó mê hoặc lại, để rồi đưa ra định hướng sai lầm, đẩy đất nước vào thời kỳ mười năm đen tối của Cách mạng Văn hóa.
+Việc kiểm soát đám đông cũng giống như việc kiểm soát một nồi áp suất. Phải biết lúc nào nên khóa van tăng áp, lúc nào nên xả van. Bài học của Mao nằm chỗ sau khi dẫn dắt đám đông thành công ông lại bị chính nó mê hoặc lại, để rồi đưa ra định hướng sai lầm, đẩy đất nước vào thời kỳ mười năm đen tối của Cách mạng Văn hóa.
 {: .text-justify}
 
 > <cite>
