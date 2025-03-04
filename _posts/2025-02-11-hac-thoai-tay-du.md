@@ -17,12 +17,12 @@ Nguyễn Bá Học
 
 Sa vào vở kịch của chúng tiên\
 Kiếp nạn Tây Du cứ tiếp liền\
-Quái yêu trên đường trăm vạn biến\
+Quái yêu trên đường thiên vạn biến\
 Cúi đầu hành phật cõi Tây Thiên\
  \
 Tây Trúc một đường kiên định tiến\
 Vượt bao kiếp nạn ải vô biên\
-Luyện trí đúc thân rèn tâm kiến\
+Luyện trí đúc thân định tâm kiến\
 Một ngày khuấy động Cửu Trùng Thiên
 {: .text-justify}
 
