@@ -28,9 +28,9 @@ Charles Mackay《Extraordinary Popular Delusions and the Madness of Crowds》- C
 - Tiền của người già vì sức khoẻ
 {: .text-justify}
 
-Muốn kiếm tiền hãy nhớ một khẩu quyết:
+Nhớ rằng:
 - Phụ nữ sợ xấu
-- Trẻ em sợ ngu
+- Bố mẹ sợ con dốt
 - Người già sợ chết
 - Đàn ông sợ thất bại
 {: .text-justify}
