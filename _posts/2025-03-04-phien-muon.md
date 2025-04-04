@@ -1,11 +1,6 @@
 ---
 title: Phiền Muộn
 classes: wide
-categories:
-  - duong-cua-dao
-parent:
-  label: Đường của đạo
-  url: duong-cua-dao
 ---
 
 ![alt]({{ 'assets/images/yu-men.jpg' | absolute_url}})
