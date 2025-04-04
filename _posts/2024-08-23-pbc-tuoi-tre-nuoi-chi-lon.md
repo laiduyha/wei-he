@@ -35,7 +35,6 @@ Chỉ vì lòng khiêm tốn,\
 Nên để nở dần dà.
 {: .notice--warning}
 
-
 ![alt]({{ 'assets/images/luu-day-robert-aldrich.jpg' | absolute_url }})
 
 Một bức tranh biếm họa của Pháp vẽ vua Hàm Nghi, nữ hoàng Ranavalona III của Madagascar và vua Béhanzin của Dahomey, đều là những vị hoàng đế bị lưu đày.
