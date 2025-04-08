@@ -6,7 +6,7 @@ classes: wide
 ![alt]({{ 'assets/images/yu-men.jpg' | absolute_url}})
 > <cite>
 <a target="_blank" href="https://weibo.com/2034961660/PfTnR79gU">
-小学生的诗《郁闷》- Thơ của một học sinh tiểu học《Phiền Muộn》
+小学生的诗《郁闷》- Thơ của một học sinh tiểu học《Muộn Phiền》
 </a>
 </cite>
 
