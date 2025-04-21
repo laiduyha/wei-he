@@ -18,7 +18,7 @@ There are winners and losers in meme stock investing - Kẻ thắng người thu
 </cite>
 
 ## Tại sao nhiều người lại thích đầu tư
-Đơn giản là vì họ *tham*, họ muốn kiếm được nhiều tiền hơn giá trị thực sự đến từ lao động của bản thận. 
+Đơn giản là vì họ *tham*, họ muốn kiếm được nhiều tiền hơn giá trị thực sự đến từ lao động của bản thân. 
 Họ muốn dùng khả năng phán đoán, năng lực tư duy của mình để *đầu tư* vào một món hàng gì đó. 
 Với ý nghĩ tiền đẻ ra tiền, mình bỏ vào một đồng sau này mình sẽ được một đồng rưỡi, hai ba đồng hoặc có khi tới tận mười đồng.
 {: .text-justify}
