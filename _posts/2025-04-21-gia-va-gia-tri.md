@@ -18,22 +18,16 @@ There are winners and losers in meme stock investing - Kẻ thắng người thu
 </cite>
 
 ## Tại sao nhiều người lại thích đầu tư
-Đơn giản là vì họ *tham*, họ muốn kiếm được nhiều tiền hơn giá trị thực sự đến từ lao động của bản thân. 
-Họ muốn dùng khả năng phán đoán, năng lực tư duy của mình để *đầu tư* vào một món hàng gì đó. 
-Với ý nghĩ tiền đẻ ra tiền, mình bỏ vào một đồng sau này mình sẽ được một đồng rưỡi, hai ba đồng hoặc có khi tới tận mười đồng.
+Sống ở giai đoạn kinh tế và phát triển như hiện tại, ai mà lại chẳng muốn gia tăng khả năng kiếm tiền cơ chứ.
+Dùng tiền như là đòn bẩy, dùng tư duy, óc phán đoán như là công cụ để dự đoán tương lai chính là công việc chính của đầu tư.
 {: .text-justify}
 
-Thế nên không khó hiểu khi chứng khoán, đa cấp du nhập vào một xã hội nào đó, đối tượng được nhắm tới đầu tiên chính là các cô, các dì nội trợ.
-Còn người phản đối nhiều nhất giai đoạn đầu luôn là các ông chồng. 
-Các ông chồng với tư duy logic thông thường sẽ không tin vào một thứ gì đó từ trên trời rơi xuống, chỉ cần ngồi mát mà vẫn ăn bát vàng.
+Chính vì thế đầu tư khá thú vị vì nếu đầu tư đúng cách không chỉ tạo ra sự thịnh vượng của bản thân thông qua việc tạo ra thu nhập thụ động hoặc tăng giá trị tài sản, mà còn là minh chứng cụ thể cho khả năng tư duy logic, óc phán đoán của mỗi người.
 {: .text-justify}
 
-Cho đến khi các chị kiếm được tiền tươi, thóc thật thì giá trị quan của các anh cũng sẽ bị lung lay.
-Hóa ra mình đi làm bục mặt kiếm vài đồng bạc, vẫn không bằng ngồi ở nhà tám phét, hóng chuyện, ngó nghiêng.
-{: .text-justify}
-
-Thế là họ gia nhập vào thị trường đầu tư với một tâm thế hăm hở, một sự tự tin về tư duy logic, cộng thêm một tí cay cú của kẻ đến sau.
-*Và thị trường lại có thêm một con mồi để vặt ^^.*
+Đặc biệt đối với các nền kinh tế hay thị trường đang phát triển và chưa đạt tới trạng thái bão hòa thì cơ hội sẽ có rất nhiều.
+Tuy nhiên mỗi người cần phải trang bị một số kiến thức nhất định để có cái nhìn đúng đắn về thị trường, từ đó tạo ra tâm lý vững vàng trong đầu tư, không bị giá cả làm cho dao động.
+Ở bài viết này tớ sẽ đi qua một yếu tố quan trọng đó là tâm lý đám đông trong các thị trường đầu tư này.
 {: .text-justify}
 
 ## Giá và giá trị
@@ -77,7 +71,18 @@ Meme coin cũng là một thứ tương tự như thế, giá trị thực sự 
 {: .text-justify}
 
 ## Còn những con hàng có giá trị thực thì sao?
-Lúc này cậu cần phải đo lường đám đông. Khi đám đông càng nhiều thì có nghĩa là giá và giá trị thực nhiều khả năng sẽ càng rời xa nhau.
+Có những con hàng có công thức cụ thể ví dụ như:
+- Mua một căn nhà hay một miếng đất thì giá và giá trị tài sản được tính bằng: thu nhập cho thuê hằng năm * (~3-8)%.
+- Mua một công ty thì định giá của công ty bằng 3-4 lần thu nhập 
+{: .text-justify}
+
+Nhưng có những con hàng mọi thứ vẫn chưa định hình, thì lúc này bản chất của giao dịch chính là giao dịch về niềm tin. Niềm tin rằng công ty này sau dự án đó sẽ có lãi bao nhiêu đây.
+Miếng đất này sau khi làm đường, sau khi ông lớn về thì sẽ có thể cho thuê với những loại hình này.
+{: .text-justify}
+
+
+Và do hầu hết đến từ niềm tin và kỳ vọng nên sẽ có yếu tố tâm lý tác động. Lúc này cậu cần phải đo lường đám đông. 
+Khi đám đông càng nhiều thì có nghĩa là giá và giá trị thực nhiều khả năng sẽ càng rời xa nhau.
 {: .text-justify}
 
 Chính đám đông và niềm tin đám đông sẽ đấy giá lên cao hơn giá trị thực rất nhiều. Vì đám đông với tâm lý FOMO sẽ nghe theo các chuyên gia, các KOL. Những người sẽ cho họ niềm tin và kỳ vọng vào một tương lai tươi sáng của con hàng đầu tư.
@@ -107,4 +112,4 @@ Cậu có thể nhìn khối lượng giao dịch, đi nghe ngóng xung quanh. N
 
 > <cite>
 <a target="_blank" href="https://wei-he.xyz">Wéi Hé</a>
-</cite>
+</cite>--
