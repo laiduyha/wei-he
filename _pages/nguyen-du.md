@@ -23,6 +23,11 @@ Nguyễn Du (阮攸) tự Tố Như (素如), hiệu Thanh Hiên (清軒). Ông 
 Nguyễn Du có mái tóc bạc sớm, mái tóc như biểu tượng của những chiêm nghiệm buồn thương và bế tắc. Nguyễn Du nổi tiếng với Truyện Kiều. Thế nhưng sâu thẳm bên trong ông lại có một tiếng nói khác. Một Nguyễn Du luôn hoài nghi, đau đáu về nhân sinh, về những trói buộc của thời cuộc, và cả tài năng của chính mình trong thời buổi loạn lạc ấy.
 {: .text-justify}
 
+Để hiểu thêm về tâm tư của Nguyễn Du và các sĩ phu Bắc Hà thời đó đối với thời Tây Sơn cậu có thể tham khảo video sau:
+{: .text-justify}
+
+{% include video id="C3iE6EMEk38" provider="youtube" danmaku=video.danmaku %}
+
 ## Danh sách
 {% assign posts = site.posts | where_exp: "item", "item.categories contains 'nguyen-du'" %}
 {% for post in posts %}
