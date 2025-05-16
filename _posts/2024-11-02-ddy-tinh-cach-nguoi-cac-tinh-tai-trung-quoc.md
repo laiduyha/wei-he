@@ -106,7 +106,7 @@ Từ xưa Yên Triệu đã nhiều tráng sĩ khẳng khái bi tráng. Người
 Nội thành phồn hoa không kém ai, nhưng cứ ra khỏi thành phố là thấy những ngôi nhà nông thôn Hà Bắc nghèo nàn. Người Hà Bắc quen nhìn mắt người Bắc Kinh để làm theo, nhưng học nói tiếng Bắc Kinh thế nào cũng chẳng giống.
 {: .text-justify}
 
-Thượng Hải lôi kéo vùng đồng bằng sông Trưòng Giang phát triển, nhưng Bắc Kinh lại hút hết màu mỡ bình nguyên Hoa Bắc! Hà Bắc là vườn rau lớn của Bắc Kinh. Nhiều người Hà Bắc làm gác cổng nhà, bầy của hàng bán rau tại Bắc Kinh, thường bị những người quản lý thành thị ở đó khinh thường (một nông dân Hà Bắc do phẫn nộ mà giết một nhân viên quản lý thành phố Bắc Kinh, toà án sợ mâu thuẫn xã hội gay gắt thêm nên chỉ dám xử tử hình hoãn thi hành).
+Thượng Hải lôi kéo vùng đồng bằng sông Trường Giang phát triển, nhưng Bắc Kinh lại hút hết màu mỡ bình nguyên Hoa Bắc! Hà Bắc là vườn rau lớn của Bắc Kinh. Nhiều người Hà Bắc làm gác cổng nhà, bầy của hàng bán rau tại Bắc Kinh, thường bị những người quản lý thành thị ở đó khinh thường (một nông dân Hà Bắc do phẫn nộ mà giết một nhân viên quản lý thành phố Bắc Kinh, toà án sợ mâu thuẫn xã hội gay gắt thêm nên chỉ dám xử tử hình hoãn thi hành).
 {: .text-justify}
 
 Tiếng nói các vùng tại Hà Bắc khác nhau rất lớn. Tiếng Ký Châu Hà Bắc còn khó nghe hiểu hơn tiếng Quảng Đông, còn tiếng Đường Sơn, tiếng Trương Bắc đều có đặc sắc riêng, tiếng Tần Hoàng đảo, Thừa Đức... lại gần với tiếng vùng Đông Bắc.
