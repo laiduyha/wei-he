@@ -18,92 +18,79 @@ There are winners and losers in meme stock investing - Kẻ thắng người thu
 </cite>
 
 ## Tại sao nhiều người lại thích đầu tư
-Sống ở giai đoạn hiện tại, ai mà lại chẳng muốn gia tăng thu nhập.
+Trong bối cảnh kinh tế hiện nay, việc gia tăng thu nhập là mong muốn của rất nhiều người.
+Đầu tư, với việc sử dụng tiền như một đòn bẩy và tư duy, khả năng phán đoán như công cụ để dự đoán tương lai, mang đến sự hấp dẫn đặc biệt.
 {: .text-justify}
 
-Dùng tiền như là đòn bẩy, dùng tư duy, óc phán đoán là công cụ để dự đoán tương lai chính là công việc chính của đầu tư.
+Nếu được thực hiện một cách thông minh, đầu tư có thể tạo ra nguồn thu nhập thụ động và làm tăng giá trị tài sản.
+Hơn thế nữa, một quyết định đầu tư đúng đắn còn thể hiện khả năng tư duy logic và óc phán đoán của mỗi cá nhân.
 {: .text-justify}
 
-Chính vì thế đầu tư khá thú vị. Nếu đầu tư đúng cách sẽ tạo ra thu nhập thụ động và làm tăng giá trị tài sản.
-Hơn thế nữa quyết định đầu tư đúng còn là minh chứng cụ thể cho khả năng tư duy logic, óc phán đoán của mỗi người.
+Đặc biệt, ở các thị trường đang phát triển, nơi tiềm năng chưa được khai thác hết, cơ hội đầu tư thường rất đa dạng.
+Tuy nhiên, thị trường đầu tư luôn chịu tác động của nhiều yếu tố nhiễu, trong đó tâm lý đám đông đóng một vai trò quan trọng.
 {: .text-justify}
 
-Đối với các thị trường đang phát triển, chưa đạt tới trạng thái bão hòa thì cơ hội đầu tư rất nhiều.
-{: .text-justify}
-
-Nhưng trong thị trường đầu tư luôn có các yếu tố nhiễu tác động tới giá cả, trong đó tâm lý đám đông đóng vai trò quan trọng.
-Chính nó là tác nhân chính gây ra sự sai biệt giữa giá và giá trị, từ đó có thể ảnh hưởng tới quyết định khi đầu tư.
+Chính yếu tố này thường gây ra sự khác biệt giữa giá cả và giá trị thực, từ đó ảnh hưởng đến các quyết định đầu tư.
 {: .text-justify}
 
 ## Vậy giá và giá trị là gì?
-Giá và giá trị là hai khái niệm hoàn toàn khác nhau, nhưng đa phần mọi người nhầm tưởng giữa hai khái niệm này và coi nó là một.
-Khi mọi người nói về giá của một loại hàng hóa đi lên hoặc xuống họ thường đem giá trị của nó ra để bàn luận.
+Giá và giá trị là hai khái niệm khác biệt, nhưng nhiều người thường nhầm lẫn và coi chúng là một.
+Khi nói về sự tăng giảm của giá một loại hàng hóa, người ta thường liên hệ đến giá trị của nó.
 {: .text-justify}
 
-Có những thứ đúng thật là giá và giá trị rất sát nhau và phụ thuộc hoàn toàn vào tình hình cung cầu của thị trường.
+Đối với một số mặt hàng, đặc biệt là các nhu yếu phẩm được phân phối qua chuỗi cung ứng, giá và giá trị thường khá sát nhau và phụ thuộc lớn vào tình hình cung cầu của thị trường.
 {: .text-justify}
 
-Đó thường là những mặt hàng thiên về nhu yếu phẩm, những mặt hàng từ nơi sản xuất đến tay người tiêu dùng thông qua các chuỗi giá trị cung ứng.
+Tuy nhiên, cũng có những trường hợp giá và giá trị có thể cùng một xu hướng nhưng lại cách xa nhau đáng kể.
+Điều này xảy ra khi các giao dịch được thúc đẩy bởi kỳ vọng và niềm tin vào tương lai của đám đông.
 {: .text-justify}
 
-Tuy nhiên cũng có những thứ mà giá và giá trị, mặc dù có thể vẫn cùng một xu hướng, lại cách nhau rất xa.
-Điều này xảy ra vì chúng được mua bán thông qua sự kỳ vọng và niềm tin tương lai của đám đông.
+Lúc này,  **Giá = Giá trị thực + Giá kỳ vọng.**.
 {: .text-justify}
 
-Giá lúc này sẽ là **giá trị thực + giá kỳ vọng**.
-{: .text-justify}
-
-Giá kỳ vọng đa phần bị ảnh hưởng bới đám đông, đặc biệt là ở các thị trường có tính chất đầu cơ cao như chứng khoán hay đất đai.
+Giá kỳ vọng phần lớn bị ảnh hưởng bởi tâm lý đám đông, đặc biệt là ở các thị trường có tính đầu cơ cao như chứng khoán hay bất động sản.
 {: .text-justify}
 
 ## Một số ví dụ của những mặt hàng không có giá trị thực
-Có một thực tế rằng chúng ta phản ứng rất nhanh với những gì xảy ra ở hiện tại.
-Tâm lý đa phần của mọi người chỉ quan tâm những gì đang diễn ra, như hôm nay giá lên thế nào, hôm qua giá xuống ra sao.
-Mà họ thường bỏ qua việc theo dõi hiện tượng trong một khoảng thời gian dài.
+Chúng ta thường có xu hướng phản ứng nhanh với những sự kiện hiện tại, quan tâm đến biến động giá hàng ngày mà bỏ qua việc theo dõi diễn biến trong một khoảng thời gian dài.
 {: .text-justify}
 
-Lừa đảo đa cấp với mô hình Ponzi là một ví dụ.
-Mô hình này hoạt động với một giá trị thực không lớn, nhưng khả năng mở rộng và bơm thổi kỳ vọng vào tương lai lại cao.
-Ai ai cũng điên cuồng trong guồng quay tăng giá chóng mặt cùng với sự cộng hưởng của cộng đồng xung quanh.
-Mà không biết rằng bản chất của mô hình là lấy giá thu được của người sau trả cho người trước.
-Ponzi sẽ sập khi hết đà mở rộng và lúc này giá trị thực không đủ sức gánh nổi chi phí của cả hệ thống.
+Các mô hình lừa đảo đa cấp, điển hình là mô hình Ponzi, là một ví dụ điển hình.
+Mô hình này có giá trị thực rất nhỏ, nhưng lại có khả năng mở rộng và tạo ra kỳ vọng lớn về lợi nhuận trong tương lai.
+Những người tham gia bị cuốn vào vòng xoáy tăng giá nhanh chóng, được củng cố bởi sự tham gia của cộng đồng xung quanh, mà không nhận ra bản chất của mô hình là lấy tiền của người sau trả cho người trước.
+Mô hình Ponzi sẽ sụp đổ khi không còn đủ người mới tham gia, và giá trị thực không đủ để duy trì chi phí của toàn hệ thống.
 {: .text-justify}
 
-Crypto cũng là một biến thể như vậy.
-Xuất phát từ một ý tưởng viễn vông, một niềm tin vào một trật tự mới thay thế trật tự tài chính hiện tại.
-Sau đó họ tạo ra những phần thưởng hậu hĩnh cho những người tham gia sớm.
-Chính điều đó đã kích hoạt tâm lý FOMO, bầy đàn của đám đông theo sau.
+Tiền điện tử (Crypto) cũng có thể được xem là một biến thể tương tự.
+Bắt nguồn từ một ý tưởng về một hệ thống tài chính mới, một niềm tin vào sự thay thế trật tự tài chính hiện tại, những người tham gia sớm được hưởng lợi nhuận lớn.
+Điều này kích hoạt tâm lý FOMO (Fear Of Missing Out) và hiệu ứng bầy đàn, thu hút đám đông tham gia theo.
 {: .text-justify}
 
 ## Vậy đâu là những mặt hàng có giá trị thực?
-Thực ra ở hầu hết ngành nghề, chính cung cầu của thị trường sau một thời gian điều chỉnh sẽ thiết lập được điểm cân bằng, và định hình được công thức lợi nhuận tương đối:
-- Giá của một bất động sảnh được tính bằng thu nhập cho thuê hằng năm * (~3-8)%.
-- Chỉ số P/E (Price–earnings ratio) ở từng ngành hàng, từng thị trường cụ thể.
+Thực tế, ở hầu hết các ngành nghề, sau một thời gian điều chỉnh, quy luật cung cầu của thị trường sẽ thiết lập một điểm cân bằng và hình thành các công thức lợi nhuận tương đối ổn định. Ví dụ:
+- Giá của một bất động sản có thể được ước tính bằng thu nhập cho thuê hàng năm nhân với một hệ số nhất định (ví dụ: 3-8 lần).
+- Chỉ số P/E (Price-to-Earnings ratio) có sự khác biệt giữa các ngành và các thị trường cụ thể.
 {: .text-justify}
 
-Nhưng nước trong thì làm gì có cá, nước đục thì cò mới có ăn.
-Hầu hết mọi người lại thích mua bán ở những thị trường khi mọi thứ vẫn chưa định hình.
-Lúc này bản chất của giao dịch chính là mua bán, trao đổi về niềm tin.
+Tuy nhiên, có một nghịch lý là nhiều người lại thích giao dịch ở những thị trường mà mọi thứ chưa rõ ràng.
+Lúc này, bản chất của giao dịch chủ yếu là mua bán niềm tin và kỳ vọng.
 {: .text-justify}
 
-Mà chính vì hầu hết quyết định đầu tư đến từ niềm tin và kỳ vọng nên sẽ có yếu tố tâm lý tác động.
-Trong đó tâm lý đám đông, tâm lý của những người cùng tham gia trên thị trường, đóng vai trò quan trọng.
-Khi đám đông càng nhiều thì có nghĩa là giá và giá trị thực nhiều khả năng sẽ càng rời xa nhau.
+Chính vì phần lớn quyết định đầu tư xuất phát từ niềm tin và kỳ vọng, yếu tố tâm lý đóng vai trò rất quan trọng.
+Trong đó, tâm lý đám đông, hay tâm lý của những người cùng tham gia thị trường, có ảnh hưởng lớn nhất. Khi đám đông càng lớn, khả năng giá và giá trị thực càng xa nhau càng cao.
 {: .text-justify}
 
-Chính đám đông khi hưng phấn, tranh nhau mua, sẽ đẩy giá lên cao hơn giá trị thực.
-{: .text-justify}
-
-Không chỉ vậy, khi đám đông hoảng loạn, tranh nhau bán bán tháo, khiến giá giảm sâu so với giá trị thực.
+Sự hưng phấn của đám đông, việc tranh nhau mua vào, sẽ đẩy giá lên cao hơn giá trị thực.
+Ngược lại, khi đám đông hoảng loạn và bán tháo, giá có thể giảm sâu xuống dưới giá trị thực.
 {: .text-justify}
 
 ## Vậy nên phản ứng như thế nào?
-Cậu nên cẩn trọng với tâm lý đám đông khi mua vào, và tận dụng hiệu ứng đám đông khi bán ra.
-Cậu có thể nhìn khối lượng giao dịch, hoặc đi nghe ngóng xung quanh.
+Cậu nên thận trọng với tâm lý đám đông khi đưa ra quyết định mua vào và có thể tận dụng hiệu ứng đám đông khi bán ra.
+Cậu có thể quan sát khối lượng giao dịch hoặc lắng nghe ý kiến từ nhiều nguồn khác nhau.
 {: .text-justify}
 
-Nếu có nhiều người đang bàn tán về nó, nhiều sự kiện được tổ chức, các KOL xuất hiện với tần suất dày đặc.
-Khả năng cao là đám đông đã được kích hoạt.
+Nếu cậu nhận thấy có nhiều người đang bàn tán sôi nổi về một loại tài sản, nhiều sự kiện liên quan được tổ chức, và các KOL (Key Opinion Leaders) xuất hiện với tần suất dày đặc, 
+thì rất có khả năng tâm lý đám đông đã được kích hoạt.
 {: .text-justify}
 
 > <cite>
