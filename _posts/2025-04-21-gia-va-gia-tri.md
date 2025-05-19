@@ -78,7 +78,7 @@ Chính điều đó đã kích hoạt tâm lý FOMO, bầy đàn của đám đ�
 ## Vậy đâu là những mặt hàng có giá trị thực?
 Thực ra ở hầu hết ngành nghề, chính cung cầu của thị trường sau một thời gian điều chỉnh sẽ thiết lập được điểm cân bằng, và định hình được công thức lợi nhuận tương đối:
 - Giá của một bất động sảnh được tính bằng thu nhập cho thuê hằng năm * (~3-8)%.
-- Giá của một công ty phần mềm thì bằng ~3-4 lần doanh thu.
+- Chỉ số P/E (Price–earnings ratio) ở từng ngành hàng, từng thị trường cụ thể.
 {: .text-justify}
 
 Nhưng nước trong thì làm gì có cá, nước đục thì cò mới có ăn.
