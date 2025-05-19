@@ -10,7 +10,9 @@ parent:
 ---
 
 ![alt]({{ 'assets/images/jian-chi-kien-tri.jpg' | absolute_url}})
-
+> <cite>
+坚持 - Preserve - Kiên Trì
+</cite>
 
 李嘉诚说：\
 “鸡蛋，从外打破是食物，从内打破是生命。\
@@ -30,37 +32,50 @@ Cảm giác thành tựu, ngọn lửa thôi thúc chúng ta vượt qua thử t
 {: .text-justify}
 
 ## Tầm quan trọng của cảm giác thành tựu
-Cảm giác thành tựu không chỉ là niềm vui thoáng qua mà còn mang lại nhiều lợi ích sâu sắc:
+Cảm giác thành tựu không chỉ là niềm vui thoáng qua mà còn mang lại nhiều lợi ích sâu sắc.
+Mỗi thành công nhỏ sẽ củng cố niềm tin vào khả năng bản thân.
+Chẳng hạn, khi cậu giải được một bài toán khó, cậu tự tin rằng mình có thể giải được những bài toán khác cùng dạng.
 {: .text-justify}
 
-- **Tăng cường sự tự tin:** Mỗi thành công, dù nhỏ, củng cố niềm tin vào khả năng bản thân, giúp ta mạnh dạn theo đuổi những mục tiêu lớn hơn.
-- **Thúc đẩy động lực:** Cảm giác hoàn thành tạo ra động lực nội tại, thôi thúc ta tiếp tục hành động và chinh phục những đỉnh cao mới.
-- **Mang lại ý nghĩa cuộc sống:** Thành tựu mang đến cảm giác cuộc sống có mục đích, những nỗ lực bỏ ra có giá trị, góp phần tạo nên một cuộc đời ý nghĩa.
-- **Xây dựng lòng kiên trì:** Vượt qua khó khăn để đạt được thành công rèn luyện sự kiên trì, giúp ta không bỏ cuộc trước những thử thách.
+Cảm giác hoàn thành sẽ tạo động lực để tiếp tục chinh phục những đỉnh cao mới.
+Sau khi hoàn thành một mục tiêu, cậu sẽ có động lực để bắt đầu một mục tiêu mới.
+Cảm giác đạt được thành tựu sẽ thúc đẩy chúng ta, tạo cho chúng ta có động lực để sống có mục đích và ý nghĩa hơn.
+{: .text-justify}
+
+Cảm giác thành tựu giúp giảm căng thẳng, lo âu, và một mặt nào đó nó mang lại sự hài lòng đối với chính bản thân.
+Khi cậu đạt được một mục tiêu quan trọng, cậu sẽ cảm thấy hạnh phúc và thỏa mãn.
 {: .text-justify}
 
 ## Vì sao vượt khổ dễ hơn vượt sướng
-Nhiều người thấy rằng vượt qua nghịch cảnh mang lại cảm giác thành tựu lớn hơn so với việc tận hưởng những điều dễ dàng. Đó là bởi vì:
+Nhiều người thấy rằng vượt qua nghịch cảnh mang lại cảm giác thành tựu lớn hơn so với việc tận hưởng những điều dễ dàng.
 {: .text-justify}
 
-- **Sự trân trọng thành quả:** Khi đối mặt với khó khăn, ta buộc phải nỗ lực hết mình, do đó thành quả đạt được càng trở nên quý giá và đáng trân trọng.
-- **Khai phá sức mạnh nội tại:** Vượt khổ giúp ta khám phá những khả năng tiềm ẩn của bản thân, mang lại cảm giác tự hào và khẳng định bản thân mạnh mẽ.
-- **So sánh tích cực:** Vượt qua khó khăn giúp ta nhìn nhận rõ hơn giá trị của thành công hiện tại, tạo ra sự so sánh tích cực và tăng thêm động lực.
-- **Tính đột phá và thay đổi:*** Vượt qua nghịch cảnh thường mang đến những thay đổi lớn, những bước ngoặt quan trọng trong cuộc đời. Chí
+Đó là bởi vì nỗ lực vượt qua khó khăn làm tăng giá trị và cảm giác thỏa mãn khi đạt tới thành công.
+Khi cậu phải nỗ lục để đạt được một điều gì đó, cậu sẽ trân trọng nó hơn khi nó đến dễ dàng.
 {: .text-justify}
 
-Trong khi đó, "vượt sướng" có thể khiến ta không trân trọng những gì mình có, dễ rơi vào trạng thái nhàm chán và thiếu động lực.
+Vượt khổ giúp khám phá và khẳng định khả năng tiềm ẩn của bản thân.
+Khi cậu đối mặt với một thử thách lớn, cậu có thể ngạc nhiên về sức mạnh và khả năng phục hồi của mình.
+Thành công vì thế mang lại cảm giác thỏa mãn lớn hơn.
+{: .text-justify}
+
+Nghịch cảnh thường dẫn đến những thay đổi mang tính bước ngoặt.
+Một thất bại lớn có thể buộc cậu phải thay đổi hướng đi và cuối cùng dẫn đến một thành công lớn hơn.
+Trong khi đó, *"vượt sướng"* có thể dẫn đến nhàm chán và thiếu động lực.
 {: .text-justify}
 
 ## Lựa chọn chiến lược để cảm nhận được thành tựu trong suốt quá trình
-Để việc học hành luôn tràn đầy cảm giác thành tựu, chúng ta có thể áp dụng những chiến lược sau:
+Để cả quá trình nỗ lực luôn cảm nhận được cảm giác thành tựu, cậu nên xác định mục tiêu rõ ràng để kiên trì theo đuổi.
+Mục tiêu cần đủ thách thức nhưng không quá sức.
 {: .text-justify}
 
-- **Xác định mục tiêu rõ ràng để kiên trì theo đuổi.** Mục tiêu cần đủ thách thức nhưng không quá sức.
-- **Chia nhỏ mục tiêu thành các nhiệm vụ cụ thể, có thời hạn và đo lường được.** Điều này giúp cậu dễ dàng theo dõi tiến độ và cảm nhận được sự tiến bộ của mình qua từng giai đoạn.
-- **Tập trung vào quá trình học tập và rèn luyện, không chỉ chú trọng vào kết quả cuối cùng.** Hãy tìm tòi những phương pháp học tập hiệu quả, tích cực tham gia vào các hoạt động học tập và không ngừng rèn luyện các kỹ năng cần thiết.
-- **Chủ động tìm kiếm những thử thách và cơ hội để phát triển bản thân.** Đừng ngại đối mặt với những khó khăn, hãy xem đó là cơ hội để học hỏi và trưởng thành.
-- **Ghi nhận và ăn mừng những thành công, dù là nhỏ nhất.** Việc tự thưởng cho bản thân khi đạt được những mục tiêu nhỏ sẽ giúp bạn duy trì động lực và cảm thấy tự hào về những nỗ lực của mình.
+Sau đó tập trung vào quá trình học tập và rèn luyện, không chỉ chú trọng vào kết quả cuối cùng.
+Hãy tìm tòi những phương pháp học tập hiệu quả, không ngừng rèn luyện các kỹ năng cần thiết.
+{: .text-justify}
+
+Chủ động tìm kiếm những thử thách và cơ hội để phát triển bản thân
+Đừng ngại đối mặt với những khó khăn, hãy xem đó là cơ hội để học hỏi và trưởng thành.
+Hãy nhảy khỏi vùng an toàn của mình khi có thể!
 {: .text-justify}
 
 ---
