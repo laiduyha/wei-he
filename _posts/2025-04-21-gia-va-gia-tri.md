@@ -45,7 +45,7 @@ Tuy nhiên, cũng có những trường hợp giá và giá trị có thể cùn
 Điều này xảy ra khi các giao dịch được thúc đẩy bởi kỳ vọng và niềm tin vào tương lai của đám đông.
 {: .text-justify}
 
-Lúc này,  **Giá = Giá trị thực + Giá kỳ vọng.**.
+Lúc này,  **Giá = Giá trị thực + Giá kỳ vọng**.
 {: .text-justify}
 
 Giá kỳ vọng phần lớn bị ảnh hưởng bởi tâm lý đám đông, đặc biệt là ở các thị trường có tính đầu cơ cao như chứng khoán hay bất động sản.
