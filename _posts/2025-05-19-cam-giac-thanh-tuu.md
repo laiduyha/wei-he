@@ -16,7 +16,7 @@ parent:
 李嘉诚说：\
 “鸡蛋，从外打破是食物，从内打破是生命。\
 人生亦是，从外打破是压力，从内打破是成长。”\
- \tun
+ \
 Lý Gia Thành:\
 "Trứng, vỡ từ bên ngoài là thức ăn, vỡ từ bên trong là sinh mệnh.\
 Đời người cũng vậy, vỡ từ bên ngoài là áp lực, vỡ từ bên trong là trưởng thành."
