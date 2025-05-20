@@ -17,7 +17,7 @@ parent:
 李嘉诚说：\
 “鸡蛋，从外打破是食物，从内打破是生命。\
 人生亦是，从外打破是压力，从内打破是成长。”\
- \
+ \tun
 Lý Gia Thành:\
 "Trứng, vỡ từ bên ngoài là thức ăn, vỡ từ bên trong là sinh mệnh.\
 Đời người cũng vậy, vỡ từ bên ngoài là áp lực, vỡ từ bên trong là trưởng thành."
@@ -51,7 +51,7 @@ Nhiều người thấy rằng vượt qua nghịch cảnh mang lại cảm giá
 {: .text-justify}
 
 Đó là bởi vì nỗ lực vượt qua khó khăn làm tăng giá trị và cảm giác thỏa mãn khi đạt tới thành công.
-Khi cậu phải nỗ lục để đạt được một điều gì đó, cậu sẽ trân trọng nó hơn khi nó đến dễ dàng.
+Khi cậu phải nỗ lực để đạt được một điều gì đó, cậu sẽ trân trọng nó hơn.
 {: .text-justify}
 
 Vượt khổ giúp khám phá và khẳng định khả năng tiềm ẩn của bản thân.

@@ -16,7 +16,8 @@ parent:
 </a>
 
 ## Quy luật
-Khi học một điều gì đó mới, phát triển kỹ năng của chính mình đừng bao giờ đặt quá nhiều thử thách, hãy thực hiện nó từng bước từng bước một.
+Khi bắt đầu học một điều gì đó mới hoặc muốn phát triển kỹ năng của chính mình, cậu đừng nên đặt ra những thử thách quá khó khăn. Hãy thực hiện mọi thứ từng bước một.
+
 {: .text-justify}
 
 ![alt]({{ 'assets/images/the-psychology-of-optimal-experience-mihaly-csikszentmihalyi.jpg' | absolute_url }})
@@ -25,21 +26,20 @@ Khi học một điều gì đó mới, phát triển kỹ năng của chính m�
 From Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi on page 74.
 </a>
 
-Khi cậu đặt ra thử thách quá mức, đầu óc sẽ cảm thấy áp lực, gây ra căng thẳng không đáng có.
-{: .text-justify}
-
-Còn khi cậu không có thử thách nào cả thì sẽ cảm thấy chán nản.
+Nếu cậu đặt ra những mục tiêu quá cao, đầu óc sẽ dễ bị áp lực, dẫn đến những căng thẳng không đáng có.
+Ngược lại, nếu không có bất kỳ thử thách nào, cậu sẽ cảm thấy nhàm chán.
 {: .text-justify}
 
 ## Học với kỹ thuật i + 1
 Khi học một ngôn ngữ nào đó hãy áp dụng kỹ thuật **i \+ 1**.
 {: .text-justify}
 
-Xuất phát từ ý tưởng <a target="_blank" href="https://www.leonardoenglish.com/blog/comprehensible-input">
-comprehensible input</a> của Stephen Krashan khi ông nói rằng khi bạn đang ở trình độ độ **i** thì bạn nên hướng đến mục tiêu **i \+ 1**.
+Kỹ thuật này xuất phát từ ý tưởng <a target="_blank" href="https://www.leonardoenglish.com/blog/comprehensible-input">
+comprehensible input</a> của Stephen Krashan. Ông cho rằng khi trình độ của cậu đang ở mức **i** cậu nên hướng tới mục tiêu ở mức **i \+ 1**.
 {: .text-justify}
 
-Lấy ví dụ trong cách học tiếng anh: giả sử cậu đã biết những cấu trúc when, where, is đơn giản thì việc tiếp thu thêm từ mới từ những câu sau hoàn toàn nằm trong khả năng của cậu.
+Ví dụ, trong việc học tiếng Anh: giả sử cậu đã quen với các cấu trúc đơn giản như "when", "where", "is", thì việc tiếp thu thêm từ mới từ những câu sau đây hoàn toàn nằm trong khả năng của cậu:
+
 {: .text-justify}
 
 Where is the **washroom**?\
@@ -48,5 +48,10 @@ Where did dad **go**?\
 Is this the **place**?
 {: .text-justify}
 
-Ban đầu thì tốc độ có vẻ chậm, nhưng lâu dần nó sẽ giống như hòn tuyết lăn vậy.
-Hãy tưởng tượng cậu đã có sẵn vốn từ với 1000 từ, thì việc luyện tập với mục tiêu **i \+ 1** chẳng phải sẽ mở ra rất nhiều cái mới sao?
+Mặc dù ban đầu tốc độ có vẻ chậm, nhưng theo thời gian, nó sẽ giống như hiệu ứng hòn tuyết lăn, tích lũy và mang lại kết quả lớn.
+Hãy tưởng tượng cậu đã có vốn từ vựng 1000 từ, việc luyện tập với mục tiêu **i \+ 1** sẽ mở ra rất nhiều cơ hội học hỏi những điều mới.
+{: .text-justify}
+
+> <cite>
+<a target="_blank" href="https://wei-he.xyz">Wéi Hé</a>
+</cite>
