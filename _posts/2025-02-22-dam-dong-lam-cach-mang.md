@@ -85,7 +85,8 @@ Suy cho cùng Tôn Ngộ Không có thể đại náo Thiên Cung nhưng Thiên 
 Sau mười năm mất mát đó, Đảng Cộng Sản Trung Quốc với Đặng Tiểu Bình dẫn dắt đã chuyển hướng, mở cửa. Đưa đất nước thoát khỏi cảnh hỗn loạn, phát triển ổn định trong một thời gian dài để rồi trở thành cường quốc số một như ngày hôm nay.
 {: .text-justify}
 
-## Kết
+---
+
 Việc kiểm soát đám đông cũng giống như việc kiểm soát một nồi áp suất. Phải biết lúc nào nên khóa van tăng áp, lúc nào nên xả van. Bài học của Mao nằm chỗ sau khi dẫn dắt đám đông thành công ông lại bị chính nó mê hoặc lại, để rồi đưa ra định hướng sai lầm, đẩy đất nước vào thời kỳ mười năm đen tối của Cách mạng Văn hóa.
 {: .text-justify}
 

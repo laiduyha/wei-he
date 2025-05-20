@@ -48,8 +48,8 @@ thoải mái hiện tại với những khó khăn và đôi khi là sự hoang 
 
 Một số điểm cần lưu ý:
 - Hãy nhớ rằng cậu đang bắt đầu từ những kiến thức cụ thể (các nút lá). Cố gắng xác định mục tiêu là những kiến thức tổng quát hơn (các nút phía trên) và đừng để những chi tiết phức tạp làm xao nhãng mục tiêu tổng quát hóa cuối cùng.
-- <a target="_blank" href="/shu-ha-ri">Shu Ha Ri</a>: Mô hình này giúp cậu hiểu rõ quá trình học tập theo từng giai đoạn cụ thể.
-- <a target="_blank" href="/5w1h">5W1H (Why --> [How, What] --> [When, Where])</a>: Phương pháp này giúp cậu xác định những kiến thức nào cần chú ý, cần ghi nhớ và những kiến thức nào có thể bỏ qua trong quá trình học.
+- *Shu Ha Ri:* Mô hình này giúp cậu hiểu rõ quá trình học tập theo từng giai đoạn cụ thể.
+- *5W1H (Why --> [How, What] --> [When, Where]):* Phương pháp này giúp cậu xác định những kiến thức nào cần chú ý, cần ghi nhớ và những kiến thức nào có thể bỏ qua trong quá trình học.
 {: .text-justify}
 
 Ví dụ, sau khi cậu đã học cách sửa chữa các dòng xe tay ga cụ thể như Lead, SH, cậu có thể tổng quát hóa kiến thức đó thành kiến thức chung về "Sửa chữa xe tay ga".
@@ -150,7 +150,7 @@ Nó cũng có thể khiến người học lạc lối và dẫn đến tình tr
 
 Hơn nữa, phương pháp này đòi hỏi cậu đôi khi phải gạt bỏ những gì đã biết để tiếp nhận những kiến thức mới, thậm chí trái ngược hoàn toàn với những gì đã quen thuộc.
 Đây là một kỹ năng khó vì nó đi ngược lại phản ứng tự nhiên của người học là liên hệ kiến thức mới với kiến thức đã có (phương pháp top-down).
-Kỹ thuật <a target="_blank" href="/do-tra">Đổ Trà (Emptying the Cup)</a> có thể giúp cậu rèn luyện tư duy khi áp dụng phương pháp này.
+Kỹ thuật *Đổ Trà (Emptying the Cup)* có thể giúp cậu rèn luyện tư duy khi áp dụng phương pháp này.
 {: .text-justify}
 
 Vì vậy, tớ cho rằng phương pháp này chỉ phù hợp với những người đã có một nền tảng kiến thức vững chắc, có khả năng tư duy phản biện và đặc biệt là có động lực mạnh mẽ để khám phá những điều mới.
@@ -188,6 +188,10 @@ flowchart
   end
 ```
 
-## Kết
+---
+
 Hy vọng rằng cậu sẽ nhận ra và xây dựng được cây kiến thức của riêng mình, từ đó vẽ ra được bản đồ tri thức cho chính cậu.
 {: .text-justify}
+> <cite>
+<a target="_blank" href="https://wei-he.xyz">Wéi Hé</a>
+</cite>

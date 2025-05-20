@@ -78,8 +78,10 @@ Hãy nhảy khỏi vùng an toàn của mình khi có thể!
 {: .text-justify}
 
 ---
-*Để đạt được thành công, chúng ta cần có sự kiên trì theo đuổi mục tiêu, và cảm giác thành tựu chính là nguồn động lực nuôi dưỡng sự kiên trì đó.*
+
+Để đạt được thành công, chúng ta cần có sự kiên trì theo đuổi mục tiêu, và cảm giác thành tựu chính là nguồn động lực nuôi dưỡng sự kiên trì đó.
 {: .text-justify}
+
 > <cite>
 <a target="_blank" href="https://wei-he.xyz">Wéi Hé</a>
 </cite>

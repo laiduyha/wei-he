@@ -88,8 +88,13 @@ Theo Whitney Johnson《Smart Growth: How to Grow Your People to Grow Your Compan
 </a>
 </cite>
 
-## Kết
+---
+
 Hãy không ngừng tìm kiếm những điều mới mẻ để trở thành phiên bản hoàn thiện hơn của chính mình.
 Hãy như những con sóng lớp lớp nối tiếp nhau vào bờ.
 Chúc cậu thành công!
 {: .text-justify}
+
+> <cite>
+<a target="_blank" href="https://wei-he.xyz">Wéi Hé</a>
+</cite>

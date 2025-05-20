@@ -83,7 +83,7 @@ Cái gì không mua được bằng tiền thì mua được bằng nhiều ti�
 {: .notice--warning .text-justify}
 
 ### Lý do
----
+
 Có một lần tớ coi video của một chị KOL chứng khoán đi tới cuộc họp cổ đông của doanh nghiệp nọ và nói thế này:
 {: .text-justify}
 
