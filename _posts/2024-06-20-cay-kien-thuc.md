@@ -24,32 +24,35 @@ Elon Musk on How To Build Knowledge
 </cite>
 
 ## Tính chất
-Càng xuống gần lá thì càng chi tiết. Càng lên cao thì càng trừu tượng, tổng quát.
-Các nhánh con thì có những điểm chung và được tổng quát dần lên nhánh cha.
+Kiến thức càng đi sâu vào chi tiết cụ thể (gần lá), càng trở nên trừu tượng và tổng quát hơn khi đi lên cao.
+Các nhánh con chia sẻ những điểm chung và dần được tổng quát hóa lên nhánh cha.
 {: .text-justify}
 
-Cha con chỉ mang tính chất tương đối, và không chỉ có một cây duy nhất.
-Một nhánh con bất kỳ có thể chung tính chất với một nhánh nào đó khác trong một cây kiến thức khác.
+Mối quan hệ cha - con chỉ mang tính tương đối và không chỉ tồn tại một cây kiến thức duy nhất.
+Một nhánh con bất kỳ có thể có những đặc điểm chung với một nhánh khác thuộc một cây kiến thức khác.
 {: .text-justify}
 
-Dưới đây là một số phương pháp có thể được dùng để bao phủ và leo dần lên cây.
+Dưới đây là một số phương pháp có thể được sử dụng để bao phủ và từng bước khám phá cây kiến thức.
 {: .text-justify}
 
 ## Tổng quát hóa (Bottom up)
-Đây là phương pháp mà hay được áp dụng vào những năm đầu đi học khi người học chưa hề biết gì. Lúc này mọi kiến thức đều là mới.
-Quá trình này hầu hết mọi người đều rất quen thuộc vì nó là quá trình học ở phổ thông. 
-Đối với những người trẻ do việc học là ưu tiên số một nên đây là chuyện chấp nhận được. 
-Tuy nhiên, với những người đã có công việc, việc phải học kiến thức mới theo phương pháp này luôn là sự đánh đổi giữa trạng thái an toàn, thoải mái với sự cực khổ đôi khi mang chút hoang mang của bản thân.
+Đây là phương pháp thường được áp dụng trong những năm đầu học tập, khi người học chưa có kiến thức nền tảng.
+Lúc này, mọi thông tin đều mới mẻ.
+Quá trình này quen thuộc với hầu hết mọi người vì nó là cách học phổ biến ở trường học.
+Đối với những người trẻ tuổi, việc học là ưu tiên hàng đầu nên phương pháp này hoàn toàn phù hợp.
+Tuy nhiên, với những người đã đi làm, việc học kiến thức mới theo cách này thường là sự đánh đổi giữa sự an toàn, 
+thoải mái hiện tại với những khó khăn và đôi khi là sự hoang mang khi đối diện với điều chưa biết.
 {: .text-justify}
 
 
 Một số điểm cần lưu ý:
-- Nhớ rằng cậu đang ở các nút lá, cố gắng tìm ra mục tiêu là các nút phía trên, đừng để những chi tiết rối rắm làm mờ đi mục tiêu tổng quát hóa cuối cùng.
-- <a target="_blank" href="/shu-ha-ri">Shu Ha Ri</a>: giúp cậu hiểu được quá trình theo từng giai đoạn một cách cụ thể.
-- <a target="_blank" href="/5w1h">5W1H (Why --> [How, What] --> [When, Where])</a>: giúp cậu định hình ra được những kiến thức nào cần phải chú ý, cần phải nhớ và có thể quên trong suốt quá trình học.
+- Hãy nhớ rằng cậu đang bắt đầu từ những kiến thức cụ thể (các nút lá). Cố gắng xác định mục tiêu là những kiến thức tổng quát hơn (các nút phía trên) và đừng để những chi tiết phức tạp làm xao nhãng mục tiêu tổng quát hóa cuối cùng.
+- <a target="_blank" href="/shu-ha-ri">Shu Ha Ri</a>: Mô hình này giúp cậu hiểu rõ quá trình học tập theo từng giai đoạn cụ thể.
+- <a target="_blank" href="/5w1h">5W1H (Why --> [How, What] --> [When, Where])</a>: Phương pháp này giúp cậu xác định những kiến thức nào cần chú ý, cần ghi nhớ và những kiến thức nào có thể bỏ qua trong quá trình học.
 {: .text-justify}
 
-*Ví dụ sửa được các xe tay ga, cậu có thể học trước với sửa 1 dòng xe cụ thể như Lead, SH rồi sau đó tổng quát hóa nó lên thành Sửa xe tay ga.*
+Ví dụ, sau khi cậu đã học cách sửa chữa các dòng xe tay ga cụ thể như Lead, SH, cậu có thể tổng quát hóa kiến thức đó thành kiến thức chung về "Sửa chữa xe tay ga".
+{: .text-justify}
 
 ```mermaid
 ---
@@ -85,12 +88,14 @@ flowchart LR
 ```
 
 ## Trên xuống (Top down)
-Để học hay tìm hiểu 1 kiến thức mới, nếu may mắn cậu có thể áp dụng phương pháp từ trên xuống. 
-Thông thường đây là thành quả đạt được sau khi cậu tổng quát hóa thành công.
-Đây là phương pháp rất phổ biến với những người đã học xong một chuyên môn nào đó và có đủ kinh nghiệm, 
-vì chỉ cần sử kiến thức tổng quát đã được xây dựng và kiến thức chi tiết đã biết để liên hệ khi học một nhánh mới.
+Nếu may mắn, cậu có thể áp dụng phương pháp tiếp cận từ trên xuống để học hoặc tìm hiểu một kiến thức mới.
+Thông thường, đây là kết quả đạt được sau khi cậu đã tổng quát hóa kiến thức thành công.
+Phương pháp này rất phổ biến với những người đã hoàn thành một chuyên môn nhất định và có đủ kinh nghiệm.
+Họ có thể sử dụng kiến thức tổng quát đã xây dựng và kiến thức chi tiết đã biết để liên hệ khi học một lĩnh vực mới.
+{: .text-justify}
 
-*Ví dụ để học sửa 1 loại xe mới như Vision, sau khi đã biết sửa xe tay ga và Lead, SH.*
+Chẳng hạn, để học cách sửa chữa một loại xe mới như Vision, sau khi cậu đã có kiến thức về sửa chữa xe tay ga nói chung và kinh nghiệm sửa chữa Lead, SH nói riêng.
+{: .text-justify}
 
 ```mermaid
 ---
@@ -131,18 +136,19 @@ flowchart LR
 ```
 
 ## Nhảy (Jump)
-Nếu với phương pháp từ trên xuống và từ dưới lên cậu sẽ mở rộng hay phát triển kiến thức ở gần mình, sẽ đạt được chuyên môn trong một số lĩnh vực nhất định. 
-Thì với phương pháp nhảy, cậu sẽ chủ động mở rộng được kiến thức ở một nhánh cây hoàn toàn mới. 
-Việc này không chỉ sẽ giúp cậu không rơi vào trạng thái Tối ưu cục bộ (local optimize), mà còn cho cậu có một cái nhìn nhiều chiều hơn một vấn đề nào đấy.
+Nếu phương pháp đi từ trên xuống và từ dưới lên giúp cậu mở rộng và phát triển kiến thức trong phạm vi gần với những gì cậu đã biết,
+thì phương pháp "nhảy" cho phép cậu chủ động mở rộng kiến thức sang một lĩnh vực hoàn toàn mới.
+Điều này không chỉ giúp cậu tránh rơi vào trạng thái tối ưu cục bộ mà còn mang lại cho cậu cái nhìn đa chiều hơn về một vấn đề.
 {: .text-justify}
 
-Tuy nhiên đây là một phương pháp không dễ áp dụng, vì nó không chỉ đòi hỏi nhiều thời gian công sức, mà có thể dẫn người học lạc vào mê cung, dẫn tới trạng thái không có gì học ra hồn.
-Không chỉ vậy nó còn đòi hỏi cậu tại một số thời điểm có thể sẽ phải quên đi những gì cậu đã biết để có thể tiếp nhận được cái mới mà có khi ngược lại hoàn toàn với cái cũ. 
-Đây là một kỹ thuật khó vì nó trái ngược hoàn toàn với phản ứng tự nhiên của người học khi dùng những kiến thức đã biết để liên hệ lại (Top down). 
-<a target="_blank" href="/do-tra">Đổ Trà (Emptying the Cup)</a> là kỹ thuật giúp cậu rèn luyện tư duy khi áp dụng phương pháp này.
+Tuy nhiên, đây là một phương pháp không dễ áp dụng vì nó đòi hỏi nhiều thời gian và công sức.
+Nó cũng có thể khiến người học lạc lối và dẫn đến tình trạng học lan man, không sâu.
+Hơn nữa, phương pháp này đòi hỏi cậu đôi khi phải gạt bỏ những gì đã biết để tiếp nhận những kiến thức mới, thậm chí trái ngược hoàn toàn với những gì đã quen thuộc.
+Đây là một kỹ năng khó vì nó đi ngược lại phản ứng tự nhiên của người học là liên hệ kiến thức mới với kiến thức đã có (phương pháp top-down).
+Kỹ thuật <a target="_blank" href="/do-tra">Đổ Trà (Emptying the Cup)</a> có thể giúp cậu rèn luyện tư duy khi áp dụng phương pháp này.
 {: .text-justify}
 
-Thế nên tớ nghĩ phương pháp này chỉ phù hợp với những ai đã có một kiến thức nền nhất định đủ vững, có khả năng suy nghĩ phản biện và đặc biệt là có động lực để tìm hiểu cái mới.
+Vì vậy, tớ cho rằng phương pháp này chỉ phù hợp với những người đã có một nền tảng kiến thức vững chắc, có khả năng tư duy phản biện và đặc biệt là có động lực mạnh mẽ để khám phá những điều mới.
 {: .text-justify}
 
 ```mermaid
@@ -178,5 +184,5 @@ flowchart
 ```
 
 ## Kết
-Hy vọng là cậu sẽ nhìn thấy, xây dựng được cây kiến thức để từ đó vẽ ra được bản đồ cho riêng mình.
+Hy vọng rằng cậu sẽ nhận ra và xây dựng được cây kiến thức của riêng mình, từ đó vẽ ra được bản đồ tri thức cho chính cậu.
 {: .text-justify}
