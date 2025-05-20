@@ -15,8 +15,8 @@ parent:
 </a>
 </cite>
 
-Theo như Whitney Johnson, trong Smart Growth, thì mỗi kiến thức mới được học, mỗi vấn đề gặp phải đều là một dạng nào đó của đường cong có dạng hình chữ S. 
-Như được miêu tả ở hình bên dưới, đường cong chữ S này có ba giai đoạn chính.
+Theo Whitney Johnson trong cuốn Smart Growth, mọi kiến thức mới học được, mọi vấn đề gặp phải đều tuân theo một dạng đường cong hình chữ S.
+Như hình minh họa, đường cong chữ S này bao gồm ba giai đoạn chính:
 {: .text-justify}
 
 ![alt]({{ 'assets/images/whitney-johnson-smart-grow-curve.jpg' | absolute_url }})
@@ -27,52 +27,59 @@ Whitney Johnson《Smart Grow Curve》
 </cite>
 
 ## 1. Khởi Đầu - Launch Point
-Tại điểm Khởi Đầu, cậu sẽ tìm hiểu cơ hội để khám phá một đường cong S mới, và lúc này cậu ở bước **Khám Phá (Explorer)**.
-Tại điểm này có rất nhiều cơ hội sẽ xuất hiện, có rất nhiều lựa chọn khác để cân nhắc, nhưng cậu cần phải tìm được và tập trung vào cái mà cậu muốn hướng tới.
-Trong bước này, mọi thứ dường như diễn tiến rất chậm khi cậu phải lật đi lật lại những câu hỏi dạng như:
+Tại điểm Khởi Đầu, cậu sẽ khám phá cơ hội để dấn thân vào một đường cong S mới, và lúc này cậu đang ở giai đoạn **Khám Phá (Explorer)**.
 {: .text-justify}
 
-- Với năng lực của mình đích đến có thể tới được không?
-- Cái mình muốn hướng tới có phù hợp với các giá trị hiện tại của bản thân không?
-- Cái giá phải trả có đáng so với thành quả mang lại hay không?
+Vô số cơ hội xuất hiện, rất nhiều lựa chọn cần cân nhắc, nhưng điều quan trọng là cậu phải xác định và tập trung vào mục tiêu mình muốn hướng tới.
+Trong giai đoạn này, mọi thứ dường như diễn ra rất chậm khi cậu liên tục đặt ra những câu hỏi như:
+{: .text-justify}
 
-Những câu hỏi này luôn phải được hỏi và suy nghĩ một cách thấu đáo trước khi cậu bắt đầu hành động. Và một khi đã hành động thì cậu sẽ chuyển qua bước hai là **Thu Thập (Collector)**.
-Tại bước này cậu sẽ thu thập thêm chứng cứ để tự *"trấn an"* rằng mình đang đi đúng hướng.
-Một lần nữa cần phải nói lại là quá trình này có vẻ lâu, nhưng nó rất quan trọng vì để đảm bảo rằng khi cậu dồn nguồn lực vào các bước tiếp theo, cậu sẽ không cảm thấy hối hận.
+- Với năng lực hiện tại, đích đến có khả thi không?
+- Mục tiêu này có phù hợp với các giá trị cốt lõi của bản thân cậu không?
+- Cái giá phải trả có xứng đáng với thành quả đạt được không?
+
+Những câu hỏi này cần được cậu suy nghĩ thấu đáo trước khi hành động. Một khi đã quyết định, cậu sẽ chuyển sang giai đoạn **Thu Thập (Collector)**.
+Tại đây, cậu sẽ tìm kiếm thêm bằng chứng để củng cố niềm tin rằng mình đang đi đúng hướng.
+Cần nhấn mạnh rằng quá trình này có vẻ kéo dài, nhưng nó vô cùng quan trọng để đảm bảo rằng khi cậu dồn nguồn lực vào các bước tiếp theo, cậu sẽ không phải hối tiếc.
 {: .text-justify}
 
 ## 2. Phát triển - Sweet Spot
-Bây giờ, cậu đã đi tới chặng leo dốc của đường cong. 
-Tốc độ sẽ tăng lên vì khi làm việc chúng ta muốn và thấy được thành quả dần hình thành. 
-Hình ảnh về một phiên bản mà chúng ta mong muốn dần hiện rõ hơn, những phản hồi này sẽ giúp tăng tốc độ của việc học.
-Lúc này, cậu đang ở bước **Tăng Tốc (Accelerator)**. 
+Giờ đây, cậu đã bước vào giai đoạn leo dốc của đường cong.
+Tốc độ sẽ tăng lên khi công việc mang lại những thành quả rõ rệt.
+Hình ảnh về phiên bản mà cậu mong muốn dần hiện ra, và những phản hồi tích cực này sẽ thúc đẩy tốc độ học tập.
+{: .text-justify}
+
+Lúc này, cậu đang ở giai đoạn  **Tăng Tốc (Accelerator)**. 
 Trong quá trình này, kết quả tạo ra được ngày càng nhiều trong khi đó công sức sẽ giảm dần theo thời gian.
 {: .text-justify}
 
-Tất nhiên trong quá trình này sẽ có những khoảng cách nhất định giữa kiến thức hiện tại và kiến thức cần phải học.
-Tuy nhiên, theo thời gian thì những khoảng cách này sẽ được kéo lại gần với nhau.
-Cậu cũng sẽ phát triển được khả năng tạo ra được những kết nối giữa cái cũ và cái mới. Lựa chọn những hướng đi mà mình muốn tập trung và trở thành.
-Khi cậu phát triển như vậy, mọi kiến thức xa lạ kia dần sẽ được tiêu hóa một cách tự động.
-Cậu không sớm thì muộn sẽ trở thành một phiên bản khác của chính mình. Lúc này cậu đã **Biến Đổi (Metamorph)**.
+Tất nhiên, sẽ có những khoảng cách nhất định giữa kiến thức hiện tại và kiến thức cần học. 
+Tuy nhiên, theo thời gian, những khoảng cách này sẽ dần được thu hẹp.
 {: .text-justify}
 
-Giai đoạn này rất thú vị và đầy hứng thú vì cậu sẽ có được cảm giác *"thành tựu"*, cậu nhận thấy được sự tiến bộ của chính mình.
-Hãy tận hưởng giai đoạn này nhiều nhất có thể, vì tại đây cậu sẽ là phiên bản tốt dần lên của chính mình. Đây là giai đoạn mà Sâu phá kén thành Bướm.
+Cậu cũng sẽ phát triển khả năng liên kết giữa kiến thức cũ và mới, lựa chọn những hướng đi mà cậu muốn tập trung và trở thành.
+Khi cậu phát triển, những kiến thức xa lạ sẽ dần được tiếp thu một cách tự nhiên.
+Chẳng bao lâu, cậu sẽ trở thành một phiên bản khác của chính mình, bước vào giai đoạn **Biến Đổi (Metamorph)**.
+{: .text-justify}
+
+Giai đoạn này rất thú vị và đầy cảm hứng vì cậu sẽ trải nghiệm cảm giác "thành tựu", nhận thấy rõ sự tiến bộ của bản thân.
+Hãy tận hưởng giai đoạn này một cách trọn vẹn, bởi đây là lúc cậu trở thành phiên bản tốt hơn của chính mình, giống như sâu phá kén thành bướm.
 {: .text-justify}
 
 ## 3. Thuần thục - Mastery
-Ở trên đỉnh của đường cong chữ S này, cậu sẽ đạt được cái mà cậu mong muốn, một phiên bản tốt hơn của cậu. Và đây là một việc đáng để ăn mừng!
+Trên đỉnh của đường cong chữ S, cậu sẽ đạt được điều mình mong muốn, một phiên bản hoàn thiện hơn của bản thân. Đây là một thành quả đáng tự hào!
 {: .text-justify}
 
-Lúc này cậu đang ở bước **Neo (Anchor)**. Ở bước này, tốc độ sẽ chậm lại, đây là giai đoạn mà cậu có thể nghỉ ngơi mà không sợ bị quên mất kiến thức.
-Bước này cũng quan trọng để cậu nhìn lại một chặng đường và ra quyết định xem sẽ làm gì tiếp theo.
-Đây là lúc để xem xét lại những cơ hội cậu đã bỏ qua để duy trì sự tập trung ở những giai đoạn trước đó.
-Cậu cũng có thể bắt đầu tìm hiểu, đánh giá những đường cong S khác mà cần phải hướng đến.
-Việc neo lại sẽ mang lại cho cậu sự ổn định và tự tin cả về vật chất lẫn tinh thần.
+Lúc này, cậu đang ở giai đoạn **Neo (Anchor)**. Ở giai đoạn này, tốc độ sẽ chậm lại, đây là thời điểm cậu có thể nghỉ ngơi mà không lo sợ kiến thức bị mai một.
+Bước này cũng quan trọng để cậu nhìn nhận lại hành trình đã qua và đưa ra quyết định về những bước tiếp theo.
 {: .text-justify}
 
-Và rồi khi cậu ở tại **Đỉnh Cao (Mountaineer)**, thì lúc này cũng là lúc nên tìm kiếm một đỉnh cao mới, một đỉnh núi khác cần phải leo.
-Việc học cũng giống như là Oxy đối với cơ thể chúng ta vậy, khi cậu ngừng học cũng là lúc cậu không còn tồn lại về mặt tư duy nữa.
+Đây là lúc xem xét lại những cơ hội mà cậu đã bỏ lỡ để duy trì sự tập trung ở các giai đoạn trước.
+Cậu cũng có thể bắt đầu tìm hiểu, đánh giá những đường cong S khác mà mình muốn chinh phục. Việc neo lại sẽ mang đến cho cậu sự ổn định và tự tin cả về vật chất lẫn tinh thần.
+{: .text-justify}
+
+Và khi cậu đạt đến **Đỉnh Cao (Mountaineer)**, cũng là lúc nên tìm kiếm một đỉnh cao mới, một ngọn núi khác để leo.
+Việc học cũng giống như oxy đối với cơ thể, khi cậu ngừng học cũng là lúc tư duy của cậu ngừng phát triển.
 {: .text-justify}
 
 > <cite>
@@ -82,7 +89,7 @@ Theo Whitney Johnson《Smart Growth: How to Grow Your People to Grow Your Compan
 </cite>
 
 ## Kết
-Hãy luôn tìm kiếm cái mới để trở thành phiên bản tốt hoàn thiện hơn của chính mình.
-Hãy như những con sóng từng lớp, từng lớp nối tiếp nhau vào bờ.
+Hãy không ngừng tìm kiếm những điều mới mẻ để trở thành phiên bản hoàn thiện hơn của chính mình.
+Hãy như những con sóng lớp lớp nối tiếp nhau vào bờ.
 Chúc cậu thành công!
 {: .text-justify}
