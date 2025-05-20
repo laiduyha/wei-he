@@ -1,6 +1,5 @@
 ---
 title: Từng bước tăng tiến
-permalink: /tung-buoc-tang-tien
 layout: single
 classes: wide
 categories: hoc-hanh

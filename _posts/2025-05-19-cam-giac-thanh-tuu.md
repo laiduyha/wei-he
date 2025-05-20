@@ -1,6 +1,5 @@
 ---
 title: Cảm giác thành tựu
-permalink: /cam-giac-thanh-tuu
 layout: single
 classes: wide
 categories: hoc-hanh
