@@ -36,32 +36,70 @@ Nhớ rằng:
 {: .text-justify}
 
 ## Giá trị quan của đám đông và cách đám đông bị thao túng
-Vào thời điểm tớ viết bài này, đám đông vẫn đang "tranh luận" giá trị thực sự của PI Networks.
-Nếu thời điểm cậu đọc bài này nếu chủ đề nó không còn "hot trend" nữa. Cậu cũng không có khái niệm gì về nó cả.
-Thì cậu chỉ cần biết đây chẳng qua là một ví dụ cho một trận nháo nhào của đám đông.
+Để hiểu rõ biết rõ sự điên rồ của đám đông tớ sẽ đưa cậu về lại thế kỷ 17 tại Hà Lan. Nơi mà cơn sốt về hoa Tulip được diễn ra.
+
+Đầu thế kỷ 16, Hà Lan bước vào kỷ nguyên giao thương rực rỡ, hoạt động xuất nhập khẩu được đẩy mạnh. Trong đó, hoa Tulip được nhập khẩu từ Đế chế Ottoman (Thổ Nhĩ Kỳ ngày nay) đã nhanh chóng thu hút giới thượng lưu vì sự khan hiếm và vẻ đẹp của nó.
 {: .text-justify}
 
-Chuyện là khi PI được lên sàn giao dịch Crypto (02/2025), giới coin thủ đa phần chê bai PI Network bản chất không phải là Crypto vì không có cơ chế "xác thực" đúng nghĩa, cũng chả có tính phi tập trung.
+Có những thời điểm giá của hoa Tulip được đẩy lên phi mã ngang bằng với giá của một ngôi nhà.
+Năm 1635, cơn sốt hoa Tulip lên đến đỉnh điểm khi một bông hoa Semper Augustus có thể được bán 10.000 guilder (đơn vị tiền tệ tại Hà Lan lúc đó) tương đương 750.000 USD ngày nay.
 {: .text-justify}
 
-PI thủ thì cũng toàn những kẻ mơ mộng. *"Chúng bay cứ chờ xem, sau này ai giàu hơn ai sẽ biết!"*.
+| Giống/Loại Tulip         	| Giá đỉnh ước tính (Guilder)                             	| Giá trị tương đương                              	|
+|--------------------------	|---------------------------------------------------------	|--------------------------------------------------	|
+| Semper Augustus          	| 10.000 guilder                                          	| Một ngôi nhà sang trọng / Một khu đất sang trọng 	|
+| Switsers                 	| 1.800 guilder                                                	| Tăng 12 lần trong 1 tháng                        	|
+| Giá bán lẻ theo kg 	      | Gấp đôi hoặc gấp ba giá trị                             	|                                                  	|
+| Giá bán sỉ        	      | Tăng gấp hai mươi lần                                   	|                                                  	|
+| Một số củ tulip khác     	| Tương đương thu nhập vài năm của thợ thủ công lành nghề 	|                                                  	|
+
+Hiệu ứng trên đã kích thích thị trường giao dịch hoa Tulip trở nên sôi động.
+Thậm chí, hợp đồng hàng hoá hoa Tulip đã được niêm yết bởi Sở giao dịch chứng khoán Amsterdam. 
 {: .text-justify}
 
-Quay ngược lại thời gian khoảng 5, 6 năm trước, coin thủ cũng bị giới đầu tư truyền thống như chứng khoán, đất đai dè bỉu. Họ cho rằng Crypto chỉ là một mô hình lừa đảo ponzi (kim tự tháp), thế nào rồi cũng sập.
+Nhiều người tin rằng niềm đam mê hoa Tulip sẽ kéo dài mãi mãi.
+Nhà thơ Abraham Cowley từng ví von: 
 {: .text-justify}
 
-Thế rồi sau này khi giá Bitcoin lên tới gần 100,000$ họ lại bảo đây là một khoản đầu tư "mạo hiểm" có thể thử nghiệm. Quả thật là *vật chất quyết định ý thức* mà!
+Hoa Tulip có thể sánh như vàng, bạc, gấm vóc, lụa là.\
+Chỉ có những kẻ xứng đáng mới chiêm ngưỡng hết vẻ đẹp của nó.
+{: .notice .text-justify}
+
+Thị trường hoa Tulip tiếp tục phát triển, người dân đổ xô mua bán hoa Tulip bất chấp giá trị thực của nó.
+Họ bán nhà, vay mượn, thậm chí đánh đổi tài sản quý giá để sở hữu những những bông hoa Tulip hiếm hoi.
+{: .text-justify} 
+
+![alt]({{ 'assets/images/hendrik-pot-flora-wagon-of-fools.jpeg' | absolute_url}})
+> <cite>
+<a target="_blank" href="https://en.wikipedia.org/wiki/Hendrik_Gerritsz_Pot">
+Hendrik Pot《Flora's Wagon of Fools》- Hendrik Pot《Chuyến xe ngu ngốc của Flora》
+</a>
+</cite>
+
+Hậu quả là một số hoạt động sản xuất kinh doanh tại Hà Lan bị đình trệ, thậm chí có người bỏ việc và vay mượn tiền để đầu cơ với hy vọng kiếm lời nhanh.
+Theo thống kê, khoảng 5.000 người (tương đương 1% dân số lao động) từ tầng lớp thượng lưu đến bình dân đều lao vào trồng hoa Tulip. 
 {: .text-justify}
 
----
+Thế nhưng vào tháng 2/1637, những người am hiểu về hoa Tulip nhận ra sự không bền vững của thị trường và bắt đầu bán tháo.
+Hiệu ứng domino nhanh chóng xảy ra khi cung vượt quá cầu, kéo giá hoa rơi thẳng đứng hơn 99%.
+{: .text-justify} 
 
-Tớ chỉ thấy những cuộc tranh luận này giống kiểu *chó chê mèo lắm lông*.
-{: .text-justify}
+![alt]({{ 'assets/images/prices-of-tulip-bulbs.jpeg' | absolute_url}})
+> <cite>
+<a target="_blank" href="https://www.researchgate.net/figure/Prices-of-tulip-bulbs-1634-1637-in-the-Netherlands_fig1_381003454">
+《Prices of tulip bulbs 1634-1637 in the Netherlands》- 《Chỉ số giá của bong bóng hoa Tulip 1634-1637》
+</a>
+</cite>
 
-Điểm chung ở đây là mọi người đều tin và bấu víu vào một thứ lửng lơ ở đâu đó. Nhưng những thứ lửng lơ đó lại mang về cho họ giá trị thật, thô ở đây là tiền. Thế là họ tìm đủ mọi lý do để lý giải, biện minh rồi bấu víu vào nó.
-{: .text-justify}
+Sự sụp đổ của thị trường hoa Tulip dẫn đến tình trạng bất ổn xã hội gia tăng với một loạt các lý do như người dân thất nghiệp, quý tộc trở thành ăn mày, luật sư bán nhà để trả nợ… 
+{: .text-justify} 
 
-Thực ra để kiểm soát đám đông chỉ cần hai công cụ: *tiền* & *lý do*.
+Có thể cậu nghĩ rằng những điều này chắc chỉ có thể xảy ra vào thời xưa khi con người còn ít học thức.
+Thế nhưng thực ra ngay cả hiện tại cũng đã xuất hiện những hiện tượng tương tự chẳng hạn như <a target="_blank" href="https://thanhnien.vn/su-that-ve-thong-tin-lan-dot-bien-tien-ti-sot-gia-tro-lai-185240218154257096.htm">lan đột biến</a>, <a href="https://www.weforum.org/stories/2022/09/what-are-meme-stocks-explainer">meme coin</a>...
+
+Vậy tại sao con người lại điên cuồng và vô lý như vậy???
+
+Câu trả lời nằm ở chữ *tiền*.
 
 ### Tiền
 ---
@@ -87,9 +125,9 @@ Cái gì không mua được bằng tiền thì mua được bằng nhiều ti�
 Có một lần tớ coi video của một chị KOL chứng khoán đi tới cuộc họp cổ đông của doanh nghiệp nọ và nói thế này:
 {: .text-justify}
 
-Thực ra ở thị trường chứng khoán, nhà đầu tư không thiếu và không ngại chi tiền nhưng họ cần một lý do.
+Thực ra ở thị trường chứng khoán, nhà đầu tư không thiếu và không ngại chi tiền nhưng họ cần một lý do.\
 Không biết trong năm nay công ty mình có những định hướng phát triển gì để nhà đầu tư có lý do để xuống tiền?
-{: .notice--warning .text-justify}
+{: .notice .text-justify}
 
 Ô thế ra các "nhà đầu tư" bỏ tiền ra họ chỉ cần một lý do. Cái lý do mà theo giá trị quan của họ xác nhận là đúng, là phù hợp.
 {: .text-justify}
