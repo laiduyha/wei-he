@@ -36,7 +36,7 @@ Nhớ rằng:
 {: .text-justify}
 
 ## Giá trị quan của đám đông và cách đám đông bị thao túng
-Để hiểu rõ biết rõ sự điên rồ của đám đông tớ sẽ đưa cậu về lại thế kỷ 17 tại Hà Lan. Nơi mà cơn sốt về hoa Tulip được diễn ra.
+Để hiểu rõ sự điên rồ của đám đông tớ sẽ đưa cậu về lại thế kỷ 17 tại Hà Lan. Nơi mà cơn sốt về hoa Tulip được diễn ra.
 
 Đầu thế kỷ 16, Hà Lan bước vào kỷ nguyên giao thương rực rỡ, hoạt động xuất nhập khẩu được đẩy mạnh. Trong đó, hoa Tulip được nhập khẩu từ Đế chế Ottoman (Thổ Nhĩ Kỳ ngày nay) đã nhanh chóng thu hút giới thượng lưu vì sự khan hiếm và vẻ đẹp của nó.
 {: .text-justify}
@@ -48,7 +48,7 @@ Năm 1635, cơn sốt hoa Tulip lên đến đỉnh điểm khi một bông hoa 
 | Giống/Loại Tulip         	| Giá đỉnh ước tính (Guilder)                             	| Giá trị tương đương                              	|
 |--------------------------	|---------------------------------------------------------	|--------------------------------------------------	|
 | Semper Augustus          	| 10.000 guilder                                          	| Một ngôi nhà sang trọng / Một khu đất sang trọng 	|
-| Switsers                 	| 1.800 guilder                                                	| Tăng 12 lần trong 1 tháng                        	|
+| Switsers                 	| 1.800 guilder                                             | Tăng 12 lần trong 1 tháng                        	|
 | Giá bán lẻ theo kilogram  | Gấp đôi hoặc gấp ba giá trị                             	|                                                  	|
 | Giá bán sỉ        	      | Tăng gấp hai mươi lần                                   	|                                                  	|
 | Các loại hoa tulip khác   | Tương đương thu nhập vài năm của thợ thủ công lành nghề 	|                                                  	|
@@ -91,20 +91,19 @@ Hiệu ứng domino nhanh chóng xảy ra khi cung vượt quá cầu, kéo giá
 </a>
 </cite>
 
-Sự sụp đổ của thị trường hoa Tulip dẫn đến tình trạng bất ổn xã hội gia tăng với một loạt các lý do như người dân thất nghiệp, quý tộc trở thành ăn mày, luật sư bán nhà để trả nợ… 
+Sự sụp đổ của thị trường hoa Tulip dẫn đến tình trạng bất ổn xã hội gia tăng với một loạt các hệ lụy như người dân thất nghiệp, quý tộc trở thành ăn mày, luật sư bán nhà để trả nợ… 
 {: .text-justify} 
 
 ---
 
 Có thể cậu nghĩ rằng những điều này chắc chỉ có thể xảy ra vào thời xưa khi con người còn ít học thức.
 Thế nhưng thực ra ngay cả hiện tại cũng đã xuất hiện những hiện tượng tương tự chẳng hạn như <a target="_blank" href="https://thanhnien.vn/su-that-ve-thong-tin-lan-dot-bien-tien-ti-sot-gia-tro-lai-185240218154257096.htm">lan đột biến</a>, <a target="_blank" href="https://www.weforum.org/stories/2022/09/what-are-meme-stocks-explainer">meme coin</a>...
+{: .text-justify} 
 
-Vậy tại sao con người lại điên cuồng và vô lý như vậy???
+Vậy tại sao con người lại điên cuồng và vô lý như vậy? Câu trả lời nằm ở *tiền* và *lý do*.
+{: .text-justify} 
 
-Câu trả lời nằm ở chữ *tiền* và *lý do*.
-
-### Tiền
----
+## Tiền
 *Vật chất sẽ quyết định ý thức, tiền bạc có sức mạnh thao túng nhận thức.*
 {: .text-justify}
 
@@ -124,11 +123,10 @@ Và giả sử rằng nếu sự thay đổi quan điểm mang lại "quả ng�
 Lúc này cậu sẽ dễ dàng rơi vào ảo tưởng về sự "thông minh" của mình.
 {: .text-justify}
 
-Cái gì không mua được bằng tiền thì mua được bằng nhiều tiền.
+Cái gì không mua được bằng tiền thì mua được bằng rất nhiều tiền.
 {: .notice--warning .text-justify}
 
-### Lý do
----
+## Lý do
 Tớ nhớ một KOL chứng khoán từng kể về cuộc họp cổ đông:
 {: .text-justify}
 
@@ -147,8 +145,7 @@ Không biết trong năm nay công ty mình có những định hướng phát t
 Tuy nhiên, cậu nên nhớ rằng *"Lý do có thể được tạo ra bằng tiền"*.
 {: .text-justify}
 
-### Vậy họ lấy tiền bằng cách nào?
----
+## Vậy họ lấy tiền bằng cách nào?
 *Họ* áp dụng chiến thuật "bơm xả": đạp bàn đạp để bánh xe lăn theo quán tính. Chỉ tốn công sức ban đầu, nhưng quán tính của đám đông sẽ đẩy nó đi rất xa.
 {: .text-justify}
 

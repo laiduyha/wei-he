@@ -68,15 +68,15 @@ Bắt nguồn từ một ý tưởng về một hệ thống tài chính mới, 
 
 ## Vậy đâu là những mặt hàng có giá trị thực?
 Thực tế, ở hầu hết các ngành nghề, sau một thời gian điều chỉnh, quy luật cung cầu của thị trường sẽ thiết lập một điểm cân bằng và hình thành các công thức lợi nhuận tương đối ổn định. Ví dụ:
-- Giá của một bất động sản có thể được ước tính bằng thu nhập cho thuê hàng năm nhân với một hệ số nhất định (ví dụ: 3-8 lần).
-- Chỉ số P/E (Price-to-Earnings ratio) có sự khác biệt giữa các ngành và các thị trường cụ thể.
+- Việc ước tính giá của một bất động sản được thực hiện bằng cách lấy thu nhập cho thuê hàng năm nhân với một hệ số nhất định, và hệ số này phụ thuộc vào từng khu vực và phân khúc cụ thể.
+- Việc định giá một công ty được thực hiện dựa vào chỉ số P/E (Price-to-Earnings ratio), và chỉ số này có sự khác biệt giữa các ngành và các thị trường cụ thể.
 {: .text-justify}
 
 Tuy nhiên, có một nghịch lý là nhiều người lại thích giao dịch ở những thị trường mà mọi thứ chưa rõ ràng.
 Lúc này, bản chất của giao dịch chủ yếu là mua bán niềm tin và kỳ vọng.
 {: .text-justify}
 
-Chính vì phần lớn quyết định đầu tư xuất phát từ niềm tin và kỳ vọng, yếu tố tâm lý đóng vai trò rất quan trọng.
+Chính vì phần lớn quyết định đầu tư xuất phát từ niềm tin nên yếu tố tâm lý đóng vai trò rất quan trọng.
 Trong đó, tâm lý đám đông, hay tâm lý của những người cùng tham gia thị trường, có ảnh hưởng lớn nhất. Khi đám đông càng lớn, khả năng giá và giá trị thực càng xa nhau càng cao.
 {: .text-justify}
 

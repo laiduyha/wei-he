@@ -30,7 +30,7 @@ Ngược lại, nếu không có bất kỳ thử thách nào, cậu sẽ cảm 
 {: .text-justify}
 
 ## Học với kỹ thuật i + 1
-Khi học một ngôn ngữ nào đó hãy áp dụng kỹ thuật **i \+ 1**.
+Khi học một kiến thức nào đó hãy áp dụng kỹ thuật **i \+ 1**.
 {: .text-justify}
 
 Kỹ thuật này xuất phát từ ý tưởng <a target="_blank" href="https://www.leonardoenglish.com/blog/comprehensible-input">
@@ -41,14 +41,16 @@ Ví dụ, trong việc học tiếng Anh: giả sử cậu đã quen với các 
 
 {: .text-justify}
 
-Where is the **washroom**?\
-Where is the **kitchen**?\
-Where did dad **go**?\
-Is this the **place**?
+Where is the *washroom*?\
+Where is the *kitchen*?\
+Where did dad *go*?\
+Is this the *place*?
 {: .text-justify}
 
-Mặc dù ban đầu tốc độ có vẻ chậm, nhưng theo thời gian, nó sẽ giống như hiệu ứng hòn tuyết lăn, tích lũy và mang lại kết quả lớn.
-Hãy tưởng tượng cậu đã có vốn từ vựng 1000 từ, việc luyện tập với mục tiêu **i \+ 1** sẽ mở ra rất nhiều cơ hội học hỏi những điều mới.
+Mặc dù ban đầu tốc độ có vẻ chậm, nhưng theo thời gian, nó sẽ giống như hiệu ứng hòn tuyết lăn, tích lũy và mang lại kết quả lớn dần theo thời gian.
+{: .text-justify}
+
+Thế nên đừng nóng vội, hãy tiến từng bước một, chắc chắn và vững chãi.
 {: .text-justify}
 
 > <cite>
