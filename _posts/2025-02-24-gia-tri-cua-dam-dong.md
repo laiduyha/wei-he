@@ -54,7 +54,7 @@ Năm 1635, cơn sốt hoa Tulip lên đến đỉnh điểm khi một bông hoa 
 | Các loại hoa tulip khác   | Tương đương thu nhập vài năm của thợ thủ công lành nghề 	|                                                  	|
 
 Hiệu ứng trên đã kích thích thị trường giao dịch hoa Tulip trở nên sôi động.
-Thậm chí, hợp đồng hàng hoá hoa Tulip đã được niêm yết bởi Sở giao dịch chứng khoán Amsterdam. 
+Thậm chí, hợp đồng hàng hoá hoa Tulip cũng được niêm yết trên Sở giao dịch chứng khoán Amsterdam. 
 {: .text-justify}
 
 Nhiều người tin rằng niềm đam mê hoa Tulip sẽ kéo dài mãi mãi.
@@ -94,61 +94,68 @@ Hiệu ứng domino nhanh chóng xảy ra khi cung vượt quá cầu, kéo giá
 Sự sụp đổ của thị trường hoa Tulip dẫn đến tình trạng bất ổn xã hội gia tăng với một loạt các lý do như người dân thất nghiệp, quý tộc trở thành ăn mày, luật sư bán nhà để trả nợ… 
 {: .text-justify} 
 
+---
+
 Có thể cậu nghĩ rằng những điều này chắc chỉ có thể xảy ra vào thời xưa khi con người còn ít học thức.
 Thế nhưng thực ra ngay cả hiện tại cũng đã xuất hiện những hiện tượng tương tự chẳng hạn như <a target="_blank" href="https://thanhnien.vn/su-that-ve-thong-tin-lan-dot-bien-tien-ti-sot-gia-tro-lai-185240218154257096.htm">lan đột biến</a>, <a target="_blank" href="https://www.weforum.org/stories/2022/09/what-are-meme-stocks-explainer">meme coin</a>...
 
 Vậy tại sao con người lại điên cuồng và vô lý như vậy???
 
-Câu trả lời nằm ở chữ *tiền*.
+Câu trả lời nằm ở chữ *tiền* và *lý do*.
 
 ### Tiền
 ---
-*Vật chất sẽ quyết định ý thức*, khi họ cho đám đông thật nhiều tiền thì dù lý do có sai, có vô lý đến đâu đều có thể chuyển hóa thành đúng, thành có lý cả.
+*Vật chất sẽ quyết định ý thức, tiền bạc có sức mạnh thao túng nhận thức.*
 {: .text-justify}
 
+Dù một ý tưởng có phi lý đến đâu, khi được hậu thuẫn bằng nguồn tài chính dồi dào, nó có thể được chấp nhận rộng rãi.
+{: .text-justify}
+
+Sự đồng thuận từ số đông, đặc biệt là những người có địa vị, sẽ làm lung lay bất kỳ giá trị quan nào.
 Một người nói cậu sẽ nghĩ đó là xàm.
 Hai người nói, ba người nói, trăm người nói thì cậu sẽ bắt đầu dao động.
 {: .text-justify}
 
 Rồi đến cả những người mình coi trọng, một ông tiến sĩ nọ, vị giáo sư kia đứng ra nêu quan điểm rằng thể loại này có giá trị nội tại,
-thì dù giá trị quan của cậu có vững đến mức nào cũng sẽ có lúc bị lung lay, bị lật lại.
+thì niềm tin cá nhân lúc này sẽ bị thử thách đáng kể.
 {: .text-justify}
 
-Thêm nữa là nếu lần lật lại này cậu lại thu được tiền từ nó. Lúc này cậu sẽ rơi vào cái bẫy khi tự huyễn rằng mình là người thông minh, là thức thời.
+Và giả sử rằng nếu sự thay đổi quan điểm mang lại "quả ngọt" tài chính.
+Lúc này cậu sẽ dễ dàng rơi vào ảo tưởng về sự "thông minh" của mình.
 {: .text-justify}
 
 Cái gì không mua được bằng tiền thì mua được bằng nhiều tiền.
 {: .notice--warning .text-justify}
 
 ### Lý do
-
-Có một lần tớ coi video của một chị KOL chứng khoán đi tới cuộc họp cổ đông của doanh nghiệp nọ và nói thế này:
+---
+Tớ nhớ một KOL chứng khoán từng kể về cuộc họp cổ đông:
 {: .text-justify}
 
 Thực ra ở thị trường chứng khoán, nhà đầu tư không thiếu và không ngại chi tiền nhưng họ cần một lý do.\
 Không biết trong năm nay công ty mình có những định hướng phát triển gì để nhà đầu tư có lý do để xuống tiền?
 {: .notice .text-justify}
 
-Ô thế ra các "nhà đầu tư" bỏ tiền ra họ chỉ cần một lý do. Cái lý do mà theo giá trị quan của họ xác nhận là đúng, là phù hợp.
+Điều này cho thấy, các "nhà đầu tư" chỉ cần một lý do – một lý do mà họ cho là đúng, là phù hợp với hệ giá trị của họ. 
 {: .text-justify}
 
-- Các anh xuất thân từ kỹ thuật thì tin vào kỹ thuật và khoa học.
-- Các chị tài chính thì tin vào tình hình kinh doanh, tiềm năng phát triển của thị trường.
-- Các cậu lính toe mới thì thần tượng vào những câu chuyện tăng trưởng vũ bão trên thương trường.
+- Người làm kỹ thuật thì tin vào các luận điểm khoa học và logic.
+- Người làm tài chính thì chú trọng tình hình kinh doanh, tiềm năng thị trường.
+- Còn những người mới lại bị mê hoặc bởi các câu chuyện tăng trưởng thần kỳ.
 {: .text-justify}
 
-Cậu nên nhớ rằng *"Lý do có thể được tạo ra bằng tiền"*.
+Tuy nhiên, cậu nên nhớ rằng *"Lý do có thể được tạo ra bằng tiền"*.
 {: .text-justify}
 
 ### Vậy họ lấy tiền bằng cách nào?
 ---
-Bơm xả, nhấn bàn đạp, rồi cho bánh xe lăn đi theo quán tính. Họ chỉ tốn công nhấn bàn đạp lúc ban đầu nhưng quán tính của đám đông sẽ đẩy nó đi xa.
+*Họ* áp dụng chiến thuật "bơm xả": đạp bàn đạp để bánh xe lăn theo quán tính. Chỉ tốn công sức ban đầu, nhưng quán tính của đám đông sẽ đẩy nó đi rất xa.
 {: .text-justify}
 
-Và rồi họ lấy tiền tại những khoảng trượt quán tính đó, bằng những thuật ngữ mỹ miều như "trào lưu", "cuộc cách mạng", "thời đại của", "chúng ta của sau này"....
+Và rồi, *họ* thu tiền từ những "khoảng trượt quán tính" đó, bằng những thuật ngữ mỹ miều như "trào lưu," "cuộc cách mạng," "thời đại của," hay "chúng ta của sau này."
 {: .text-justify}
 
-Bánh xe lăn được bao xa thì tùy thuộc vào "chất lượng" của đám đông. Còn "chất lượng" của đám đông thì đến từ niềm tin, sự cuồng tín, thu nhập, tri thức và độ chịu chơi của những con người trong đó.
+Bánh xe có thể lăn được bao xa phụ thuộc vào "chất lượng" của đám đông, mà "chất lượng" này lại đến từ niềm tin, sự cuồng tín, thu nhập, tri thức và độ chịu chơi của từng cá nhân trong đó.
 {: .text-justify}
 
 ## Khi cậu nghĩ là cậu học cao hiểu rộng nhiều khả năng cao cậu lại là đối tượng dễ bị lợi dụng
