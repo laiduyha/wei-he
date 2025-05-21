@@ -49,9 +49,9 @@ Năm 1635, cơn sốt hoa Tulip lên đến đỉnh điểm khi một bông hoa 
 |--------------------------	|---------------------------------------------------------	|--------------------------------------------------	|
 | Semper Augustus          	| 10.000 guilder                                          	| Một ngôi nhà sang trọng / Một khu đất sang trọng 	|
 | Switsers                 	| 1.800 guilder                                                	| Tăng 12 lần trong 1 tháng                        	|
-| Giá bán lẻ theo kg 	      | Gấp đôi hoặc gấp ba giá trị                             	|                                                  	|
+| Giá bán lẻ theo kilogram  | Gấp đôi hoặc gấp ba giá trị                             	|                                                  	|
 | Giá bán sỉ        	      | Tăng gấp hai mươi lần                                   	|                                                  	|
-| Một số củ tulip khác     	| Tương đương thu nhập vài năm của thợ thủ công lành nghề 	|                                                  	|
+| Các loại hoa tulip khác   | Tương đương thu nhập vài năm của thợ thủ công lành nghề 	|                                                  	|
 
 Hiệu ứng trên đã kích thích thị trường giao dịch hoa Tulip trở nên sôi động.
 Thậm chí, hợp đồng hàng hoá hoa Tulip đã được niêm yết bởi Sở giao dịch chứng khoán Amsterdam. 
