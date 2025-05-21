@@ -159,36 +159,36 @@ Bánh xe có thể lăn được bao xa phụ thuộc vào "chất lượng" c�
 {: .text-justify}
 
 ## Khi cậu nghĩ là cậu học cao hiểu rộng nhiều khả năng cao cậu lại là đối tượng dễ bị lợi dụng
-Có người nói hiện nay đám đông kiến thức càng nhiều, khoa học càng phát triển thì đám đông sẽ càng ngày càng khôn ra.
+Nhiều người tin rằng, với sự phát triển của tri thức và khoa học, đám đông ngày càng trở nên khôn ngoan hơn.
 {: .text-justify}
 
-Tớ lại không nghĩ vậy. Kiến thức càng nhiều càng dễ bị lợi dụng.
-{: .text-justify}
-
----
-
-Bitcoin ngày xưa không có giá trị ngoại trừ là cuộc chơi tài chính. 
-Nhưng sau vài vòng đảo qua đảo lại, giới "tinh hoa", hay còn được coi là thế lực đứng đằng sau, họ có đủ tiền để thuê được người giỏi chuyên môn làm ra những sản phẩm tạo ra giá trị thực ở mảng Crypto.
-{: .text-justify}
-
-Tớ cũng không ngạc nhiên lắm nếu sau này Crypto sẽ hoặc tiếp tục phát triển, hoặc lụi tàn. Cả hai đều có thể lý giải và có khả năng xảy ra.
-{: .text-justify}
-
-Tớ chỉ biết rằng bản chất nó là một công cụ đòn bẩy dựa trên niềm tin của đám đông. Thành công hay không thì hạ hồi phân giải.
+Tớ thì không nghĩ vậy. Kiến thức càng nhiều, càng dễ bị lợi dụng.
 {: .text-justify}
 
 ---
 
-Đặc biệt giai đoạn hiện tại, xã hội đã được sắp xếp và vận hành theo nền kinh tế tri thức.
-Nghe thì có vẻ tuyệt vời và hợp lý khi người giỏi, người tài sẽ được xã hội trọng dụng.
+Hãy nhìn Bitcoin. Ban đầu, nó chỉ là một cuộc chơi tài chính không hơn không kém.
+Nhưng sau vài vòng luân chuyển, giới *"tinh hoa"* – hay những thế lực đứng sau – *họ* có đủ tiền để thuê chuyên gia tạo ra các sản phẩm mang lại giá trị thực trong thế giới Crypto.
 {: .text-justify}
 
-Tuy nhiên có một góc tối ít người kể ra là cơ hội thăng tiến và đi lên về mặt kinh tế, địa vị xã hội của những người đi sau càng ngày càng khó do sự cạnh tranh ngày càng gay gắt.
-Đây là đặc điểm chung của những xã hội được coi là phát triển, và thịnh vượng.
+Tớ không ngạc nhiên nếu sau này Crypto tiếp tục phát triển hay lụi tàn; cả hai đều có khả năng xảy ra và có thể lý giải được.
 {: .text-justify}
 
-Giới trẻ càng ngày càng giỏi, thu nhập theo giá trị tuyệt đối của họ cũng cao dần lên. Thế nhưng nhu cầu vươn lên, khát khao kiếm tiền của những người này cũng sẽ ngày một lớn.
-Cái mà họ cần chỉ là một lý do hợp lý theo nhận thức và thế giới quan của họ. 
+Tớ chỉ biết rằng, bản chất của nó là một công cụ đòn bẩy dựa trên niềm tin của đám đông, và sự thành công hay thất bại còn phải chờ thời gian trả lời.
+{: .text-justify}
+
+---
+
+Đặc biệt, trong giai đoạn hiện tại, xã hội vận hành theo nền kinh tế tri thức.
+Nghe thì có vẻ tuyệt vời khi người giỏi được trọng dụng, nhưng ít ai nhắc đến một góc tối: 
+cơ hội thăng tiến về kinh tế và địa vị xã hội của những người đi sau ngày càng khó khăn do cạnh tranh gay gắt.
+{: .text-justify}
+
+Đây là đặc điểm chung của các xã hội phát triển và thịnh vượng.
+{: .text-justify}
+
+Giới trẻ ngày càng giỏi, thu nhập tuyệt đối của họ cũng tăng lên, nhưng khao khát vươn lên và kiếm tiền của họ cũng lớn dần.
+Cái họ cần chỉ là một lý do hợp lý theo nhận thức và thế giới quan của mình.
 {: .text-justify}
 
 Tuy nhiên, như đã nói ở trên *"Lý do có thể được tạo ra bằng tiền"*.
@@ -196,13 +196,13 @@ Tuy nhiên, như đã nói ở trên *"Lý do có thể được tạo ra bằng
 
 ---
 
-Giai đoạn hiện tại của tớ thì họ đánh vào FOMO (fear of missing out); vào cảm giác bị bỏ lại, thua kém vì luôn phải chạy theo sau, đuổi không kịp những hình mẫu "tinh hoa" ở phía trước.
+Trong giai đoạn này, họ đang đánh vào *FOMO* (sợ bị bỏ lỡ), vào cảm giác bị tụt hậu, thua kém vì luôn phải chạy theo sau những hình mẫu *"tinh hoa"* ở phía trước.
 {: .text-justify}
 
-Sau này tớ nghĩ có lẽ họ sẽ đánh vào cảm giác thỏa mãn cái tôi. Tôi sẽ là một thứ gì đó khác biệt.
+Sau này, tớ nghĩ có lẽ họ sẽ đánh vào cảm giác thỏa mãn cái tôi: *"Tôi sẽ là một thứ gì đó khác biệt."*
 {: .text-justify}
 
-Tuy nhiên cậu thử nghĩ xem ai cũng nghĩ mình khác biệt thì có chắc là những người đó thực sự khác biệt????
+Nhưng cậu thử nghĩ xem, nếu ai cũng cho mình là khác biệt, thì liệu những người đó có thực sự khác biệt không?
 {: .text-justify}
 
 ## Vậy nên hành xử thế nào cho đúng?
