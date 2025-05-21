@@ -95,7 +95,7 @@ Sự sụp đổ của thị trường hoa Tulip dẫn đến tình trạng bấ
 {: .text-justify} 
 
 Có thể cậu nghĩ rằng những điều này chắc chỉ có thể xảy ra vào thời xưa khi con người còn ít học thức.
-Thế nhưng thực ra ngay cả hiện tại cũng đã xuất hiện những hiện tượng tương tự chẳng hạn như <a target="_blank" href="https://thanhnien.vn/su-that-ve-thong-tin-lan-dot-bien-tien-ti-sot-gia-tro-lai-185240218154257096.htm">lan đột biến</a>, <a href="https://www.weforum.org/stories/2022/09/what-are-meme-stocks-explainer">meme coin</a>...
+Thế nhưng thực ra ngay cả hiện tại cũng đã xuất hiện những hiện tượng tương tự chẳng hạn như <a target="_blank" href="https://thanhnien.vn/su-that-ve-thong-tin-lan-dot-bien-tien-ti-sot-gia-tro-lai-185240218154257096.htm">lan đột biến</a>, <a target="_blank" href="https://www.weforum.org/stories/2022/09/what-are-meme-stocks-explainer">meme coin</a>...
 
 Vậy tại sao con người lại điên cuồng và vô lý như vậy???
 
