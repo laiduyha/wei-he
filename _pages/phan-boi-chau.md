@@ -7,8 +7,8 @@ mermaid: true
 parent:
   label: Chuyện người xưa
   url: chuyen-nguoi-xua
-categories: 
-  - chuyen-nguoi-xua
+# categories: 
+#   - chuyen-nguoi-xua
 ---
 
 ![alt]({{ 'assets/images/chan-dung-phan-boi-chau.jpg' | absolute_url }})
