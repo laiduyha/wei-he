@@ -10,25 +10,25 @@ classes: wide
 </a>
 </cite>
 
-Phong ba bão tố thổi đất trời,\
-Mây đen vần vũ khắp muôn nơi.\
-Một bước ngỡ đã đi muôn dặm,\
-Một lòng hướng về nơi chốn xưa\
+*Phong* ba bão tố khắp đất trời,\
+Mây đen vần vũ nổi muôn nơi.\
+Tự mình cất bước dài trăm dặm,\
+Lặng lẽ hướng về nơi chốn xưa.\
  \
-Hoa đào năm ấy dẫu nở muộn,\
-Vẫn giữ chấm đỏ của thời gian.\
-Ngày ấy người xưa còn e thẹn,\
-Liệu rằng giờ người có đổi chăng?\
+*Hoa* đào năm ấy dẫu nở muộn,\
+Vẫn giữ chấm đỏ của sắc xuân.\
+Ngày đó người xưa còn e thẹn,\
+Liệu rằng giờ người có đổi thay?\
  \
-Tuyết rơi từng hàng mai thẳng lối,\
-Cảnh xưa vẫn đó bóng người đâu?\
-Cành mai khẽ động theo chiều gió,\
-Đường xa tiêu lạnh dấu chân giày\
+*Tuyết* rơi từng hàng hoa thẳng lối,\
+Cảnh xưa còn đó bóng người đâu?\
+Nhành mai khẽ động đưa trong gió,\
+Đường xa tiêu lạnh dấu chân dày.\
  \
-Nguyệt hạ trăng tròn soi ngả bóng\
-Liễu lay gió thoảng gợn sóng hồ\
-Một khúc sáo tiêu buồn man mác\
-Tấu lên khúc nhạc tuổi hoa niên\
+*Nguyệt* hạ trăng tròn soi ngả bóng,\
+Liễu lay gió thoảng gợn sóng hồ.\
+Một khúc sáo tiêu đêm thanh vắng,\
+Khẽ vang khúc nhạc tuổi niên hoa.
 {: .text-justify}
 
 > <cite>
