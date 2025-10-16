@@ -1,5 +1,5 @@
 ---
-title: Phong hoa tuyết nguyệt
+title: Phong Hoa Tuyết Nguyệt
 classes: wide
 ---
 
@@ -10,25 +10,25 @@ classes: wide
 </a>
 </cite>
 
-*Phong* ba bão tố khắp đất trời,\
-Mây đen vần vũ nổi muôn nơi.\
-Tự mình cất bước dài trăm dặm,\
-Lặng lẽ hướng về nơi chốn xưa.\
+*Phong* ba gió cuốn cả phiến trời,\
+Mây vần vũ nổi gắt mưa rơi.\
+Độc hành khách bước dài thăm thẳm,\
+Sóng cuộn đáy lòng, khói chiều lam.\
  \
 *Hoa* đào năm ấy dẫu nở muộn,\
-Vẫn giữ chấm đỏ của sắc xuân.\
-Ngày đó người xưa còn e thẹn,\
+Sắc đỏ vẫn còn giữ tiết xuân.\
+Ngày đó người xưa còn e ấp,\
 Liệu rằng giờ người có đổi thay?\
  \
 *Tuyết* rơi từng hàng hoa thẳng lối,\
-Cảnh xưa còn đó bóng người đâu?\
-Nhành mai khẽ động đưa trong gió,\
+Cảnh xưa vẫn đó bóng người đâu?\
+Nhành mai khóm cỏ lay trong gió,\
 Đường xa tiêu lạnh dấu chân dày.\
  \
-*Nguyệt* hạ trăng tròn soi ngả bóng,\
-Liễu lay gió thoảng gợn sóng hồ.\
-Một khúc sáo tiêu đêm thanh vắng,\
-Khẽ vang khúc nhạc tuổi niên hoa.
+*Nguyệt* hạ trăng tròn, soi ngả bóng,\
+Gió đưa liễu rủ sóng mặt hồ.\
+Một tiếng sáo tiêu đêm thanh vắng,\
+Vang khẽ khúc nhạc thuở niên hoa.
 {: .text-justify}
 
 > <cite>
