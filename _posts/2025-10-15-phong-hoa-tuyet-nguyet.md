@@ -22,7 +22,7 @@ Liệu rằng giờ người có đổi thay?\
  \
 *Tuyết* rơi từng hàng hoa thẳng lối,\
 Cảnh xưa vẫn đó bóng người đâu?\
-Nhành mai khóm cỏ lay trong gió,\
+Nhành mai khóm trúc lay trong gió,\
 Đường xa tiêu lạnh dấu chân dày.\
  \
 *Nguyệt* hạ trăng tròn, soi ngả bóng,\
