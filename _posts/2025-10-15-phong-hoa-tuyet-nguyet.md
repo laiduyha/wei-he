@@ -18,17 +18,17 @@ Sóng cuộn đáy lòng mắt xa xăm.\
 *Hoa* đào năm ấy dẫu nở muộn,\
 Sắc đỏ vẫn còn giữ tiết xuân.\
 Ngày đó người xưa còn e ấp,\
-Liệu rằng giờ người có đổi thay?\
+Liệu rằng giờ nàng đã đổi thay?\
  \
 *Tuyết* rơi từng hàng hoa thẳng lối,\
-Cảnh xưa vẫn đó bóng người đâu?\
-Nhành mai khóm trúc lay trong gió,\
-Đường xa tiêu lạnh dấu chân dày.\
+Cảnh xưa vẫn đó bóng người còn?\
+Nhành mai khóm trúc lùa theo gió,\
+Đường xa hiu quạnh dấu chân dày.\
  \
-*Nguyệt* hạ trăng tròn, soi ngả bóng,\
-Gió đưa liễu rủ sóng mặt hồ.\
+*Nguyệt* hạ trăng tròn soi bóng nước,\
+Gió heo liễu rũ sóng mặt hồ.\
 Một tiếng sáo tiêu đêm thanh vắng,\
-Vang khẽ khúc nhạc thuở niên hoa.
+Nhẹ vang khúc nhạc thuở niên hoa.
 {: .text-justify}
 
 > <cite>
