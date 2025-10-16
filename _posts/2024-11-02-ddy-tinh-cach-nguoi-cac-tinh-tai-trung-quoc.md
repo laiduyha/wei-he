@@ -3,12 +3,6 @@ title: Tính cách người các tỉnh tại Trung Quốc
 permalink: /ddy-tinh-cach-nguoi-cac-tinh-tai-trung-quoc
 layout: single
 # classes: wide
-categories:
-  - duong-danh-dy
-  - trung-quoc
-parent:
- label: Dương Danh Dy
- url: duong-danh-dy
 toc: true
 toc_label: Danh sách
 toc_icon: map
