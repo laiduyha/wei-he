@@ -13,7 +13,7 @@ classes: wide
 *Phong* ba gió cuốn cả phiến trời,\
 Mây vần vũ nổi gắt mưa rơi.\
 Độc hành khách bước dài thăm thẳm,\
-Sóng cuộn đáy lòng, khói chiều lam.\
+Sóng cuộn đáy lòng mắt xa xăm.\
  \
 *Hoa* đào năm ấy dẫu nở muộn,\
 Sắc đỏ vẫn còn giữ tiết xuân.\
