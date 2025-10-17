@@ -21,7 +21,7 @@ Ngày đó người xưa còn e ấp,\
 Liệu rằng người giờ đã đổi thay?\
  \
 *Tuyết* rơi từng hàng hoa thẳng lối,\
-Cảnh xưa vẫn đó bóng người còn?\
+Cảnh xưa còn đó bóng người đâu?\
 Nhành mai khóm trúc lùa theo gió,\
 Đường xa hiu quạnh dấu chân dày.\
  \
