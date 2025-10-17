@@ -12,13 +12,13 @@ classes: wide
 
 *Phong* ba gió cuốn cả phiến trời,\
 Mây vần vũ nổi gắt mưa rơi.\
-Độc hành khách bước dài thăm thẳm,\
-Sóng cuộn đáy lòng mắt xa xăm.\
+Độc hành khách bước dài trăm dặm,\
+Sóng cuộn đáy lòng hướng cố hương.\
  \
 *Hoa* đào năm ấy dẫu nở muộn,\
 Sắc đỏ vẫn còn giữ tiết xuân.\
 Ngày đó người xưa còn e ấp,\
-Liệu rằng giờ nàng đã đổi thay?\
+Liệu rằng người giờ đã đổi thay?\
  \
 *Tuyết* rơi từng hàng hoa thẳng lối,\
 Cảnh xưa vẫn đó bóng người còn?\
@@ -26,7 +26,7 @@ Nhành mai khóm trúc lùa theo gió,\
 Đường xa hiu quạnh dấu chân dày.\
  \
 *Nguyệt* hạ trăng tròn soi bóng nước,\
-Gió heo liễu rũ sóng mặt hồ.\
+Gió heo liễu rủ sóng mặt hồ.\
 Một tiếng sáo tiêu đêm thanh vắng,\
 Nhẹ vang khúc nhạc thuở niên hoa.
 {: .text-justify}
