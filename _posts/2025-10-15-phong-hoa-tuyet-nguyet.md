@@ -26,7 +26,7 @@ Nhành mai khóm trúc lùa theo gió,\
 Đường xa hiu quạnh dấu chân dày.\
  \
 *Nguyệt* hạ trăng tròn soi bóng nước,\
-Gió heo liễu rủ sóng mặt hồ.\
+Gió đưa liễu rủ sóng mặt hồ.\
 Một tiếng sáo tiêu đêm thanh vắng,\
 Nhẹ vang khúc nhạc thuở niên hoa.
 {: .text-justify}
