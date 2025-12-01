@@ -1,6 +1,6 @@
 ---
 title: Kỳ 7 - Giải quyết việc trong nước
-permalink: /pbc-giai-quyet-viec-trong-nước
+permalink: /pbc-giai-quyet-viec-trong-nuoc
 layout: single
 classes: wide
 parent:
