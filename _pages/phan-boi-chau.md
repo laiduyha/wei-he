@@ -64,7 +64,7 @@ Phan Bội Châu viết *"Ngục Trung Thư"* lúc ở trong tù tại Quảng C
 * 1906 (39 tuổi) - Gặp Tôn Trung Sơn
 * 1906 (39 tuổi) - Thu xếp cho lứa du học sinh đầu tiên sang Nhật học
 
-### <a href="/pbc-ho-hao-sang-nhat">Kỳ 7. Đính mật ước với Hoàng Hoa Thám</a>
+### <a href="/pbc-giai-quyet-viec-trong-nước">Kỳ 7 - Giải quyết việc trong nước</a>
 * 1907 (40 tuổi) - Đón Hội chủ Cường Để sang Nhật
 * 1908 (41 tuổi) - Đính mật ước với cụ Hoàng Hoa Thám
 
