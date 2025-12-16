@@ -1,1 +1,1 @@
-bundler exec jekyll serve --port 4500
+bundler exec jekyll clean && bundler exec jekyll serve --port 4500
