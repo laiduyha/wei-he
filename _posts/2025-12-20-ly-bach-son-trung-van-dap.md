@@ -1,28 +1,36 @@
 ---
-title: 李白《山中问答》- Lý Bạch《Sơn trung vấn đáp》
+title: 李白《山中问答》- Lý Bạch《Sơn Trung vấn đáp》
 layout: single
 classes: wide
-tags: [li-bach]
+categories: li-bach
+parent:
+  label: Lí Bạch
+  url: li-bach
 ---
 
-![alt]({{ 'assets/images/wang-jun-he-qiu-shan-fang-you.jpeg' | absolute_url }})
-> <cite>Minh hoạ</cite>
+![alt]({{ 'assets/images/chen-shao-mei-song-xia-gao-shi-tu.jpg' | absolute_url}})
+> <cite>
+<a target="_blank" href="https://www.artauctioner.com/web/auction/dL2554500100007">
+陈少梅《松下高仕图》- Trần Thiểu Mai《Cao sĩ dưới gốc tùng》
+</a>
+</cite>
 
-## 中文（简体）
+## 山中问答
 问余何意栖碧山，\
+Vấn dư hà ý thê bích sơn,\
 笑而不答心自闲。\
-桃花流水窅然去，\
-别有天地非人间。
-
-## Hán Việt
-Vấn dư hà ý tê bích sơn,\
 Tiếu nhi bất đáp tâm tự nhàn.\
-Đào hoa lưu thủy yểu nhiên khứ,\
-Biệt hữu thiên địa phi nhân gian.
+桃花流水窅然去，\
+Đào hoa lưu thuỷ diểu nhiên khứ,\
+别有天地非人间。\
+Biệt hữu thiên địa tại nhân gian.
+{: .text-justify}
 
-## Dịch nghĩa
-Hỏi ta vì sao lại ở núi xanh, ta chỉ mỉm cười không đáp, lòng tự thảnh thơi.\
-Hoa đào theo dòng nước lững lờ trôi xa, rồi khuất hẳn; hóa ra có một cõi trời đất khác, chẳng phải chốn nhân gian.
+## Sơn Trung vấn đáp
+Hà cớ non xanh tạm lánh đời,\
+Mỉm cười không đáp, lòng thảnh thơi.\
+Hoa đào theo nước trôi xa mãi,\
+Giữa chốn nhân gian một mảnh trời.
 {: .text-justify}
 
 > <cite>
