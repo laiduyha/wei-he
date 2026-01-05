@@ -50,7 +50,7 @@ Tôi cũng có cái khó của tôi, mong bạn thông cảm cho.
 
 帮你是情分，不帮是本分。\
 Bāng nǐ shì qíngfèn, bù bāng shì běnfèn.\
-Giúp bạn là do tình nghĩa, không giúp là do bổn phận (quyền hạn) của tôi.
+Giúp bạn là do tình nghĩa, không giúp là bổn phận của tôi.
 {: .text-justify}
 
 道德是用来约束自己的，不是用来绑架别人的。\
@@ -58,7 +58,7 @@ Dàodé shì yòng lái yuēshù zìjǐ de, búshì yòng lái bǎngjià biéré
 Đạo đức là để tự răn mình, không phải để ép buộc người khác.
 {: .text-justify}
 
-### Cấp độ 3: Sắc sảo
+### Cấp độ 3: Xéo xắt
 
 既然你这么善良，那这个积德的机会就留给你吧。\
 Jìrán nǐ zhème shànliáng, nà zhège jīdé de jīhuì jiù liú gěi nǐ ba.\
