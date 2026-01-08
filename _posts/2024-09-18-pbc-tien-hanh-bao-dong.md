@@ -158,7 +158,7 @@ Chạy mỏi chân thì hãy ở tù.\
 Đã khách không nhà trong bốn biển,\
 Lại người có tội giữa năm châu.\
  \
-Bủa tay ôm chặt bồ kinh tế,\ 
+Bủa tay ôm chặt bồ kinh tế,\
 Mở miệng cười tan cuộc oán thù.\
 Thân nọ vẫn còn, còn sự nghiệp,\
 Bao nhiêu nguy hiểm sợ gì đâu.
