@@ -8,7 +8,16 @@ parent:
   url: duong-cua-dao
 ---
 
+![alt]({{ 'assets/images/shen-zhou_zhang-li-yuan-tiao.jpg' | absolute_url }})
+> <cite>
+<a target="_blank" href="https://www.comuseum.com/painting/masters/shen-zhou/poet-on-a-mountain-top/">
+沈周《杖藜遠眺》- Thẩm Chu《Trượng Lê Viễn Thiếu》
+</a>
+</cite>
+
 **杖藜遠眺**\
+*Trượng Lê Viễn Thiếu*\
+ \
 白雲如帶束山腰,\
 Bạch vân như đái thúc sơn yêu,\
 石磴飛空細路遙。\
@@ -19,21 +28,14 @@ Thạch đặng phi không tế lộ dao.\
 Dục nhân minh giản đáp xuy tiêu.
  \
  \
-**Trượng Lê Viễn Thiếu**\
+**Chống trượng vọng xa**\
 Mây trắng bay là nơi sườn núi,\
-Đường mây thang đá hướng trời xanh.\
-Trượng lê viễn thiếu tâm thư thái,\
+Đường mây thang đá vút chân trời.\
+Chống trượng vọng xa tâm thư thái,\
 Theo tiếng suối reo họa khúc ca.
 {: .notice--warning .text-justify}
 
-![alt]({{ 'assets/images/shen-zhou_zhang-li-yuan-tiao.jpg' | absolute_url }})
-> <cite>
-<a target="_blank" href="https://www.comuseum.com/painting/masters/shen-zhou/poet-on-a-mountain-top/">
-沈周《杖藜遠眺》- Thẩm Chu《Trượng Lê Viễn Thiếu》
-</a>
-</cite>
-
-Nhìn mà không chạm được chính là một loại bi kịch!
+Nhìn mà không chạm được tới chính là một loại bi kịch!
 {: .text-justify}
 
 Đáng sợ nhất của đời người là khi tầm mắt đã mở rộng, nhìn thấy được núi sông mà lại không thể đi tới.
