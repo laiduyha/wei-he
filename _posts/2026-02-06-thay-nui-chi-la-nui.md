@@ -42,7 +42,7 @@ Thì y như trước, thấy núi chỉ là núi, thấy nước chỉ là nư�
 
 > <cite>
 <a target="_blank" href="https://blog.udn.com/TztzaiMaster/180328339">
-青原惟《山中问答》- Thiền sư Thanh Nguyên Duy Tín đời Tống trong《Sơn Trung Vấn Đáp》
+青原惟信禪師《山中问答》- Thiền sư Thanh Nguyên Duy Tín đời Tống trong《Sơn Trung Vấn Đáp》
 </a>
 </cite>
 
