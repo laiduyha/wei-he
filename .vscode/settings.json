@@ -1,4 +1,5 @@
 {
-    "editor.tabSize": 2,
-    "editor.unicodeHighlight.ambiguousCharacters": false
+  "editor.tabSize": 2,
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "editor.formatOnSave": false
 }
