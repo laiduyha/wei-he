@@ -15,8 +15,7 @@ parent:
 </a>
 
 ## Quy luật
-Khi bắt đầu học một điều gì đó mới hoặc muốn phát triển kỹ năng của chính mình, cậu đừng nên đặt ra những thử thách quá khó khăn. Hãy thực hiện mọi thứ từng bước một.
-
+Khi bắt đầu học một điều gì đó mới hoặc muốn phát triển kỹ năng, cậu đừng nên đặt ra những thử thách quá khó khăn. Tớ từng mắc sai lầm này: đặt mục tiêu quá cao, rồi tự tạo áp lực không đáng có cho chính mình. Hãy thực hiện mọi thứ từng bước một.
 {: .text-justify}
 
 ![alt]({{ 'assets/images/the-psychology-of-optimal-experience-mihaly-csikszentmihalyi.jpg' | absolute_url }})
@@ -25,32 +24,21 @@ Khi bắt đầu học một điều gì đó mới hoặc muốn phát triển 
 From Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi on page 74.
 </a>
 
-Nếu cậu đặt ra những mục tiêu quá cao, đầu óc sẽ dễ bị áp lực, dẫn đến những căng thẳng không đáng có.
-Ngược lại, nếu không có bất kỳ thử thách nào, cậu sẽ cảm thấy nhàm chán.
+Mục tiêu quá cao sẽ khiến đầu óc nặng nề, dẫn đến căng thẳng. Ngược lại, không có thử thách nào thì cậu sẽ rơi vào nhàm chán. Cái hay nằm ở chỗ: tìm được vùng vừa đủ khó để giữ cho mình luôn tỉnh táo và hứng thú.
 {: .text-justify}
 
 ## Học với kỹ thuật i + 1
-Khi học một kiến thức nào đó hãy áp dụng kỹ thuật **i \+ 1**.
-{: .text-justify}
-
 Kỹ thuật này xuất phát từ ý tưởng <a target="_blank" href="https://www.leonardoenglish.com/blog/comprehensible-input">
-comprehensible input</a> của Stephen Krashan. Ông cho rằng khi trình độ của cậu đang ở mức **i** cậu nên hướng tới mục tiêu ở mức **i \+ 1**.
+comprehensible input</a> của Stephen Krashen. Ông cho rằng, khi trình độ của cậu đang ở mức **i**, hãy hướng tới mục tiêu ở mức **i \+ 1** — chỉ nhỉnh hơn một bậc so với hiện tại.
 {: .text-justify}
 
-Ví dụ, trong việc học tiếng Anh: giả sử cậu đã quen với các cấu trúc đơn giản như "when", "where", "is", thì việc tiếp thu thêm từ mới từ những câu sau đây hoàn toàn nằm trong khả năng của cậu:
-
+Giống như người học cờ vây: ban đầu chỉ cần thuộc vài kỳ phổ cơ bản, đặt quân đúng chỗ, không cần hiểu vì sao. Khi đã quen với nhịp mở đầu, tự nhiên cậu sẽ bắt đầu nhận ra mối liên hệ giữa các quân, rồi dần dần cảm nhận được dòng chảy của cả ván cờ. Không ai ngồi xuống bàn cờ lần đầu mà đã nhìn thấy thế cục cả — nhưng mỗi ván đi qua, tầm nhìn lại rộng thêm một chút.
 {: .text-justify}
 
-Where is the *washroom*?\
-Where is the *kitchen*?\
-Where did dad *go*?\
-Is this the *place*?
+Ban đầu tốc độ có vẻ chậm, nhưng theo thời gian, nó sẽ giống như hiệu ứng hòn tuyết lăn — tích lũy dần và mang lại kết quả lớn hơn cậu tưởng.
 {: .text-justify}
 
-Mặc dù ban đầu tốc độ có vẻ chậm, nhưng theo thời gian, nó sẽ giống như hiệu ứng hòn tuyết lăn, tích lũy và mang lại kết quả lớn dần theo thời gian.
-{: .text-justify}
-
-Thế nên đừng nóng vội, hãy tiến từng bước một, chắc chắn và vững chãi.
+Thế nên đừng nóng vội. Từng bước một, chắc chắn và vững chãi.
 {: .text-justify}
 
 > <cite>
