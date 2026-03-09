@@ -30,7 +30,12 @@ Là một trong những cái nôi văn minh lâu đời nhất nhân loại, Tru
 
 ## Danh sách
 ## Phần 1: Cuộc cờ thế kỷ (Mao Trạch Đông và Tưởng Giới Thạch)
+
 ### <a href="/dcstq-van-co-mao-trach">Kỳ 1. Ván cờ Mao - Trạch</a>
+
+### <a href="/dcstq-dai-hoi-lan-thu-nhat-quoc-dan-dang">Kỳ 2. Đại hội lần thứ nhất Quốc Dân Đảng</a>
+
+### <a href="/dcstq-mao-tuong-ke-sung-nguoi-but">Kỳ 3. Mao - Tưởng: Kẻ súng người bút</a>
 
 ## Phần 2: Đặng Tiểu Bình ba lần vào ra Trung Nam Hải
 
