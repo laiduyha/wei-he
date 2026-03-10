@@ -8,7 +8,7 @@ parent:
   url: phan-boi-chau
 ---
 
-Ngày đó là ngày tết Nguyên Tiêu, người Hàng Châu có tục xem đèn. Bên bờ Hồ Tây đèn nháy như sao, trai lục gái hồng, bể người rừng hoa, náo nhiệt cực kỳ. Đột nhiên trong ngàn tiếng pháo nổ, lại nghe thấy ba phát súng lục. Tức khắc có người chết nằm ngã giữa đường. Lính tuần lại soát thì phát hiện ở trong người có 2150$, trong túi lại có một cái đồng hồ vàng 60$.
+> Ngày đó là ngày tết Nguyên Tiêu, người Hàng Châu có tục xem đèn. Bên bờ Hồ Tây đèn nháy như sao, trai lục gái hồng, bể người rừng hoa, náo nhiệt cực kỳ. Đột nhiên trong ngàn tiếng pháo nổ, lại nghe thấy ba phát súng lục. Tức khắc có người chết nằm ngã giữa đường. Lính tuần lại soát thì phát hiện ở trong người có 2150$, trong túi lại có một cái đồng hồ vàng 60$.
 {: .notice--info .text-justify}
 > <cite>
 <a href="/pbc-lan-loi-sau-the-chien#phan-bá-ngọc-bị-ám-sát">Kỳ 14 - Lăn lộn sau thế chiến</a>

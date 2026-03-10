@@ -18,7 +18,7 @@ Chân dung Phạm Hồng Thái trong hồ sơ "Attentat de Shameem 19 Juin 1924"
 Ngày 19 tháng 5, măm Giáp Tý (1924), tôi đang ngồi ở nhà biên tập, mở báo xem, thấy các báo Thượng Hải đăng những điện văn ở Quảng Đông gửi lại với hàng chữ viết to tướng.
 {: .text-justify}
 
-Kinh thiên động địa chi ám sát... Việt Nam cách mạng đảng chi chá đạn thanh
+> Kinh thiên động địa chi ám sát... Việt Nam cách mạng đảng chi chá đạn thanh
 {: .notice--warning .text-justify}
 
 Tôi vừa đọc đến đây, chân tay rung động. Liền đó 4, 5 ngày các báo ở Trung Hoa và các báo Anh Mỹ phát hành, tiếp tục đăng tải việc này luôn và thêm vào lời phê bình nữa. Người thế giới biết được người của Đảng cách mạng Việt Nam, việc này thiệt là một tiếng vang lớn về mặt truyền thanh.
@@ -82,9 +82,9 @@ Sau việc ấy đã 5, 7 ngày, các báo Hoa, Dương đều tán dương rằ
 Vài tuần sau, Công sứ Pháp ở Bắc Kinh giao thiệp với Chính phủ Quảng Đông vài ba lần. Yêu cầu trục xuất người Việt Nam và bồi thường tổn hại. Lúc đó Tôn tiên sinh đang ở phủ Đại Nguyên Soái tỉnh Quảng Đông với Hồ Hán Dân làm tỉnh trưởng, trả lời rằng:
 {: .text-justify}
 
-Ta chưa nghe nói có người Việt Nam nào ở đây. Nếu có nữa tất là người tốt, không ai là hung thủ. Toàn quyền Đông Dương đi lần này, kinh qua địa phận Quảng Đông, tất thẩy đều yên ổn như núi Thái Sơn. Vừa vào đến tô giới là quyền hạn của người Tây thì phát sinh tấn kịch nguy hiểm này. Đó là do bọn cảnh binh Anh Pháp bất lực, không thể chối từ được.\
- \
-Từ đây về sau Chính phủ Pháp muốn cho những việc nguy hiểm đó không phát sinh nữa, nên cho phép cảnh binh Trung Hoa vào tô giới bảo hộ cho người quý quốc thì hay lắm.
+> Ta chưa nghe nói có người Việt Nam nào ở đây. Nếu có nữa tất là người tốt, không ai là hung thủ. Toàn quyền Đông Dương đi lần này, kinh qua địa phận Quảng Đông, tất thẩy đều yên ổn như núi Thái Sơn. Vừa vào đến tô giới là quyền hạn của người Tây thì phát sinh tấn kịch nguy hiểm này. Đó là do bọn cảnh binh Anh Pháp bất lực, không thể chối từ được.\
+>  \
+> Từ đây về sau Chính phủ Pháp muốn cho những việc nguy hiểm đó không phát sinh nữa, nên cho phép cảnh binh Trung Hoa vào tô giới bảo hộ cho người quý quốc thì hay lắm.
 {: .notice .text-justify}
 
 Sau Phạm tiên sinh tuận quốc đã hai tháng, tức tháng 7 năm Giáp Tý (1924), việc Trung-Pháp giao thiệp xong rồi, tôi về Quảng Đông trồng cái bia tạm ở trước mộ liệt sĩ.
@@ -93,9 +93,9 @@ Sau Phạm tiên sinh tuận quốc đã hai tháng, tức tháng 7 năm Giáp T
 Đến tháng 12 năm ấy, các lãnh tụ của *"Trung Quốc Quốc Dân Đảng"* như Liêu Trọng Khải, Uông Tinh Vệ muốn kỷ niệm Phạm liệt sĩ để biểu thị cảm tình người Trung Quốc với Đảng ta. Mới đem 3000$ giao cho người Đảng ta, dời mộ Phạm liệt sĩ cải táng nơi một hòn núi nhỏ trước Hoàng Hoa Cương. Hoàng Hoa Cương là một 72 liệt sĩ, vì cách mạng với Mãn Thanh mà đồng thời tuận quốc. Bây giờ hợp táng nơi này, đối diện thì là mộ tiên sinh, kiến trúc tráng vĩ, có dựng bia đình, chữ mặt bia có đề rằng:
 {: .text-justify}
 
-Việt Nam Liệt Sĩ Phạm Hồng Thái Tiên Sinh Chi Mộ\
- \
-Người đề chữ là Trần Lộ tiên sinh.
+> Việt Nam Liệt Sĩ Phạm Hồng Thái Tiên Sinh Chi Mộ\
+>  \
+> Người đề chữ là Trần Lộ tiên sinh.
 {: .notice--warning .text-justify}
 
 ![alt]({{ 'assets/images/mo-liet-si-pham-hong-thai.jpg' | absolute_url }})

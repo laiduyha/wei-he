@@ -8,13 +8,13 @@ parent:
   url: phan-boi-chau
 ---
 
-Lúc đầu tôi vẫn không tin lời Lê lắm, nhưng lại nghĩ nếu thật như lời họ nói thì việc mình viết bản luận này mà tương kế tựu kế chắc là cũng có chỗ hay. Tôi mới mưu cùng bàn việc với Bá Ngọc. Bá Ngọc lúc đó là người cộng sự nhiều năm với tôi, từng cùng nhau vào sinh ra tử không ít lần, kể ra thật không ai hơn Phan Bá Ngọc. Phan lúc này mới nói với tôi rằng:\
- \
-"Muốn việc thành đại sự phải có âm mưu. Nay tiên sinh chỉ nên làm một bài lý luận chuyên nói về chuyện Pháp-Việt đề huề, hai bên đều có ích cả.\
- \
-Người Pháp được thư ấy, tất bớt nghi ngờ Đảng ta. Ta cũng nhân đó đưa người vào trong dò xét được tình trạng người Pháp. Mà mật tình trong nước cũng có thể thông được với bên ngoài."\
- \
-Theo như lời ông Lê nói cũng là đắc sách lắm. Tôi tin lời hai người làm một bài văn đề rằng *"Pháp-Việt đề huề luận"*, dưới đề *"Độc Tinh Tử soạn"*, cuối bài có viết 5 chữ *"Phan Bá Ngọc phụng thơ"*. Đoạn Lê cầm bài văn ấy về nước. Bốn năm tháng sau, người con yêu của cụ Phan Đình Phùng quả thật quay ra làm tôi trung cho Pháp!
+> Lúc đầu tôi vẫn không tin lời Lê lắm, nhưng lại nghĩ nếu thật như lời họ nói thì việc mình viết bản luận này mà tương kế tựu kế chắc là cũng có chỗ hay. Tôi mới mưu cùng bàn việc với Bá Ngọc. Bá Ngọc lúc đó là người cộng sự nhiều năm với tôi, từng cùng nhau vào sinh ra tử không ít lần, kể ra thật không ai hơn Phan Bá Ngọc. Phan lúc này mới nói với tôi rằng:\
+>  \
+> "Muốn việc thành đại sự phải có âm mưu. Nay tiên sinh chỉ nên làm một bài lý luận chuyên nói về chuyện Pháp-Việt đề huề, hai bên đều có ích cả.\
+>  \
+> Người Pháp được thư ấy, tất bớt nghi ngờ Đảng ta. Ta cũng nhân đó đưa người vào trong dò xét được tình trạng người Pháp. Mà mật tình trong nước cũng có thể thông được với bên ngoài."\
+>  \
+> Theo như lời ông Lê nói cũng là đắc sách lắm. Tôi tin lời hai người làm một bài văn đề rằng *"Pháp-Việt đề huề luận"*, dưới đề *"Độc Tinh Tử soạn"*, cuối bài có viết 5 chữ *"Phan Bá Ngọc phụng thơ"*. Đoạn Lê cầm bài văn ấy về nước. Bốn năm tháng sau, người con yêu của cụ Phan Đình Phùng quả thật quay ra làm tôi trung cho Pháp!
 {: .notice--info .text-justify}
 > <cite>
 <a href="/pbc-lan-loi-sau-the-chien#pháp-việt-đề-huề-luận">Kỳ 14 - Lăn lộn sau thế chiến</a>
@@ -100,5 +100,5 @@ Tôi muốn từ nay về sau, người Pháp chớ coi người Nam như tôi, 
 Tôi muốn từ nay về sau, người Nam chớ coi người Pháp là giống khác, là kẻ thù, mà coi người Pháp như thầy hay, như bạn tốt. Người Nam mà thực lòng lấy thầy hay bạn tốt trông mong người Pháp thì người Pháp cũng sợ gì mà không dám đương cái trách-nhiệm thầy hay bạn tốt ru! Than ôi! Ngày cùng đến rồi! Nạn lớn tới rồi! Hung thần ác-sát đã gõ cửa mà vào rồi! Nào người Pháp, nào người Nam, có chịu nén lòng để cùng theo nhau hay không? Có thể đổi đường thay lối để cùng nghĩ cách lưỡng lợi mà được sinh-tồn hay không? Nếu các ông không cho lời tôi là viển vông thì tôi còn có nhiều mưu kế, xin cùng các ông nghiên cứu.
 {: .text-justify} 
 
-In tại nhà in Nghiêm-Hàm 58, Phố hàng Bông — Hanoi
+> In tại nhà in Nghiêm-Hàm 58, Phố hàng Bông — Hanoi
 {: .notice--warning .text-justify} 

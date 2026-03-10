@@ -6,7 +6,7 @@ categories:
   - tho
 ---
 
-Đường đi khó, không khó vì ngăn sông cách núi mà khó vì lòng người ngại núi e sông.
+> Đường đi khó, không khó vì ngăn sông cách núi mà khó vì lòng người ngại núi e sông.
 {: .notice--warning .text-justify}
 
 > <cite><a target="_blank" href="https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_B%C3%A1_H%E1%BB%8Dc">

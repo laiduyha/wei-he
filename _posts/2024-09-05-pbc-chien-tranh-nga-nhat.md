@@ -8,17 +8,17 @@ parent:
   url: phan-boi-chau
 ---
 
-**Đêm Dài - Trần Tế Xương**\
- \
-Sực tỉnh trông ra ngỡ sáng loà,\
-Đêm sao đêm mãi thế ru mà?\
-Lạnh lùng bốn bể ba phần tuyết,\
-Xao xác năm canh một tiếng gà,\
- \
-Chim chóc hãy còn nương cửa tổ,\
-Bướm ong chưa thấy lượn vườn hoa.\
-Nào ai là kẻ tìm ta đó,\
-Đốt đuốc mà soi kẻo lẫn nhà!
+> **Đêm Dài - Trần Tế Xương**\
+>  \
+> Sực tỉnh trông ra ngỡ sáng loà,\
+> Đêm sao đêm mãi thế ru mà?\
+> Lạnh lùng bốn bể ba phần tuyết,\
+> Xao xác năm canh một tiếng gà,\
+>  \
+> Chim chóc hãy còn nương cửa tổ,\
+> Bướm ong chưa thấy lượn vườn hoa.\
+> Nào ai là kẻ tìm ta đó,\
+> Đốt đuốc mà soi kẻo lẫn nhà!
 {: .notice--warning}
 
 ![alt]({{ 'assets/images/russo-japanese-war-batte-sha-river-taizi-yoshikuni.jpg' | absolute_url }})

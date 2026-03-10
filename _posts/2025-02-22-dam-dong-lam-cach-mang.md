@@ -15,9 +15,9 @@ parent:
 Jean Vincent, AFP (1966) "Hồng vệ binh - học sinh trung học và đại học - vẫy những bản sao Tiểu Hồng Thư của Chủ tịch Mao Trạch Đông trong một cuộc diễu hành vào tháng 6 năm 1966 trên đường phố Bắc Kinh vào đầu cuộc Cách mạng Văn hóa của Trung Quốc"
 </a></cite>
 
-"Tòa án" công ty - Niềm tin được cứu vớt\
- \
-Tập đoàn FedEx ban hành quy định "đối xử công bằng với nhân viên", để người quản lý và nhân viên giám sát lẫn nhau trong việc thực hiện văn hóa công ty. Nếu nhân viên cảm thấy mình bị phân xử không công bằng, anh ta có thể báo cáo với cấp trên của sếp trong vòng bảy ngày. Trong bảy ngày kế tiếp, cấp trên của sếp sẽ phải mở "phiên tòa" phán quyết nhân viên đó đúng hay người quản lý của anh ta đúng. Nếu nhân viên vẫn chưa hài lòng, họ có thể tiếp tục khiếu nại lên cấp cao hơn. Không ít quyết định ban đầu của các cấp quản lý đã bị "tòa án" này bác bỏ, chính vì vậy trong tập đoàn chỉ có quyền lực lý tưởng chứ không có quyền lực cá nhân.
+> "Tòa án" công ty - Niềm tin được cứu vớt\
+>  \
+> Tập đoàn FedEx ban hành quy định "đối xử công bằng với nhân viên", để người quản lý và nhân viên giám sát lẫn nhau trong việc thực hiện văn hóa công ty. Nếu nhân viên cảm thấy mình bị phân xử không công bằng, anh ta có thể báo cáo với cấp trên của sếp trong vòng bảy ngày. Trong bảy ngày kế tiếp, cấp trên của sếp sẽ phải mở "phiên tòa" phán quyết nhân viên đó đúng hay người quản lý của anh ta đúng. Nếu nhân viên vẫn chưa hài lòng, họ có thể tiếp tục khiếu nại lên cấp cao hơn. Không ít quyết định ban đầu của các cấp quản lý đã bị "tòa án" này bác bỏ, chính vì vậy trong tập đoàn chỉ có quyền lực lý tưởng chứ không có quyền lực cá nhân.
 {: .notice--warning .text-justify}
 
 > <cite><a target="_blank" href="https://www.alphabooks.vn/thuat-tay-nao">
@@ -49,15 +49,15 @@ Nhiều học giả cho rằng Mao tìm thấy niềm vui trong sự *loạn*. K
 Giữa lúc tranh cãi với Đảng Cộng sản Liên Xô vào đầu những năm 1960, Mao viết một bài thơ về hình tượng Tôn Ngộ Không:
 {: .text-justify}
 
-Đất bằng khi nổi trận lôi đình\
-Thì thấy tòi ra Bạch Cốt Tinh\
-Lão sãi ngây ngô còn dễ dạy\
-Con yêu nham hiểm chuyện không lành\
- \
-Khỉ vàng, thiết bổng vung tin tít\
-Lầu ngọc, trần ai quét sạch sanh\
-Nay lại hoan hô Tôn đại thánh\
-Chỉ vì yêu khí mới hồi sinh.
+> Đất bằng khi nổi trận lôi đình\
+> Thì thấy tòi ra Bạch Cốt Tinh\
+> Lão sãi ngây ngô còn dễ dạy\
+> Con yêu nham hiểm chuyện không lành\
+>  \
+> Khỉ vàng, thiết bổng vung tin tít\
+> Lầu ngọc, trần ai quét sạch sanh\
+> Nay lại hoan hô Tôn đại thánh\
+> Chỉ vì yêu khí mới hồi sinh.
 {: .notice--warning .text-justify}
 
 Tinh thần *Tôn Ngộ Không* đại diện cho sự *loạn* — bản lĩnh lật đổ một trật tự đã được định sẵn. Mao say với thành công trong việc tận dụng sức mạnh ấy từ đám đông, nên đã đem nó vào Cách mạng Văn hóa.

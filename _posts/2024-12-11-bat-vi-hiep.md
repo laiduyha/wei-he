@@ -6,7 +6,7 @@ categories:
   - nhac
 ---
 
-Hắn chẳng phải hiệp khách hay nhân sĩ giang hồ nào cả. Chỉ là khoảnh khắc khi hắn quay lưng rời đi, tại sao lại tiêu sái đến vậy? Tựa hồ như ở phía sau chẳng còn điều gì có thể níu giữ hắn lại cả. Bao gồm cả ta...
+> Hắn chẳng phải hiệp khách hay nhân sĩ giang hồ nào cả. Chỉ là khoảnh khắc khi hắn quay lưng rời đi, tại sao lại tiêu sái đến vậy? Tựa hồ như ở phía sau chẳng còn điều gì có thể níu giữ hắn lại cả. Bao gồm cả ta...
 {: .notice--warning .text-justify}
 
 > <cite>

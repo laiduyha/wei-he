@@ -25,26 +25,26 @@ Thế nhưng thiền sư Đạo Thụ vẫn ở lại chùa suốt hơn mười 
 Có người hỏi thiền sư Đạo Thụ:
 {: .text-justify}
 
-Pháp thuật của đạo sĩ cao cường, vì sao ngài lại chiến thắng ông ta?
+> Pháp thuật của đạo sĩ cao cường, vì sao ngài lại chiến thắng ông ta?
 {: .notice .text-justify}
 
 Thiền sư trả lời:
 {: .text-justify}
 
-Tôi chẳng có cái gì để thắng ông ta, chỉ có chữ *"vô"* có thể thắng ông ta.
+> Tôi chẳng có cái gì để thắng ông ta, chỉ có chữ *"vô"* có thể thắng ông ta.
 {: .notice .text-justify}
 
 Người lại hỏi:
 {: .text-justify}
 
-*"Vô"* sao có thể thắng được?
+> *"Vô"* sao có thể thắng được?
 {: .notice .text-justify}
 
 Thiền sư trả lời:
 
-Họ có (hữu) pháp thuật, nhưng hữu là hữu hạn, hữu tận, hữu lượng, hữu biên. Còn tôi không (vô) có pháp thuật. Vô là vô hạn, vô tận, vô lượng, vô biên.\
- \
-Quan hệ giữa có và không là bất biến ứng vạn biến. Tôi *"vô biến"* đương nhiên là thắng *"hữu biến"*!
+> Họ có (hữu) pháp thuật, nhưng hữu là hữu hạn, hữu tận, hữu lượng, hữu biên. Còn tôi không (vô) có pháp thuật. Vô là vô hạn, vô tận, vô lượng, vô biên.\
+>  \
+> Quan hệ giữa có và không là bất biến ứng vạn biến. Tôi *"vô biến"* đương nhiên là thắng *"hữu biến"*!
 {: .notice .text-justify}
 > <cite>
 Dương Danh Dy -《Tuyển tập truyện cực ngắn hay Trung Quốc》

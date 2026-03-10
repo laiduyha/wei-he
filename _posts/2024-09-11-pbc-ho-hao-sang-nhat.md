@@ -21,42 +21,42 @@ chan-vo-hoc-hieu:
     title: "Tưởng Giới Thạch (đứng bên trái), cựu học sinh của trường"   
 ---
 
-**Ái quốc - Phan Bội Châu**\
- \
-Nay ta hát một thiên ái quốc,\
-Yêu gì hơn yêu nước nhà ta.\
-Trang nghiêm bốn mặt sơn hà,\
-Ông cha để lại cho ta lọ vàng.\
-Trải mấy lớp tiền vương dựng mở,\
-Bốn ngàn năm giãi gió dầm mưa,\
-Biết bao công của người xưa,\
-Gang sông, tấc núi, dạ thưa, ruột tằm.\
-Hào Đại Hải âm thầm trước mặt,\
-Dải Cửu Long quanh quất miền Tây,\
-Một toà san sát xinh thay,\
-Bên kia Vân, Quảng, bên này Côn Lôn.\
-Vẻ gấm vóc nước non thêm đẹp.\
-Rắp những mong cơ nghiệp dài lâu.\
- \
-Giống khôn há phải đàn trâu,\
-Giang sơn nỡ để người đâu vẫy vùng?\
-Hai mươi triệu dân cùng của hết,\
-Bốn mươi năm nước mất quyền không.\
-Thương ôi! công nghiệp tổ tông,\
-Nước tanh máu đỏ, non chồng thịt cao.\
-Non nước ấy biết bao máu mủ.\
-Nỡ nào đem nuôi lũ sài lang?\
-Cờ ba sắc, xứ Đông Dương,\
-Trông càng thêm nhục, nói càng thêm đau!\
-Nhục vì nước, mà đau người trước,\
-Nông nỗi này, non nước cũng oan.\
- \
-Hồn ơi về với giang san,\
-Muôn người muôn tiếng hát ran câu này:\
-*“Hợp muôn sức ra tay quang phục;*\
-*Quyết có phen rửa nhục báo thù...”*\
-Mấy câu ái quốc reo hò,\
-Chữ đồng tâm ấy phải cho một lòng.
+> **Ái quốc - Phan Bội Châu**\
+>  \
+> Nay ta hát một thiên ái quốc,\
+> Yêu gì hơn yêu nước nhà ta.\
+> Trang nghiêm bốn mặt sơn hà,\
+> Ông cha để lại cho ta lọ vàng.\
+> Trải mấy lớp tiền vương dựng mở,\
+> Bốn ngàn năm giãi gió dầm mưa,\
+> Biết bao công của người xưa,\
+> Gang sông, tấc núi, dạ thưa, ruột tằm.\
+> Hào Đại Hải âm thầm trước mặt,\
+> Dải Cửu Long quanh quất miền Tây,\
+> Một toà san sát xinh thay,\
+> Bên kia Vân, Quảng, bên này Côn Lôn.\
+> Vẻ gấm vóc nước non thêm đẹp.\
+> Rắp những mong cơ nghiệp dài lâu.\
+>  \
+> Giống khôn há phải đàn trâu,\
+> Giang sơn nỡ để người đâu vẫy vùng?\
+> Hai mươi triệu dân cùng của hết,\
+> Bốn mươi năm nước mất quyền không.\
+> Thương ôi! công nghiệp tổ tông,\
+> Nước tanh máu đỏ, non chồng thịt cao.\
+> Non nước ấy biết bao máu mủ.\
+> Nỡ nào đem nuôi lũ sài lang?\
+> Cờ ba sắc, xứ Đông Dương,\
+> Trông càng thêm nhục, nói càng thêm đau!\
+> Nhục vì nước, mà đau người trước,\
+> Nông nỗi này, non nước cũng oan.\
+>  \
+> Hồn ơi về với giang san,\
+> Muôn người muôn tiếng hát ran câu này:\
+> *“Hợp muôn sức ra tay quang phục;*\
+> *Quyết có phen rửa nhục báo thù...”*\
+> Mấy câu ái quốc reo hò,\
+> Chữ đồng tâm ấy phải cho một lòng.
 {: .notice--warning}
 
 ![alt]({{ 'assets/images/phan-boi-chau-va-cuong-de.jpg' | absolute_url }})
@@ -93,7 +93,7 @@ Tháng 8, về tới Hải Phòng, ở nhà một người bạn trong đảng. 
 Lên bến Hải Phòng rồi, tôi đáp xe lửa đi về Nghệ An. Trên xe lửa, tình cờ gặp lão tuần phủ X... tỉnh Thái Bình vốn là tay bợm hót giỏi trong đám quan trường. Lão viết mấy chữ trên miếng giấy nhỏ đưa cho tôi xem, như vầy:
 {: .text-justify}
 
-Ông trốn đi chưa đầy tuần lễ, mật thám đã bủa khắp nơi. Vậy ông sớm liệu đào tẩu cho mau, không thì nguy đấy.
+> Ông trốn đi chưa đầy tuần lễ, mật thám đã bủa khắp nơi. Vậy ông sớm liệu đào tẩu cho mau, không thì nguy đấy.
 {: .notice .text-justify}
 
 Tôi hơi lo. Nhưng cái mục đích mình trở về nước nhà chưa đạt được, thì chưa có thể nào đào tẩu, ta cứ việc ở nhà đã, ra sao thì ra. 
@@ -142,7 +142,7 @@ Nhân đấy tôi nghĩ lại dân trí nước mình còn quá thấp, mà nhâ
 Lại cách vào ngày sau, Inukai Tsuyoshi tiên sinh có giấy gọi tôi tới nhà, giới thiệu tôi với Tôn Dật Tiên (Tôn Trung Sơn) tiên sinh, là nhà đại thủ lĩnh cách mạng đảng Trung Quốc. Tôn Trung Sơn lúc đó mới ở Mỹ về Nhật Bản, hiện đương tổ chức hội Trung Quốc Đồng Minh, nên lưu lại Yokohama khá lâu.  Inukai có nói với tôi rằng:
 {: .text-justify}
 
-Quý quốc có độc lập nữa, tất sau Trung Quốc cách mạng thành công, đảng họ với các ngài đồng bệnh tương liên. Ông nên gặp mặt người này cốt để làm nền tảng cho ngày sau.
+> Quý quốc có độc lập nữa, tất sau Trung Quốc cách mạng thành công, đảng họ với các ngài đồng bệnh tương liên. Ông nên gặp mặt người này cốt để làm nền tảng cho ngày sau.
 {: .notice .text-justify}
 
 Qua ngày hôm sau, tôi cầm danh thiếp ông Inukai và giấy giới thiệu tới Trí Hòa Đường ở Yokohama để yết kiến Tôn tiên sinh. Lúc đó đã 8 giờ đêm, Tôn Dật Tiên đem giấy bộ ra nói chuyện.

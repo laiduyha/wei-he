@@ -1,5 +1,5 @@
 ---
-title: Đại hội lần thứ nhất Quốc Dân Đảng
+title: "Kỳ 2: Đại hội lần thứ nhất Quốc Dân Đảng"
 permalink: /dcstq-dai-hoi-lan-thu-nhat-quoc-dan-dang
 layout: single
 classes: wide

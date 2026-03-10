@@ -15,24 +15,24 @@ parent:
 </a>
 </cite>
 
-**杖藜遠眺**\
-*Trượng Lê Viễn Thiếu*\
- \
-白雲如帶束山腰,\
-Bạch vân như đái thúc sơn yêu,\
-石磴飛空細路遙。\
-Thạch đặng phi không tế lộ dao.\
-獨倚杖藜舒眺望，\
-Độc ỷ trượng lê thư thiếu vọng,\
-欲因鳴澗答吹簫。\
-Dục nhân minh giản đáp xuy tiêu.
- \
- \
-**Chống trượng vọng xa**\
-Mây trắng bay là nơi sườn núi,\
-Đường mây thang đá vút chân trời.\
-Chống trượng vọng xa tâm thư thái,\
-Theo tiếng suối reo họa khúc ca.
+> **杖藜遠眺**\
+> *Trượng Lê Viễn Thiếu*\
+>  \
+> 白雲如帶束山腰,\
+> Bạch vân như đái thúc sơn yêu,\
+> 石磴飛空細路遙。\
+> Thạch đặng phi không tế lộ dao.\
+> 獨倚杖藜舒眺望，\
+> Độc ỷ trượng lê thư thiếu vọng,\
+> 欲因鳴澗答吹簫。\
+> Dục nhân minh giản đáp xuy tiêu.
+>  \
+>  \
+> **Chống trượng vọng xa**\
+> Mây trắng bay là nơi sườn núi,\
+> Đường mây thang đá vút chân trời.\
+> Chống trượng vọng xa tâm thư thái,\
+> Theo tiếng suối reo họa khúc ca.
 {: .notice--warning .text-justify}
 
 Nhìn mà không chạm được tới chính là một loại bi kịch!
