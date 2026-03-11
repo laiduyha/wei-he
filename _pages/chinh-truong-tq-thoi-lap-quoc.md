@@ -37,6 +37,8 @@ Là một trong những cái nôi văn minh lâu đời nhất nhân loại, Tru
 
 ### <a href="/dcstq-mao-tuong-guang-chau">Kỳ 3. Từ cộng tác đến đối đầu</a>
 
+### <a href="/dcstq-van-ly-truong-chinh-va-bien-co-tay-an">Kỳ 4. Vạn lý trường chinh và biến cố Tây An</a>
+
 ## Phần 2: Đặng Tiểu Bình ba lần vào ra Trung Nam Hải
 
 ## Phần 3: Chu Ân Lai khi Người rời khỏi Thánh đàn
