@@ -35,7 +35,7 @@ Là một trong những cái nôi văn minh lâu đời nhất nhân loại, Tru
 
 ### <a href="/dcstq-dai-hoi-lan-thu-nhat-quoc-dan-dang">Kỳ 2. Đại hội lần thứ nhất Quốc Dân Đảng</a>
 
-### <a href="/dcstq-mao-tuong-guang-chau">Kỳ 3. Mao - Tưởng: Từ cộng tác đến đối đầu</a>
+### <a href="/dcstq-mao-tuong-guang-chau">Kỳ 3. Từ cộng tác đến đối đầu</a>
 
 ## Phần 2: Đặng Tiểu Bình ba lần vào ra Trung Nam Hải
 

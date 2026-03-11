@@ -1,5 +1,5 @@
 ---
-title: "Kỳ 3: Mao - Tưởng: Từ cộng tác đến đối đầu"
+title: "Kỳ 3: Từ cộng tác đến đối đầu"
 permalink: /dcstq-mao-tuong-guang-chau
 layout: single
 classes: wide
