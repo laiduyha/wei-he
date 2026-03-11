@@ -58,7 +58,7 @@ Trong khi Tưởng đang ở đỉnh cao tại Quảng Châu, Mao Trạch Đông
 Tổ chức "Tuyết Sỉ hội" do Mao lập ra làm kinh động thổ hào ác bá và lọt đến tai quân phiệt Triệu Hằng Thích. Bị lệnh truy bắt gắt gao, Mao một lần nữa phải xa rời vợ con, lén lút trốn khỏi Hồ Nam. Điểm đến không đâu khác ngoài Quảng Châu – nơi đang sục sôi linh hồn của cách mạng vào tháng 10/1925. 
 {: .text-justify}
 
-Bấy giờ, Quảng Châu cũng đang phủ một màu tang tóc. 9 giờ 25 phút ngày 12 tháng 3 năm 1925, Tôn Trung Sơn tạ thế tại Bắc Kinh. Lúc lâm chung, cảm thấy mình không qua khỏi cơn bệnh hiểm nghèo, ông đã khẩu truyền di chúc, Uông Tinh Vệ ghi chép. Đó chính là Bản di chúc Tổng lý nổi tiếng trong lịch sử Trung Quốc. Sau cái chết của Tôn, Quảng Châu lặng lẽ trước chân dung vị Tổng lý phủ lụa đen, hai bên treo câu liễn: “Cách mạng thượng vị thành công. Đồng chí nhưng tu nỗ lực”.
+Bấy giờ, Quảng Châu cũng đang phủ một màu tang tóc. 9 giờ 25 phút ngày 12 tháng 3 năm 1925, Tôn Trung Sơn tạ thế tại Bắc Kinh. Lúc lâm chung, cảm thấy mình không qua khỏi cơn bệnh hiểm nghèo, ông đã khẩu truyền di chúc, Uông Tinh Vệ ghi chép. Đó chính là Bản di chúc Tổng lý nổi tiếng trong lịch sử Trung Quốc. Sau cái chết của Tôn, Quảng Châu lặng lẽ trước chân dung vị Tổng lý phủ lụa đen, hai bên treo câu liễn: “Cách mạng chưa thành công, các đồng chí vẫn cần nỗ lực”.
 {: .text-justify}
 
 Uông Tinh Vệ nghiễm nhiên trở thành người thừa kế. Tháng 7 năm 1925, Uông đảm nhận chức vụ Chủ tịch Chính phủ Quốc dân kiêm Chủ tịch Quân ủy. Cùng với Hồ Hán Dân (Bộ trưởng Ngoại giao), Liêu Trọng Khải (Bộ trưởng Tài chính) và Hứa Sùng Trí (Bộ trưởng Quốc phòng), họ trở thành “Tứ cự đầu” của Quốc dân đảng. 
@@ -81,7 +81,7 @@ Chính ngay lúc ấy, Mao Trạch Đông đến Quảng Châu với hai bàn ta
 > “Ai là kẻ thù của chúng ta? Ai là bạn bè của chúng ta? Đó là vấn đề quan trọng hàng đầu của cách mạng. Thành công của tất cả những cuộc đấu tranh cách mạng trước đây ở Trung Quốc chưa được là bao, chính là do không biết đoàn kết bạn bè chân chính để chống lại kẻ thù đích thực...”
 {: .notice .text-justify}
 
-Bài viết “Phân tích các giai cấp xã hội Trung Quốc” này, sau này được xếp ở tập đầu của Mao tuyển, thực chất đã được đăng trên bán nguyệt san “Cách mạng” từ tháng 12 năm 1925. Lúc bấy giờ, Mao Trạch Đông quả thực là một cây bút cao thủ của Quốc dân đảng, chấp bút nhiều tuyên ngôn và chủ biên tờ “Chính trị tuần báo”. Thời gian ấy, Dương Khai Tuệ cùng hai con Ngạn Anh, Ngạn Thanh cũng đã chuyển đến Quảng Châu, cả gia đình sống hạnh phúc trong một tổ ấm nhỏ.
+Bài viết “Phân tích các giai cấp xã hội Trung Quốc” sau này được xếp ở tập đầu của Mao tuyển, thực chất đã được đăng trên bán nguyệt san “Cách mạng” từ tháng 12 năm 1925. Lúc bấy giờ, Mao Trạch Đông quả thực là một cây bút cao thủ của Quốc dân đảng, chấp bút nhiều tuyên ngôn và chủ biên tờ “Chính trị tuần báo”. Thời gian ấy, Dương Khai Tuệ cùng hai con Ngạn Anh, Ngạn Thanh cũng đã chuyển đến Quảng Châu, cả gia đình sống hạnh phúc trong một tổ ấm nhỏ.
 {: .text-justify}
 
 Trong khi Mao bận rộn với báo chí, Tưởng Giới Thạch lại xuất quân chinh Đông, thảo phạt quân phiệt Trần Quýnh Minh. Sát cánh cùng ông là vị chính ủy 27 tuổi đầy tài năng – Chu Ân Lai. Tưởng hết sức khâm phục tài năng của Chu, nhưng trong lòng luôn có một ranh giới vô hình:
@@ -148,13 +148,13 @@ Quảng Châu đêm ấy gió thổi mạnh, song phương tứ phái đều ní
 - Thiết lập giới nghiêm toàn thành phố.
 {: .text-justify}
 
-Sự kiện 20/03/1926 giống như một mũi tên trúng ba đích của Tưởng. Thứ nhất, đánh vào Trung Cộng: Tưởng loại bỏ các đảng viên Cộng sản khỏi Quân đoàn 1. Thứ hai, hạ bệ Uông Tinh Vệ: Uông đau đớn và hoang mang đến mức phải tuyên bố “nghỉ dưỡng” rồi sau đó bí mật rời Quảng Châu sang Pháp. Thứ ba, gạt bỏ sự kiềm tỏa của Liên Xô: cố vấn Kisenko phải rời Trung Quốc về nước.
+Sự kiện 20/03/1926 giống như một mũi tên trúng ba đích của Tưởng. Thứ nhất, đánh vào Trung Cộng, loại bỏ các đảng viên Cộng sản khỏi Quân đoàn 1. Thứ hai, hạ bệ Uông Tinh Vệ khiến Uông đau đớn và hoang mang đến mức phải tuyên bố “nghỉ dưỡng” rồi sau đó bí mật rời Quảng Châu sang Pháp. Thứ ba, gạt bỏ sự kiềm tỏa của Liên Xô khi cố vấn Kisenko phải rời Trung Quốc về nước.
 {: .text-justify}
 
 Lúc bấy giờ, dù chưa phải là lãnh đạo tối cao của Trung Cộng, Mao Trạch Đông đã nhạy bén nhận ra bản chất của vấn đề. Ông tìm gặp Trần Diên Niên, đề xuất một sách lược cứng rắn:
 {: .text-justify}
 
-> **Mao Trạch Đông:** — Tưởng Giới Thạch là hạng người “mềm nắn rắn buông”, chúng ta càng yếu ớt thì ông ta càng lấn tới. Tôi đề nghị chúng ta hãy huy động các ủy viên trung ương Quốc dân đảng bí mật tụ họp tại Triệu Khánh, mở hội nghị thảo phạt Tưởng Giới Thạch, tước binh quyền và khai trừ đảng tịch của ông ta. Với sự ủng hộ của các lực lượng quân sự khác như Lý Tông Nhân hay Lý Tế Thâm, Tưởng làm sao địch nổi...
+> Tưởng Giới Thạch là hạng người “mềm nắn rắn buông”, chúng ta càng yếu ớt thì ông ta càng lấn tới. Tôi đề nghị chúng ta hãy huy động các ủy viên trung ương Quốc dân đảng bí mật tụ họp tại Triệu Khánh, mở hội nghị thảo phạt Tưởng Giới Thạch, tước binh quyền và khai trừ đảng tịch của ông ta. Với sự ủng hộ của các lực lượng quân sự khác như Lý Tông Nhân hay Lý Tế Thâm, Tưởng làm sao địch nổi...
 {: .notice .text-justify}
 
 Đây là lần đầu tiên Mao và Tưởng trực tiếp giao đấu trên bàn cờ chính trị. Mao muốn phản công, nhưng ban lãnh đạo Trung Cộng lúc đó (đứng đầu là Trần Độc Tú) lại chọn con đường thỏa hiệp. Mao thua trận đầu.
