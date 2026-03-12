@@ -111,6 +111,8 @@ Ngày 29/05/1935, trận đánh chiếm cầu Lô Định (huyện Lô Định, 
 Giữa tháng 8 năm 1935, thử thách tiếp theo là Cánh đồng cỏ hoang gần Tây Tạng – một vùng đầm lầy chết chóc với thời tiết khắc nghiệt, thiếu dưỡng khí và muối. Biết bao người đã mãi mãi nằm lại dưới những lớp bùn lầy sâu hoắm. Đầu tháng 9, họ thoát ra khỏi đầm lầy, vượt qua đèo Lạp Tử Khẩu trên dãy Mân Sơn để tiến vào Cam Túc. Cuối tháng 10 năm 1935, đoàn quân xơ xác cuối cùng cũng chạm chân đến căn cứ Diên An. Số người sống sót tham gia từ đầu cuộc Trường chinh lúc này *không tới một phần mười*.
 {: .text-justify}
 
+---
+
 Xuyên suốt cuộc Vạn lý Trường chinh, Hồng quân đã đi qua 14 tỉnh, vượt 18 dãy núi, 24 con sông lớn, trải qua 380 trận đánh và làm chủ hơn 700 huyện lỵ, thị xã. Họ không chỉ tiêu hao hàng trăm trung đoàn địch mà còn băng qua 6 khu vực định cư của các bộ tộc thiểu số thù địch, tạo nên một huyền thoại vô tiền khoáng hậu trong lịch sử quân sự hiện đại.
 {: .text-justify}
 
