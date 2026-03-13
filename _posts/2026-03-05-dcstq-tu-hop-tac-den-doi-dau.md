@@ -75,7 +75,7 @@ Chính ngay lúc ấy, Mao Trạch Đông đến Quảng Châu với hai bàn ta
 
 ## Mao - Tưởng cùng lên diễn đàn Nhị toàn
 
-![alt]({{ 'assets/images/bristo-fu-n086-nhi-toan-1926.jpg' | absolute_url }})
+![alt]({{ 'assets/images/bristo-fu-n86-nhi-toan-1926.jpg' | absolute_url }})
 > <cite><a href="https://hpcbristol.net/visual/Fu-n086" target="_blank">Đại học Bristol - Số tham chiếu Ảnh lịch sử Trung Quốc: Fu-n086. Các lãnh tụ Quốc dân đảng tại Đại hội Toàn quốc lần thứ hai của Quốc Dân Đảng, Quảng Châu, tháng 1 năm 1926. Ở hàng trước, Uông Tinh Vệ (thứ hai từ trái sang); Tưởng Giới Thạch (thứ tư từ trái sang); Mikhail Borodin (thứ năm từ trái sang); Tống Tử Văn (thứ sáu từ trái sang); Trần Hữu Nhân (Eugene Chen) (thứ ba từ phải sang); Hà Hương Ngưng (thứ hai từ phải sang); Tống Khánh Linh (bà Tôn Dật Tiên) (ngoài cùng bên phải)</a></cite>
 
 > “Ai là kẻ thù của chúng ta? Ai là bạn bè của chúng ta? Đó là vấn đề quan trọng hàng đầu của cách mạng. Thành công của tất cả những cuộc đấu tranh cách mạng trước đây ở Trung Quốc chưa được là bao, chính là do không biết đoàn kết bạn bè chân chính để chống lại kẻ thù đích thực...”
