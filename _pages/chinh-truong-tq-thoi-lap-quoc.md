@@ -43,6 +43,8 @@ Là một trong những cái nôi văn minh lâu đời nhất nhân loại, Tru
 
 ### <a href="/dcstq-dau-tri-o-tay-an">Kỳ 6. Đấu trí ở Tây An</a>
 
+### <a href="/dcstq-hop-tac-lan-hai">Kỳ 7. Hợp tác lần hai - Tưởng Giới Thạch diễn kịch</a>
+
 ## Phần 2: Đặng Tiểu Bình ba lần vào ra Trung Nam Hải
 
 ## Phần 3: Chu Ân Lai khi Người rời khỏi Thánh đàn
