@@ -41,6 +41,8 @@ Là một trong những cái nôi văn minh lâu đời nhất nhân loại, Tru
 
 ### <a href="/dcstq-nuoc-co-mat-su">Kỳ 5. Nước cờ mật sứ</a>
 
+### <a href="/dcstq-dau-tri-o-tay-an">Kỳ 6. Đấu trí ở Tây An</a>
+
 ## Phần 2: Đặng Tiểu Bình ba lần vào ra Trung Nam Hải
 
 ## Phần 3: Chu Ân Lai khi Người rời khỏi Thánh đàn
