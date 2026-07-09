@@ -1,0 +1,629 @@
+---
+title: 五级中文 · Sổ tay HSK5
+excerpt: "Tổng hợp ngữ pháp, từ vựng, mẫu câu và cách hành văn HSK5 từ 45 bài luyện viết (2024–2026)."
+layout: single
+permalink: /hsk5-so-tay
+classes: wide
+toc: true
+toc_label: Mục lục
+toc_sticky: true
+parent:
+  label: Học hành
+  url: hoc-hanh
+categories:
+  - hoc-hanh
+---
+
+<style>
+  .sotay{
+    --card:#fcf7ee; --border:#cdb99b;
+    --accent:#c23b2e; --accent-bright:#d0432f; --accent-soft:#ecd6cd;
+    --amber:#a86612; --olive:#5f6f1e;
+    --ink:#0e2431; --ink-body:#16202a; --ink-soft:#4f5a63;
+  }
+
+  /* --- scoped to this page only (style loads only here) --- */
+  /* retint theme chrome from sunrise coral to chu-sa so the whole page is one warm red */
+  .toc .nav__title{background-color:#c23b2e}
+  .toc__menu a:hover{color:#c23b2e}
+  .breadcrumbs a{color:#b23422}
+  .page__meta a,.page__content a{color:#b23422}
+  .sotay .zh,.sotay .ex .cn,.sotay td.w,.sotay td.ex-cn,.sotay .fix .line,.sotay .callout .zh{
+    font-family:Georgia,"Times New Roman","Noto Serif","DejaVu Serif","Noto Serif CJK SC","Source Han Serif SC","Songti SC","SimSun",serif;
+  }
+  /* pattern labels: Việt + Hán -> sans (font hệ thống hiển thị dấu tiếng Việt chuẩn hơn serif) */
+  .sotay .pat{
+    font-family:-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"DejaVu Sans","Noto Sans CJK SC","PingFang SC","Microsoft YaHei","Droid Sans Fallback",sans-serif;
+  }
+
+  .sotay .lede{color:var(--ink-body); font-size:1.05rem}
+  .sotay .seal{color:var(--accent); font-weight:700}
+  .sotay .dl{display:inline-flex; align-items:center; gap:6px; margin:10px 0 2px;
+    background:var(--accent); color:#fff; text-decoration:none; font-weight:600;
+    padding:5px 12px; border-radius:7px; font-size:.8rem}
+  .sotay .dl:hover{background:var(--accent-bright); color:#fff}
+  .sotay .dl .sz{font-weight:400; opacity:.8; font-size:.72rem}
+
+  /* section headers */
+  .sotay .sec-head{display:flex; align-items:center; gap:16px; margin:44px 0 4px; border:0; padding:0}
+  .sotay .sec-num{
+    font-family:"Songti SC","SimSun",serif; font-size:1.25rem; font-weight:700; line-height:1;
+    color:var(--accent); border:1.5px solid var(--accent); border-radius:7px; padding:4px 9px;
+  }
+  .sotay .sec-head h2{
+    margin:0; border:0; padding:0; color:var(--ink); font-size:1.4rem; text-wrap:balance;
+  }
+  .sotay .sec-head .sub{color:var(--ink-soft); font-size:.85rem; margin-top:3px}
+  .sotay .sec-intro{color:var(--ink-soft); margin:12px 0 22px}
+
+  .sotay h3.grp{
+    margin:30px 0 12px; padding-bottom:7px; color:var(--ink); font-size:1.12rem;
+    border-bottom:2px solid var(--accent-soft);
+  }
+
+  /* entry cards */
+  .sotay .entry{
+    background:var(--card); border:1px solid var(--border); border-left:3px solid var(--accent);
+    border-radius:11px; padding:16px 20px 14px; margin:12px 0;
+  }
+  .sotay .entry .pat{font-size:1.28rem; font-weight:700; color:var(--accent); line-height:1.35}
+  .sotay .entry .py{color:var(--amber); font-size:.82rem; font-style:italic; margin-left:8px}
+  .sotay .entry .gloss{color:var(--ink-body); font-weight:700; margin:5px 0 2px}
+  .sotay .entry .note{color:var(--ink-soft); font-size:.93rem; margin:4px 0 0}
+
+  .sotay .ex{margin:11px 0 0; padding-left:15px; border-left:2px solid var(--accent-soft)}
+  .sotay .ex + .ex{margin-top:9px}
+  .sotay .ex .cn{font-size:1.1rem; line-height:1.75; color:var(--ink-body)}
+  .sotay .ex .cn b{color:var(--accent); font-weight:700}
+  .sotay .ex .vi{color:var(--ink-soft); font-size:.9rem; margin-top:2px}
+
+  /* vocab tables */
+  .sotay .twrap{overflow-x:auto; border:1px solid var(--border); border-radius:11px; margin:12px 0}
+  .sotay table{border-collapse:collapse; width:100%; background:var(--card); font-size:.95rem; min-width:520px; margin:0}
+  .sotay caption{caption-side:top; text-align:left; font-weight:700; padding:12px 15px 2px; color:var(--ink)}
+  .sotay th,.sotay td{text-align:left; padding:9px 15px; border-bottom:1px solid var(--border); vertical-align:top}
+  .sotay thead th{font-size:.7rem; letter-spacing:.1em; text-transform:uppercase; color:var(--ink-soft); font-weight:700; background-color:#f4ecdc}
+  .sotay tbody tr:last-child td{border-bottom:none}
+  .sotay td.w{font-size:1.08rem; white-space:nowrap; color:var(--ink-body)}
+  .sotay td.py{color:var(--ink-soft); font-style:italic; white-space:nowrap; font-size:.84rem}
+  .sotay td.mn{color:var(--ink-body); font-weight:600}
+  .sotay td.ex-cn{color:var(--ink-soft); font-size:.98rem}
+
+  /* correction blocks */
+  .sotay .fix{background:var(--card); border:1px solid var(--border); border-radius:11px; padding:14px 18px; margin:11px 0}
+  .sotay .fix .line{font-size:1.1rem; line-height:1.7}
+  .sotay .wrong{color:var(--accent); text-decoration:line-through; text-decoration-thickness:2px}
+  .sotay .arrow{color:var(--ink-soft); margin:0 .5em}
+  .sotay .right{color:var(--olive); font-weight:700}
+  .sotay .fix .why{color:var(--ink-soft); font-size:.89rem; margin-top:6px}
+  .sotay .fix .why b{color:var(--ink-body)}
+
+  /* callout */
+  .sotay .callout{background:var(--accent-soft); border:1px solid var(--border); border-radius:11px; padding:16px 20px; margin:18px 0}
+  .sotay .callout h4{margin:0 0 8px; color:var(--accent); font-size:1.02rem}
+  .sotay .callout ol{margin:0; padding-left:1.2em}
+  .sotay .callout li{margin:5px 0; color:var(--ink-body)}
+
+  @media (max-width:600px){
+    .sotay .sec-num{font-size:1.7rem; padding:4px 8px}
+    .sotay .sec-head h2{font-size:1.3rem}
+  }
+</style>
+
+<div class="sotay" markdown="0">
+
+<p class="lede">Tổng hợp có hệ thống từ 45 bài luyện viết của tớ ở trình độ <b>HSK 五级</b> (2024–2026): cách hành văn, điểm ngữ pháp trọng tâm, mẫu câu quan hệ, từ vựng theo chủ đề, thành ngữ và những lỗi thường gặp.</p>
+<p><a class="dl" href="{{ '/assets/files/hsk5-so-tay.pdf' | relative_url }}" download>⬇ Tải bản PDF <span class="sz">(A4 · 21 trang)</span></a></p>
+
+<!-- ============ 一 HÀNH VĂN ============ -->
+<div class="sec-head"><span class="sec-num">一</span><div><h2 id="hanh-van">Cách hành văn &amp; bố cục bài</h2><div class="sub">行文 · Cách mở bài, chuyển ý, kết bài và bộ liên từ nối câu</div></div></div>
+<p class="sec-intro">Đây là phần quan trọng nhất để bài viết "ra dáng" HSK5. Văn cấp 5 gần như luôn theo cấu trúc <b>Tổng – Phân – Tổng</b> và dùng dày đặc liên từ nối để mạch ý trôi chảy.</p>
+
+<div class="callout">
+  <h4>Bố cục xương sống: 总 — 分 — 总</h4>
+  <ol>
+    <li><b>Mở (总):</b> nêu vấn đề / quan điểm chung — thường mở bằng một nhận định khái quát hoặc một câu hỏi tu từ.</li>
+    <li><b>Thân (分):</b> phân tích; hầu hết bài cấp 5 triển khai <b>hai mặt</b> (lợi/hại, xưa/nay, mình/người) rồi nêu cách dung hòa.</li>
+    <li><b>Kết (总):</b> chốt lại quan điểm, thường bắt đầu bằng <span class="zh">总的来说 / 因此 / 总而言之</span>.</li>
+  </ol>
+</div>
+
+<h3 class="grp">1 · Khung mở bài / nêu quan điểm</h3>
+<div class="entry">
+  <div class="pat zh">在我看来… / 对…来说… / 在…眼中(眼里)…</div>
+  <div class="gloss">Theo tôi… / Đối với… mà nói… / Trong mắt…</div>
+  <div class="ex"><div class="cn"><b>在我看来</b>，父母对子女的爱是最深的爱。</div><div class="vi">Theo tôi, tình yêu của cha mẹ dành cho con là tình yêu sâu đậm nhất.</div></div>
+  <div class="ex"><div class="cn"><b>对年轻人来说</b>，爱情可是最重要的。</div><div class="vi">Đối với người trẻ, tình yêu mới là quan trọng nhất.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">每个人都对…有各自的观念 / …这个问题很难回答</div>
+  <div class="gloss">Mỗi người đều có quan niệm riêng về… / mở bằng câu hỏi tu từ</div>
+  <div class="ex"><div class="cn"><b>每个人都对</b>爱情和婚姻<b>有各自的观念</b>。</div><div class="vi">Mỗi người đều có quan niệm riêng về tình yêu và hôn nhân.</div></div>
+  <div class="ex"><div class="cn">人生最重要的事情是什么？<b>这个问题很难回答。</b></div><div class="vi">Điều quan trọng nhất đời người là gì? Câu hỏi này rất khó trả lời. <em>(mở bằng câu hỏi tu từ)</em></div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">说起…，人们十有八九会想到…</div>
+  <div class="gloss">Nhắc đến…, mười người thì tám chín sẽ nghĩ tới…</div>
+  <div class="ex"><div class="cn"><b>说起</b>健康，人们<b>十有八九会想到</b>吸烟。</div><div class="vi">Nhắc đến sức khỏe, hầu hết mọi người sẽ nghĩ ngay đến hút thuốc.</div></div>
+</div>
+
+<h3 class="grp">2 · Liên từ nối — phân theo chức năng</h3>
+<div class="entry">
+  <div class="pat">Thêm ý / tăng tiến</div>
+  <div class="note zh">不仅…而且/还… &nbsp;·&nbsp; 甚至 &nbsp;·&nbsp; 并且 &nbsp;·&nbsp; 再说 &nbsp;·&nbsp; 更何况 &nbsp;·&nbsp; 除此以外</div>
+  <div class="ex"><div class="cn">他<b>不仅</b>是一位武术界大师，<b>而且</b>是电影界的"功夫皇帝"。</div><div class="vi">Anh ấy không chỉ là bậc thầy võ thuật mà còn là "vua kung-fu" của điện ảnh.</div></div>
+  <div class="ex"><div class="cn">附近的环境很可以，<b>更何况</b>价格也不高。</div><div class="vi">Môi trường xung quanh khá ổn, huống hồ giá lại không cao.</div></div>
+</div>
+<div class="entry">
+  <div class="pat">Tương phản / chuyển ý</div>
+  <div class="note zh">但是/可是 &nbsp;·&nbsp; 然而 &nbsp;·&nbsp; 不过 &nbsp;·&nbsp; 反而 &nbsp;·&nbsp; 相反 &nbsp;·&nbsp; 虽然…但毕竟…</div>
+  <div class="ex"><div class="cn"><b>然而</b>，任何事物都有两面性。</div><div class="vi">Tuy nhiên, bất cứ sự vật nào cũng có hai mặt. <em>(câu chuyển ý kinh điển giữa bài)</em></div></div>
+</div>
+<div class="entry">
+  <div class="pat">Nhân – quả</div>
+  <div class="note zh">因为…所以… &nbsp;·&nbsp; 由于 &nbsp;·&nbsp; 于是 &nbsp;·&nbsp; 因此 &nbsp;·&nbsp; 正因为…才/所以…</div>
+  <div class="ex"><div class="cn"><b>由于</b>每天坐在电脑前盯着屏幕，<b>于是</b>她感到两眼疼痛。</div><div class="vi">Do mỗi ngày ngồi trước máy tính dán mắt vào màn hình, thế là cô thấy hai mắt đau nhức.</div></div>
+</div>
+<div class="entry">
+  <div class="pat">Liệt kê / dẫn ví dụ</div>
+  <div class="note zh">特别是 &nbsp;·&nbsp; 尤其是 &nbsp;·&nbsp; 比如说 &nbsp;·&nbsp; 就拿…来说 &nbsp;·&nbsp; 以…为例</div>
+  <div class="ex"><div class="cn"><b>就拿</b>义乌<b>来说</b>，在短短30年间，就从一个小县城发展成一座国际商务的城市。</div><div class="vi">Lấy Nghĩa Ô làm ví dụ, chỉ trong vỏn vẹn 30 năm đã từ một huyện nhỏ phát triển thành một thành phố thương mại quốc tế.</div></div>
+  <div class="ex"><div class="cn"><b>以</b>学习<b>为例</b>，如今我们能通过网络接触各种各样的知识。</div><div class="vi">Lấy việc học làm ví dụ, ngày nay ta có thể tiếp cận đủ loại kiến thức qua mạng.</div></div>
+</div>
+<div class="entry">
+  <div class="pat">Kết bài</div>
+  <div class="note zh">总的来说 &nbsp;·&nbsp; 总而言之 &nbsp;·&nbsp; 因此 &nbsp;·&nbsp; 只有…才…</div>
+  <div class="ex"><div class="cn"><b>因此</b>，我们应该清醒地认识到科技只是工具。<b>只有</b>找到平衡点，我们<b>才</b>能欣赏技术的便利。</div><div class="vi">Vì vậy, ta nên tỉnh táo nhận ra công nghệ chỉ là công cụ. Chỉ khi tìm được điểm cân bằng, ta mới hưởng được sự tiện lợi của nó.</div></div>
+</div>
+
+<h3 class="grp">3 · Kỹ thuật liên kết trong câu</h3>
+<div class="entry">
+  <div class="pat zh">随着…的发展/进步…</div>
+  <div class="gloss">Cùng với sự phát triển/tiến bộ của…</div>
+  <div class="ex"><div class="cn"><b>随着</b>互联网的发展，网络上的活动也各种各样。</div><div class="vi">Cùng với sự phát triển của internet, hoạt động trên mạng cũng đa dạng muôn màu.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">一…就… &nbsp;/&nbsp; 越来越… &nbsp;/&nbsp; 一天比一天… &nbsp;/&nbsp; 不是…就是…</div>
+  <div class="gloss">Hễ… là… / ngày càng… / một ngày một… hơn / không… thì…</div>
+  <div class="ex"><div class="cn">浙江人<b>一</b>发现生意机会，<b>就</b>想办法抓住它。</div><div class="vi">Người Chiết Giang hễ phát hiện cơ hội làm ăn là tìm cách nắm lấy ngay.</div></div>
+  <div class="ex"><div class="cn">她的视力也<b>一天比一天</b>差。每天<b>不是</b>上课<b>就是</b>在家复习。</div><div class="vi">Thị lực của cô ngày một kém đi. Mỗi ngày không lên lớp thì cũng ôn bài ở nhà.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">一边 A，一边 B</div>
+  <div class="gloss">Vừa A vừa B (hai hành động diễn ra cùng lúc)</div>
+  <div class="ex"><div class="cn">我<b>一边</b>跑<b>一边</b>听悦耳的歌，让我放松地完成计划。</div><div class="vi">Tôi vừa chạy vừa nghe nhạc du dương, giúp tôi thư giãn mà hoàn thành kế hoạch.</div></div>
+  <div class="ex"><div class="cn">我老婆<b>一边</b>听手机里的音乐，<b>一边</b>打扫房间。</div><div class="vi">Vợ tôi vừa nghe nhạc trong điện thoại vừa dọn dẹp phòng.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">又 A 又 B / 既 A 又 B</div>
+  <div class="gloss">Vừa A vừa B (nêu hai tính chất / trạng thái song song)</div>
+  <div class="ex"><div class="cn">老板说的话真的使小王<b>又</b>委屈<b>又</b>惭愧。</div><div class="vi">Lời ông chủ nói khiến Tiểu Vương vừa tủi thân vừa hổ thẹn.</div></div>
+  <div class="ex"><div class="cn">这让小米<b>既</b>生气<b>又</b>发愁。/ 在笼子里是一只虎，看起来<b>又</b>凶<b>又</b>有创造力。</div><div class="vi">Điều đó khiến Tiểu Mễ vừa tức vừa lo. / Trong lồng là một con hổ, trông vừa dữ vừa có sức sáng tạo.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">忙着 A，忙着 B…</div>
+  <div class="gloss">Bận A, bận B… (liệt kê chuỗi việc dồn dập)</div>
+  <div class="ex"><div class="cn">人们<b>忙着</b>学习，<b>忙着</b>工作，<b>忙着</b>打交道，甚至好好吃一顿饭的时间也没有。</div><div class="vi">Người ta bận học, bận làm, bận giao thiệp, đến cả thời gian ăn một bữa tử tế cũng không có.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">从 A 到 B / 从 A 变成 B</div>
+  <div class="gloss">Từ A đến / trở thành B (diễn tả quá trình chuyển biến)</div>
+  <div class="ex"><div class="cn">他们渐渐地<b>从</b>同学的关系<b>变成</b>了男女朋友。</div><div class="vi">Họ dần dần từ quan hệ bạn học trở thành người yêu.</div></div>
+  <div class="ex"><div class="cn">义乌<b>从</b>一个小县城<b>发展成</b>一座国际商务的城市。</div><div class="vi">Nghĩa Ô từ một huyện nhỏ phát triển thành một thành phố thương mại quốc tế.</div></div>
+</div>
+
+<!-- ============ 二 NGỮ PHÁP ============ -->
+<div class="sec-head"><span class="sec-num">二</span><div><h2 id="ngu-phap">Ngữ pháp trọng điểm</h2><div class="sub">语法点 · Phó từ, ngữ khí từ &amp; bổ ngữ hay dùng trong bài</div></div></div>
+<p class="sec-intro">Nhóm này là "gia vị" của câu văn: đặt đúng một phó từ như <span class="zh">反而 / 竟然 / 果然</span> là câu lập tức tự nhiên và "Trung" hơn hẳn.</p>
+
+<div class="entry">
+  <div class="pat zh">反而<span class="py">fǎn'ér</span></div>
+  <div class="gloss">Ngược lại, trái lại (kết quả trái với dự đoán)</div>
+  <div class="ex"><div class="cn">经理一听，十分感动，<b>反而</b>破例不让赔偿。</div><div class="vi">Quản lý nghe xong rất cảm động, ngược lại còn phá lệ không bắt đền.</div></div>
+  <div class="ex"><div class="cn">在这里工作，不但没有出息，<b>反而</b>工资太低。</div><div class="vi">Làm ở đây chẳng những không có tương lai, trái lại lương còn quá thấp.</div></div>
+  <div class="ex"><div class="cn">我批评了他几句，他不但没生气，<b>反而</b>更努力了。</div><div class="vi">Tôi phê bình cậu ấy vài câu, cậu ấy chẳng những không giận, trái lại còn cố gắng hơn.</div></div>
+  <div class="ex"><div class="cn">吃了那么多药，病<b>反而</b>越来越重了。</div><div class="vi">Uống bao nhiêu thuốc mà bệnh trái lại ngày càng nặng.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">竟然 / 竟<span class="py">jìngrán</span> &nbsp;·&nbsp; 果然<span class="py">guǒrán</span></div>
+  <div class="gloss">竟然 = không ngờ (bất ngờ) &nbsp;|&nbsp; 果然 = quả nhiên (đúng như dự đoán)</div>
+  <div class="ex"><div class="cn">老板跟朋友聊天儿，<b>竟然</b>引起了朋友的浓厚兴趣。</div><div class="vi">Ông chủ trò chuyện với bạn, không ngờ lại khơi dậy hứng thú mạnh mẽ nơi người bạn.</div></div>
+  <div class="ex"><div class="cn">这么难的题，他<b>竟然</b>一下子就做出来了。</div><div class="vi">Bài khó thế này mà cậu ấy không ngờ làm ra được ngay.</div></div>
+  <div class="ex"><div class="cn">这个办法<b>果然</b>非常有效。/ 他<b>果然</b>上当了。</div><div class="vi">Cách này quả nhiên rất hiệu quả. / Ông ta quả nhiên bị lừa.</div></div>
+  <div class="ex"><div class="cn">天气预报说今天有雨，下午<b>果然</b>下起来了。</div><div class="vi">Dự báo nói hôm nay có mưa, quả nhiên chiều đã đổ mưa.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">简直<span class="py">jiǎnzhí</span></div>
+  <div class="gloss">Đơn giản là, đúng là (cường điệu — hầu như đúng vậy)</div>
+  <div class="ex"><div class="cn">想在寸土寸金的都市里种菜，那<b>简直</b>是白日梦。</div><div class="vi">Muốn trồng rau giữa đô thị tấc đất tấc vàng, đúng là mơ giữa ban ngày.</div></div>
+  <div class="ex"><div class="cn">这里的风景美极了，<b>简直</b>像一幅画。</div><div class="vi">Phong cảnh ở đây đẹp tuyệt, đúng là như một bức tranh.</div></div>
+  <div class="ex"><div class="cn">房间乱得<b>简直</b>没法住人。</div><div class="vi">Phòng bừa đến mức đơn giản là không ở nổi.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">甚至<span class="py">shènzhì</span> &nbsp;·&nbsp; 连…都/也…<span class="py">lián…dōu/yě</span></div>
+  <div class="gloss">Thậm chí / đến cả… cũng… (nhấn mạnh mức cực đoan)</div>
+  <div class="ex"><div class="cn"><b>甚至</b>老年人也默默地学习怎么用智能手机。</div><div class="vi">Thậm chí người già cũng âm thầm học cách dùng điện thoại thông minh.</div></div>
+  <div class="ex"><div class="cn">他<b>连</b>父亲<b>也</b>不放在眼里。/ 为了女朋友，他<b>连</b>命<b>都</b>可以不要。</div><div class="vi">Đến cả cha mình hắn cũng chẳng coi ra gì. / Vì bạn gái, đến mạng anh cũng có thể không cần.</div></div>
+  <div class="ex"><div class="cn">这道题很简单，<b>连</b>小学生<b>都</b>会做。</div><div class="vi">Bài này rất dễ, đến học sinh tiểu học cũng làm được.</div></div>
+  <div class="ex"><div class="cn">他忙得<b>连</b>吃饭的时间<b>都</b>没有。</div><div class="vi">Anh ấy bận đến mức đến thời gian ăn cơm cũng không có.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">差点儿 / 差点儿没<span class="py">chàdiǎnr</span></div>
+  <div class="gloss">Suýt (nữa thì) — cả hai đều nghĩa "may mà không xảy ra"</div>
+  <div class="ex"><div class="cn">今天起晚，<b>差点儿</b>迟到了。</div><div class="vi">Hôm nay dậy muộn, suýt nữa thì trễ. <em>(việc xấu: suýt xảy ra → may không)</em></div></div>
+  <div class="ex"><div class="cn">参赛者很多，我<b>差点儿没</b>得奖，只得到了第三名。</div><div class="vi">Người thi đông, tôi suýt thì không được giải, chỉ đoạt hạng ba. <em>(việc tốt: suýt không đạt → may đạt)</em></div></div>
+  <div class="ex"><div class="cn">路太滑，我<b>差点儿</b>摔倒了。</div><div class="vi">Đường trơn quá, tôi suýt nữa thì ngã.</div></div>
+  <div class="ex"><div class="cn">火车快开了，我们<b>差点儿没</b>赶上。</div><div class="vi">Tàu sắp chạy, chúng tôi suýt thì không kịp lên. <em>(cuối cùng vẫn kịp)</em></div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">V + 起来<span class="py">…qǐlai</span></div>
+  <div class="gloss">Bắt đầu &amp; tiếp diễn một trạng thái (nổi ~ lên); cũng = nhớ ra, xét về mặt…</div>
+  <div class="ex"><div class="cn">听到教授的脚步声，教室里的学生紧张<b>起来</b>了。</div><div class="vi">Nghe tiếng bước chân giáo sư, học sinh trong lớp căng thẳng hẳn lên.</div></div>
+  <div class="ex"><div class="cn">自从中了彩票，他就牛气<b>起来</b>。/ 办公室的老师们都笑了<b>起来</b>。</div><div class="vi">Từ khi trúng số, anh ta lên mặt hẳn. / Các thầy cô trong văn phòng đều bật cười.</div></div>
+  <div class="ex"><div class="cn">天气慢慢暖和<b>起来</b>了，树也绿了。</div><div class="vi">Trời dần ấm lên, cây cũng xanh trở lại.</div></div>
+  <div class="ex"><div class="cn">我突然想<b>起来</b>还有一件事没办。/ 这件事说<b>起来</b>容易，做<b>起来</b>难。</div><div class="vi">Tôi chợt nhớ ra còn một việc chưa làm. / Việc này nói thì dễ, làm mới khó.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">得 + bổ ngữ mức độ: …得很 / 得不行 / 得不得了</div>
+  <div class="gloss">Diễn tả mức độ "cực kỳ, ghê gớm" (khẩu ngữ, rất tự nhiên)</div>
+  <div class="ex"><div class="cn">街道上热闹<b>得不行</b>。街头艺术家表演<b>得好得很</b>，使我们高兴<b>得不得了</b>。</div><div class="vi">Trên phố náo nhiệt kinh khủng. Nghệ sĩ đường phố diễn hay cực kỳ, khiến bọn tôi vui không chịu nổi.</div></div>
+  <div class="ex"><div class="cn">他饿<b>得不行</b>了，一口气吃了三碗饭。</div><div class="vi">Anh ấy đói đến không chịu nổi, ăn một hơi ba bát cơm.</div></div>
+  <div class="ex"><div class="cn">这几天我忙<b>得很</b>，累<b>得不得了</b>。</div><div class="vi">Mấy hôm nay tôi bận lắm, mệt kinh khủng.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">V来V去<span class="py">V lái V qù</span></div>
+  <div class="gloss">V đi V lại (lặp đi lặp lại nhiều lần)</div>
+  <div class="ex"><div class="cn">想<b>来</b>想<b>去</b>，你还是在国内学习。/ 跑<b>来</b>跑<b>去</b>看了几幢房子。</div><div class="vi">Nghĩ đi nghĩ lại, bạn vẫn nên học trong nước. / Chạy tới chạy lui xem mấy căn nhà.</div></div>
+  <div class="ex"><div class="cn">这个问题我们讨论<b>来</b>讨论<b>去</b>，还是没有结果。</div><div class="vi">Vấn đề này chúng tôi bàn đi bàn lại vẫn không ra kết quả.</div></div>
+  <div class="ex"><div class="cn">他挑<b>来</b>挑<b>去</b>，最后什么也没买。</div><div class="vi">Anh ấy chọn tới chọn lui, cuối cùng chẳng mua gì.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">毕竟 / 但毕竟<span class="py">bìjìng</span></div>
+  <div class="gloss">Dù sao (thì)…, suy cho cùng… (nêu lý do bản chất)</div>
+  <div class="ex"><div class="cn">老师虽然可能说错话，<b>但毕竟</b>他是老师，你还是要尊重他。</div><div class="vi">Thầy tuy có thể nói sai, nhưng dù sao thầy vẫn là thầy, em vẫn phải tôn trọng.</div></div>
+  <div class="ex"><div class="cn">他<b>毕竟</b>还是个孩子，你别太严厉了。</div><div class="vi">Dù sao nó vẫn còn là đứa trẻ, đừng quá nghiêm khắc.</div></div>
+  <div class="ex"><div class="cn">这件事很难，但<b>毕竟</b>值得一试。</div><div class="vi">Việc này khó, nhưng suy cho cùng vẫn đáng thử một lần.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">不知不觉 / 不觉<span class="py">bùzhī-bùjué</span></div>
+  <div class="gloss">Không hay biết, chẳng mấy chốc (mà…)</div>
+  <div class="ex"><div class="cn">留在这儿做工作，<b>不知不觉</b>就十多年过去了。</div><div class="vi">Ở lại đây làm việc, chẳng mấy chốc đã hơn mười năm trôi qua.</div></div>
+  <div class="ex"><div class="cn">我们聊得很开心，<b>不知不觉</b>已经半夜了。</div><div class="vi">Chúng tôi trò chuyện vui vẻ, lúc nào không hay đã nửa đêm.</div></div>
+  <div class="ex"><div class="cn">看着看着，<b>不知不觉</b>就睡着了。</div><div class="vi">Xem một hồi, chẳng biết từ lúc nào đã ngủ thiếp đi.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">格外<span class="py">géwài</span> &nbsp;·&nbsp; 随即<span class="py">suíjí</span></div>
+  <div class="gloss">格外 = đặc biệt, khác thường &nbsp;|&nbsp; 随即 = liền, ngay sau đó (văn viết)</div>
+  <div class="ex"><div class="cn">张大川独自站在湖边，只感到今天的晚风<b>格外</b>凉。</div><div class="vi">Trương Đại Xuyên đứng một mình bên hồ, chỉ thấy gió đêm nay lạnh khác thường.</div></div>
+  <div class="ex"><div class="cn">过节的时候，街上<b>格外</b>热闹。</div><div class="vi">Ngày lễ, phố xá đặc biệt náo nhiệt.</div></div>
+  <div class="ex"><div class="cn">老李站在院子里望月亮，<b>随即</b>走进书房写了两首诗。</div><div class="vi">Lão Lý đứng trong sân ngắm trăng, liền vào thư phòng viết hai bài thơ.</div></div>
+  <div class="ex"><div class="cn">听到消息，他愣了一下，<b>随即</b>笑了起来。</div><div class="vi">Nghe tin, anh ấy sững lại một chút, liền bật cười.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">舍不得<span class="py">shěbude</span></div>
+  <div class="gloss">Không nỡ, tiếc (không nỡ bỏ / tiêu / rời)</div>
+  <div class="ex"><div class="cn">义乌人生产了红糖，<b>舍不得</b>吃。/ 连公交车也<b>舍不得</b>坐。</div><div class="vi">Người Nghĩa Ô làm ra đường đỏ mà không nỡ ăn. / Đến xe buýt cũng tiếc không nỡ đi.</div></div>
+  <div class="ex"><div class="cn">孩子要出国留学，妈妈<b>舍不得</b>他走。</div><div class="vi">Con sắp đi du học, mẹ không nỡ để con đi.</div></div>
+  <div class="ex"><div class="cn">这件衣服穿了很多年，我一直<b>舍不得</b>扔。</div><div class="vi">Bộ đồ này mặc nhiều năm rồi, tôi vẫn tiếc không nỡ vứt.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">A 归 A<span class="py">A guī A</span></div>
+  <div class="gloss">A thì cứ A (thừa nhận A nhưng không dẫn tới kết quả mong đợi)</div>
+  <div class="ex"><div class="cn">努力<b>归</b>努力，没有运气也不行。</div><div class="vi">Cố gắng thì cứ cố gắng, nhưng không có may mắn cũng chẳng được.</div></div>
+  <div class="ex"><div class="cn">说<b>归</b>说，做<b>归</b>做，别只说不做。</div><div class="vi">Nói là một chuyện, làm là chuyện khác — đừng chỉ nói mà không làm.</div></div>
+  <div class="ex"><div class="cn">生气<b>归</b>生气，你还是得把工作做完。</div><div class="vi">Giận thì cứ giận, nhưng bạn vẫn phải làm xong việc.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">一 + V + 就是 + (thời lượng)</div>
+  <div class="gloss">Hễ V là kéo dài suốt… (nhấn mạnh thời gian dài)</div>
+  <div class="ex"><div class="cn">她选择到北京大学学习新闻，<b>一学就是</b>五年。/ 他在城市里打工，<b>一打就是</b>三年。</div><div class="vi">Cô chọn học báo chí ở Đại học Bắc Kinh, học một mạch năm năm. / Anh làm thuê ở thành phố, làm liền ba năm.</div></div>
+  <div class="ex"><div class="cn">他一坐在电脑前<b>就是</b>一整天。</div><div class="vi">Anh ấy ngồi trước máy tính là ngồi một mạch cả ngày.</div></div>
+  <div class="ex"><div class="cn">这场雨<b>一下就是</b>一个星期。</div><div class="vi">Cơn mưa này hễ mưa là mưa suốt cả tuần.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">Bổ ngữ khả năng: V得/不 + kết quả</div>
+  <div class="gloss">…được / không được: 买不起 · 够不着 · 忙不过来 · 听得进去 · 活不出</div>
+  <div class="ex"><div class="cn">三环以内的房子是<b>买不起</b>的。/ 电灯开关对她都是<b>够不着</b>。</div><div class="vi">Nhà trong vành đai 3 thì không mua nổi. / Công tắc đèn với cô đều với không tới.</div></div>
+  <div class="ex"><div class="cn">因为忙<b>不过来</b>，"清新"就干脆辞了职。/ 糊涂的赵王哪里<b>听得进去</b>！</div><div class="vi">Vì làm không xuể, "Thanh Tân" liền dứt khoát nghỉ việc. / Triệu vương hồ đồ nào có nghe lọt tai!</div></div>
+  <div class="ex"><div class="cn">这么多菜，我一个人怎么吃<b>得完</b>？</div><div class="vi">Nhiều món thế này, một mình tôi ăn sao hết được?</div></div>
+  <div class="ex"><div class="cn">这个字太小，我看<b>不清楚</b>。/ 老师说的话你听<b>得懂</b>吗？</div><div class="vi">Chữ này nhỏ quá, tôi nhìn không rõ. / Lời thầy nói bạn nghe hiểu không?</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">千万别 / 千万不要 + V &nbsp;·&nbsp; 乱 + V</div>
+  <div class="gloss">Nghìn vạn lần đừng… &nbsp;|&nbsp; V lung tung, V bừa</div>
+  <div class="ex"><div class="cn">地震暂停时，<b>千万别乱跑</b>。</div><div class="vi">Khi động đất tạm ngừng, tuyệt đối đừng chạy lung tung.</div></div>
+  <div class="ex"><div class="cn">这是秘密，你<b>千万别</b>告诉别人。</div><div class="vi">Đây là bí mật, ngàn vạn lần đừng nói cho ai.</div></div>
+  <div class="ex"><div class="cn">不懂就问，<b>千万不要</b>乱猜。</div><div class="vi">Không hiểu thì hỏi, tuyệt đối đừng đoán bừa.</div></div>
+</div>
+
+<!-- ============ 三 MẪU CÂU ============ -->
+<div class="sec-head"><span class="sec-num">三</span><div><h2 id="mau-cau">Mẫu câu quan hệ</h2><div class="sub">句型 · Các cặp liên từ / khung câu cố định — học thuộc để "lắp" ý vào</div></div></div>
+<p class="sec-intro">Đây là các khung cố định: nhớ vế trước là bật được vế sau. Rất hay ra ở phần <span class="zh">完成句子</span> và làm bài viết chặt chẽ hơn.</p>
+
+<div class="entry">
+  <div class="pat zh">宁可 A，也要 B &nbsp;/&nbsp; 宁可 A，也不 B</div>
+  <div class="gloss">Thà A chứ nhất định B / Thà A chứ không B</div>
+  <div class="ex"><div class="cn">我<b>宁可</b>今天不睡觉，<b>也要</b>看完这部电视剧。</div><div class="vi">Tôi thà đêm nay không ngủ chứ nhất định phải xem hết bộ phim này.</div></div>
+  <div class="ex"><div class="cn">有不少人<b>宁可</b>去实体商店买东西，<b>也不</b>愿意网购。</div><div class="vi">Không ít người thà ra cửa hàng mua chứ không muốn mua online.</div></div>
+  <div class="ex"><div class="cn">他<b>宁可</b>自己吃苦，<b>也不</b>愿意麻烦别人。</div><div class="vi">Anh ấy thà tự mình chịu khổ chứ không muốn làm phiền người khác.</div></div>
+  <div class="ex"><div class="cn">为了赶上进度，我<b>宁可</b>加班，<b>也要</b>今天把它做完。</div><div class="vi">Để kịp tiến độ, tôi thà tăng ca chứ nhất định làm xong nó hôm nay.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">与其 A，不如 B</div>
+  <div class="gloss">Thay vì A, chi bằng B (khuyên chọn B)</div>
+  <div class="ex"><div class="cn"><b>与其</b>花时间在意别人怎么想，<b>不如</b>把时间和精力投入提升自己。</div><div class="vi">Thay vì mất thời gian bận tâm người khác nghĩ gì, chi bằng dồn thời gian, sức lực nâng cao bản thân.</div></div>
+  <div class="ex"><div class="cn"><b>与其</b>在家发愁，<b>不如</b>出去走走。</div><div class="vi">Thay vì ở nhà lo lắng, chi bằng ra ngoài đi dạo.</div></div>
+  <div class="ex"><div class="cn"><b>与其</b>等别人帮忙，<b>不如</b>自己动手。</div><div class="vi">Thay vì chờ người khác giúp, chi bằng tự mình bắt tay làm.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">除非 A，否则 B</div>
+  <div class="gloss">Trừ phi A, nếu không thì B</div>
+  <div class="ex"><div class="cn"><b>除非</b>你来检查，<b>否则</b>他不会收拾房间。</div><div class="vi">Trừ phi bạn đến kiểm tra, nếu không anh ta sẽ chẳng dọn phòng.</div></div>
+  <div class="ex"><div class="cn"><b>除非</b>你亲自道歉，<b>否则</b>他不会原谅你。</div><div class="vi">Trừ phi bạn đích thân xin lỗi, nếu không anh ấy sẽ không tha thứ cho bạn.</div></div>
+  <div class="ex"><div class="cn"><b>除非</b>下大雨，<b>否则</b>比赛照常进行。</div><div class="vi">Trừ phi mưa to, nếu không trận đấu vẫn diễn ra như thường.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">要不是 A，就 B</div>
+  <div class="gloss">Nếu không nhờ A thì (đã) B (giả định trái thực tế)</div>
+  <div class="ex"><div class="cn"><b>要不是</b>有你的帮助，我<b>就</b>没有现在的成功。</div><div class="vi">Nếu không nhờ bạn giúp, tôi đã chẳng có thành công như hôm nay.</div></div>
+  <div class="ex"><div class="cn"><b>要不是</b>你提醒我，我<b>就</b>忘了今天的约会了。</div><div class="vi">Nếu không nhờ bạn nhắc, tôi đã quên mất cuộc hẹn hôm nay.</div></div>
+  <div class="ex"><div class="cn"><b>要不是</b>堵车，我们早<b>就</b>到了。</div><div class="vi">Nếu không kẹt xe, chúng ta đã đến từ lâu rồi.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">只有 A，才 B &nbsp;/&nbsp; 只要 A，就 B</div>
+  <div class="gloss">Chỉ có A mới B (điều kiện duy nhất) / Chỉ cần A là B (điều kiện đủ)</div>
+  <div class="ex"><div class="cn"><b>只有</b>找到平衡点，我们<b>才</b>能守护好自己的健康。</div><div class="vi">Chỉ khi tìm được điểm cân bằng, ta mới giữ được sức khỏe của mình.</div></div>
+  <div class="ex"><div class="cn"><b>只有</b>努力学习，<b>才</b>能通过这次考试。</div><div class="vi">Chỉ có chăm chỉ học mới qua được kỳ thi này.</div></div>
+  <div class="ex"><div class="cn"><b>只要</b>安排好你的活动，然后渐渐远离手机屏幕，<b>就</b>可以了。</div><div class="vi">Chỉ cần sắp xếp tốt hoạt động rồi dần rời xa màn hình điện thoại là được.</div></div>
+  <div class="ex"><div class="cn"><b>只要</b>你坚持下去，<b>就</b>一定会成功。</div><div class="vi">Chỉ cần bạn kiên trì, chắc chắn sẽ thành công.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">不仅 A，而且/还 B</div>
+  <div class="gloss">Không những A mà còn B</div>
+  <div class="ex"><div class="cn">打羽毛球<b>不仅</b>使我快乐，<b>而且</b>使我缓解工作的压力。</div><div class="vi">Đánh cầu lông không những khiến tôi vui mà còn giúp giải tỏa áp lực công việc.</div></div>
+  <div class="ex"><div class="cn">他<b>不仅</b>会说汉语，<b>而且</b>说得很流利。</div><div class="vi">Anh ấy không những biết nói tiếng Trung mà còn nói rất trôi chảy.</div></div>
+  <div class="ex"><div class="cn">网购<b>不仅</b>方便，<b>还</b>能省时省力。</div><div class="vi">Mua sắm online không những tiện mà còn tiết kiệm thời gian, công sức.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">没有(什么)比…更…的了</div>
+  <div class="gloss">Không có gì… hơn… (so sánh nhất)</div>
+  <div class="ex"><div class="cn">在中国，<b>没有比</b>清华大学<b>更</b>好<b>的了</b>。</div><div class="vi">Ở Trung Quốc, không có trường nào tốt hơn Đại học Thanh Hoa.</div></div>
+  <div class="ex"><div class="cn">对我来说，<b>没有比</b>健康<b>更</b>重要<b>的了</b>。</div><div class="vi">Với tôi, không có gì quan trọng hơn sức khỏe.</div></div>
+  <div class="ex"><div class="cn">世界上<b>没有</b>什么<b>比</b>家人的陪伴<b>更</b>珍贵<b>的了</b>。</div><div class="vi">Trên đời không gì quý hơn sự bầu bạn của người thân.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">之所以 A，就因为/是因为 B</div>
+  <div class="gloss">Sở dĩ A là bởi vì B (nhấn mạnh nguyên nhân)</div>
+  <div class="ex"><div class="cn">她<b>之所以</b>喜欢这幅画，<b>就因为</b>喜欢小毛驴的性格。</div><div class="vi">Sở dĩ cô thích bức tranh này là vì thích tính cách của chú lừa con.</div></div>
+  <div class="ex"><div class="cn">他<b>之所以</b>成功，<b>是因为</b>他比别人更努力。</div><div class="vi">Sở dĩ anh ấy thành công là vì anh ấy cố gắng hơn người khác.</div></div>
+  <div class="ex"><div class="cn">我<b>之所以</b>反对，<b>是因为</b>这个计划风险太大。</div><div class="vi">Sở dĩ tôi phản đối là vì kế hoạch này rủi ro quá lớn.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">即使/即便 A，也 B</div>
+  <div class="gloss">Cho dù A thì cũng B (giả định nhượng bộ)</div>
+  <div class="ex"><div class="cn"><b>即便</b>你可以承受，但你的下属们呢？</div><div class="vi">Cho dù bạn chịu được, thế còn cấp dưới của bạn thì sao?</div></div>
+  <div class="ex"><div class="cn"><b>即使</b>再忙，我<b>也</b>会抽时间陪家人。</div><div class="vi">Dù có bận đến đâu, tôi cũng dành thời gian ở bên gia đình.</div></div>
+  <div class="ex"><div class="cn"><b>即使</b>失败了，<b>也</b>是一次宝贵的经验。</div><div class="vi">Cho dù thất bại, đó cũng là một kinh nghiệm quý.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">不管/无论 A，都/也 B &nbsp;·&nbsp; 不管…还是…</div>
+  <div class="gloss">Bất kể A, đều B / dù là… hay là…</div>
+  <div class="ex"><div class="cn"><b>不管</b>你做什么，回头看没有后悔，那就不错了。</div><div class="vi">Bất kể bạn làm gì, ngoảnh lại không hối tiếc, thế là tốt rồi.</div></div>
+  <div class="ex"><div class="cn"><b>不管</b>是出于"一见钟情"，<b>还是</b>"日久生情"，父母都不太看重。</div><div class="vi">Dù là "yêu từ cái nhìn đầu tiên" hay "lâu ngày sinh tình", cha mẹ đều không mấy coi trọng.</div></div>
+  <div class="ex"><div class="cn"><b>无论</b>遇到什么困难，我们<b>都</b>不能放弃。</div><div class="vi">Bất kể gặp khó khăn gì, chúng ta đều không được bỏ cuộc.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">以…为题 / 为话题 / 为例</div>
+  <div class="gloss">Lấy… làm đề / làm chủ đề / làm ví dụ</div>
+  <div class="ex"><div class="cn">请<b>以</b>"网络改变我的生活"<b>为题</b>，谈一谈你的看法。</div><div class="vi">Hãy lấy "Mạng thay đổi cuộc sống của tôi" làm đề, nói lên quan điểm của bạn.</div></div>
+  <div class="ex"><div class="cn">老师<b>以</b>环保<b>为话题</b>，让我们展开讨论。</div><div class="vi">Cô lấy bảo vệ môi trường làm chủ đề để chúng tôi thảo luận.</div></div>
+  <div class="ex"><div class="cn"><b>以</b>义乌<b>为例</b>，我们可以看到市场的巨大力量。</div><div class="vi">Lấy Nghĩa Ô làm ví dụ, ta thấy được sức mạnh to lớn của thị trường.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">趁 (着)…<span class="py">chèn</span></div>
+  <div class="gloss">Nhân lúc, tranh thủ khi…</div>
+  <div class="ex"><div class="cn"><b>趁</b>得到了老公的支持，她开始自己找房子。</div><div class="vi">Nhân lúc được chồng ủng hộ, cô bắt đầu tự đi tìm nhà.</div></div>
+  <div class="ex"><div class="cn"><b>趁</b>年轻，我们应该多学一些本领。</div><div class="vi">Nhân lúc còn trẻ, ta nên học thêm nhiều kỹ năng.</div></div>
+  <div class="ex"><div class="cn"><b>趁着</b>天还没黑，我们快点儿回家吧。</div><div class="vi">Tranh thủ trời chưa tối, mình về nhà nhanh thôi.</div></div>
+</div>
+<div class="entry">
+  <div class="pat zh">N + 一般 + adj &nbsp;(= 像 N 一样 adj)</div>
+  <div class="gloss">…như…, tựa như… (văn vẻ, dùng trong miêu tả)</div>
+  <div class="ex"><div class="cn">时间流水<b>一般</b>飞逝。/ 思念潮水<b>一般</b>涌上心头。</div><div class="vi">Thời gian trôi vun vút như nước chảy. / Nỗi nhớ dâng lên trong lòng tựa thủy triều.</div></div>
+  <div class="ex"><div class="cn">她的笑容阳光<b>一般</b>温暖。</div><div class="vi">Nụ cười của cô ấm áp tựa ánh nắng.</div></div>
+  <div class="ex"><div class="cn">他跑得<b>像</b>风<b>一样</b>快。</div><div class="vi">Anh ấy chạy nhanh như gió. <em>(dạng đầy đủ 像…一样)</em></div></div>
+  <div class="note">Dạng khẩu ngữ tương đương: <span class="zh">乖乖<b>像</b>个主人<b>似的</b>跑过去迎接</span> — Quai Quai chạy ra đón hệt như chủ nhà.</div>
+</div>
+
+<!-- ============ 四 TỪ VỰNG ============ -->
+<div class="sec-head"><span class="sec-num">四</span><div><h2 id="tu-vung">Từ vựng theo chủ đề</h2><div class="sub">词汇 · Gom nhóm theo đề tài các bài, kèm câu ví dụ trong bài</div></div></div>
+<p class="sec-intro">Học từ theo cụm chủ đề dễ nhớ và dễ dùng khi viết đúng đề tài hơn là học rời rạc.</p>
+
+<div class="twrap">
+  <table>
+    <caption>❶ Tình yêu · Hôn nhân · Gia đình</caption>
+    <thead><tr><th>词</th><th>Pinyin</th><th>Nghĩa</th><th>Ví dụ</th></tr></thead>
+    <tbody>
+      <tr><td class="w">一见钟情</td><td class="py">yíjiànzhōngqíng</td><td class="mn">yêu từ cái nhìn đầu</td><td class="ex-cn">不管是出于一见钟情…</td></tr>
+      <tr><td class="w">日久生情</td><td class="py">rìjiǔshēngqíng</td><td class="mn">lâu ngày sinh tình</td><td class="ex-cn">…还是日久生情</td></tr>
+      <tr><td class="w">门当户对</td><td class="py">méndānghùduì</td><td class="mn">môn đăng hộ đối</td><td class="ex-cn">"门当户对"是重要的标准</td></tr>
+      <tr><td class="w">择偶标准</td><td class="py">zé'ǒu biāozhǔn</td><td class="mn">tiêu chuẩn chọn bạn đời</td><td class="ex-cn">他们有各种各样的择偶标准</td></tr>
+      <tr><td class="w">代沟</td><td class="py">dàigōu</td><td class="mn">khoảng cách thế hệ</td><td class="ex-cn">有人认为原因是代沟</td></tr>
+      <tr><td class="w">伴侣</td><td class="py">bànlǚ</td><td class="mn">bạn đời</td><td class="ex-cn">找一个不合适的伴侣</td></tr>
+      <tr><td class="w">恩爱</td><td class="py">ēn'ài</td><td class="mn">tình cảm mặn nồng</td><td class="ex-cn">当初，恩爱可能是最重要的</td></tr>
+      <tr><td class="w">和睦</td><td class="py">hémù</td><td class="mn">hòa thuận</td><td class="ex-cn">他们处得和和睦睦</td></tr>
+      <tr><td class="w">孝敬 / 孝顺</td><td class="py">xiàojìng / xiàoshùn</td><td class="mn">hiếu thảo</td><td class="ex-cn">子孙都很孝敬他</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="twrap">
+  <table>
+    <caption>❷ Công việc · Nghề nghiệp · Tuyển dụng</caption>
+    <thead><tr><th>词</th><th>Pinyin</th><th>Nghĩa</th><th>Ví dụ</th></tr></thead>
+    <tbody>
+      <tr><td class="w">升职</td><td class="py">shēngzhí</td><td class="mn">thăng chức</td><td class="ex-cn">她一直认真工作，最终升职了</td></tr>
+      <tr><td class="w">加薪</td><td class="py">jiāxīn</td><td class="mn">tăng lương</td><td class="ex-cn">不容易获得加薪的机会</td></tr>
+      <tr><td class="w">待遇</td><td class="py">dàiyù</td><td class="mn">đãi ngộ</td><td class="ex-cn">在工作上得到很好的待遇</td></tr>
+      <tr><td class="w">优厚</td><td class="py">yōuhòu</td><td class="mn">hậu hĩnh</td><td class="ex-cn">我有优厚的待遇</td></tr>
+      <tr><td class="w">责任心</td><td class="py">zérènxīn</td><td class="mn">tinh thần trách nhiệm</td><td class="ex-cn">工作要有责任心</td></tr>
+      <tr><td class="w">辞职</td><td class="py">cízhí</td><td class="mn">từ chức, nghỉ việc</td><td class="ex-cn">重要人物轮流辞职</td></tr>
+      <tr><td class="w">录取 / 通知书</td><td class="py">lùqǔ / tōngzhīshū</td><td class="mn">trúng tuyển / giấy báo</td><td class="ex-cn">拿到研究生录取通知书</td></tr>
+      <tr><td class="w">简历</td><td class="py">jiǎnlì</td><td class="mn">sơ yếu lý lịch, CV</td><td class="ex-cn">我拿起一份李群的简历</td></tr>
+      <tr><td class="w">招聘 / 应聘</td><td class="py">zhāopìn / yìngpìn</td><td class="mn">tuyển dụng / ứng tuyển</td><td class="ex-cn">我的公司正在招聘</td></tr>
+      <tr><td class="w">综合素质</td><td class="py">zōnghé sùzhì</td><td class="mn">tố chất tổng hợp</td><td class="ex-cn">只要综合素质足够就可以应聘</td></tr>
+      <tr><td class="w">智商 / 情商</td><td class="py">zhìshāng / qíngshāng</td><td class="mn">IQ / EQ</td><td class="ex-cn">智商和情商优秀</td></tr>
+      <tr><td class="w">岗位</td><td class="py">gǎngwèi</td><td class="mn">vị trí, chức vụ</td><td class="ex-cn">都是由你的岗位</td></tr>
+      <tr><td class="w">报酬</td><td class="py">bàochou</td><td class="mn">thù lao</td><td class="ex-cn">他的报酬达到1500万美元</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="twrap">
+  <table>
+    <caption>❸ Tính cách · Cảm xúc · Phẩm chất</caption>
+    <thead><tr><th>词</th><th>Pinyin</th><th>Nghĩa</th><th>Ví dụ</th></tr></thead>
+    <tbody>
+      <tr><td class="w">惭愧</td><td class="py">cánkuì</td><td class="mn">hổ thẹn</td><td class="ex-cn">使小王感到又委屈又惭愧</td></tr>
+      <tr><td class="w">委屈</td><td class="py">wěiqu</td><td class="mn">tủi thân, oan ức</td><td class="ex-cn">又委屈又惭愧</td></tr>
+      <tr><td class="w">决心</td><td class="py">juéxīn</td><td class="mn">quyết tâm</td><td class="ex-cn">他下了决心做自己的生意</td></tr>
+      <tr><td class="w">勤奋</td><td class="py">qínfèn</td><td class="mn">siêng năng</td><td class="ex-cn">他打工打得很勤奋</td></tr>
+      <tr><td class="w">老实</td><td class="py">lǎoshi</td><td class="mn">thật thà</td><td class="ex-cn">性格又很老实</td></tr>
+      <tr><td class="w">结实</td><td class="py">jiēshi</td><td class="mn">chắc khỏe, vạm vỡ</td><td class="ex-cn">老板一看到他身体结实</td></tr>
+      <tr><td class="w">诚恳</td><td class="py">chéngkěn</td><td class="mn">thành khẩn</td><td class="ex-cn">在这里还要十分诚恳</td></tr>
+      <tr><td class="w">骄傲</td><td class="py">jiāo'ào</td><td class="mn">kiêu ngạo / tự hào</td><td class="ex-cn">赵括因此很骄傲</td></tr>
+      <tr><td class="w">本领</td><td class="py">běnlǐng</td><td class="mn">bản lĩnh, tài</td><td class="ex-cn">小王的队真的有本领</td></tr>
+      <tr><td class="w">出息</td><td class="py">chūxi</td><td class="mn">triển vọng, tương lai</td><td class="ex-cn">在这里工作没有出息</td></tr>
+      <tr><td class="w">无可奈何</td><td class="py">wúkěnàihé</td><td class="mn">không còn cách nào</td><td class="ex-cn">对多年养成的嗜好无可奈何</td></tr>
+      <tr><td class="w">踌躇</td><td class="py">chóuchú</td><td class="mn">do dự, chần chừ</td><td class="ex-cn">她踌躇了一下，随即走过来</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="twrap">
+  <table>
+    <caption>❹ Công nghệ · Điện thoại · Mua sắm mạng</caption>
+    <thead><tr><th>词</th><th>Pinyin</th><th>Nghĩa</th><th>Ví dụ</th></tr></thead>
+    <tbody>
+      <tr><td class="w">网购</td><td class="py">wǎnggòu</td><td class="mn">mua sắm online</td><td class="ex-cn">网购使我们省时省力</td></tr>
+      <tr><td class="w">快递员</td><td class="py">kuàidìyuán</td><td class="mn">nhân viên giao hàng</td><td class="ex-cn">等快递员送来就行了</td></tr>
+      <tr><td class="w">退换</td><td class="py">tuìhuàn</td><td class="mn">đổi trả</td><td class="ex-cn">退换这些事不容易</td></tr>
+      <tr><td class="w">名牌</td><td class="py">míngpái</td><td class="mn">thương hiệu nổi tiếng</td><td class="ex-cn">该向有名的名牌买</td></tr>
+      <tr><td class="w">屏幕</td><td class="py">píngmù</td><td class="mn">màn hình</td><td class="ex-cn">盯着屏幕看视频</td></tr>
+      <tr><td class="w">沉迷</td><td class="py">chénmí</td><td class="mn">đắm chìm, nghiện</td><td class="ex-cn">许多人沉迷于网络世界</td></tr>
+      <tr><td class="w">功能</td><td class="py">gōngnéng</td><td class="mn">chức năng</td><td class="ex-cn">它有很多有用的功能</td></tr>
+      <tr><td class="w">现金</td><td class="py">xiànjīn</td><td class="mn">tiền mặt</td><td class="ex-cn">不需要带现金</td></tr>
+      <tr><td class="w">奴隶</td><td class="py">núlì</td><td class="mn">nô lệ</td><td class="ex-cn">你会成为它的奴隶</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="twrap">
+  <table>
+    <caption>❺ Sức khỏe · Thuốc lá · Rượu</caption>
+    <thead><tr><th>词</th><th>Pinyin</th><th>Nghĩa</th><th>Ví dụ</th></tr></thead>
+    <tbody>
+      <tr><td class="w">嗜好</td><td class="py">shìhào</td><td class="mn">thói quen, thú vui (xấu)</td><td class="ex-cn">对多年养成的嗜好无可奈何</td></tr>
+      <tr><td class="w">危害</td><td class="py">wēihài</td><td class="mn">gây hại, tác hại</td><td class="ex-cn">吸烟的确危害身体健康</td></tr>
+      <tr><td class="w">缓解</td><td class="py">huǎnjiě</td><td class="mn">làm dịu, giảm nhẹ</td><td class="ex-cn">这样可以缓解压力</td></tr>
+      <tr><td class="w">软弱</td><td class="py">ruǎnruò</td><td class="mn">yếu đuối</td><td class="ex-cn">被认为是软弱的表现</td></tr>
+      <tr><td class="w">干涉</td><td class="py">gānshè</td><td class="mn">can thiệp</td><td class="ex-cn">没人可以干涉他的生活</td></tr>
+      <tr><td class="w">投诉</td><td class="py">tóusù</td><td class="mn">khiếu nại, tố cáo</td><td class="ex-cn">很容易被投诉、罚款</td></tr>
+      <tr><td class="w">罚款</td><td class="py">fákuǎn</td><td class="mn">phạt tiền</td><td class="ex-cn">被投诉、罚款</td></tr>
+      <tr><td class="w">逃避现实</td><td class="py">táobì xiànshí</td><td class="mn">trốn tránh hiện thực</td><td class="ex-cn">只是靠烟酒来逃避现实</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="twrap">
+  <table>
+    <caption>❻ Nghị lực · Khuyết tật · Thiên nhiên (bài đọc mẫu)</caption>
+    <thead><tr><th>词</th><th>Pinyin</th><th>Nghĩa</th><th>Ví dụ</th></tr></thead>
+    <tbody>
+      <tr><td class="w">残疾</td><td class="py">cánjí</td><td class="mn">khuyết tật</td><td class="ex-cn">变成了一个残疾的人</td></tr>
+      <tr><td class="w">轮椅</td><td class="py">lúnyǐ</td><td class="mn">xe lăn</td><td class="ex-cn">想从轮椅移到床上</td></tr>
+      <tr><td class="w">康复</td><td class="py">kāngfù</td><td class="mn">phục hồi</td><td class="ex-cn">那十一年的康复十分困难</td></tr>
+      <tr><td class="w">打击</td><td class="py">dǎjī</td><td class="mn">cú đánh, đả kích</td><td class="ex-cn">是很大的打击</td></tr>
+      <tr><td class="w">勇气 / 坚强</td><td class="py">yǒngqì / jiānqiáng</td><td class="mn">dũng khí / kiên cường</td><td class="ex-cn">微笑背后肯定有勇气</td></tr>
+      <tr><td class="w">丰碑</td><td class="py">fēngbēi</td><td class="mn">tượng đài, mốc son</td><td class="ex-cn">平凡也可以活成一座丰碑</td></tr>
+      <tr><td class="w">雕像</td><td class="py">diāoxiàng</td><td class="mn">tượng điêu khắc</td><td class="ex-cn">人们为他建造了一座雕像</td></tr>
+      <tr><td class="w">寸土寸金</td><td class="py">cùntǔcùnjīn</td><td class="mn">tấc đất tấc vàng</td><td class="ex-cn">在寸土寸金的都市里种菜</td></tr>
+      <tr><td class="w">和谐相处</td><td class="py">héxié xiāngchǔ</td><td class="mn">chung sống hài hòa</td><td class="ex-cn">人与自然和谐相处</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- ============ 五 THÀNH NGỮ ============ -->
+<div class="sec-head"><span class="sec-num">五</span><div><h2 id="thanh-ngu">Thành ngữ &amp; cụm cố định</h2><div class="sub">成语 · 俗语 — dùng đúng chỗ sẽ nâng hẳn "chất" bài viết</div></div></div>
+<p class="sec-intro">Thành ngữ nên dùng "điểm xuyết" 1–2 cái mỗi bài, đúng ngữ cảnh; đừng nhồi nhét.</p>
+
+<div class="twrap">
+  <table>
+    <thead><tr><th>成语</th><th>Pinyin</th><th>Nghĩa &amp; cách dùng</th></tr></thead>
+    <tbody>
+      <tr><td class="w">纸上谈兵</td><td class="py">zhǐshàng tánbīng</td><td class="mn">bàn việc binh trên giấy — chỉ lý thuyết suông</td></tr>
+      <tr><td class="w">差之毫厘，谬以千里</td><td class="py">chā zhī háolí, miù yǐ qiānlǐ</td><td class="mn">sai một ly đi một dặm</td></tr>
+      <tr><td class="w">无规矩不成方圆</td><td class="py">wú guīju bù chéng fāngyuán</td><td class="mn">không có quy củ chẳng nên vuông tròn</td></tr>
+      <tr><td class="w">丁是丁，卯是卯</td><td class="py">dīng shì dīng, mǎo shì mǎo</td><td class="mn">rạch ròi, đâu ra đấy</td></tr>
+      <tr><td class="w">十有八九</td><td class="py">shíyǒu bājiǔ</td><td class="mn">mười phần tám chín; hầu hết</td></tr>
+      <tr><td class="w">铺天盖地</td><td class="py">pūtiān gàidì</td><td class="mn">rợp trời dậy đất; ồ ạt</td></tr>
+      <tr><td class="w">狼吞虎咽</td><td class="py">láng tūn hǔ yàn</td><td class="mn">ăn ngấu nghiến</td></tr>
+      <tr><td class="w">吃饱喝足</td><td class="py">chībǎo hēzú</td><td class="mn">ăn no uống đủ</td></tr>
+      <tr><td class="w">千变万化</td><td class="py">qiānbiàn wànhuà</td><td class="mn">biến hóa khôn lường</td></tr>
+      <tr><td class="w">千差万别</td><td class="py">qiānchā wànbié</td><td class="mn">muôn hình muôn vẻ, khác biệt lớn</td></tr>
+      <tr><td class="w">不知不觉</td><td class="py">bùzhī bùjué</td><td class="mn">chẳng hay biết, lúc nào không hay</td></tr>
+      <tr><td class="w">自以为天下无敌</td><td class="py">zì yǐwéi tiānxià wúdí</td><td class="mn">tự cho mình thiên hạ vô địch</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- ============ 六 LỖI ============ -->
+<div class="sec-head"><span class="sec-num">六</span><div><h2 id="loi">Lỗi thường gặp — sửa bài</h2><div class="sub">病句 · Rút từ chính các chỗ đã bị sửa trong bài của bạn</div></div></div>
+<p class="sec-intro">Đây là những lỗi lặp lại nhiều nhất trong bài. <span class="wrong">Gạch đỏ</span> = cách viết sai, <span class="right">chữ xanh</span> = cách đúng.</p>
+
+<div class="fix">
+  <div class="line"><span class="wrong">购买购物</span><span class="arrow">→</span><span class="right">购物 / 购买</span></div>
+  <div class="why">Lỗi <b>lặp nghĩa (thừa từ)</b>: 购买 và 购物 đều là "mua", chỉ dùng một. Tương tự <span class="wrong zh">退换调换</span> → chỉ <span class="right zh">退换</span>.</div>
+</div>
+<div class="fix">
+  <div class="line"><span class="wrong">实际的商店 / 实际外的商店</span><span class="arrow">→</span><span class="right">实体商店 / 实体店</span></div>
+  <div class="why">Dùng <b>sai từ</b>: cửa hàng ngoài đời (đối lập với online) là <span class="right zh">实体店</span>, không phải 实际.</div>
+</div>
+<div class="fix">
+  <div class="line"><span class="wrong">被嫁给一个不爱的人</span><span class="arrow">→</span><span class="right">嫁给一个不爱的人</span></div>
+  <div class="why"><b>Lạm dụng 被</b>: 嫁 (lấy chồng) tự nó đã là hành động của chủ ngữ, không cần bị động 被.</div>
+</div>
+<div class="fix">
+  <div class="line"><span class="wrong">花打发时间才用了它</span><span class="arrow">→</span><span class="right">为了打发时间才用它</span></div>
+  <div class="why"><b>Thừa/thiếu từ</b>: "giết thời gian" là <span class="right zh">打发时间</span>; muốn nói "để mà" thì dùng <span class="right zh">为了</span>.</div>
+</div>
+<div class="fix">
+  <div class="line"><span class="wrong">大哄大叫</span><span class="arrow">→</span><span class="right">大喊大叫</span></div>
+  <div class="why"><b>Nhầm chữ</b>: la hét ầm ĩ là 大喊大叫.</div>
+</div>
+<div class="fix">
+  <div class="line"><span class="wrong">在国家没有任何商店卖</span><span class="arrow">→</span><span class="right">在她的国家没有任何商店卖</span></div>
+  <div class="why"><b>Thiếu định ngữ</b>: "国家" chung chung, cần <span class="right zh">她的国家</span> cho rõ.</div>
+</div>
+<div class="fix">
+  <div class="line"><span class="wrong">价各</span><span class="arrow">→</span><span class="right">价格</span></div>
+  <div class="why"><b>Sai chính tả</b>: giá cả = 价格 (không phải 价各).</div>
+</div>
+<div class="fix">
+  <div class="line"><span class="wrong">越早越好地参考父母的建议</span><span class="arrow">→</span><span class="right">尽早参考父母的建议</span></div>
+  <div class="why"><b>Cấu trúc rườm rà</b>: "越sớm càng tốt" khi làm trạng ngữ nên gọn thành <span class="right zh">尽早</span>.</div>
+</div>
+
+<div class="callout">
+  <h4>4 nhóm lỗi cần soi lại mỗi khi viết xong</h4>
+  <ol>
+    <li><b>Thừa từ / lặp nghĩa</b> — ghép hai từ đồng nghĩa (购买购物, 退换调换).</li>
+    <li><b>Lạm dụng 被</b> — chỉ dùng bị động khi chủ ngữ thật sự "bị/được" tác động.</li>
+    <li><b>Dùng sai từ gần nghĩa</b> — 实际 ↔ 实体, 保持 (+adj) ↔ 坚持 (+V), 停止 ↔ 停下.</li>
+    <li><b>Trạng ngữ dài dòng</b> — gọn hóa bằng 尽早 / 及时 / 渐渐 thay cụm dài.</li>
+  </ol>
+</div>
+
+<p style="color:#4f5a63;font-size:.9rem;margin-top:34px"><em>Tổng hợp từ 45 bài luyện viết 五级 (2024–2026). Mọi ví dụ trích nguyên văn từ bài; phần dịch &amp; giải thích thêm để dễ ôn. <span class="seal zh">加油！</span></em></p>
+
+</div>

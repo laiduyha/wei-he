@@ -12,7 +12,7 @@ parent:
 ![alt]({{ 'assets/images/ma-yuan-song-am-ngoan-nguyet.jpg' | absolute_url}})
 > <cite>
 <a target="_blank" href="https://commons.wikimedia.org/wiki/File:%E5%8D%97%E5%AE%8B_%E4%BD%9A%E5%90%8D_%E5%80%A3%E9%A6%AC%E9%81%A0_%E6%9D%BE%E9%99%B0%E7%8E%A9%E6%9C%88%E5%9C%96_%E5%86%8A%E9%A0%81-Viewing_the_Moon_under_a_Pine_Tree_MET_DP153498.jpg">
-南宋 佚名 倣馬遠《松陰玩月圖》- Nam Tống, khuyết danh, phỏng Mã Viễn《Tùng Âm Ngoạn Nguyệt Đồ》
+馬遠《松陰玩月圖》- Mã Viễn《Tùng Âm Ngoạn Nguyệt Đồ》
 </a>
 </cite>
 
@@ -38,24 +38,23 @@ parent:
 {: .text-justify}
 
 ## Kẻ “già”
-Trên thế gian này, luôn tồn tại một nhóm kẻ “già”.\
-Đâu đâu họ cũng rao giảng cái gọi là kinh nghiệm sống,\
-Xem lý tưởng của người khác là ảo mộng,\
-Xem nhiệt huyết của người khác là bồng bột nông nổi,\
-Xem sự kiên trì của người khác là ngông cuồng ngạo mạn.
+Trên thế gian này, tồn tại một nhóm những kẻ “già”.\
+Đâu đâu họ cũng thao thao về cái gọi là kinh nghiệm sống\
+Họ nhìn lý tưởng của người khác là hoang đường, ảo mộng.\
+Họ coi nhiệt huyết của người khác là cuồng vọng, bồng bột.\
+Họ cho rằng sự kiên trì của người khác là bướng bỉnh, và ngạo mạn.
 {: .text-justify}
 
-Họ thường tìm kiếm cảm giác về sự tồn tại và niềm tự tôn của mình,\
-Trong lúc lên giọng dạy đời lớp hậu bối.
+Bọn họ giáo huấn hậu bối để tìm kiếm cảm giác về sự ưu việt,\
+và khẳng định sự tồn tại của chính mình.
 {: .text-justify}
 
 Họ lấy chính thất bại của bản thân để khuyên nhủ người khác buông xuôi,\
-Dùng ánh mắt của kẻ bại trận để phán xét những người vẫn còn dám mơ.
+Dùng ánh mắt của kẻ bại trận để phán xét những người vẫn còn dám mơ ước.
 {: .text-justify}
 
-Thế nhưng, điều bi ai nhất không phải là bị người ta chê cười,\
-Mà là vì nghe quá nhiều lời phủ định,\
-Để rồi cuối cùng đánh mất chính mình.
+Thế nhưng, điều đáng thương nhất trong thất bại không phải là bị người cười chê,\
+mà là vì nghe quá nhiều lời phủ định, để rồi đánh mất chính mình.
 {: .text-justify}
 
 > <cite>
