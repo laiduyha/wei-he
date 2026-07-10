@@ -33,6 +33,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+        with:
+          lfs: true # fetch actual PDF (and other LFS blobs), not just pointer files
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:

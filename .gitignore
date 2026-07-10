@@ -4,3 +4,5 @@ _site
 .jekyll-metadata
 vendor
 *.pdf
+# but keep downloadable PDFs shipped with the site (tracked via Git LFS)
+!assets/files/*.pdf
