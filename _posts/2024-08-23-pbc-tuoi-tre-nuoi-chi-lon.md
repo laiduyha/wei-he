@@ -1,5 +1,5 @@
 ---
-title: Kỳ 1 - Tuổi trẻ nuôi chí lớn
+title: "Kỳ 1: Tuổi trẻ nuôi chí lớn"
 permalink: /pbc-tuoi-tre-nuoi-chi-lon
 layout: single
 classes: wide
@@ -12,10 +12,10 @@ parent:
 >  \
 > Các thí sinh nhận đề rồi cắm cúi làm bài hồi lâu thì Phan mới đến. Chánh chủ khảo gốc Quảng Nam cho Phan vào, nhưng buộc Phan nhận đề thi riêng.\
 >  \
-> Tiết cuối xuân, trông thấy cây mai bên hiên chỉ còn lưa thưa dăm đoá, quan Hoàng Giáp liền ra đề: “Hoa khai bất cập xuân” 花开不及春 (Hoa nở không kịp mùa xuân). Đề thi ngụ ý phê bình tội trễ tràng của chàng trai huyện Nam Đàn nổi tiếng thông minh. Phan nhoẻn cười, nhanh nhẹn phóng bút 4 dòng trên. Liếc mắt, Phạm Hoàng Giáp sững sờ, bảo Phan: “Khỏi làm bài nữa. Chỉ cần 4 dòng mở đầu thế này dư sức đỗ đầu xứ rồi.”
-{: .notice .text-justify}
+> Tiết cuối xuân, trông thấy cây mai bên hiên chỉ còn lưa thưa dăm đoá, quan Hoàng Giáp liền ra đề: "Hoa khai bất cập xuân" 花开不及春 (Hoa nở không kịp mùa xuân). Đề thi ngụ ý phê bình tội trễ tràng của chàng trai huyện Nam Đàn nổi tiếng thông minh. Phan nhoẻn cười, nhanh nhẹn phóng bút 4 dòng trên. Liếc mắt, Phạm Hoàng Giáp sững sờ, bảo Phan: "Khỏi làm bài nữa. Chỉ cần 4 dòng mở đầu thế này dư sức đỗ đầu xứ rồi."
+{: .notice--info .text-justify}
 
-> **花开不及春 - 潘佩珠**\
+> **花开不及春 – 潘佩珠**\
 > *Hoa khai bất cập xuân*\
 >  \
 > 東皇曾酌眼,\
@@ -27,18 +27,18 @@ parent:
 > 番交漸漸開。\
 > Phiên giao tiệm tiệm khai.\
 >  \
-> **Hoa nở không kịp mùa xuân - Phan Bội Châu**\
+> **Hoa nở không kịp mùa xuân – Phan Bội Châu**\
 >  \
 > Nhờ chúa xuân lưu ý,\
 > Xếp hàng đầu trăm hoa.\
 > Chỉ vì lòng khiêm tốn,\
 > Nên để nở dần dà.
-{: .notice--warning}
+{: .notice--warning .text-justify}
 
 ![alt]({{ 'assets/images/luu-day-robert-aldrich.jpg' | absolute_url }})
 
 > Một bức tranh biếm họa của Pháp vẽ vua Hàm Nghi, nữ hoàng Ranavalona III của Madagascar và vua Béhanzin của Dahomey, đều là những vị hoàng đế bị lưu đày.
-{: .notice}
+{: .notice--info .text-justify}
 
 > <cite>
 <a href="https://ordi.vn/nhung-hoang-de-bi-luu-day-thuc-dan-phap-va-tinh-canh-luu-vong-cua-cac-vi-vua-nuoc-viet-ky-1.html" target="_blank">

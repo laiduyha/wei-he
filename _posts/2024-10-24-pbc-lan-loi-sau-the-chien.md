@@ -1,5 +1,5 @@
 ---
-title: Kỳ 14 - Lăn lộn sau thế chiến
+title: "Kỳ 14: Lăn lộn sau thế chiến"
 permalink: /pbc-lan-loi-sau-the-chien
 layout: single
 classes: wide
@@ -8,7 +8,7 @@ parent:
   url: phan-boi-chau  
 ---
 
-> **Ngủ giữa núi tuyết - Phan Bội Châu**\
+> **Ngủ giữa núi tuyết – Phan Bội Châu**\
 >  \
 > Nhất dạ sơn trung tuyết tráo thân,\
 > Thạch vi trường châm thảo vi nhân.\
@@ -21,7 +21,7 @@ parent:
 > Đá kia làm gối cỏ làm mền.\
 > Sáng ra tuyết tán mang chiên chạy,\
 > Bốn phía mênh mông một chắc mình.
-{: .notice--warning}
+{: .notice--warning .text-justify}
 
 ![alt]({{ 'assets/images/china-imperialism-cartoon.jpg' | absolute_url }})
 > <cite>
@@ -182,7 +182,7 @@ Tôi nhờ một người trong đoàn đọc cho tôi nghe, nghe xong thật s�
 > Về phía chính phủ Đông Dương thì đối đãi lại tôi hai điều:\
 > . Nếu tôi chịu về nước thì đặt cho một địa vị trọng yếu trong Nam Triều và cấp lương bổng đặc biệt ưu hậu.\
 > . Nếu không chịu về nước mà chịu theo điều kiện trên thì sẽ cấp lữ phí và đồ nhu yếu phẩm ở ngoài.
-{: .notice .text-justify}
+{: .notice--warning .text-justify}
 
 Tôi đã quyết định một tông chỉ, nên trả lời với Nê Dung rằng:
 {: .text-justify}
@@ -237,7 +237,7 @@ Lạp đáp:
 > . Phải theo chủ nghĩa Cộng Sản.\
 > . Học thành về nước, phải gánh vác những công việc tuyên truyền chủ nghĩa Cộng Sản.\
 > . Học thành về nước, phải ra sức tiến hành sự nghiệp cách mạng Cộng Sản.\
-> \
+>  \
 > Còn như học phí, sinh hoạt phí trong lúc học ở Nga thì đều do Chính phủ đảm nhận hết cả.
 {: .notice .text-justify}
 

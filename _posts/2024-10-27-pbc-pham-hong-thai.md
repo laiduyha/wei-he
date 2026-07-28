@@ -1,5 +1,5 @@
 ---
-title: Ngoại truyện - Chuyện về Liệt Sĩ Phạm Hồng Thái
+title: "Ngoại truyện: Chuyện về Liệt Sĩ Phạm Hồng Thái"
 permalink: /pbc-pham-hong-thai
 layout: single
 classes: wide

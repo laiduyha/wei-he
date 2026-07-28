@@ -1,5 +1,5 @@
 ---
-title: Kỳ 15 - Những ngày cuối ở nước ngoài
+title: "Kỳ 15: Những ngày cuối ở nước ngoài"
 permalink: /pbc-nhung-ngay-cuoi-o-nuoc-ngoai
 layout: single
 classes: wide

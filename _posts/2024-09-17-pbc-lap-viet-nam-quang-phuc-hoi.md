@@ -1,5 +1,5 @@
 ---
-title: Kỳ 11 - Lập Việt Nam Quang Phục Hội
+title: "Kỳ 11: Lập Việt Nam Quang Phục Hội"
 permalink: /pbc-viet-nam-quang-phuc-hoi
 layout: single
 classes: wide
@@ -9,16 +9,16 @@ parent:
 guang-dong:
   - url: /assets/images/guang-dong-1900-1.jpg
     image_path: /assets/images/guang-dong-1900-1.jpg
-    title: "汕头码头 - Bến Tàu Sán Đầu"
+    title: "汕头码头 – Bến Tàu Sán Đầu"
   - url: /assets/images/guang-dong-1900-2.jpg
     image_path: /assets/images/guang-dong-1900-2.jpg
-    title: "潮海关及码头查验场所 - Hải quan của Bến Cảng"
+    title: "潮海关及码头查验场所 – Hải quan của Bến Cảng"
   - url: /assets/images/guang-dong-1900-3.jpg
     image_path: /assets/images/guang-dong-1900-3.jpg
-    title: "汕头商业街 - Phố thương mại Sán Đầu"
+    title: "汕头商业街 – Phố thương mại Sán Đầu"
   - url: /assets/images/guang-dong-1900-4.jpg
     image_path: /assets/images/guang-dong-1900-4.jpg
-    title: "崎碌路 - Đường Thất Lục"
+    title: "崎碌路 – Đường Thất Lục"
 ---
 
 > *Xưa nước ta chỉ có cờ Hoàng Đế mà không có cờ nước cũng là một việc đáng quái gở. Hội Việt Nam Quang Phục mới chế định ra quốc kỳ bằng cờ ngũ tinh, dạng huy thức dùng bằng cách ngũ tinh liên châu.*\
@@ -126,13 +126,13 @@ Chương trình Hội Quang Phục do tôi thảo ra, được toàn thể hội
 > - Giao Tế Ủy Viên: Lâm Đức Mậu, Đặng Bỉnh Thành
 > - Văn Độc Ủy Viên: Phan Bá Ngọc, Nguyễn Yên Chiêu
 > - Thư Vụ Ủy Viên: Phan Quý Chuân, Đinh Tế Dân
-{: .notice .text-justify}
+{: .notice--warning .text-justify}
 
 Địa điểm mà đảng nhân tụ hội có hai cơ sở:
 
 > 1. Sa Hà Lưu Gia Từ: ông Lưu Vĩnh Phúc cho mượn, cơ sở này dung được hơn 50 người.
 > 2. Hoàng Sa Chu Thị Lữ quán: cơ sở này dung được hơn 10 người.
-{: .notice .text-justify}
+{: .notice--info .text-justify}
 
 Quang Phục Hội chương trình và tuyên ngôn, in xong gửi người đem về phân bố, phát tán. Nhưng khốn một điều vì lúc đó, ông Lý Tuệ đã bị đi tù, không có người bí mật ở dưới tàu thủy. Mà đường bộ mang sách lại quá khó khăn, nên những văn kiện đó về lại trong nước rất ít.
 {: .text-justify}

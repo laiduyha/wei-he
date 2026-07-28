@@ -1,5 +1,5 @@
 ---
-title: Kỳ 4 - Xuất dương
+title: "Kỳ 4: Xuất dương"
 permalink: /pbc-xuat-duong
 layout: single
 classes: wide

@@ -1,5 +1,5 @@
 ---
-title: Kỳ 9 - Bị người Pháp đàn áp
+title: "Kỳ 9: Bị người Pháp đàn áp"
 permalink: /pbc-bi-nguoi-phap-dan-ap
 layout: single
 classes: wide
@@ -71,11 +71,11 @@ Tôi với Hội Chủ Kỳ Ngoại Hầu cũng bị Chính phủ Nhật buộc 
 > Hàng thứ nhất: Ông trưởng thôn tên là Okamoto, cụ Phan Bội Châu và hai người Nhật trong thôn.\
 >  \
 > Ba người hàng thứ hai là các nhà sư làm lễ cho buổi dựng bia.
-{: .notice}
+{: .notice--info .text-justify}
 
 > <cite>
 <a target="_blank" href="https://vietnamnet.vn/duyen-co-nhat-hoang-tham-vieng-cu-phan-boi-chau-359786.html">
-Bia kỷ niệm ngài Sakitaro Asaba - Thiền Vũ Thái Lang
+Bia kỷ niệm ngài Sakitaro Asaba – Thiền Vũ Thái Lang
 </a>
 </cite>
 
@@ -117,7 +117,7 @@ Ai ngờ giấy tôi gửi lại buổi sớm, mà ngân phiếu tiên sinh gử
 {: .text-justify}
 
 > Hiện nay tôi vơ vét trong nhà chỉ có sẵn bấy nhiêu, chờ sau tôi có kiếm thêm được tiền, nếu như các ngài còn cần dùng thì đánh giấy lại lấy.
-{: .notice .text-justify}
+{: .notice--warning .text-justify}
 
 Chỉ có bây nhiêu lời, ngoài ra không có chữ gì có giọng khách khí. Trong lúc cùng khốn mà được việc may mắn như thế, mừng biết chừng nào! Tôi bây giờ trích trong số tiền ấy, chia ra làm ba khoản:
 {: .text-justify}
@@ -143,7 +143,7 @@ Tiên sinh nguyên con một vị Lục quân Đại tướng. Học y học, đ
 {: .text-justify}
 
 > Bọn nó đối với các ngài chỉ là ngón ngoại giao của bọn âm mưu, dã tâm mà thôi.
-{: .notice text-justify}
+{: .notice .text-justify}
 
 Tôi từ biệt tiên sinh trở về Trung Quốc, 10 năm sau tôi qua lại Nhật Bản thì tiên sinh đã tạ thế. Ôi ân nhân giúp mình lúc hoạn nạn, lại là người tri kỉ hiếm gặp nay đã không còn, mà mình chưa kịp đền giả được gì. Thật lấy làm cảm thương! Bèn lập một tấm bia ở trước mộ của tiên sinh, trên có khắc bài văn:
 {: .text-justify}
@@ -203,7 +203,7 @@ Không ngờ đâu bụng mình tính một đằng, mà rồi việc lại trá
 > Rút súng lục bắn vào một tên lính Pháp, sau chĩa súng vào một tên lính Nam mà nói rằng *"Sức ta còn giết được mày, nhưng ta không nỡ giết người cùng nòi giống."*\
 >  \
 > Nói xong liền quay súng lại bắn vào cổ mình mà chết.
-{: .notice .text-justify}
+{: .notice--warning .text-justify}
 
 Trời ơi! Hung tin báo tới, không khác gì con dao đâm một mũi chí mạng vào trong cái kế bạo động của tôi. Thế là bao nhiêu quân giới còn giấu đút ở Hồng Kông không thể chuyển về nướ được!
 {: .text-justify}

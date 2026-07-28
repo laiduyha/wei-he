@@ -20,9 +20,9 @@ Giữa những hẻm núi cheo leo của vùng Thiểm Bắc, Hồng quân đã 
 Vào hạ tuần tháng 11 năm đó, một toán người phi ngựa tiến về phía Bảo An, bụi vàng cuốn mù mịt. Họ xuất phát từ Tây An, đi xe hơi đến Lạc Xuyên rồi thay ngựa phi thẳng về phía bắc. Cả đoàn khoác trên mình quân phục của quân Đông Bắc của Trương Học Lương – dẫn đầu là một vị tướng oai phong đã ngoài tứ tuần, phía sau là nhóm tùy tùng trông thư sinh nhưng mang cốt cách nhà binh. Cách Bảo An chừng 20 dặm, đoàn người bỗng dừng lại: một bậc trưởng giả trong quân phục Hồng quân đã đứng chờ sẵn ven đường.
 {: .text-justify}
 
-> "Diệp lão, vất vả cả một dặm trường!" – vị mặc quân phục Hồng quân cất lời trước.\
-> \
-> Vị tướng kia cười vang, giọng sảng khoái: "Lâm lão, ông ra tận đây chắc không phải để đón tôi, mà cốt là để nhận mấy đồng Quang Dương phải không?"
+> — Diệp lão, vất vả cả một dặm trường! – vị mặc quân phục Hồng quân cất lời trước.\
+>  \
+> — Lâm lão, ông ra tận đây chắc không phải để đón tôi, mà cốt là để nhận mấy đồng Quang Dương phải không? – vị tướng kia cười vang, giọng sảng khoái.
 {: .notice .text-justify}
 
 "Diệp lão" chính là Diệp Kiếm Anh; còn vị trưởng giả kia là Lâm Bá Cừ, Bộ trưởng Tài chính Hồng quân. Khi ấy ngân khố đang trống rỗng, hay tin Diệp mang về năm vạn đồng Quang Dương, Lâm mừng khôn xiết nên mới thân hành ra tận cổng thành nghênh tiếp. Năm vạn đồng tuy chỉ bằng một phần năm tiền thưởng treo giải cho cái đầu của Mao, nhưng với Hồng quân lúc bấy giờ, đó chẳng khác nào "hạn hán gặp mưa rào".
@@ -54,7 +54,7 @@ Sào huyệt ấy đang do một nhân vật đặc biệt trấn giữ. Đó l�
 {: .text-justify}
 
 > Mối thâm thù của Trương Học Lương bắt nguồn từ rạng sáng ngày 4 tháng 6 năm 1928, cầu đường sắt Thẩm Dương đột ngột bị đánh sập, đoàn tàu đang chạy qua bị hất xuống sông. Thân phụ Trương lúc đó đang trên tàu; tuy được đưa đi cấp cứu nhưng vài giờ sau thì qua đời. Kẻ chủ mưu không ai khác chính là quân Nhật. Từ đó, Trương Học Lương thề không đội trời chung với chúng.\
-> \
+>  \
 > Chưa kịp nguôi ngoai, "sự biến 9.18" lại ập đến. Ngày 18 tháng 9 năm 1931, quân Nhật đánh chiếm Thẩm Dương; chỉ trong vòng bốn tháng mười tám ngày, cả ba tỉnh Đông Bắc – Liêu Ninh, Cát Lâm và Hắc Long Giang – lần lượt rơi vào tay giặc. Họ Trương mất cả quê hương lẫn binh quyền, lưu lạc nơi xứ người, rồi cuối cùng gia nhập Quốc dân đảng, đặt mình dưới trướng Tưởng Giới Thạch.
 {: .notice--info .text-justify}
 
@@ -113,16 +113,16 @@ Phi hành đoàn gồm bốn người đi về doanh trại của quân Đông B
 {: .text-justify}
 
 > Năm mươi năm sau, khi trả lời phóng viên truyền hình NHK Nhật Bản, nhớ lại lần đầu quen biết Chu Ân Lai, Trương Học Lương đã dùng 12 chữ để bình phẩm họ Chu:\
-> \
+>  \
 > "Phản ứng sắc sảo, nói năng xuất chúng, học thức uyên thâm!"
 {: .notice--info .text-justify}
 
 Trương Học Lương giới thiệu với Chu Ân Lai nhân vật thần bí của mình, mà ông gọi là thư ký. Chu Ân Lai bật cười và bắt tay viên thư ký:
 {: .text-justify}
 
-Chào Lưu tiên sinh.\
- \
-Chào Chu tiên sinh! Chào Chu tiên sinh!
+> — Chào Lưu tiên sinh.\
+>  \
+> — Chào Chu tiên sinh! Chào Chu tiên sinh!
 {: .notice .text-justify}
 
 Trương Học Lương ngỡ ngàng vì Chu, Lưu đã biết nhau từ lâu. Đúng vậy, nhân vật "Lưu tiên sinh" chính là Lưu Đỉnh, 33 tuổi, người Tứ Xuyên, từng làm việc dưới quyền của Chu Ân Lai. Năm 1930, sau khi du học ở Liên Xô trở về Thượng Hải, Lưu Đỉnh đã đến báo cáo Chu Ân Lai và Chu đã bố trí cả hai vợ chồng Lưu Đỉnh - Ngô Tiên Thanh cùng làm việc tại phòng đặc vụ của Trung Cộng. Lưu thông minh, tháo vát, được Chu mến phục, còn Ngô quả là một nữ tướng: năm 1933 bà làm tổ trưởng điệp viên của cục tình báo Viễn Đông Quốc tế Cộng sản. Đang là đảng viên Trung Cộng, Lưu Đỉnh bỗng nhiên trở thành thư ký của tướng quân Quốc dân đảng – chuyện thật khúc khuỷu, dài dòng, song cũng đều bắt nguồn từ một quan điểm: "không liên Cộng kháng Nhật, ấy chỉ là nói suông..." và do đó, Trương Học Lương cần có đại biểu Trung Cộng bên cạnh làm "bạn", làm "thư ký" – sứ mạng đó đặt lên vai Lưu Đỉnh. Tương tự, những Lý Khắc Nông, Cao Phúc Nguyên v.v... đều có nhiệm vụ "xe chỉ luồn kim", họ làm nên cuộc mật đàm đêm nay giữa Trương - Chu ở nhà thờ xứ thành Diên An.
@@ -130,17 +130,17 @@ Trương Học Lương ngỡ ngàng vì Chu, Lưu đã biết nhau từ lâu. Đ
 
 ## Từ "Phản Tưởng kháng Nhật" đến "Bức Tưởng kháng Nhật"
 
-> Tôi lớn lên ở Đông Bắc – Chu Ân Lai tự giới thiệu.\
-> \
-> Tôi biết, Trương Học Lương đáp lại. – Thầy Trương Bá Linh cho tôi hay điều đó.
+> — Tôi lớn lên ở Đông Bắc – Chu Ân Lai tự giới thiệu.\
+>  \
+> — Tôi biết – Trương Học Lương đáp lại – Thầy Trương Bá Linh cho tôi hay điều đó.
 {: .notice .text-justify}
 
 Trương Bá Linh, người Thiên Tân, đã có công sáng lập nên trung học Nam Khai, rồi đại học Nam Khai, và sau đó, năm 1948 đảm nhiệm chức Viện trưởng Viện khảo thí của chính phủ Quốc dân đảng. Năm 15 tuổi, Chu Ân Lai học trung cấp ở Nam Khai, và lúc ấy thầy hiệu trưởng chính là Trương Bá Linh. Chu lấy làm ngạc nhiên vì sao Học Lương cũng là học sinh của Trương Bá Linh? Đang khi phân vân như vậy thì Chu bỗng nghe Trương cười vang:
 {: .text-justify}
 
-> Trước đây tôi nghiện thuốc phiện, chích moóc-phin, nhưng nhờ Trương Bá Linh tiên sinh khuyên giải nên sau đó đã cai khử hoàn toàn, vì vậy mà tôn Người làm thầy!\
-> \
-> Thế là chúng ta cùng chung một sư tổ – Chu Ân Lai nhanh chóng ứng khẩu và kết thúc phần hàn huyên xã giao để đi vào chủ đề mật đàm.
+> — Trước đây tôi nghiện thuốc phiện, chích moóc-phin, nhưng nhờ Trương Bá Linh tiên sinh khuyên giải nên sau đó đã cai khử hoàn toàn, vì vậy mà tôn Người làm thầy!\
+>  \
+> — Thế là chúng ta cùng chung một sư tổ – Chu Ân Lai nhanh chóng ứng khẩu và kết thúc phần hàn huyên xã giao để đi vào chủ đề mật đàm.
 {: .notice .text-justify}
 
 Về kháng Nhật, hai bên không cần nhiều lời, sớm đã nhất trí: quân Nhật chiếm Đông Bắc, Trương phải bỏ bản quán tha hương, Phụng quân trên dưới một lòng kháng chiến trả thù – điều ấy không hẹn mà gặp, thật phù hợp với chủ trương của Trung Cộng. Vấn đề còn lại là Tưởng Giới Thạch.

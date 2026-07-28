@@ -1,5 +1,5 @@
 ---
-title: Kỳ 7 - Giải quyết việc trong nước
+title: "Kỳ 7: Giải quyết việc trong nước"
 permalink: /pbc-giai-quyet-viec-trong-nuoc
 layout: single
 classes: wide
@@ -8,7 +8,7 @@ parent:
   url: phan-boi-chau
 ---
 
-> **Đập đá ở Côn Lôn - Phan Châu Trinh**\
+> **Đập đá ở Côn Lôn – Phan Châu Trinh**\
 >  \
 > Làm trai đứng giữa đất Côn Lôn,\
 > Lừng lẫy làm cho lở núi non.\
@@ -19,7 +19,7 @@ parent:
 > Mưa nắng càng bền dạ sắt son.\
 > Những kẻ vá trời khi lỡ bước,\
 > Gian nan chi kể sự con con.
-{: .notice--warning}
+{: .notice--warning .text-justify}
 
 ## Đón hội chủ và gặp ông Tây Hồ Phan quân Châu Trinh
 ![alt]({{ 'assets/images/phan-chau-trinh-va-con-trai.jpg' | absolute_url }})
@@ -144,14 +144,14 @@ Lúc này cụ đang có việc ở Hà Nội, được tin tức tôi, liền l
 > 1. Xin cụ gia nhập vào Duy Tân Hội, thừa nhận Kỳ Ngoại Hầu làm Hội Chủ.
 > 2. Những người nghĩa sĩ Trung Kỳ mà bị thất cước, xin nhờ cụ dung nạp cho.
 > 3. Khi nào Trung Kỳ khởi nghĩa, xin cụ làm ứng viện.
-{: .notice .text-justify}
+{: .notice--warning .text-justify}
 
 Ba điều ấy là tôi yêu cầu với cụ, mà cụ cũng có yêu cầu với tôi:
 
 > 1. Hễ đồn Phồn Xương có việc đánh, thì Trung Kỳ phải viện trợ cho.
 > 2. Khi nào có việc đánh phát sinh, thì Duy Tân Hội phải lo gánh vác việc ngoại giao.
 > 3. Đồn Phồn Xương có khi nào cần quân nhu, thì người trong đảng phải hết sức quyên trợ cho.
-{: .notice .text-justify}
+{: .notice--warning .text-justify}
 
 Hai phương diện đều đã thương thảo xong, chúng tôi xin Hoàng tướng quân cắt đất làm đồn, tính cách thu dụng những đảng viên Nghệ Tĩnh. Cụ vui lòng ừ ngay. Liền dẫn chúng tôi đi xem khắp xa gần, để chúng tôi tùy ý lựa chọ chỗ nào cũng được.
 {: .text-justify}

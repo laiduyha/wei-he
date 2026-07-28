@@ -1,5 +1,5 @@
 ---
-title: Kỳ 12 - Tiến hành bạo động và bị bắt
+title: "Kỳ 12: Tiến hành bạo động và bị bắt"
 permalink: /pbc-tien-hanh-bao-dong
 layout: single
 classes: wide

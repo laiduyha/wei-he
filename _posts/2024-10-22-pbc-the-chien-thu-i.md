@@ -1,5 +1,5 @@
 ---
-title: Kỳ 13 - Thế chiến thứ I
+title: "Kỳ 13: Thế chiến thứ I"
 permalink: /pbc-the-chien-thu-i
 layout: single
 classes: wide
@@ -8,7 +8,7 @@ parent:
   url: phan-boi-chau
 ---
 
-> **Trong tù - Phan Bội Châu**\
+> **Trong tù – Phan Bội Châu**\
 >  \
 > Đầu hận bất tiên bằng bối đoạn,\
 > Tâm nan tịnh giữ quốc gia vong.\
@@ -21,13 +21,13 @@ parent:
 > Đầu hiềm không trước bạn bè rơi.\
 > Non sông lựa tớ nâng cơ đồ,\
 > Hồn phách theo người vượt bể khơi.
-{: .notice--warning}
+{: .notice--warning .text-justify}
 
 
 ![alt]({{ 'assets/images/the-defence-of-liege.png' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://nghiencuuquocte.org/2018/08/05/tran-danh-dau-tien-cua-the-chien-i/">
-Trận đánh đầu tiên của Thế chiến I - Trận Liege (08-1914)
+Trận đánh đầu tiên của Thế chiến I – Trận Liege (08-1914)
 </a>
 </cite>
 
@@ -117,7 +117,7 @@ Số bạc này tính ra chỉ có 8000$ mà công dụng chia ra nhiều ngả 
 Ôi thôi! Vì ý kiến mà chia ra phe phái, hỏng đi việc nước. Đây là bài học mà chúng ta phải trông theo mà làm gương vậy!
 {: .text-justify}
 
-## Thế chiến thứ I - Kết minh với người Đức
+## Thế chiến thứ I – Kết minh với người Đức
 Tháng 3, năm Đinh Tỵ (1917), Long Tế Quang thua phải bỏ Quảng Đông chạy về Quỳnh Châu. Lúc này Long mới tha tôi, cấp cho 200$. Tháng tư năm ấy, tôi quay lại nhà Chu Thị thì Chu Sư Thái nói với tôi rằng:
 {: .text-justify}
 
@@ -139,7 +139,7 @@ Không lâu sau lại tiếp được bức thư của ông Trần Hữu Công n
 > Kế hoạch của Bộ Tham Mưu Nhật Bản tuyên chiến với Đức không phải là chân tướng của nó đâu. Chẳng qua đây là cách xỏ lá của họ, chỉ là dây máu ăn phần: toan chờ lúc hai bên cùng kiệt thì Nhật nó mới ra tay đâm một lúc được hai cọp.\
 >  \
 > Hiện có được tin trọng yếu rằng Nhật-Đức có ý muốn kết điều ước đặc biệt. Nếu kế hoạch này thực hiện thì cục diện ngoại giao lại biến hóa lần nữa.
-{: .notice .text-justify}
+{: .notice--warning .text-justify}
 
 Được giấy Trần như thế, tôi lại nóng lòng qua Nhật Bản. Mặt ngoài thì hội lại với Lê Dư, mặt trong muốn gặp lại những chính khách Nhật ngày xưa như Inukai Tsuyoshi, Fukushima Yasumasa để thăm dò chân tướng mối quan hệ với Đức.
 {: .text-justify}

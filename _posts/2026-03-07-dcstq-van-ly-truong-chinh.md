@@ -31,11 +31,11 @@ Phía bên kia chiến tuyến, Mao Trạch Đông sau khi rời Quảng Châu �
 Từ năm 1930, Tưởng Giới Thạch bắt đầu lo ngại trước sự phát triển mau lẹ và mạnh mẽ của Đảng Cộng sản tại căn cứ Giang Tây, nên tập trung sức mạnh vào việc tiêu diệt. Đảng Cộng sản, đứng đầu là Mao Trạch Đông, áp dụng chiến thuật:
 {: .text-justify}
 
-> Địch tiến, ta lui.  
-> Địch dừng lại, ta quấy rối.  
-> Địch không muốn, ta tấn công.  
+> Địch tiến, ta lui.\
+> Địch dừng lại, ta quấy rối.\
+> Địch không muốn, ta tấn công.\
 > Địch rút lui, ta truy kích.
-{: .notice--info .text-justify}
+{: .notice--warning .text-justify}
 
 Nhờ chiến thuật đó, Đảng Cộng sản đánh thắng được ba đợt bao vây đầu tiên của Quốc dân đảng. Năm 1931, Tưởng tập trung một lực lượng hùng hậu trên 300 ngàn binh sĩ, với ý định tràn ngập căn cứ Xô viết Giang Tây. Đảng Cộng sản lúc này chỉ có 30 ngàn quân. Nhưng đúng lúc đó, quân Nhật tiến chiếm Mãn Châu, khiến Tưởng Giới Thạch phải tạm hoãn chiến dịch để lo đối phó với quân Nhật. Nhờ vậy, Đảng Cộng sản có đủ thời giờ dưỡng sức, đánh bại được đợt bao vây lần thứ tư của Quốc dân đảng.
 {: .text-justify}
@@ -86,7 +86,7 @@ Sau thảm kịch Tương Giang, tinh thần quân sĩ suy sụp nghiêm trọng
 > - Từ bỏ kế hoạch tiến thẳng 250 dặm về phía bắc (vượt Hồ Nam để hội quân với tướng Hạ Long); thay vào đó chuyển hướng sang căn cứ của Trương Quốc Đào tại Bắc Tứ Xuyên – một vùng đất rộng 40 ngàn km² với 3,5 triệu dân và 80 ngàn quân được huấn luyện bài bản. Tuy lộ trình xa hơn nhưng đây là con đường sống duy nhất.  
 > - Tiêu hủy toàn bộ tài liệu văn khố nặng nề, chôn giấu máy móc cồng kềnh và các loại vũ khí thặng dư.  
 > - Cải tổ lực lượng thành một đội quân cơ động, nhẹ nhàng, ưu tiên lối đánh linh hoạt và tiến quân thần tốc.
-{: .notice--info .text-justify}
+{: .notice .text-justify}
 
 Đề nghị này được chấp thuận, đánh dấu một bước ngoặt sinh tử quyết định sự thành bại của cuộc Trường chinh.
 {: .text-justify}
@@ -123,4 +123,4 @@ Chu Ân Lai sau này đã hồi tưởng về những năm tháng ấy với s�
 {: .text-justify}
 
 > Đối với chúng tôi, giờ phút đen tối nhất chính là cuộc Vạn lý Trường chinh, đặc biệt là lúc băng qua Cánh đồng cỏ hoang gần Tây Tạng. Hoàn cảnh lúc đó thật tuyệt vọng: không thức ăn, không nước uống. Vậy mà bằng một ý chí phi thường, chúng tôi vẫn thoát hiểm và giành chiến thắng.
-{: .notice--info .text-justify}
+{: .notice .text-justify}

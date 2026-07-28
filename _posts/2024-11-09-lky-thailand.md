@@ -1,5 +1,5 @@
 ---
-title: Thái Lan - Tầng lớp dưới gây khuấy động
+title: "Thái Lan: Tầng lớp dưới gây khuấy động"
 layout: single
 classes: wide
 categories:
@@ -12,7 +12,7 @@ parent:
 ![alt]({{ 'assets/images/lky-thailand.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://nghiencuuquocte.org/2014/01/14/ly-quang-dieu-ve-dna-va-vn/">
-Lee Kuan Yew (2013). “Southeast Asia”, in L.K Yew, One Man’s View of the World (Singapore: Straits Times Press), pp. 159-203.
+Lee Kuan Yew (2013). "Southeast Asia", in L.K Yew, One Man’s View of the World (Singapore: Straits Times Press), pp. 159-203.
 </a>
 
 Sự xuất hiện của Thaksin Shinawatra đã thay đổi vĩnh viễn nền chính trị Thái Lan. Trước khi ông ta nổi lên, Bangkok thống trị mọi mặt trong cạnh tranh chính trị và chủ yếu cai trị theo hướng vì quyền lợi của thủ đô của đất nước. Nếu trước đó có bất đồng nào trong giới tinh hoa Bangkok thì cũng không có điểm nào khủng khiếp như những bất đồng sắp xảy ra. Cũng không có bất hòa nào gây chia rẽ như những bất hòa nổi lên trong và sau nhiệm kỳ của Thaksin. Những gì Thaksin đã làm chính là đảo lộn tình hình nguyên trạng chính trị Thái Lan bằng cách chuyển cho các vùng nghèo hơn của đất nước những nguồn lực từng bị Bangkok và các cư dân trung, thượng lưu của nó chiếm phần lớn. Nền chính trị của Thaksin là kiểu chính trị mang tính hòa nhập hơn, cho phép nông dân từ phía bắc và đông bắc được chia sẻ tăng trưởng kinh tế của đất nước. Một hố sâu ngăn cách đã tồn tại từ trước khi ông xuất hiện trên chính trường, do các chính sách tập trung cho Bangkok của các vị tiền nhiệm gây ra. Tất cả những gì ông làm là thức tỉnh người dân về hố sâu này cùng sự bất công của nó, và đưa ra các giải pháp chính sách để vượt qua hố sâu ấy. Nếu ông không làm như vậy, tôi tin rằng ai đó khác cũng sẽ đến và làm điều tương tự.

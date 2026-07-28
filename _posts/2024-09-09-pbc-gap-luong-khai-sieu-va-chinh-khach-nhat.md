@@ -1,5 +1,5 @@
 ---
-title: Kỳ 5 - Gặp Lương Khải Siêu và các chính khách Nhật
+title: "Kỳ 5: Gặp Lương Khải Siêu và các chính khách Nhật"
 permalink: /pbc-gap-luong-khai-sieu-va-cac-chinh-khach-nhat
 layout: single
 classes: wide
@@ -38,7 +38,7 @@ Tuy là tôi với Lương công chưa hề gặp mặt quen nhau lần nào, nh
 >  \
 > *Dịch là:*\
 > Ra đời khóc một tiếng, đã là tương tri, sách vở đọc mười năm, trở nên thông gia.
-{: .notice .text-justify}
+{: .notice--warning .text-justify}
 
 Tôi lấy mấy câu đó làm gốc để cầu ra mắt Lương Khải Siêu.
 {: .text-justify}
@@ -64,13 +64,13 @@ Sau đó ông đề ra một số ý sau:
 > c. Nhờ Nhật Bản viện trợ bằng thanh thế, ngoại giao;\
 >  \
 > Nhưng nếu ở trong nước quý quốc không có thực lực thì hai điều sau đó cũng là vô dụng mà thôi.
-{: .notice .text-justify}
+{: .notice--warning .text-justify}
 
 Lương công viết tới đó lại có phụ chú rằng:
 {: .text-justify}
 
 > Thực lực của quý quốc là dân trí, dân khí và nhân tài. Lưỡng Quảng chỉ giúp cho quân hướng và khí giới; Nhật Bản chỉ giúp ở trên trường ngoại giao. Hễ khi mình có độc lập, tất phải yêu cầu liệt cường thừa nhận, mà Nhật Bản là cường quốc ở Á Châu, có thể thừa nhận được.
-{: .notice .text-justify}
+{: .notice--warning .text-justify}
 
 Lúc tôi tỏ ý đến việc cầu viện với Nhật Bản, ông nói:
 {: .text-justify}
@@ -83,7 +83,7 @@ Lúc tôi tỏ ý đến việc cầu viện với Nhật Bản, ông nói:
 Sau đó vài ngày, lại tới nhà Lương công, xin ông giới thiệu tôi đến các chính khách ở Nhật Bản, vì muốn cho đạt được mục đích cầu viện. Ông nói:
 {: .text-justify}
 
-> Trong mấy dân đảng ở nước Nhật hiện thời, chỉ có đảng Tấn bộ nhiều thế lực mà Bá Tước Okuma Shigenobu (大隈重信 - Bá tước Đại Ôi) và Inukai Tsuyoshi (犬養毅 - Khuyển Dưỡng Nghị) chính là hai người đầu đảng.\
+> Trong mấy dân đảng ở nước Nhật hiện thời, chỉ có đảng Tấn bộ nhiều thế lực mà Bá Tước Okuma Shigenobu (大隈重信 – Bá tước Đại Ôi) và Inukai Tsuyoshi (犬養毅 – Khuyển Dưỡng Nghị) chính là hai người đầu đảng.\
 >  \
 > Bá Tước Okuma Shigenobu từng hai phen làm Thủ Tướng, trước là công thần Duy Tân, mà hiện nay là đầu đảng Tấn bộ nước Nhật, rất có thế lực ở Thượng Nghị Viện. Còn Inukai Tsuyoshi trước là Văn Bộ Đại Thần, mà hiện nay làm Tổng lý cho Tấn Bộ đảng, là tướng mạnh của Bá Tước. Trong Dân đảng nước Nhật Bản, hai người này rất có thế lực.
 {: .notice .text-justify}
@@ -160,7 +160,7 @@ Tiệc hội ấy từ chính trưa đến chặp tối mới xong. Ngày ấy c
 {: .text-justify}
 
 > Nước Trung Quốc với quý quốc, cứ theo quan hệ ở trong lịch sử, hơn hai ngàn năm mật thiết có lẽ hơn anh em; anh đứng dòm em chết mà không cứu, há có lẽ đâu? Tức cho bọn đương Triều, chỉ biết ăn thịt mà thôi, tôi lấy làm đau đớn. Tôi đã trù nghĩ hiện thời chỉ có hai kế hoạch, có thể cống hiến cho ông.
-{: .notice .text-justify}
+{: .notice--warning .text-justify}
 
 > 1. Hết sức dùng văn tự đau đớn, thống thiết và hăng hái, mô tả cho hết tình trạng bệnh thống của quý quốc, với âm mưu hiểm độc diệt chủng, diệt quốc của người Pháp, tuyên bố cho thế giới biết. Họa may kêu gọi được dư luận của thế giới tác động tới kế sách ngoại giao của các ông, đó là một kế hoạch.
 > 2. Ông có thể trở về nước, hay là đưa văn thư gửi về nước. Cổ động những hạng người thanh niên xuất dương cầu học, mượn đó làm cái nền tảng chấn hưng dân khí, khai dân trí, lại là một kế hoạch.\
@@ -168,10 +168,10 @@ Tiệc hội ấy từ chính trưa đến chặp tối mới xong. Ngày ấy c
 > Trừ hai kế hoạch ấy thì chỉ nằm gai nếm mật, chứa giận chờ thời. Một mai nước tôi mạnh lên, tất phải hướng ngoại mà tuyên chiến.\
 >  \
 > Mà tiếng súng nổ lần thứ nhất, tất nhiên là đối với Pháp ở Việt Nam. Bởi vì quý quốc liền kề với đất nước tôi, mà hai ngọn đường sắt Việt Nam - Quảng Tây, Việt Nam - Vân Nam, thiệt là cái họa trong lòng bụng chúng tôi. Những hạng chí sĩ nhân dân nước tôi không phút nào quên việc ấy. Các ông hãy chờ xem sao.
-{: .notice .text-justify}
+{: .notice--warning .text-justify}
 
 Tôi nghe được bấy nhiêu lời, óc và mắt tôi bây giờ mới tỉnh táo được nhiều. Bút đàm xong tôi từ biệt về nhà trọ, rồi thao thức suy nghĩ cả đêm, không sao nhắm mắt ngủ được. Dòm quanh thế giới như rồng bay hổ thét, như điện chớp mây tuôn, nhân tài có ngàn thu muôn thuở, không có vẻ nào mà không mới lạ. Ngay đến một xó Đông Dương này, nước nhà mình so sánh đã đủ thua kém, người ta muôn phần, mình chẳng có một, còn nói Âu Mỹ làm gì?
 {: .text-justify}
 
-Sau đó tôi viết ra cuốn *"越南亡國史 - Việt Nam Vong Quốc Sử"* . Viết xong đem tới cho Lương công xem và nhờ ông xuất bản, ông đồng ý ngay. Từ ngày đầu xuất dương tới giờ, đây là cuốn sách đầu tiên tôi viết. Chỉ một tuần lễ sách in xong, tôi tới nhà Lương công xin từ biệt về nước.
+Sau đó tôi viết ra cuốn *"越南亡國史 – Việt Nam Vong Quốc Sử"* . Viết xong đem tới cho Lương công xem và nhờ ông xuất bản, ông đồng ý ngay. Từ ngày đầu xuất dương tới giờ, đây là cuốn sách đầu tiên tôi viết. Chỉ một tuần lễ sách in xong, tôi tới nhà Lương công xin từ biệt về nước.
 {: .text-justify}

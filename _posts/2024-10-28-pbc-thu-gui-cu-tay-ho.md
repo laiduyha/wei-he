@@ -1,5 +1,5 @@
 ---
-title: Ngoại truyện - Thư gửi cụ Tây Hồ
+title: "Ngoại truyện: Thư gửi cụ Tây Hồ"
 permalink: /pbc-thu-gui-cu-tay-ho
 layout: single
 classes: wide

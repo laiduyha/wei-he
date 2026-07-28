@@ -1,5 +1,5 @@
 ---
-title: Kỳ 10 - Nương náu
+title: "Kỳ 10: Nương náu"
 permalink: /pbc-nuong-nau
 layout: single
 classes: wide
@@ -15,7 +15,7 @@ chualalongkorn:
     title: "Rama V Chulalongkorn và Nga Hoàng Nicholas II"
 ---
 
-> **Giang hồ mãn địa nhất ngư ông - Phan Bội Châu**\
+> **Giang hồ mãn địa nhất ngư ông – Phan Bội Châu**\
 >  \
 > Núi đó ai đây bể đó ai?\
 > Giang hồ đầy đất một cha chài.\
@@ -26,7 +26,7 @@ chualalongkorn:
 > Trong tay chi sót ngón cò trai?\
 > Từng phen ghềnh thác, từng giông tố,\
 > Nhắm cuộc năm châu tủm tỉm cười.
-{: .notice--warning}
+{: .notice--warning .text-justify}
 
 ## Bán sách
 Từ tháng 3 năm Canh Tuất (1910) trở đi, tôi bước vào cái thời kỳ hết sức thê lương.
@@ -114,7 +114,7 @@ Than ôi! Bà chiếu cố tôi trong lúc gió bụi lênh đênh. Nuôi tôi �
 {% include gallery id="chualalongkorn" layout="half" %}
 > <cite>
 <a target="_blank" href="https://en.wikipedia.org/wiki/Thailand%E2%80%93United_Kingdom_relations">
-Vua Thái Lan Chulalongkorn - Rama V
+Vua Thái Lan Chulalongkorn – Rama V
 </a>
 </cite>
 

@@ -1,5 +1,5 @@
 ---
-title: Ngoại truyện - Phan Bội Châu và Nguyễn Ái Quốc
+title: "Ngoại truyện: Phan Bội Châu và Nguyễn Ái Quốc"
 permalink: /pbc-nguyen-ai-quoc
 layout: single
 classes: wide
@@ -40,7 +40,7 @@ Day dứt trước hiện tình của đất nước, cụ Phan cũng như nhi�
 > Lập thân hèn nhát ấy văn chương.\
 >  \
 > Ông Nguyễn Ái Quốc lúc lên 10 tuổi, nghe tôi lúc rượu say ngâm câu này, đến bây giờ ông vẫn còn thuật lại.
-{: .notice--warning .text-justify}
+{: .notice .text-justify}
 
 ## <a href="/pbc-ho-hao-sang-nhat">Thời kỳ phong trào Đông Du</a>
 Đầu năm 1905, cụ Phan xuất dương và tổ chức phong trào Đông du đưa thanh niên sang Nhật. Uy tín của Phan Bội Châu ngày càng lớn trong và ngoài nước. Cụ Phan muốn đưa Nguyễn Ái Quốc và một số thanh niên sang Nhật nhưng anh không đi.
@@ -49,7 +49,7 @@ Day dứt trước hiện tình của đất nước, cụ Phan cũng như nhi�
 Chịu ảnh hưởng của các phong trào chống Pháp, nhưng với trí thông minh bẩm sinh, Nguyễn Ái Quốc suy nghĩ về nguyên nhân thất bại của các phong trào đầu thế kỷ 20 cũng như phong trào Cần Vương trước đó, đặc biệt đối với con đường Đông Du của cụ Phan.
 {: .text-justify}
 
-Mặc dù rất khâm phục tinh thần yêu nước thiết tha của cụ Phan, Nguyễn Ái Quốc thấy rõ: Phan Bội Châu hy vọng Nhật giúp đỡ để đuổi Pháp. Điều đó rất nguy hiểm, chẳng khác gì *“đưa hổ cửa trước, rước beo cửa sau”*.
+Mặc dù rất khâm phục tinh thần yêu nước thiết tha của cụ Phan, Nguyễn Ái Quốc thấy rõ: Phan Bội Châu hy vọng Nhật giúp đỡ để đuổi Pháp. Điều đó rất nguy hiểm, chẳng khác gì *"đưa hổ cửa trước, rước beo cửa sau"*.
 {: .text-justify}
 
 ## <a href="/pbc-nhung-ngay-cuoi-o-nuoc-ngoai">Những ngày cuối trên đất Trung</a>
@@ -72,13 +72,13 @@ Về Quảng Châu, Nguyễn Ái Quốc đã trao đổi thư từ với Phan B�
 {: .notice--warning .text-justify}
 
 ## <a href="/pbc-nhung-ngay-cuoi-o-nuoc-ngoai#bị-bắt-về-nước">Sau khi bị bắt về nước</a>
-Khi Phan Bội Châu bị bắt, Nguyễn Ái Quốc đã viết bài *"Những trò lố hay là Varen và Phan Bội Châu"* đăng Báo Le Paria, số 36-37 vào tháng 10/1925. Trong bài viết, bằng *“Đôi cánh của trí tưởng tượng”*, Nguyễn Ái Quốc chỉ ra rằng:
+Khi Phan Bội Châu bị bắt, Nguyễn Ái Quốc đã viết bài *"Những trò lố hay là Varen và Phan Bội Châu"* đăng Báo Le Paria, số 36-37 vào tháng 10/1925. Trong bài viết, bằng *"Đôi cánh của trí tưởng tượng"*, Nguyễn Ái Quốc chỉ ra rằng:
 {: .text-justify}
 
 > Varen, mặt đối mặt với người kia, con người đã hy sinh cả gia đình và của cải để xa lánh khỏi thấy mặt bọn cướp nước mình, sống xa lìa quê hương, luôn luôn bị lũ này săn đuổi, bị chúng nhử vào muôn nghìn cạm bẫy, bị chúng kết án tử hình vắng mặt, và giờ đây đang bị chúng đeo gông lên vai, đày đọa trong nhà giam, ngày đêm bị bóng dáng của máy chém như một bóng ma ám kề bên cổ. Giữa kẻ phản bội nhục nhã và bậc anh hùng, vị thiên sứ, đấng xả thân vì độc lập, được 20 triệu con người trong vòng nô lệ tôn sùng...
 {: .notice--warning .text-justify}
 
-Sau khi bị bắt (18/06/1925), bị đưa về Huế giam lỏng với cuộc đời *“Ông già Bến Ngự”*, tuy rơi vào một tâm trạng cô quạnh, buồn rầu, bi quan tiêu cực của một con người đã bị thời đại vượt qua và cảm thấy mình hoàn toàn bất lực, nhưng mỗi khi nghe ai nhắc tới Nguyễn Ái Quốc thì cụ Phan lại bừng lên một niềm tin tưởng. Cuối đời, chính Phan Bội Châu đã thừa nhận: 
+Sau khi bị bắt (18/06/1925), bị đưa về Huế giam lỏng với cuộc đời *"Ông già Bến Ngự"*, tuy rơi vào một tâm trạng cô quạnh, buồn rầu, bi quan tiêu cực của một con người đã bị thời đại vượt qua và cảm thấy mình hoàn toàn bất lực, nhưng mỗi khi nghe ai nhắc tới Nguyễn Ái Quốc thì cụ Phan lại bừng lên một niềm tin tưởng. Cuối đời, chính Phan Bội Châu đã thừa nhận: 
 {: .text-justify}
 
 > Đời hoạt động cách mạng của tôi rốt cuộc là một thất bại lớn, đó là bởi tôi tuy có lòng mà thật bất tài. Nhưng dân tộc ta thế nào rồi cũng độc lập, nhất định phải thế!\
@@ -86,7 +86,7 @@ Sau khi bị bắt (18/06/1925), bị đưa về Huế giam lỏng với cuộc 
 > Hiện nay đã có người khác giỏi hơn lớp chúng tôi nhiều đứng ra đảm đương công việc để làm tròn cái việc mà lớp chúng tôi không làm xong. Đó là Nguyễn Ái Quốc.
 {: .notice .text-justify}
 
-Trong thời gian ở Huế, có người đến hỏi cụ Phan về câu *“Nam Đàn sinh Thánh”* và cho rằng có lẽ *“Thánh"* đó là chỉ cụ Phan, thì cụ Phan cương quyết khước từ và nói: 
+Trong thời gian ở Huế, có người đến hỏi cụ Phan về câu *"Nam Đàn sinh Thánh"* và cho rằng có lẽ *"Thánh"* đó là chỉ cụ Phan, thì cụ Phan cương quyết khước từ và nói: 
 {: .text-justify}
 
 > Tôi đâu có phải là Thánh. Thánh có rồi mà chưa về đó thôi.

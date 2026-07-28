@@ -1,5 +1,5 @@
 ---
-title: Kỳ 8 - Phong trào Đông Du
+title: "Kỳ 8: Phong trào Đông Du"
 permalink: /pbc-phong-trao-dong-du
 layout: single
 classes: wide
@@ -21,7 +21,7 @@ yokohama:
     title: "Bến tàu ở Yokohama" 
 ---
 
-> **Sống - Phan Bội Châu**\
+> **Sống – Phan Bội Châu**\
 >  \
 > Sống tủi làm chi đứng chật trời,\
 > Sống nhìn thế giới hổ chăng ai?\
@@ -32,7 +32,7 @@ yokohama:
 > Sống lo phú quý, chẳng lo đời\
 > Sống mà như thế đừng nên sống,\
 > Sống tủi làm chi đứng chật trời.
-{: .notice--warning}
+{: .notice--warning .text-justify}
 
 {% include gallery id="yokohama" layout="half" %}
 > <cite>
@@ -209,8 +209,8 @@ Sau ngày đó tôi đến *"Đông Á Đồng Văn Hội"* để nhờ cậy s�
 
 > Hàng thứ nhất (ngồi) từ trái qua phải: Trần Đông, Hà Đương Nghiêu, Hải Thần, Phan Bá Ngọc, Đặng Tử Mẫn.\
 >  \
-> Hàng thứ 2 (đứng) từ trái qua phải: Nguyễn Thái Bạt, Trương Hưng, Hải Thạc (tức Nguyễn Quỳnh Chi - con trai thứ hai của Tán Thuật), Hoàng Trọng Mậu, Đặng Tử Võ, Quỳnh Lâm, Trần Hữu Lực.
-{: .notice}
+> Hàng thứ 2 (đứng) từ trái qua phải: Nguyễn Thái Bạt, Trương Hưng, Hải Thạc (tức Nguyễn Quỳnh Chi – con trai thứ hai của Tán Thuật), Hoàng Trọng Mậu, Đặng Tử Võ, Quỳnh Lâm, Trần Hữu Lực.
+{: .notice--info .text-justify}
 
 > <cite>
 <a target="_blank" href="https://www.facebook.com/photo/?fbid=2155770051389737&set=pcb.2155770238056385">

@@ -1,5 +1,5 @@
 ---
-title: Kỳ 6 - Hô hào thanh niên sang Nhật
+title: "Kỳ 6: Hô hào thanh niên sang Nhật"
 permalink: /pbc-ho-hao-sang-nhat
 layout: single
 classes: wide
@@ -21,7 +21,7 @@ chan-vo-hoc-hieu:
     title: "Tưởng Giới Thạch (đứng bên trái), cựu học sinh của trường"   
 ---
 
-> **Ái quốc - Phan Bội Châu**\
+> **Ái quốc – Phan Bội Châu**\
 >  \
 > Nay ta hát một thiên ái quốc,\
 > Yêu gì hơn yêu nước nhà ta.\
@@ -53,11 +53,11 @@ chan-vo-hoc-hieu:
 >  \
 > Hồn ơi về với giang san,\
 > Muôn người muôn tiếng hát ran câu này:\
-> *“Hợp muôn sức ra tay quang phục;*\
-> *Quyết có phen rửa nhục báo thù...”*\
+> *"Hợp muôn sức ra tay quang phục;*\
+> *Quyết có phen rửa nhục báo thù..."*\
 > Mấy câu ái quốc reo hò,\
 > Chữ đồng tâm ấy phải cho một lòng.
-{: .notice--warning}
+{: .notice--warning .text-justify}
 
 ![alt]({{ 'assets/images/phan-boi-chau-va-cuong-de.jpg' | absolute_url }})
 > <cite>
@@ -94,7 +94,7 @@ Lên bến Hải Phòng rồi, tôi đáp xe lửa đi về Nghệ An. Trên xe 
 {: .text-justify}
 
 > Ông trốn đi chưa đầy tuần lễ, mật thám đã bủa khắp nơi. Vậy ông sớm liệu đào tẩu cho mau, không thì nguy đấy.
-{: .notice .text-justify}
+{: .notice--warning .text-justify}
 
 Tôi hơi lo. Nhưng cái mục đích mình trở về nước nhà chưa đạt được, thì chưa có thể nào đào tẩu, ta cứ việc ở nhà đã, ra sao thì ra. 
 {: .text-justify}
@@ -167,7 +167,7 @@ Ngày sau đảng ta khi gặp nguy khốn được đảng họ giúp cũng nhi
 {% include gallery id="chan-vo-hoc-hieu" layout="half" %}
 > <cite>
 <a target="_blank" href="https://zh.wikipedia.org/wiki/%E4%B8%9C%E4%BA%AC%E6%8C%AF%E6%AD%A6%E5%AD%A6%E6%A0%A1">
-Chấn Võ học hiệu - Tokyo Shinbu Gakkō - 東京振武学校 (1896-1914)
+Chấn Võ học hiệu – Tokyo Shinbu Gakkō – 東京振武学校 (1896-1914)
 </a>
 </cite>
 
@@ -192,7 +192,7 @@ Bài viết xong rồi, thuê in ra mấy ngàn tập, giao cho Tăng quân Bạ
 Không bao lâu, tiếng vang dội của bài văn tôi làm rung động xôn xao cả trong nước. Tháng giêng năm Bính Ngọ (1906), tôi đến nhà ông Inukai để bàn tính về việc đưa học sinh Việt Nam sang học, sắp đặt cho anh em trường học, chổ ở sẵn sàng.
 {: .text-justify}
 
-Lúc đó ông Fukushima Yasumasa (Phước Đảo) đang làm hiệu trưởng Chấn Võ học hiệu (Tokyo Shinbu Gakkō - 東京振武学校) tại Tokyo, tôi liền xin cho Trần Hữu Công (tức Nguyễn Thức Canh), Lương Lập Nham và Nguyễn Điển 3 người vô học trường ấy. Còn 1 người nữa là Lương Nghị Khanh thì vô học Đồng Văn thư viện. Nước ta 4 ngàn năm nay chưa hề có người nào du học ngoại quốc, có chăng là tự 4 người này trước hết.
+Lúc đó ông Fukushima Yasumasa (Phước Đảo) đang làm hiệu trưởng Chấn Võ học hiệu (Tokyo Shinbu Gakkō – 東京振武学校) tại Tokyo, tôi liền xin cho Trần Hữu Công (tức Nguyễn Thức Canh), Lương Lập Nham và Nguyễn Điển 3 người vô học trường ấy. Còn 1 người nữa là Lương Nghị Khanh thì vô học Đồng Văn thư viện. Nước ta 4 ngàn năm nay chưa hề có người nào du học ngoại quốc, có chăng là tự 4 người này trước hết.
 {: .text-justify}
 
 Ôi! Lịch sử quốc dân ta như thế ai bảo là thằng bé con lụ khụ trăm tuổi cũng phải.

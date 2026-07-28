@@ -1,5 +1,5 @@
 ---
-title: Kỳ 3 - Chiến tranh Nga-Nhật
+title: "Kỳ 3: Chiến tranh Nga-Nhật"
 permalink: /pbc-chien-tranh-nga-nhat
 layout: single
 classes: wide
@@ -8,7 +8,7 @@ parent:
   url: phan-boi-chau
 ---
 
-> **Đêm Dài - Trần Tế Xương**\
+> **Đêm Dài – Trần Tế Xương**\
 >  \
 > Sực tỉnh trông ra ngỡ sáng loà,\
 > Đêm sao đêm mãi thế ru mà?\
@@ -19,12 +19,12 @@ parent:
 > Bướm ong chưa thấy lượn vườn hoa.\
 > Nào ai là kẻ tìm ta đó,\
 > Đốt đuốc mà soi kẻo lẫn nhà!
-{: .notice--warning}
+{: .notice--warning .text-justify}
 
 ![alt]({{ 'assets/images/russo-japanese-war-batte-sha-river-taizi-yoshikuni.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://www.thecollector.com/russo-japanese-war-global-asian-power/">
-Yoshikuni, November 1904《In the Battle of the Sha River, a Company of Our Forces Drives a Strong Enemy Force to the Left Bank of the Taizi River”》 - Yoshikuni, Tháng 11 năm 1904《 Trong trận chiến sông Sa, một đại đội của chúng ta đã đẩy lùi lực lượng địch đến bờ trái sông Thái Tử》
+Yoshikuni, November 1904《In the Battle of the Sha River, a Company of Our Forces Drives a Strong Enemy Force to the Left Bank of the Taizi River"》 – Yoshikuni, Tháng 11 năm 1904《 Trong trận chiến sông Sa, một đại đội của chúng ta đã đẩy lùi lực lượng địch đến bờ trái sông Thái Tử》
 </a>
 </cite>
 

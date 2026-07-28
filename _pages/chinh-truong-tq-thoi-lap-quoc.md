@@ -31,19 +31,21 @@ Là một trong những cái nôi văn minh lâu đời nhất nhân loại, Tru
 ## Danh sách
 ## Phần 1: Cuộc cờ thế kỷ (Mao Trạch Đông và Tưởng Giới Thạch)
 
-### <a href="/dcstq-van-co-mao-tuong">Kỳ 1. Ván cờ Mao - Tưởng</a>
+### <a href="/dcstq-van-co-mao-tuong">Kỳ 1: Ván cờ Mao - Tưởng</a>
 
-### <a href="/dcstq-dai-hoi-lan-thu-nhat-quoc-dan-dang">Kỳ 2. Đại hội lần thứ nhất Quốc Dân Đảng</a>
+### <a href="/dcstq-dai-hoi-lan-thu-nhat-quoc-dan-dang">Kỳ 2: Đại hội lần thứ nhất Quốc Dân Đảng</a>
 
-### <a href="/dcstq-mao-tuong-guang-chau">Kỳ 3. Từ cộng tác đến đối đầu</a>
+### <a href="/dcstq-mao-tuong-guang-chau">Kỳ 3: Từ cộng tác đến đối đầu</a>
 
-### <a href="/dcstq-van-ly-truong-chinh">Kỳ 4. Vạn lý trường chinh</a>
+### <a href="/dcstq-van-ly-truong-chinh">Kỳ 4: Vạn lý Trường chinh</a>
 
-### <a href="/dcstq-nuoc-co-mat-su">Kỳ 5. Nước cờ mật sứ</a>
+### <a href="/dcstq-nuoc-co-mat-su">Kỳ 5: Nước cờ mật sứ</a>
 
-### <a href="/dcstq-dau-tri-o-tay-an">Kỳ 6. Đấu trí ở Tây An</a>
+### <a href="/dcstq-dau-tri-o-tay-an">Kỳ 6: Đấu trí ở Tây An</a>
 
-### <a href="/dcstq-hop-tac-lan-hai">Kỳ 7. Hợp tác lần hai - Tưởng Giới Thạch diễn kịch</a>
+### <a href="/dcstq-hop-tac-lan-hai">Kỳ 7: Hợp tác lần hai – Tưởng Giới Thạch diễn kịch</a>
+
+### <a href="/dcstq-may-mu-van-vu">Kỳ 8: Mây mù vần vũ</a>
 
 ## Phần 2: Đặng Tiểu Bình ba lần vào ra Trung Nam Hải
 

@@ -1,5 +1,5 @@
 ---
-title: Kỳ 2 - Buổi đầu
+title: "Kỳ 2: Buổi đầu"
 permalink: /pbc-buoi-dau
 layout: single
 classes: wide
@@ -20,7 +20,7 @@ parent:
 > Lập thân hèn nhát ấy văn chương.\
 >  \
 > *Ông Nguyễn Ái Quốc lúc lên 10 tuổi, nghe tôi lúc rượu say ngâm câu này, đến bây giờ ông vẫn còn thuật lại.*
-{: .notice--warning .text-justify}
+{: .notice--info .text-justify}
 
 ![alt]({{ 'assets/images/fh-schneider-quan-lai-o-bac-ky.jpg' | absolute_url }})
 > <cite>
@@ -122,5 +122,5 @@ Lanh quanh hết mấy tháng trường như thế, rồi sau tôi biết rõ b�
 Tôi luống thẹn mình kém thần trí sáng, chẳng có tài làm cho tượng đá biết gật đầu, rồi càng nghĩ càng ăn năn trước kia mình tơ tưởng lợi dụng quan trường thật là bá láp. Nhưng việc này chẳng phải là không có kết quả gì.
 {: .text-justify}
 
-Sau khi *"Lưu Cầu Huyết Lệ Tân Thư"* ra đời rồi, các chí sĩ lẩn quất trong kinh đô, đều rõ biết ruột gan tôi ra thế nào. Ví dụ như ông Phan Châu Trinh và ông Trần Quý Cáp - về sau vì tội ái quốc mà bị tù, chết chém - lúc này làm quen thân mật với tôi, ấy chính là nhờ cuốn *"Lưu Cầu Huyết Lệ Tân Thư"* giới thiệu vậy.
+Sau khi *"Lưu Cầu Huyết Lệ Tân Thư"* ra đời rồi, các chí sĩ lẩn quất trong kinh đô, đều rõ biết ruột gan tôi ra thế nào. Ví dụ như ông Phan Châu Trinh và ông Trần Quý Cáp – về sau vì tội ái quốc mà bị tù, chết chém – lúc này làm quen thân mật với tôi, ấy chính là nhờ cuốn *"Lưu Cầu Huyết Lệ Tân Thư"* giới thiệu vậy.
 {: .text-justify}

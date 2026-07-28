@@ -11,16 +11,16 @@ parent:
 
 > Cách mạng Tân Hợi (1911) khép lại chế độ phong kiến kéo dài hàng nghìn năm ở Trung Quốc, mở ra một nền cộng hòa.\
 >  \
-> Tôn Trung Sơn - người khởi xướng chủ nghĩa Tam dân (Dân tộc độc lập, Dân quyền tự do, Dân sinh hạnh phúc) sớm qua đời, để lại lời nhắn: "Cách mạng chưa thành công, đồng chí vẫn phải nỗ lực".\
+> Tôn Trung Sơn – người khởi xướng chủ nghĩa Tam dân (Dân tộc độc lập, Dân quyền tự do, Dân sinh hạnh phúc) sớm qua đời, để lại lời nhắn: "Cách mạng chưa thành công, đồng chí vẫn phải nỗ lực".\
 >  \
-> Đảng Cộng sản với Mao Trạch Đông và Đảng Quốc dân với Tưởng Giới Thạch mỗi bên đi theo một hướng riêng. Có lúc cùng hợp tác - cùng tiến hành Bắc phạt, kề vai trong kháng Nhật - nhưng toàn cục vẫn là đấu tranh và nội chiến. Một bên là tư tưởng Mao Trạch Đông, một bên là chủ nghĩa Tưởng Giới Thạch; chính trường Trung Quốc hiếm khi yên ả.\
+> Đảng Cộng sản với Mao Trạch Đông và Đảng Quốc dân với Tưởng Giới Thạch mỗi bên đi theo một hướng riêng. Có lúc cùng hợp tác – cùng tiến hành Bắc phạt, kề vai trong kháng Nhật – nhưng toàn cục vẫn là đấu tranh và nội chiến. Một bên là tư tưởng Mao Trạch Đông, một bên là chủ nghĩa Tưởng Giới Thạch; chính trường Trung Quốc hiếm khi yên ả.\
 >  \
 > Năm 1949, lịch sử ngả về Đảng Cộng sản và Mao Trạch Đông. Nước Cộng hòa Nhân dân Trung Hoa ra đời, còn Quốc Dân Đảng Tưởng Giới Thạch rút ra Đài Loan và tiếp tục giữ tên Trung Hoa Dân Quốc.\
 >  \
-> Ở ngoài kia, Tưởng thúc đẩy kinh tế, biến Đài Loan thành "con rồng nhỏ". Ở trong này, Mao cải tạo với ba ngọn cờ hồng - Đường lối chung, Công xã nhân dân, Đại nhảy vọt - rồi đến Cách mạng văn hóa kéo dài hơn một thập kỷ.\
+> Ở ngoài kia, Tưởng thúc đẩy kinh tế, biến Đài Loan thành "con rồng nhỏ". Ở trong này, Mao cải tạo với ba ngọn cờ hồng – Đường lối chung, Công xã nhân dân, Đại nhảy vọt – rồi đến Cách mạng văn hóa kéo dài hơn một thập kỷ.\
 >  \
 > Về sau, Đặng Tiểu Bình đề xướng cải cách, mở cửa, mở ra một giai đoạn mới: thực hiện Bốn hiện đại, xây dựng chủ nghĩa xã hội mang màu sắc Trung Quốc và quyết tâm thống nhất đất nước, kể cả theo mô hình "nhất quốc lưỡng chế".
-{: .notice--warning .text-justify}
+{: .notice--info .text-justify}
 
 ![alt]({{ 'assets/images/chiang-kai-shek-and-mao-ze-dong.jpg' | absolute_url }})
 > <cite>
@@ -36,14 +36,14 @@ Trung Hoa thế kỷ XX hiện ra như một ván cờ lớn, nơi từng nướ
 Người cầm quân xanh xuất hiện với vẻ nghiêm cẩn: đầu trọc, khoác trường bào, phong thái của một nho sĩ cổ điển, kỹ tính. Ông nói Quan thoại đậm giọng Triết Giang, nhấn nhá từng câu, giữ lời trong khuôn phép. Nhưng sau vẻ đạo mạo ấy là một cá tính nóng nảy; lúc vội hay giận, ông thường buột miệng mắng: "娘希匹 (Niáng xī pǐ)!" (Mẹ kiếp!).
 {: .text-justify}
 
-Vị thống soái ấy chính là Tưởng Trung Chính. Cuộc đời ông gắn với nhiều tên gọi, phản ánh những ước vọng lớn: từ tên phổ Chu Thái, học danh Chí Thanh, đến tự Giới Thạch. Chữ "Giới" nghĩa là lớn, "Giới Thạch" gợi hình ảnh tảng đá vững chãi (Cự thạch) - một cách diễn giải rút ra từ chữ "Thái" trong tên thuở nhỏ.
+Vị thống soái ấy chính là Tưởng Trung Chính. Cuộc đời ông gắn với nhiều tên gọi, phản ánh những ước vọng lớn: từ tên phổ Chu Thái, học danh Chí Thanh, đến tự Giới Thạch. Chữ "Giới" nghĩa là lớn, "Giới Thạch" gợi hình ảnh tảng đá vững chãi (Cự thạch) – một cách diễn giải rút ra từ chữ "Thái" trong tên thuở nhỏ.
 {: .text-justify}
 
 ### Người chèo lái quân đỏ: Mao Trạch Đông
 Đối trọng trên bàn cờ là người cầm quân đỏ với phong thái khác hẳn. Tóc dài chải ngược, bộ đồ Trung Sơn giản dị, ông dẫn dắt bằng giọng Hồ Nam trầm bổng, điềm đạm. Ông hóm hỉnh, hay nói hay cười, nhưng khi nổi giận cũng không ngại văng lời tục: "放屁 (Fàng pì)!" (Nói láo/Đánh rắm!).
 {: .text-justify}
 
-Đó là Mao Trạch Đông, từng dùng bút danh ẩn ý "Nhị Thập Bát Hoa Sinh" - một lối chơi chữ dựa trên 28 nét phồn thể của ba chữ Mao - Trạch - Đông. Chữ "Trạch" thuộc thứ tự tộc danh Tổ - Ân - Di - Trạch - Viễn, còn chữ "Đông" hướng về phía mặt trời mọc. Kính trọng <a href="/pbc-gap-luong-khai-sieu-va-cac-chinh-khach-nhat" target="_blank">Lương Khải Siêu (biệt hiệu Tử Nhậm)</a>, ông chọn tên chữ là Nhuận Chi. "Trạch" và "Nhuận" cùng gốc nghĩa, gợi hình ảnh "vũ lộ tư nhuận" - mưa móc tưới khắp thế gian, hàm chứa khát vọng đổi thay một thời đại.
+Đó là Mao Trạch Đông, từng dùng bút danh ẩn ý "Nhị Thập Bát Hoa Sinh" – một lối chơi chữ dựa trên 28 nét phồn thể của ba chữ Mao - Trạch - Đông. Chữ "Trạch" thuộc thứ tự tộc danh Tổ - Ân - Di - Trạch - Viễn, còn chữ "Đông" hướng về phía mặt trời mọc. Kính trọng <a href="/pbc-gap-luong-khai-sieu-va-cac-chinh-khach-nhat" target="_blank">Lương Khải Siêu (biệt hiệu Tử Nhậm)</a>, ông chọn tên chữ là Nhuận Chi. "Trạch" và "Nhuận" cùng gốc nghĩa, gợi hình ảnh "vũ lộ tư nhuận" – mưa móc tưới khắp thế gian, hàm chứa khát vọng đổi thay một thời đại.
 {: .text-justify}
 
 Hai người sinh cùng thời, Tưởng Giới Thạch hơn Mao Trạch Đông 5 tuổi và mất trước 1 năm. Tưởng thọ 88 tuổi, Mao thọ 84; như vậy họ có tới 83 năm cùng sống trên thế gian này.
@@ -85,7 +85,7 @@ Mao Trạch Đông và Tưởng Giới Thạch đều là bạn của Nixon (T�
 > Sự khác nhau giữa họ có điểm nhìn thấy ngay, có điểm sâu kín. Mao nói cười tự tại, trào lộng, châm biếm; Tưởng ít khi hàm tiếu và kín đáo hơn. Chữ viết của Mao như rồng bay phượng múa, không phân rõ hàng lối; còn Tưởng viết rất đoan chính, vuông vức, cách ô cách hàng cẩn thận.\
 >  \
 > Cả hai đều xem Trung Quốc là thiêng liêng, nhưng thể hiện khác nhau: Mao muốn quét sạch quá khứ, Tưởng chủ trương xây dựng từ nền cũ. Sau khi thắng lợi, Mao giản hoá chữ Hán để người dân dễ học (và theo tôi, điều này đã xoá bớt những lớp nghĩa lịch sử trong phồn thể). Tưởng thua trận, khi rút ra Đài Loan chỉ kịp mang theo 400.000 văn vật đồ cổ, để lại gần như toàn bộ trợ thủ, thuộc hạ từng trung thành ở lại Hoa Lục.
-{: .notice .text-justify}
+{: .notice--info .text-justify}
 
 Tưởng Giới Thạch ưa sạch sẽ, ngăn nắp; văn phòng và doanh trại của ông luôn chỉnh tề, bóng loáng. Có lần lưu trú tại chiêu đãi sở Phúc Đại - Đài Loan, khi tản bộ ông thấy bãi phân chó bên vệ cỏ. Ông nổi giận, mắng viên chủ quản, khiến người này uất ức rồi chết. Mao Trạch Đông cũng sạch sẽ: trong cuộc Vạn lí trường chinh từ Hoa Nam lên Diên An, ông chưa từng ngủ trên giường của ai, mà qua đêm bằng các tấm ván cửa. Ông ưa sạch nhưng không ngăn nắp; văn phòng, thư phòng và giường ngủ đều bề bộn những chồng sách đọc dở. Mao thích đọc nhiều sách nội dung khác nhau, còn Tưởng đọc xong cuốn này mới chuyển sang cuốn khác.
 {: .text-justify}
@@ -107,7 +107,7 @@ Về hôn nhân, hai người có những điểm khá tương đồng.
 Năm 14 tuổi, do thân mẫu Vương Thái Ngọc chủ hôn, Tưởng Giới Thạch lấy Mao Phức Mai lớn hơn mình 5 tuổi làm vợ (về sau do chữ "Phức" khó nhận, nên sau đổi lại là Mao Phúc Mai). Khi lên Thượng Hải, ông chung sống với Diêu Di Thành người huyện Ngô, tỉnh Giang Tô, sau đó là Trần Khiết Như người Tô Châu; cuối cùng, với Tống Mỹ Linh kết thành vợ chồng chính trị. Người đời thường ghép chữ "Trung" trong Tưởng Trung Chính và chữ "Mỹ" trong Tống Mỹ Linh để gọi đó là cuộc hôn nhân "Trung Mỹ".
 {: .text-justify}
 
-Mao Trạch Đông cũng có bốn lần hôn thú. Năm 14 tuổi, ông vâng lời cha mẹ lấy con gái họ La hơn mình 4 tuổi, nhưng hai người chưa từng ăn ở với nhau. Sau đó, ở Trường Sa, Mao yêu Dương Khai Tuệ và kết hôn. Khi lên Tỉnh Cương Sơn, ông chung sống với Hạ Tử Trân, người Vĩnh Tân - Giang Tây. Thời kỳ ở Diên An, Giang Thanh - nữ diễn viên điện ảnh Thượng Hải (nghệ danh Lam Bình, tên thật Lý Vân Hạc) xuất hiện, và cuối cùng Mao chọn người này.
+Mao Trạch Đông cũng có bốn lần hôn thú. Năm 14 tuổi, ông vâng lời cha mẹ lấy con gái họ La hơn mình 4 tuổi, nhưng hai người chưa từng ăn ở với nhau. Sau đó, ở Trường Sa, Mao yêu Dương Khai Tuệ và kết hôn. Khi lên Tỉnh Cương Sơn, ông chung sống với Hạ Tử Trân, người Vĩnh Tân - Giang Tây. Thời kỳ ở Diên An, Giang Thanh – nữ diễn viên điện ảnh Thượng Hải (nghệ danh Lam Bình, tên thật Lý Vân Hạc) xuất hiện, và cuối cùng Mao chọn người này.
 {: .text-justify}
 
 ## Ván cờ Mao Trạch
@@ -142,17 +142,18 @@ Có lúc hai vị chủ soái lại tay bắt mặt mừng, cụng ly, xưng hô
 Còn Mao vốn dí dỏm, khi trả lời phỏng vấn báo chí Quốc dân đảng:
 {: .text-justify}
 
-> - Ngài có ấn tượng gì về Tưởng tiên sinh?
-> - Chữ Tưởng là chữ Tướng dưới bộ Thảo, nên có thể gọi Thảo đầu tướng quân!" (ông tướng có cỏ trên đầu).
+> — Ngài có ấn tượng gì về Tưởng tiên sinh?\
+>  \
+> — Chữ Tưởng là chữ Tướng dưới bộ Thảo, nên có thể gọi Thảo đầu tướng quân! (ông tướng có cỏ trên đầu)
 {: .notice .text-justify}
 
-Một năm sau đàm phán ở Trùng Khánh - 1946, nữ ký giả người Mỹ hỏi Mao về ấn tượng đối với Tưởng Giới Thạch. Ông chỉ trả lời gọn: "con hổ giấy!"
+Một năm sau đàm phán ở Trùng Khánh – 1946, nữ ký giả người Mỹ hỏi Mao về ấn tượng đối với Tưởng Giới Thạch. Ông chỉ trả lời gọn: "con hổ giấy!"
 {: .text-justify}
 
 Quả nhiên, ba năm sau, Mao Trạch Đông chiếm trọn lục địa và chiến thắng Tưởng Giới Thạch!
 {: .text-justify}
 
-Hôm nay, khói súng đã tan, trọng pháo thôi gầm; hai kỳ thủ, người trước người sau, đều đã rời nhân thế. Nghiên cứu hai kỳ thủ - cũng là hai người cầm cờ của hai đảng - và các thế cờ của cuộc cờ thế kỷ, ta thấy ảnh hưởng của họ lên vận mệnh Trung Quốc là điều đáng suy ngẫm.
+Hôm nay, khói súng đã tan, trọng pháo thôi gầm; hai kỳ thủ, người trước người sau, đều đã rời nhân thế. Nghiên cứu hai kỳ thủ – cũng là hai người cầm cờ của hai đảng – và các thế cờ của cuộc cờ thế kỷ, ta thấy ảnh hưởng của họ lên vận mệnh Trung Quốc là điều đáng suy ngẫm.
 {: .text-justify}
 
 Kỳ ngạn có câu "quân cờ làm bằng gỗ, nếu thua chơi lại!" (Kỳ tử mộc đầu tác, thâu liễu trùng lai quá), nhưng những ván cờ lịch sử thì không có cách chơi lại. Dẫu vậy, quay về quá khứ để suy tư và gợi mở, cũng không hề thừa.

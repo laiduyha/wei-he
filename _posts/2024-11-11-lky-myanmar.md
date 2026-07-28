@@ -1,5 +1,5 @@
 ---
-title: Myanmar - Các vị tướng thay đổi phương hướng
+title: "Myanmar: Các vị tướng thay đổi phương hướng"
 layout: single
 classes: wide
 categories:
@@ -12,7 +12,7 @@ parent:
 ![alt]({{ 'assets/images/lky-myanmar.jpg' | absolute_url }})
 > <cite>
 <a target="_blank" href="https://nghiencuuquocte.org/2014/01/14/ly-quang-dieu-ve-dna-va-vn/">
-Lee Kuan Yew (2013). “Southeast Asia”, in L.K Yew, One Man’s View of the World (Singapore: Straits Times Press), pp. 159-203.
+Lee Kuan Yew (2013). "Southeast Asia", in L.K Yew, One Man’s View of the World (Singapore: Straits Times Press), pp. 159-203.
 </a>
 
 Khi chúng ta mắc kẹt trong ngõ cụt, chỉ còn một phương hướng hành động lý trí duy nhất. Quay đầu lại và bước ra khỏi đó. Trên nhiều phương diện, đây là cách nói so sánh hữu ích nhằm hiểu được thay đổi sâu sắc về định hướng dẫn dắt đất nước của chính phủ quân sự Myanmar bắt đầu từ năm 2011. Nhưng đây không phải là sự quay đầu xuất phát từ quá trình tìm kiếm linh hồn bên trong hay sự giác ngộ thực thụ. Nó cũng không phải là hành động tuyệt vọng nhằm tự bảo toàn của một chế độ độc đoán tin rằng mình đang trên bờ vực sụp đổ. Ta có một cách giải thích đơn giản hơn nhiều. Các vị tướng đã thấy rằng đất nước này đang không còn lối thoát. Chẳng còn lựa nào nào khác.
