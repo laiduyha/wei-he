@@ -6,6 +6,8 @@ categories: nguyen-du
 parent:
   label: Nguyễn Du
   url: nguyen-du
+tags:
+  - tho-van
 ---
 
 ![alt]({{ 'assets/images/yang-shu-tao-gong-bi-shi-nu-hua.jpg' | absolute_url }})

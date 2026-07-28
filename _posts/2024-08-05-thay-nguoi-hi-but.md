@@ -6,6 +6,8 @@ categories: nguyen-du
 parent:
   label: Nguyễn Du
   url: nguyen-du
+tags:
+  - tho-van
 ---
 
 ![alt]({{ 'assets/images/qian-jian-chun-yang-shuo-shi-qiao-shuang-yue.jpeg' | absolute_url }})

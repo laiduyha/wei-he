@@ -6,6 +6,8 @@ categories: duong-cua-dao
 parent:
   label: Đường của đạo
   url: duong-cua-dao
+tags:
+  - tho-van
 ---
 
 ![alt]({{ 'assets/images/wu-xian-gang-shan-shui-zhong-chuan.jpeg' | absolute_url }})

@@ -4,6 +4,9 @@ layout: single
 classes: wide
 categories:
   - tho
+tags:
+  - tho-van
+excerpt: "Nghĩ thương lời chị dặn dò"
 ---
 
 {% include video id="nLv74c-0mFI" provider="youtube" danmaku=video.danmaku %}

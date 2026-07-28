@@ -6,6 +6,8 @@ categories: ho-chi-minh
 parent:
   label: Hồ Chí Minh
   url: ho-chi-minh
+tags:
+  - tho-van
 ---
 
 ![alt]({{ 'assets/images/fan-kuan-xi-shan-xing-lu.jpg' | absolute_url }})

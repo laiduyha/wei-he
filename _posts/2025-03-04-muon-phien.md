@@ -1,6 +1,8 @@
 ---
 title: Muộn Phiền
 classes: wide
+tags:
+  - tho-van
 ---
 
 ![alt]({{ 'assets/images/yu-men.jpg' | absolute_url}})

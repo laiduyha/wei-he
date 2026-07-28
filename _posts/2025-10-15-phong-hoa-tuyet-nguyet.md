@@ -1,6 +1,8 @@
 ---
 title: Phong Hoa Tuyết Nguyệt
 classes: wide
+tags:
+  - tho-van
 ---
 
 ![alt]({{ 'assets/images/yue-ye-han-jiang.jpeg' | absolute_url}})

@@ -4,6 +4,8 @@ layout: single
 classes: wide
 categories:
   - tho
+tags:
+  - tho-van
 ---
 
 > Đường đi khó, không khó vì ngăn sông cách núi mà khó vì lòng người ngại núi e sông.
