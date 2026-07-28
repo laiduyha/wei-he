@@ -3,3 +3,19 @@
 
 @import "minimal-mistakes/skins/sunrise"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Masthead: mục nav của trang đang mở — chỉ gạch chân */
+.greedy-nav {
+  .visible-links a.active:before {
+    -webkit-transform: scaleX(1);
+    -ms-transform: scaleX(1);
+    transform: scaleX(1);
+  }
+
+  // menu thu gọn không có gạch chân sẵn như .visible-links nên vẽ bằng border,
+  // bớt padding dưới đúng 4px để không đổi chiều cao mục
+  .hidden-links a.active {
+    border-block-end: 4px solid $primary-color;
+    padding-block-end: 6px;
+  }
+}

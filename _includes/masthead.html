@@ -1,0 +1,78 @@
+{% capture logo_path %}{{ site.logo }}{% endcapture %}
+
+{%- comment -%}
+  Xác định mục nav ứng với trang đang mở, theo thứ tự ưu tiên:
+    1. đoạn đầu của page.url — với post là category (/hoc-hanh/ten-bai/)
+    2. page.parent.url — trang cha khai trong frontmatter
+    3. parent của trang cha (vd: bài thơ -> Nguyễn Du -> Chuyện người xưa)
+    4. tags — trang "Thơ văn" gom bài theo tag tho-van
+  Ứng viên đầu tiên khớp một mục trong _data/navigation.yml sẽ được highlight.
+{%- endcomment -%}
+{%- capture nav_keys -%}
+|{% for link in site.data.navigation.main %}{{ link.url | remove_first: '/' | split: '/' | first }}|{% endfor %}
+{%- endcapture -%}
+{%- capture nav_candidates -%}
+{{ page.url | remove_first: '/' | split: '/' | first }}
+{%- if page.parent.url -%}
+  {%- assign nav_parent = page.parent.url | remove_first: '/' | split: '/' | first -%}
+  ,{{ nav_parent }}
+  {%- assign nav_parent_path = nav_parent | prepend: '/' -%}
+  {%- assign nav_parent_page = site.pages | where_exp: "item", "item.url == nav_parent_path" | first -%}
+  {%- if nav_parent_page.parent.url -%}
+    ,{{ nav_parent_page.parent.url | remove_first: '/' | split: '/' | first }}
+  {%- endif -%}
+{%- endif -%}
+{%- for tag in page.tags -%}
+  ,{{ tag }}
+{%- endfor -%}
+{%- endcapture -%}
+{%- assign nav_active = '' -%}
+{%- assign nav_candidate_list = nav_candidates | split: ',' -%}
+{%- for candidate in nav_candidate_list -%}
+  {%- if nav_active == '' and candidate != '' -%}
+    {%- assign candidate_key = candidate | prepend: '|' | append: '|' -%}
+    {%- if nav_keys contains candidate_key -%}
+      {%- assign nav_active = candidate -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        {% unless logo_path == empty %}
+          <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
+        {% endunless %}
+        <a class="site-title" href="{{ '/' | relative_url }}">
+          {{ site.masthead_title | default: site.title | escape_once | strip }}
+          {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle | escape_once | strip }}</span>{% endif %}
+        </a>
+        <ul class="visible-links">
+          {%- for link in site.data.navigation.main -%}
+            {%- assign link_key = link.url | remove_first: '/' | split: '/' | first -%}
+            <li class="masthead__menu-item">
+              <a
+                href="{{ link.url | relative_url }}"
+                {% if nav_active != '' and link_key == nav_active %} class="active" aria-current="page"{% endif %}
+                {% if link.description %} title="{{ link.description }}"{% endif %}
+                {% if link.target %} target="{{ link.target }}"{% endif %}
+              >{{ link.title }}</a>
+            </li>
+          {%- endfor -%}
+        </ul>
+        {% if site.search == true %}
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
+          <i class="fas fa-search"></i>
+        </button>
+        {% endif %}
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
