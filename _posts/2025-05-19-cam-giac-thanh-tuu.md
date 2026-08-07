@@ -26,39 +26,44 @@ parent:
 Lý Gia Thành: Lý thuyết quả trứng 
 </a></cite>
 
-Trong hành trình học tập và phát triển bản thân, ai cũng khao khát đạt được những điều có ý nghĩa. Cảm giác thành tựu — ngọn lửa thôi thúc cậu vượt qua thử thách và chinh phục mục tiêu — đóng vai trò then chốt trên hành trình đó.
+Quả trứng vỡ từ bên ngoài thì thành thức ăn; vỡ từ bên trong thì thành sinh mệnh. Việc học cũng theo đúng lẽ ấy: sức ép từ ngoài chỉ làm người ta mệt, còn cái lực đẩy từ bên trong mới làm người ta lớn. Cái lực bên trong ấy có một cái tên: **cảm giác thành tựu**.
 {: .text-justify}
 
-## Tầm quan trọng của cảm giác thành tựu
-Cảm giác thành tựu không chỉ là niềm vui thoáng qua. Mỗi thành công nhỏ sẽ củng cố niềm tin vào khả năng bản thân — khi cậu giải được một bài toán khó, cậu tự tin rằng mình có thể giải được những bài cùng dạng. Cảm giác hoàn thành đó tạo động lực để tiếp tục chinh phục những đỉnh cao mới, thúc đẩy cậu sống có mục đích và ý nghĩa hơn.
+## Vì sao nó quan trọng
+
+Cảm giác thành tựu không phải là niềm vui thoáng qua. Nó cộng dồn. Giải được một bài toán khó, người ta tin rằng mình giải được những bài cùng dạng; niềm tin ấy lại đủ sức đưa mình tới bài khó hơn. Mỗi thành công nhỏ là một viên gạch, và cái được xây lên không chỉ là kiến thức, mà là niềm tin vào khả năng của chính mình.
 {: .text-justify}
 
-Hơn thế, nó còn giúp giảm căng thẳng, lo âu, và mang lại sự hài lòng với chính bản thân. Khi đạt được một mục tiêu quan trọng, cậu sẽ cảm thấy hạnh phúc và thỏa mãn — đó là phần thưởng xứng đáng cho những gì đã bỏ ra.
+Kẻ có được cảm giác ấy thì bớt căng thẳng, bớt lo âu, và hài lòng với chính mình. Đạt được một mục tiêu quan trọng, cái nhận về không chỉ là kết quả, mà là phần thưởng xứng đáng cho toàn bộ những gì đã bỏ ra – và chính phần thưởng ấy thôi thúc người ta sống có mục đích hơn.
 {: .text-justify}
 
-## Vì sao vượt khổ dễ hơn vượt sướng
-Nhiều người thấy rằng vượt qua nghịch cảnh mang lại cảm giác thành tựu lớn hơn so với việc tận hưởng những điều dễ dàng. Đó là bởi nỗ lực vượt qua khó khăn làm tăng giá trị và cảm giác thỏa mãn khi đạt tới thành công — khi cậu phải nỗ lực để đạt được điều gì đó, cậu sẽ trân trọng nó hơn.
+## Vượt khổ và vượt sướng
+
+Người ta hay nghĩ đường dễ là đường nên chọn. Thực ra ngược lại. Cái gì phải đổ sức mới có thì mới quý; thành công đến sau nghịch cảnh vì thế nặng hơn thành công được trao sẵn.
 {: .text-justify}
 
-Vượt khổ giúp khám phá và khẳng định khả năng tiềm ẩn của bản thân. Khi đối mặt với thử thách lớn, cậu có thể ngạc nhiên về sức mạnh và khả năng phục hồi của mình. Thành công vì thế mang lại cảm giác thỏa mãn lớn hơn.
+Vượt khổ còn là cách duy nhất để biết mình chứa được bao nhiêu. Đối mặt với thử thách lớn, người ta thường ngạc nhiên về sức chịu đựng và khả năng phục hồi của chính mình – những thứ ngày thường không có dịp lộ ra. Nghịch cảnh lại hay dẫn tới bước ngoặt: một thất bại lớn buộc mình đổi hướng, và hướng mới đôi khi dẫn tới thành công lớn hơn hướng cũ.
 {: .text-justify}
 
-Nghịch cảnh thường dẫn đến những thay đổi mang tính bước ngoặt. Một thất bại lớn có thể buộc cậu phải thay đổi hướng đi, và cuối cùng dẫn đến một thành công lớn hơn. Trong khi đó, *"vượt sướng"* dễ dẫn đến nhàm chán và thiếu động lực.
+Còn *"vượt sướng"* thì không cho gì cả. Không sức ép, không thử thách, chỉ có nhàm chán và một ý chí mòn dần. Quả trứng nằm yên trong ổ ấm không nở ra thứ gì.
 {: .text-justify}
 
-## Chiến lược để cảm nhận thành tựu trong suốt quá trình
-Để cả quá trình nỗ lực luôn cảm nhận được thành tựu, cậu nên xác định mục tiêu rõ ràng và kiên trì theo đuổi. Mục tiêu cần đủ thách thức nhưng không quá sức.
+## Nuôi cảm giác thành tựu
+
+Muốn cả quá trình đều có thành tựu để cảm nhận, chứ không phải đợi tới đích, thì có ba việc:
 {: .text-justify}
 
-Sau đó, tập trung vào quá trình học tập và rèn luyện, không chỉ chú trọng vào kết quả cuối cùng. Tìm tòi những phương pháp học tập hiệu quả, không ngừng rèn luyện kỹ năng cần thiết.
+- Đặt mục tiêu rõ ràng rồi kiên trì theo đuổi. Mục tiêu phải đủ thách thức nhưng không quá sức: dễ quá thì thắng không thấy vui, khó quá thì chưa kịp vui đã bỏ.
+- Chú tâm vào quá trình, không chỉ vào kết quả cuối cùng. Tìm cho ra phương pháp học hiệu quả, mài kỹ năng mỗi ngày.
+- Chủ động tìm thử thách. Khó khăn là cơ hội để học và để lớn, còn vùng an toàn là chỗ nên rời đi khi có thể.
 {: .text-justify}
 
-Chủ động tìm kiếm thử thách và cơ hội để phát triển. Đừng ngại đối mặt với khó khăn — hãy xem đó là cơ hội để học hỏi và trưởng thành. Hãy nhảy khỏi vùng an toàn khi có thể.
+## Kết
+
+Đường dài cần kiên trì, mà kiên trì thì không sống bằng ý chí suông. Nó sống bằng những thành tựu nhỏ gom nhặt dọc đường.
 {: .text-justify}
 
----
-
-Để đạt được thành công, cậu cần sự kiên trì theo đuổi mục tiêu. Và cảm giác thành tựu chính là nguồn động lực nuôi dưỡng sự kiên trì đó.
+Còn quả trứng thì vẫn là quả trứng thôi. Không tự vỡ từ bên trong thì sớm muộn cũng bị đập vỡ từ bên ngoài.
 {: .text-justify}
 
 > <cite>

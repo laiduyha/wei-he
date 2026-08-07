@@ -24,47 +24,57 @@ Elon Musk on How To Build Knowledge
 </cite>
 
 ## Tính chất
-Kiến thức càng đi sâu xuống dưới càng chi tiết cụ thể; ngược lại, càng đi lên cao càng trở nên trừu tượng và tổng quát. Các nhánh con chia sẻ những điểm chung và dần được tổng quát hóa khi đi về phía nhánh cha.
+
+Kiến thức tự xếp mình theo hình một cái cây. Càng đi xuống, về phía lá, mọi thứ càng cụ thể, chi tiết; càng đi lên, về phía thân và gốc, mọi thứ càng trừu tượng, tổng quát. Các nhánh con chia sẻ những điểm chung, và chính những điểm chung ấy dồn lại mà thành nhánh cha.
 {: .text-justify}
 
-Mối quan hệ cha - con chỉ mang tính tương đối, và không chỉ tồn tại một cây kiến thức duy nhất. Một nhánh con bất kỳ có thể chia sẻ đặc điểm chung với một nhánh thuộc cây kiến thức hoàn toàn khác.
+Nhưng quan hệ cha - con ấy chỉ là tương đối, và không tồn tại một cây kiến thức duy nhất. Một nhánh con bất kỳ có thể chung đặc điểm với một nhánh thuộc một cây hoàn toàn khác. Rừng chứ không phải cây.
 {: .text-justify}
 
-Dưới đây là một số phương pháp có thể giúp cậu bao phủ và từng bước khám phá cây kiến thức của mình.
+Muốn bao phủ và từng bước khám phá cái cây của mình, tựu trung có ba đường đi.
 {: .text-justify}
 
 ## Tổng quát hóa (Bottom up)
-Đây là phương pháp thường được áp dụng trong những năm đầu học tập, khi chưa có kiến thức nền tảng. Mọi thông tin đều mới mẻ, và quá trình này quen thuộc với hầu hết mọi người vì nó chính là cách học phổ biến ở trường.
+
+**Bottom up** là đường của những năm đầu đi học, khi trong tay chưa có kiến thức nền tảng nào và mọi thông tin đều mới. Nó quen thuộc với hầu hết mọi người, vì đó chính là cách trường lớp vẫn dạy: nhặt từng chiếc lá, rồi từ lá mà lần ngược về cành.
 {: .text-justify}
 
-Với những người trẻ tuổi, việc học là ưu tiên hàng đầu nên phương pháp này hoàn toàn phù hợp. Tuy nhiên, với những người đã đi làm, học kiến thức mới theo cách này thường là sự đánh đổi — giữa sự an toàn, thoải mái hiện tại với những khó khăn và đôi khi là sự hoang mang khi đối diện với điều chưa biết.
+Với người trẻ, việc học là ưu tiên hàng đầu, nên đường này hoàn toàn hợp. Với người đã đi làm, học theo cách này là một sự đánh đổi: đem sự an toàn, thoải mái hiện tại ra đổi lấy những khó khăn, đôi khi là cả sự hoang mang, trước điều chưa biết.
 {: .text-justify}
 
-Có vài điều cần lưu ý: cậu đang bắt đầu từ những kiến thức cụ thể (các nút lá), nên hãy cố gắng xác định mục tiêu là những kiến thức tổng quát hơn (các nút phía trên), đừng để chi tiết phức tạp làm xao nhãng. *Shu Ha Ri* giúp cậu hiểu rõ quá trình học theo từng giai đoạn. Còn *5W1H* (Why → [How, What] → [When, Where]) giúp cậu xác định kiến thức nào cần chú ý, cái nào có thể bỏ qua.
+Có một điều phải giữ cho chắc: xuất phát là những kiến thức cụ thể – các nút lá – thì đích nhắm phải là những kiến thức tổng quát hơn ở phía trên, đừng để chi tiết phức tạp kéo mình xao nhãng. *Shu Ha Ri* cho thấy việc học đi qua từng giai đoạn nào; còn *5W1H* (Why → [How, What] → [When, Where]) giúp phân định kiến thức nào đáng chú ý, kiến thức nào có thể bỏ qua.
 {: .text-justify}
 
 ## Trên xuống (Top down)
-Nếu may mắn, cậu có thể áp dụng phương pháp tiếp cận từ trên xuống để học kiến thức mới. Thông thường, đây là kết quả đạt được sau khi cậu đã tổng quát hóa thành công ở giai đoạn trước.
+
+**Top down** đi chiều ngược lại: từ thân xuống lá. Thường thì đây không phải là đường chọn được, mà là phần thưởng của giai đoạn trước – kẻ đã tổng quát hóa thành công mới có cái thân để mà đi xuống.
 {: .text-justify}
 
-Phương pháp này rất phổ biến với những người đã hoàn thành một chuyên môn nhất định và có đủ kinh nghiệm. Họ dùng kiến thức tổng quát đã xây dựng, kết hợp với kiến thức chi tiết đã biết, để liên hệ khi học một lĩnh vực mới.
+Người đã hoàn thành một chuyên môn, đã đủ kinh nghiệm, khi bước vào lĩnh vực mới không phải nhặt lá từ đầu. Người ta dùng phần tổng quát đã dựng sẵn, kết hợp với những chi tiết đã biết, để móc kiến thức mới vào đúng chỗ của nó trên cây.
 {: .text-justify}
 
 ## Nhảy (Jump)
-Nếu phương pháp Bottom up và Top down giúp cậu mở rộng kiến thức trong phạm vi gần với những gì đã biết, thì phương pháp "nhảy" cho phép cậu chủ động bước sang một lĩnh vực hoàn toàn mới. Điều này không chỉ giúp tránh rơi vào trạng thái tối ưu cục bộ mà còn mang lại cái nhìn đa chiều hơn.
+
+Hai đường trên chỉ mở rộng kiến thức trong phạm vi gần với những gì đã biết. Đường thứ ba – **nhảy** – là chủ động bước hẳn sang một lĩnh vực hoàn toàn mới, một cây khác. Cái được là tránh rơi vào tối ưu cục bộ, và có được cái nhìn đa chiều hơn.
 {: .text-justify}
 
-Tuy nhiên, đây là phương pháp không dễ áp dụng vì nó đòi hỏi nhiều thời gian và công sức. Nó cũng dễ khiến cậu lạc lối, học lan man mà không sâu.
+Nhưng đây là đường tốn kém nhất. Nó đòi nhiều thời gian và công sức, lại dễ khiến người ta lạc lối, học lan man mà chẳng sâu được thứ gì.
 {: .text-justify}
 
-Hơn nữa, phương pháp này đôi khi đòi hỏi cậu phải gạt bỏ những gì đã biết để tiếp nhận cái mới, thậm chí trái ngược hoàn toàn với những gì đã quen thuộc. Đây là một kỹ năng khó vì nó đi ngược lại phản ứng tự nhiên của người học — luôn muốn liên hệ kiến thức mới với kiến thức cũ. Kỹ thuật *Đổ Trà (Emptying the Cup)* có thể giúp cậu rèn luyện tư duy khi áp dụng phương pháp này.
+Hơn nữa, nhảy đôi khi đòi hỏi gạt bỏ cái đã biết để tiếp nhận cái mới, thậm chí là cái trái ngược hoàn toàn với những gì đã quen. Đây là một kỹ năng khó, vì nó đi ngược phản xạ tự nhiên của người học – luôn muốn móc cái mới vào cái cũ. Kỹ thuật *Đổ Trà (Emptying the Cup)* rèn đúng cái phản xạ ngược ấy.
 {: .text-justify}
 
-Vì vậy, tớ cho rằng phương pháp này chỉ phù hợp với những người đã có nền tảng kiến thức vững chắc, có khả năng tư duy phản biện, và đặc biệt là có động lực mạnh mẽ để khám phá những điều mới.
+Cho nên đường này chỉ dành cho kẻ đã có nền tảng vững, có tư duy phản biện, và nhất là có động lực đủ mạnh để khám phá điều mới.
 {: .text-justify}
 
-Hy vọng rằng cậu sẽ nhận ra và xây dựng được cây kiến thức của riêng mình, từ đó vẽ ra bản đồ tri thức cho chính mình.
+## Kết
+
+Lá chỉ bám được khi có cành; cành chỉ vững khi có thân. Ba đường đi trên, rốt cuộc, đều phục vụ một việc: dựng cho được cái thân ấy.
 {: .text-justify}
+
+Còn việc của người học không phải là gom cho nhiều lá, mà là nhận ra cây kiến thức của riêng mình – và từ đó, tự vẽ lấy bản đồ tri thức cho chính mình.
+{: .text-justify}
+
 > <cite>
 <a target="_blank" href="https://wei-he.xyz">Wéi Hé</a>
 </cite>

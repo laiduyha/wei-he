@@ -15,7 +15,7 @@ parent:
 </a>
 </cite>
 
-Theo Whitney Johnson trong cuốn Smart Growth, mọi kiến thức mới học được, mọi vấn đề gặp phải đều tuân theo một dạng đường cong hình chữ S — gồm ba giai đoạn chính:
+Người ta hay hình dung việc học như một đường thẳng – bỏ vào bao nhiêu công thì nhận về bấy nhiêu chữ. Whitney Johnson, trong cuốn *"Smart Growth"*, chỉ ra rằng nó không thẳng. Mọi kiến thức mới học, mọi vấn đề mới gặp đều đi theo một **đường cong chữ S**: chân dốc chậm, giữa dốc nhanh, lên đỉnh thì phẳng dần. Ba đoạn của đường cong là ba giai đoạn chính:
 {: .text-justify}
 
 ![alt]({{ 'assets/images/whitney-johnson-smart-grow-curve.jpg' | absolute_url }})
@@ -26,39 +26,36 @@ Whitney Johnson《Smart Grow Curve》
 </cite>
 
 ## 1. Khởi Đầu - Launch Point
-Tại điểm Khởi Đầu, cậu sẽ khám phá cơ hội để dấn thân vào một đường cong S mới. Đây là giai đoạn **Khám Phá (Explorer)** — vô số lựa chọn xuất hiện, nhưng điều quan trọng là cậu phải xác định và tập trung vào mục tiêu mình muốn hướng tới.
+Chân dốc là chỗ chậm nhất, và cũng là chỗ dễ bỏ cuộc nhất. Đây là giai đoạn **Khám Phá (Explorer)**: cơ hội bày ra vô số, nhưng việc khó không phải là tìm cho ra lựa chọn, mà là dám bỏ bớt để chỉ giữ lại một đích.
 {: .text-justify}
 
-Giai đoạn này mọi thứ dường như diễn ra rất chậm. Cậu sẽ liên tục tự hỏi: với năng lực hiện tại, đích đến có khả thi không? Mục tiêu này có phù hợp với giá trị cốt lõi của mình không? Cái giá phải trả có xứng đáng?
+Ở đoạn này mọi thứ dường như đứng yên, và người ta buộc phải tự trả lời những câu hỏi chưa có gì làm bằng: với năng lực hiện tại, đích đến có khả thi không; mục tiêu này có hợp với giá trị cốt lõi của mình không; cái giá phải trả có xứng đáng không.
 {: .text-justify}
 
-Những câu hỏi đó cần được suy nghĩ thấu đáo trước khi hành động. Một khi đã quyết định, cậu sẽ chuyển sang giai đoạn **Thu Thập (Collector)** — tìm kiếm thêm bằng chứng để củng cố niềm tin rằng mình đang đi đúng hướng. Quá trình này có vẻ kéo dài, nhưng nó vô cùng quan trọng. Vì khi cậu dồn hết nguồn lực vào các bước tiếp theo, cậu sẽ không phải hối tiếc.
+Nghĩ cho thấu rồi mới bước. Quyết định xong thì chuyển sang giai đoạn **Thu Thập (Collector)** – đi tìm thêm bằng chứng để củng cố niềm tin rằng mình đang đúng hướng. Đoạn này trông như dậm chân tại chỗ, nhưng chính nó quyết định phần còn lại của con đường: khi đã dồn hết nguồn lực vào các bước tiếp theo, sẽ không còn chỗ cho hối tiếc.
 {: .text-justify}
 
 ## 2. Phát triển - Sweet Spot
-Giờ đây, cậu đã bước vào giai đoạn leo dốc của đường cong. Tốc độ tăng lên khi công việc mang lại những thành quả rõ rệt. Hình ảnh về phiên bản mà cậu mong muốn dần hiện ra, và những phản hồi tích cực này thúc đẩy tốc độ học tập.
+Qua chân dốc là đoạn leo. Tốc độ tăng lên vì công việc bắt đầu trả về những thành quả nhìn thấy được; hình ảnh về phiên bản mình mong muốn hiện dần ra, và mỗi phản hồi tích cực lại đẩy việc học nhanh thêm một nhịp.
 {: .text-justify}
 
-Lúc này, cậu đang ở giai đoạn **Tăng Tốc (Accelerator)**. Kết quả tạo ra ngày càng nhiều trong khi công sức giảm dần theo thời gian. Những khoảng cách giữa kiến thức hiện tại và kiến thức cần học sẽ dần được thu hẹp.
+Đó là giai đoạn **Tăng Tốc (Accelerator)**: kết quả ngày càng nhiều trong khi công sức bỏ ra giảm dần, khoảng cách giữa cái đã biết và cái cần biết cứ thế hẹp lại.
 {: .text-justify}
 
-Cậu cũng phát triển khả năng liên kết giữa cũ và mới, lựa chọn hướng đi mà mình muốn tập trung. Những kiến thức xa lạ dần được tiếp thu một cách tự nhiên. Chẳng bao lâu, cậu sẽ trở thành một phiên bản khác của chính mình, bước vào giai đoạn **Biến Đổi (Metamorph)**.
+Cái mới lúc này không còn phải nhồi vào nữa mà tự bám lấy cái cũ. Kẻ học tự nối được kiến thức cũ với kiến thức mới, tự chọn được hướng muốn đào sâu; những thứ xa lạ được tiếp thu một cách tự nhiên. Chẳng bao lâu, người leo dốc đã là một con người khác – giai đoạn **Biến Đổi (Metamorph)**, lúc sâu phá kén thành bướm.
 {: .text-justify}
 
-Giai đoạn này rất thú vị và đầy cảm hứng vì cậu trải nghiệm cảm giác "thành tựu", nhận thấy rõ sự tiến bộ của bản thân. Hãy tận hưởng nó một cách trọn vẹn — đây là lúc sâu phá kén thành bướm.
+Cảm giác *"thành tựu"* ở đoạn này là thật: sự tiến bộ của bản thân hiện ra rõ ràng, đầy cảm hứng, và đáng được tận hưởng một cách trọn vẹn.
 {: .text-justify}
 
 ## 3. Thuần thục - Mastery
-Trên đỉnh của đường cong chữ S, cậu đạt được điều mình mong muốn — một phiên bản hoàn thiện hơn của bản thân. Đó là một thành quả đáng tự hào.
+Trên đỉnh đường cong, cái đích đặt ra từ chân dốc đã nằm trong tay: một phiên bản hoàn thiện hơn của chính mình. Đó là thành quả đáng tự hào.
 {: .text-justify}
 
-Lúc này, cậu đang ở giai đoạn **Neo (Anchor)**. Tốc độ chậm lại, và đây là thời điểm có thể nghỉ ngơi mà không lo kiến thức bị mai một. Bước này cũng quan trọng để nhìn nhận lại hành trình đã qua và đưa ra quyết định về những bước tiếp theo.
+Đây là giai đoạn **Neo (Anchor)**. Tốc độ chậm lại, nhưng chậm lúc này không phải là tụt: kiến thức đã đủ chắc để nghỉ ngơi mà không lo mai một. Việc của người neo là nhìn lại hành trình đã qua – xem lại những cơ hội từng gác sang một bên để giữ sự tập trung, và bắt đầu đánh giá những đường cong S khác mà mình muốn chinh phục. Neo cho vững thì mới có sự ổn định và tự tin, cả vật chất lẫn tinh thần, để chọn tiếp.
 {: .text-justify}
 
-Đây là lúc xem xét lại những cơ hội đã bỏ lỡ để duy trì sự tập trung trước đó. Cậu cũng có thể bắt đầu tìm hiểu, đánh giá những đường cong S khác mà mình muốn chinh phục. Việc neo lại sẽ mang đến sự ổn định và tự tin cả về vật chất lẫn tinh thần.
-{: .text-justify}
-
-Và khi đạt đến **Đỉnh Cao (Mountaineer)**, cũng là lúc nên tìm kiếm một đỉnh cao mới, một ngọn núi khác để leo. Việc học cũng giống như oxy đối với cơ thể — khi cậu ngừng học cũng là lúc tư duy ngừng phát triển.
+Rồi đến **Đỉnh Cao (Mountaineer)**, và nghịch lý của mọi đỉnh là: đứng được trên nó rồi thì việc tiếp theo là tìm một ngọn núi khác để leo. Việc học giống như oxy đối với cơ thể – ngừng học cũng là lúc tư duy ngừng phát triển.
 {: .text-justify}
 
 > <cite>
@@ -69,7 +66,7 @@ Theo Whitney Johnson《Smart Growth: How to Grow Your People to Grow Your Compan
 
 ---
 
-Hãy không ngừng tìm kiếm những điều mới mẻ. Hãy như những con sóng lớp lớp nối tiếp nhau vào bờ.
+Một đường cong khép lại thì một đường cong khác mở ra. Sóng ngoài khơi Kanagawa không vào bờ một lần; hết lớp này, lớp khác lại dâng.
 {: .text-justify}
 
 > <cite>
