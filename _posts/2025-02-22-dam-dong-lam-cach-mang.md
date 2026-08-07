@@ -31,6 +31,7 @@ Cao Đức《Thuật Tẩy Não - Nghệ thuật thao túng và kiểm soát tâ
 <a target="_blank" href="https://nghiencuuquocte.org/2014/09/03/ly-quang-dieu-viet-ve-chinh-tri-trung-quoc/">
 Lee Kuan Yew (2013). "China: A Strong Centre", in L.K. Yew, One Man's View of the World (Singapore: Straits Times Press), pp. 14-27.
 </a>
+</cite>
 
 **Hỏi:** *Có đủ sự dịch chuyển linh động trong xã hội để họ hi vọng rằng một ngày nào đó họ có thể gia nhập tầng lớp trung lưu được không?*
 {: .text-justify}
@@ -40,13 +41,13 @@ Lee Kuan Yew (2013). "China: A Strong Centre", in L.K. Yew, One Man's View of th
 
 ## Tôn Ngộ Không và giấc mộng loạn
 
-Mao Trạch Đông cuối đời tuyên bố rằng hai thành tựu lớn nhất của mình là đưa cách mạng cộng sản đi đến chiến thắng và phát động Cách mạng Văn hóa.
+Cuối đời, Mao Trạch Đông tự tổng kết đời mình bằng hai thành tựu: đưa cách mạng cộng sản đến thắng lợi, và phát động Cách mạng Văn hóa. Ông đặt hai việc ấy ngang hàng nhau.
 {: .text-justify}
 
-Nhiều học giả cho rằng Mao tìm thấy niềm vui trong sự *loạn*. Khi còn trẻ, ông từng viết rằng muốn thay đổi, Trung Quốc phải *bị phá hủy và cải cách*, và chỉ có nông dân mới làm được điều đó. Ông tự coi mình là vị hầu vương dẫn dắt cuộc nổi loạn.
+Nhiều học giả cho rằng Mao tìm thấy niềm vui trong chữ **loạn**. Thời trẻ, ông từng viết rằng Trung Quốc muốn thay đổi thì phải *"bị phá hủy và cải cách"*, và chỉ nông dân mới làm nổi việc đó. Ông tự coi mình là vị hầu vương dẫn dắt cuộc nổi loạn.
 {: .text-justify}
 
-Giữa lúc tranh cãi với Đảng Cộng sản Liên Xô vào đầu những năm 1960, Mao viết một bài thơ về hình tượng Tôn Ngộ Không:
+Đầu những năm 1960, giữa lúc tranh cãi với Đảng Cộng sản Liên Xô, Mao viết một bài thơ về hình tượng Tôn Ngộ Không:
 {: .text-justify}
 
 > Đất bằng khi nổi trận lôi đình\
@@ -60,27 +61,27 @@ Giữa lúc tranh cãi với Đảng Cộng sản Liên Xô vào đầu những 
 > Chỉ vì yêu khí mới hồi sinh.
 {: .notice--warning .text-justify}
 
-Tinh thần *Tôn Ngộ Không* đại diện cho sự *loạn* — bản lĩnh lật đổ một trật tự đã được định sẵn. Mao say với thành công trong việc tận dụng sức mạnh ấy từ đám đông, nên đã đem nó vào Cách mạng Văn hóa.
+Tôn Ngộ Không là hiện thân của cái loạn – bản lĩnh dám lật đổ một trật tự đã được định sẵn. Mao từng dùng sức mạnh ấy của đám đông mà giành được cả thiên hạ, say với nó, nên đem nguyên nó vào Cách mạng Văn hóa.
 {: .text-justify}
 
-Nhưng bản chất hai cuộc cách mạng hoàn toàn khác nhau. Cách mạng Vô sản là từ dưới lên, cái *loạn* xuất phát từ mâu thuẫn giai cấp — tầng lớp dưới muốn xáo bài làm lại. Cách mạng Văn hóa lại từ trên xuống — cái *loạn* do chính ông tạo ra. Lúc này, *Tôn Ngộ Không* không còn là biểu tượng giải phóng, mà trở thành công cụ phá vỡ quy trình vận hành của Đảng.
+Nhưng hai cuộc cách mạng khác nhau ngay từ gốc. Cách mạng vô sản đi **từ dưới lên**: cái loạn sinh ra từ mâu thuẫn giai cấp, từ chỗ tầng lớp dưới bất mãn đến mức đòi xáo lại bài – đúng như cơ chế mà Lý Quang Diệu mô tả ở trên. Cách mạng Văn hóa thì đi **từ trên xuống**: cái loạn không tự sinh ra, mà do chính người đứng trên đỉnh quyền lực tạo ra. Lúc này Tôn Ngộ Không không còn là biểu tượng giải phóng nữa; nó chỉ là công cụ để phá vỡ quy trình vận hành của Đảng.
 {: .text-justify}
 
-Ông nhóm lửa ở tầng lớp học sinh, sinh viên — những con người trẻ đầy nhiệt huyết, tự coi mình là trí thức, là cấp tiến. Chính giới trẻ Trung Quốc, chứ không phải nông dân, trở thành những **Hồng vệ binh** bảo vệ lý tưởng của Mao.
+Lửa lần này được nhóm ở tầng lớp học sinh, sinh viên – những người trẻ đầy nhiệt huyết, tự coi mình là trí thức, là cấp tiến. Chính giới trẻ Trung Quốc, chứ không phải nông dân, trở thành những **Hồng vệ binh** bảo vệ lý tưởng của Mao.
 {: .text-justify}
 
-Năm 1956, Mao khuyên trí thức *"Hãy để Trăm hoa đua nở"*, rồi một năm sau lại khuyến khích phê bình Đảng. Nhưng khi cơn mưa rào biến thành bão, ông nhanh chóng thanh trừng những ai dám chỉ trích.
+Cách châm lửa ấy cũng không mới. Năm 1956, Mao khuyên trí thức *"Hãy để Trăm hoa đua nở"*, rồi một năm sau khuyến khích họ phê bình Đảng. Nhưng khi cơn mưa rào biến thành bão, ông nhanh chóng thanh trừng những ai dám chỉ trích.
 {: .text-justify}
 
-Suy cho cùng, Tôn Ngộ Không có thể đại náo Thiên Cung, nhưng Thiên Đình vẫn ở đó — chỉ phải sắp xếp lại mà thôi.
+Suy cho cùng, Tôn Ngộ Không có thể đại náo Thiên Cung, nhưng Thiên Đình vẫn ở đó – chỉ phải sắp xếp lại mà thôi.
 {: .text-justify}
 
 ## Nồi áp suất
 
-Sau mười năm mất mát, Đặng Tiểu Bình dẫn dắt Trung Quốc chuyển hướng, mở cửa. Đưa đất nước thoát khỏi hỗn loạn, phát triển ổn định để rồi trở thành cường quốc như ngày hôm nay.
+Phải sau mười năm mất mát, Đặng Tiểu Bình mới dẫn dắt Trung Quốc chuyển hướng, mở cửa, đưa đất nước ra khỏi hỗn loạn và phát triển ổn định để thành cường quốc như hôm nay.
 {: .text-justify}
 
-Kiểm soát đám đông cũng giống như kiểm soát một nồi áp suất. Phải biết lúc nào khóa van tăng áp, lúc nào xả van. Bài học của Mao nằm ở chỗ: sau khi dẫn dắt đám đông thành công, ông lại bị chính nó mê hoặc, để rồi đưa ra định hướng sai lầm, đẩy đất nước vào mười năm đen tối.
+Kiểm soát đám đông cũng như kiểm soát một **nồi áp suất**: phải biết lúc nào khóa van tăng áp, lúc nào mở van xả. Cái "phiên tòa" của FedEx ở đầu bài chính là một cái van xả như thế – bất mãn có đường thoát ra thì không tích lại thành sức nổ. Bài học của Mao nằm ở chỗ ngược lại: dẫn dắt đám đông thành công rồi, ông lại bị chính nó mê hoặc, để rồi định hướng sai, đẩy cả đất nước vào mười năm đen tối.
 {: .text-justify}
 
 Đám đông là lửa. Biết dùng thì sưởi ấm, mê muội thì thiêu rụi.

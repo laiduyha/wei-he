@@ -49,17 +49,34 @@ Thì y như trước, thấy núi chỉ là núi, thấy nước chỉ là nư�
 
 ## Quy luật ba niềm tin
 
-Niềm tin đầu tiên được hình thành ở mỗi người hầu hết là một niềm tin thuần túy, không phán xét - đó có thể là giáo lý, tôn giáo hay một chế độ nào đó. Đây là niềm tin được xây dựng dựa trên sự áp đặt của quan niệm xã hội và môi trường xung quanh, chứ không phải từ sự tự suy ngẫm, tư duy của bản thân.
+Thiền sư kể chuyện nhìn núi, nhưng thứ ông kể thực ra là **niềm tin**. Một đời niềm tin có ba chặng, và ba lần thấy núi là ba chặng ấy.
 {: .text-justify}
 
-Nếu một người có ý chí cầu tiến, khao khát hiểu biết, luôn muốn tìm kiếm tri thức mới, thì đến một ngày họ nhất định sẽ thấy rằng những gì mình tin trước đây không còn đúng nữa. Họ lờ mờ nhận ra mình đang dần dần thoát khỏi đám đông và đứng ở một nền tảng nhận thức mới. Cái gì mới cũng hay, cũng mang tính kích thích, và thúc đẩy tâm trí con người tiến về phía trước.
+### Thấy núi là núi – tin vì được trao
+
+Niềm tin đầu tiên của mỗi người hầu như không do mình chọn. Nó được trao vào tay từ lúc chưa biết hỏi: giáo lý, tôn giáo, một chế độ, một nếp nghĩ của nơi mình sinh ra. Người ta tin vì xung quanh ai cũng tin, chứ không phải vì đã tự ngẫm mà tin. Niềm tin ấy trong lành mà mong manh – trong lành vì không phán xét, mong manh vì chưa từng bị thử.
 {: .text-justify}
 
-Nhưng cũng chính trong giai đoạn này, họ lại dễ bị mắc kẹt giữa hai thái cực: một bên là sự hiểu biết, vốn sống mà họ dày công tích luỹ; một bên là hệ thống niềm tin mà phần đông mọi người vẫn đang tin theo - cũng chính là thứ từng trói buộc họ trước đó. Hầu hết người "giỏi" sẽ mắc kẹt trong cái khung nhận thức này: trí thì tỉnh nhưng tâm không an, nhìn đâu cũng thấy chướng tai gai mắt.
+### Thấy núi không phải là núi – nghi vì đã biết
+
+Kẻ có chí cầu tiến, khao khát hiểu biết, rồi sẽ có một ngày thấy điều mình từng tin không còn đứng vững. Người ấy lờ mờ nhận ra mình đang tách dần khỏi đám đông, đứng trên một nền nhận thức khác. Cái mới nào cũng kích thích, và chính cái đà ấy đẩy tâm trí tiến về phía trước.
 {: .text-justify}
 
-Để xây dựng được niềm tin một cách bền vững, cần tư duy về bản chất tồn tại của niềm tin. Tại sao nó lại tồn tại? Nó giúp ích gì cho số đông đang theo đuổi? Nó mang lại giá trị gì cho toàn thể xã hội? Nếu thay thế nó bằng thứ mình cho là tốt hơn (theo logic), thì tác động của nó đối với xã hội hiện tại sẽ ra sao?
+Nhưng cũng chính ở chặng này người ta dễ mắc kẹt nhất. Một bên là vốn hiểu biết dày công tích lũy; một bên là hệ niềm tin mà phần đông vẫn đang tin theo – cũng chính là thứ từng trói buộc mình trước đó. Phần lớn người *"giỏi"* dừng lại đúng chỗ này:
 {: .text-justify}
 
-Chỉ khi trả lời được những câu hỏi đó, nhận rõ bản chất tồn tại của niềm tin, thấy được dòng chảy của thời đại, lúc này tâm mới thật sự an để dong thuyền ngao du khắp cõi.
+> Trí thì tỉnh mà tâm không an, nhìn đâu cũng thấy chướng tai gai mắt.
+{: .notice--danger .text-justify}
+
+### Thấy núi chỉ là núi – an vì đã hiểu
+
+Muốn đi tiếp thì phải đổi câu hỏi. Đừng hỏi niềm tin kia đúng hay sai nữa, mà hỏi **vì sao nó tồn tại**: nó nâng đỡ gì cho số đông đang theo, nó giữ vai gì trong xã hội, và nếu thay nó bằng thứ mình cho là hơn – hơn trên lý lẽ – thì xã hội quanh nó sẽ đổi khác ra sao.
+{: .text-justify}
+
+Trả lời được những câu ấy, nhận rõ bản chất tồn tại của niềm tin, thấy được dòng chảy của thời đại, thì tâm mới thật sự an.
+{: .text-justify}
+
+## Kết
+
+Núi vẫn là núi đó thôi. Ba mươi năm của thiền sư không đổi được ngọn núi nào – cái đổi là con mắt nhìn núi. Lần thấy thứ ba giống hệt lần thứ nhất, chỉ khác một điều: lần đầu chưa kịp hỏi, lần này đã hỏi xong. Tâm an rồi thì nước nào cũng dong thuyền được.
 {: .text-justify}

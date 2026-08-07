@@ -22,15 +22,15 @@ Charles Mackay《Extraordinary Popular Delusions and the Madness of Crowds》- C
 Phụ nữ sợ xấu. Bố mẹ sợ con dốt. Người già sợ chết. Đàn ông sợ thất bại. Nỗi sợ nào cũng có kẻ biết cách biến thành tiền.
 {: .text-justify}
 
-Tiền của đàn ông háo sắc, tiền của phụ nữ yêu sắc đẹp, tiền dành cho giáo dục con trẻ, tiền của người già vì sức khoẻ, tiền của kẻ lười muốn đi đường tắt, tiền của người cô đơn dành cho thú cưng — tất cả đều vận hành theo cùng một nguyên lý: nỗi sợ và khao khát là hai mặt của một đồng xu.
+Tiền của đàn ông háo sắc, tiền của phụ nữ yêu sắc đẹp, tiền cho giáo dục con trẻ, tiền của người già lo sức khỏe, tiền của kẻ lười muốn đi đường tắt, tiền của người cô đơn dành cho thú cưng – tất cả vận hành theo cùng một nguyên lý: **nỗi sợ và khao khát là hai mặt của một đồng xu**.
 {: .text-justify}
 
 ## Cơn sốt hoa Tulip
 
-Để hiểu sự điên rồ của đám đông, tớ đưa cậu về thế kỷ 17, tại Hà Lan.
+Muốn biết đám đông điên rồ đến mức nào, cứ nhìn về Hà Lan thế kỷ 17.
 {: .text-justify}
 
-Đầu thế kỷ 16, Hà Lan bước vào kỷ nguyên giao thương rực rỡ. Hoa Tulip được nhập khẩu từ Đế chế Ottoman nhanh chóng thu hút giới thượng lưu vì sự khan hiếm và vẻ đẹp của nó. Có thời điểm, một bông Semper Augustus được bán với giá 10.000 guilder — tương đương một ngôi nhà sang trọng, khoảng 750.000 USD ngày nay.
+Đầu thế kỷ 16, Hà Lan bước vào kỷ nguyên giao thương rực rỡ. Hoa Tulip nhập từ Đế chế Ottoman nhanh chóng chinh phục giới thượng lưu nhờ vẻ đẹp và sự khan hiếm của nó. Có thời điểm, một bông Semper Augustus được bán với giá 10.000 guilder – ngang một ngôi nhà sang trọng, khoảng 750.000 USD ngày nay.
 {: .text-justify}
 
 ![alt]({{ 'assets/images/hendrik-pot-flora-wagon-of-fools.jpeg' | absolute_url}})
@@ -47,10 +47,10 @@ Nhà thơ Abraham Cowley từng ví von:
 > Chỉ có những kẻ xứng đáng mới chiêm ngưỡng hết vẻ đẹp của nó.
 {: .notice--warning .text-justify}
 
-Người dân đổ xô mua bán, bán nhà, vay mượn, đánh đổi tài sản quý giá để sở hữu những bông hoa hiếm hoi. Khoảng 5.000 người — tương đương 1% dân số lao động — từ quý tộc đến bình dân đều lao vào trồng và đầu cơ hoa Tulip. Thậm chí, hợp đồng hàng hoá hoa Tulip còn được niêm yết trên Sở giao dịch chứng khoán Amsterdam.
+Người ta đổ xô mua bán: bán nhà, vay mượn, đánh đổi tài sản quý giá để sở hữu những bông hoa hiếm hoi. Khoảng 5.000 người – tương đương 1% dân số lao động – từ quý tộc đến bình dân đều lao vào trồng và đầu cơ. Hợp đồng hàng hóa hoa Tulip thậm chí còn được niêm yết trên Sở giao dịch chứng khoán Amsterdam.
 {: .text-justify}
 
-Rồi tháng 2 năm 1637, những người am hiểu nhận ra sự không bền vững của thị trường và bắt đầu bán tháo. Hiệu ứng domino kéo giá rơi thẳng đứng hơn 99%.
+Rồi tháng 2 năm 1637, những người am hiểu nhận ra thị trường không thể đứng vững và bắt đầu bán tháo. Hiệu ứng domino kéo giá rơi thẳng đứng hơn 99%.
 {: .text-justify}
 
 ![alt]({{ 'assets/images/prices-of-tulip-bulbs.jpeg' | absolute_url}})
@@ -60,73 +60,73 @@ Rồi tháng 2 năm 1637, những người am hiểu nhận ra sự không bền
 </a>
 </cite>
 
-Cậu có thể nghĩ rằng những điều này chỉ xảy ra khi con người còn ít học. Nhưng ngay hôm nay — <a target="_blank" href="https://thanhnien.vn/su-that-ve-thong-tin-lan-dot-bien-tien-ti-sot-gia-tro-lai-185240218154257096.htm">lan đột biến</a>, <a target="_blank" href="https://www.weforum.org/stories/2022/09/what-are-meme-stocks-explainer">meme coin</a> — bản chất vẫn không khác gì mấy.
+Người ta dễ nghĩ những chuyện như vậy chỉ xảy ra ở cái thời con người còn ít học. Nhưng ngay hôm nay – <a target="_blank" href="https://thanhnien.vn/su-that-ve-thong-tin-lan-dot-bien-tien-ti-sot-gia-tro-lai-185240218154257096.htm">lan đột biến</a>, <a target="_blank" href="https://www.weforum.org/stories/2022/09/what-are-meme-stocks-explainer">meme coin</a> – bản chất vẫn không khác gì mấy. Bông hoa đổi tên, đám đông thì vẫn thế.
 {: .text-justify}
 
 ## Tiền và lý do
 
-Vậy tại sao con người lại điên cuồng và vô lý đến thế? Câu trả lời nằm ở hai chữ: *tiền* và *lý do*.
+Vì đâu con người điên cuồng và vô lý đến thế? Câu trả lời nằm ở hai chữ: **tiền** và **lý do**.
 {: .text-justify}
 
-Dù một ý tưởng phi lý đến đâu, khi được hậu thuẫn bằng nguồn tài chính dồi dào, nó có thể được chấp nhận rộng rãi. Một người nói, cậu nghĩ đó là xàm. Hai người nói, ba người nói, trăm người nói — cậu bắt đầu dao động. Đến khi một ông tiến sĩ nọ, vị giáo sư kia đứng ra bảo rằng thể loại này *có giá trị nội tại*, thì niềm tin cá nhân sẽ bị thử thách đáng kể.
+Một ý tưởng dù phi lý đến đâu, khi được hậu thuẫn bằng nguồn tài chính dồi dào, cũng có thể được chấp nhận rộng rãi. Một người nói, mình cho là xàm. Hai người nói, ba người nói, trăm người nói – mình bắt đầu dao động. Đến khi ông tiến sĩ nọ, vị giáo sư kia đứng ra bảo thứ ấy *"có giá trị nội tại"*, thì niềm tin cá nhân bị thử thách thật sự.
 {: .text-justify}
 
-Và nếu sự thay đổi quan điểm mang lại *"quả ngọt"* tài chính? Lúc đó cậu dễ rơi vào ảo tưởng về sự *"thông minh"* của chính mình.
+Và nếu việc đổi quan điểm mang lại *"quả ngọt"* tài chính, người ta rơi luôn vào ảo tưởng về sự *"thông minh"* của chính mình.
 {: .text-justify}
 
 > Cái gì không mua được bằng tiền thì mua được bằng rất nhiều tiền.
 {: .notice--warning .text-justify}
 
-Tớ nhớ một KOL chứng khoán từng kể:
+Một KOL chứng khoán từng kể:
 {: .text-justify}
 
 > Nhà đầu tư không thiếu tiền, họ chỉ cần một lý do.\
 > Không biết trong năm nay công ty mình có những định hướng gì để nhà đầu tư có lý do xuống tiền?
-{: .notice--warning .text-justify}
+{: .notice .text-justify}
 
-*"Nhà đầu tư"* chỉ cần một lý do — một lý do phù hợp với hệ giá trị của họ. Người làm kỹ thuật tin vào luận điểm logic. Người làm tài chính chú trọng tiềm năng thị trường. Còn người mới? Họ bị mê hoặc bởi những câu chuyện tăng trưởng thần kỳ.
+*"Nhà đầu tư"* không thiếu tiền; họ chỉ thiếu một lý do khớp với hệ giá trị của mình. Người làm kỹ thuật tin vào luận điểm logic. Người làm tài chính nhìn vào tiềm năng thị trường. Người mới thì bị mê hoặc bởi những câu chuyện tăng trưởng thần kỳ.
 {: .text-justify}
 
-Nhưng cậu nên nhớ: *lý do có thể được tạo ra bằng tiền*.
+Chỉ có điều: **lý do có thể được tạo ra bằng tiền**.
 {: .text-justify}
 
 ## Bơm và xả
 
-*Họ* áp dụng chiến thuật bơm xả. Đạp bàn đạp để bánh xe lăn theo quán tính. Chỉ tốn công sức ban đầu, còn quán tính của đám đông sẽ đẩy nó đi rất xa.
+*Họ* gọi đó là chiến thuật **bơm xả**. Đạp bàn đạp cho bánh xe lăn, rồi để quán tính của đám đông đẩy nó đi. Công sức chỉ tốn ở cú đạp đầu; quãng đường còn lại, đám đông tự lo.
 {: .text-justify}
 
-Rồi *họ* thu tiền từ những *"khoảng trượt quán tính"* đó, bằng những thuật ngữ mỹ miều: *"trào lưu"*, *"cuộc cách mạng"*, *"thời đại của..."*, hay *"chúng ta của sau này"*.
+Rồi *họ* thu tiền từ những khoảng trượt quán tính đó, dưới những cái tên mỹ miều: *"trào lưu"*, *"cuộc cách mạng"*, *"thời đại của..."*, hay *"chúng ta của sau này"*.
 {: .text-justify}
 
-Bánh xe lăn được bao xa phụ thuộc vào *"chất lượng"* của đám đông — niềm tin, sự cuồng tín, thu nhập, tri thức và độ chịu chơi của từng cá nhân.
+Bánh xe lăn được bao xa là tùy *"chất lượng"* của đám đông – niềm tin, sự cuồng tín, thu nhập, tri thức và độ chịu chơi của từng cá nhân.
 {: .text-justify}
 
-## Khi cậu tưởng mình khôn
+## Khi tưởng mình khôn
 
-Nhiều người tin rằng với sự phát triển của tri thức, đám đông ngày càng trở nên khôn ngoan hơn. Tớ không nghĩ vậy. Kiến thức càng nhiều, càng dễ bị lợi dụng.
+Nhiều người tin rằng tri thức càng phát triển, đám đông càng khôn ngoan. Sự thật ngược lại: kiến thức càng nhiều, càng dễ bị lợi dụng.
 {: .text-justify}
 
-Nhìn Bitcoin. Ban đầu, nó chỉ là một cuộc chơi tài chính. Nhưng sau vài vòng luân chuyển, những thế lực đứng sau đã có đủ tiền để thuê chuyên gia tạo ra sản phẩm mang lại giá trị thực trong thế giới Crypto.
+Nhìn Bitcoin. Thoạt đầu chỉ là một cuộc chơi tài chính. Nhưng sau vài vòng luân chuyển, những thế lực đứng sau đã có đủ tiền để thuê chuyên gia tạo ra sản phẩm mang giá trị thực trong thế giới Crypto.
 {: .text-justify}
 
-Trong nền kinh tế tri thức, nghe thì có vẻ tuyệt vời khi người giỏi được trọng dụng. Nhưng ít ai nhắc đến một góc tối: cơ hội thăng tiến cho những người đi sau ngày càng khó khăn vì cạnh tranh gay gắt. Giới trẻ ngày càng giỏi, thu nhập tuyệt đối tăng lên, nhưng khao khát vươn lên cũng lớn dần. Cái họ cần chỉ là một lý do hợp lý theo nhận thức và thế giới quan của mình.
+Nền kinh tế tri thức nghe thì đẹp: người giỏi được trọng dụng. Nhưng có một góc tối ít ai nhắc: đường thăng tiến của người đi sau ngày càng hẹp vì cạnh tranh gay gắt. Giới trẻ ngày càng giỏi, thu nhập tuyệt đối tăng lên, mà khao khát vươn lên còn tăng nhanh hơn. Cái họ thiếu chỉ là một lý do khớp với nhận thức và thế giới quan của mình.
 {: .text-justify}
 
-Và *họ* đang đánh vào đúng chỗ đó: FOMO — sợ bị bỏ lỡ, sợ thua kém, sợ bị tụt lại phía sau những hình mẫu *"tinh hoa"*.
+Và *họ* đánh vào đúng chỗ đó: **FOMO** – sợ bỏ lỡ, sợ thua kém, sợ tụt lại sau những hình mẫu *"tinh hoa"*.
 {: .text-justify}
 
-Sau này, tớ nghĩ có lẽ *họ* sẽ đánh vào chỗ khác: cảm giác thỏa mãn cái tôi — *"Tôi sẽ là một thứ gì đó khác biệt."* Nhưng thử nghĩ xem, nếu ai cũng cho mình là khác biệt, thì liệu có ai thực sự khác biệt không?
+Rồi sẽ tới lúc *họ* đánh sang chỗ khác: cảm giác thỏa mãn cái tôi – *"tôi sẽ là một thứ gì đó khác biệt"*. Nhưng nếu ai cũng cho mình là khác biệt, thì còn ai thực sự khác biệt nữa?
 {: .text-justify}
 
 ## Nương theo con nước
 
-Phải nhận biết được tính chất đám đông, giá trị mà đám đông tin tưởng — dù chính cậu có thể không tin vào nó. Bỏ đi cái tôi, coi đây chỉ là một cuộc dạo chơi.
+Đừng bao giờ lấy cứng chọi cứng với đám đông. Giỏi đến đâu cũng không địch lại nó – trừ khi tự tạo ra được nó, hoặc tận dụng được nó.
 {: .text-justify}
 
-Đừng bao giờ lấy cứng chọi cứng. Dù cậu giỏi cỡ nào cũng không địch lại được đám đông — trừ khi cậu tự tạo được hoặc tận dụng được nó.
+Việc làm được là nhận cho ra tính chất của đám đông, cái giá trị mà nó tin – dù chính mình không tin. Bỏ cái tôi xuống, coi đây chỉ là một cuộc dạo chơi.
 {: .text-justify}
 
-Xem đám đông như nước triều, có lên có xuống. Nắm được quy luật, theo con nước mà đi.
+Đám đông là con nước triều, có lên có xuống. Nắm được quy luật thì theo con nước mà đi.
 {: .text-justify}
 
 *Hãy tin nhưng đừng bám víu.*
