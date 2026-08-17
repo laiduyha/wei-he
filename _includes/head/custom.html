@@ -1,13 +1,19 @@
 <!-- start custom head snippets -->
 
-<!-- insert favicons. use https://realfavicongenerator.net/ -->
-<link rel="apple-touch-icon" sizes="180x180" href={{'assets/favicon/apple-touch-icon.png' | absolute_url}}>
-<link rel="icon" type="image/png" sizes="32x32" href={{'assets/favicon/favicon-32x32.png' | absolute_url}}>
-<link rel="icon" type="image/png" sizes="16x16" href={{'assets/favicon/favicon-16x16.png' | absolute_url}}>
-<link rel="manifest" href={{'assets/favicon/site.webmanifest' | absolute_url}}>
-<link rel="mask-icon" href={{'assets/favicon/safari-pinned-tab.svg' | absolute_url}} color="#5bbad5">
-<meta name="msapplication-TileColor" content="#da532c">
+<!-- favicon + PWA. Cả bộ sinh bằng `python3 tools/make-icons.py`, đừng sửa tay. -->
+<link rel="icon" type="image/svg+xml" href="{{ 'assets/favicon/icon.svg' | absolute_url }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ 'assets/favicon/favicon-32x32.png' | absolute_url }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ 'assets/favicon/favicon-16x16.png' | absolute_url }}">
+<link rel="shortcut icon" href="{{ 'assets/favicon/favicon.ico' | absolute_url }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ 'assets/favicon/apple-touch-icon.png' | absolute_url }}">
+<link rel="mask-icon" href="{{ 'assets/favicon/safari-pinned-tab.svg' | absolute_url }}" color="#0e2431">
+<link rel="manifest" href="{{ 'assets/favicon/site.webmanifest' | absolute_url }}">
 <meta name="theme-color" content="#e8d5b7">
+<meta name="msapplication-TileColor" content="#e8d5b7">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Wei He">
 <!-- end custom head snippets -->
 
 <!-- mermaid  -->
