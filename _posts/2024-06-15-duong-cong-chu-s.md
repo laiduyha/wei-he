@@ -15,6 +15,15 @@ parent:
 </a>
 </cite>
 
+> Bức tranh mở bài là *"Sóng lừng ngoài khơi Kanagawa"* của Katsushika Hokusai, tờ đầu trong bộ tranh khắc gỗ *"Ba mươi sáu cảnh núi Phú Sĩ"* (khoảng 1831). Hokusai đưa con sóng lên tiền cảnh, đẩy núi Phú Sĩ lùi tít phía sau – ngọn núi đồ sộ nhất nước Nhật thu lại chỉ bằng một đỉnh sóng. Ngọn sóng cuộn thành đường xoắn ốc, bọt sóng xòe ra như móng vuốt, tất cả đổ dồn về phía núi. Sắc xanh Phổ được tô chuyển tông (bokashi), đậm ở chân sóng, nhạt dần lên ngọn, cho biển một chiều sâu mà thuốc nhuộm thực vật trước đó không làm được.\
+>  \
+> Cái hay của tranh nằm ở phép đối: sóng là động, núi là tĩnh. Sóng dữ dội, đổi thay từng khoảnh khắc; núi im lìm, tuyết phủ, đứng đó tự ngàn năm. Chen giữa hai cực ấy là ba chiếc thuyền chở cá (oshiokuri-bune) và những người chèo. Họ không quay đầu, không buông chèo; họ rạp người xuống, nương theo nhịp sóng mà đi. Giữa biến động, con người kiên định là điểm tĩnh thứ hai của bức tranh – nhỏ hơn núi, nhưng cũng vững như núi.\
+>  \
+> Tranh ra đời vào cuối thời Edo, khi Nhật Bản đã đóng cửa hơn hai trăm năm; cả nước chỉ còn một khe hở là thương điếm Hà Lan ở Dejima. Chính qua khe hở ấy mà phép phối cảnh phương Tây và sắc xanh Phổ đến tay Hokusai. Ông không đi đâu cả, nhưng cái gì của ngoài mà dùng được thì lấy, rồi đặt lên nét khắc gỗ vốn là của mình. Con sóng vươn ra khơi vì thế cũng là tâm thế của một xã hội đang muốn mở ra ngoài; hai mươi năm sau, tàu của Perry cập bến và cánh cửa ấy buộc phải mở hẳn.\
+>  \
+> Việc học cũng vậy. Kiến thức của thời đại là biển động, không ai đứng trên bờ mà học được; phải ra khơi. Nhưng ra khơi mà không có núi để nhìn thì sóng đẩy đâu trôi đó. Người chèo trong tranh có hai thứ: cái tâm tĩnh như núi – những nguyên tắc không đổi – và đôi tay linh hoạt bám theo sóng – cách làm thay đổi theo bối cảnh. Có nguyên tắc thì mới dám thích nghi. Đường cong chữ S không thẳng, có lúc dâng, có lúc chùng, có lúc dồn cả người xuống chân dốc; kẻ học không chọn được sóng, chỉ chọn được cách giữ mình trên sóng. Còn núi Phú Sĩ đứng yên ở cuối tầm mắt là cái đích mà mọi đường cong đều hướng về.
+{: .notice--info .text-justify}
+
 Người ta hay hình dung việc học như một đường thẳng – bỏ vào bao nhiêu công thì nhận về bấy nhiêu chữ. Whitney Johnson, trong cuốn *"Smart Growth"*, chỉ ra rằng nó không thẳng. Mọi kiến thức mới học, mọi vấn đề mới gặp đều đi theo một **đường cong chữ S**: chân dốc chậm, giữa dốc nhanh, lên đỉnh thì phẳng dần. Ba đoạn của đường cong là ba giai đoạn chính:
 {: .text-justify}
 
