@@ -33,7 +33,7 @@ Trói cả chân và che cả mắt mình.
 
 Chỉ muốn biết những gì đã từng biết,\
 Luôn muốn nghe những gì vẫn hằng nghe,\
-Và lại tin những gì trước giờ tin,\
+Lại muốn tin những gì trước giờ tin,\
 Rồi mắc kẹt trong vũng lầy ngộ nhận.
 
 Đi loanh quanh trong mê cung nhận thức,\
@@ -43,11 +43,11 @@ Thì cũng tắt ở giữa bầu trời đêm.
 
 Kỳ thực là thế gian lại muôn màu,\
 Không có đúng mà cũng chẳng có sai.\
-Trắng và Đen bản chất thuộc về một,\
+Trắng và đen bản chất thuộc về một,\
 Hà cớ gì lại phải tách làm hai?
 
 Chỉ đến khi thấy rõ được bản nguyên,\
-Trong thế giới mà nhị nguyên làm chủ.\
+Trong thế giới mà nhị nguyên làm chủ,\
 Thì đường mòn rồi cũng sẽ hiện ra,\
 Dẫn lối thoát khỏi mê cung nhận thức.
 
