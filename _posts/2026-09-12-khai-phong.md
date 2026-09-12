@@ -35,20 +35,20 @@ Ghép hai chữ lại, 开放 là gỡ then rồi thả ra. Một chuỗi độn
 Nụ hoa vốn là một cái cửa đóng. Các cánh xếp chồng lên nhau, khép chặt, giữ nhụy ở trong. Đến ngày, cái then rời ra, cánh bung, hương và phấn thả ra ngoài: đủ cả 开 lẫn 放. Đến giờ người Trung Quốc vẫn gọi hoa nở là 花开放.
 {: .text-justify}
 
-## Nghĩa nào có trước
+## Tư tưởng Khai Phóng
 
 Thứ tự rất rõ ràng: nghĩa vật lý có trước, nghĩa tư tưởng có sau, và đến sau rất lâu.
 {: .text-justify}
 
-Trước hết là cái cửa thật. Mở cửa thành, mở cửa kho, thả người bị giam ra khỏi ngục – thời nào cũng dùng chữ ấy. Rồi tới cái cửa trong người: kẻ không còn giữ lối nghĩ khép kín, chịu đón cái mới, được gọi là người 开放, tức cởi mở, phóng khoáng. Sang thế kỷ 20, khi các khái niệm phương Tây tràn vào Đông Á, giới học giả mượn luôn chữ này để dịch cái tinh thần *"liberal"* trong tư tưởng và giáo dục: mở rộng tư duy, cởi trói cho con người. Ta đọc âm Hán Việt thành **khai phóng**. Cuối cùng, năm 1978, Đặng Tiểu Bình đặt nó vào bốn chữ 改革开放 – cải cách khai phóng, ta quen gọi là cải cách mở cửa.
+Trước hết là cái cửa thật. Mở cửa thành, mở cửa kho, thả người bị giam ra khỏi ngục – thời nào cũng dùng chữ ấy. Rồi tới cái cửa trong người: kẻ không còn giữ lối nghĩ khép kín, chịu đón cái mới, được gọi là người 开放, tức cởi mở, phóng khoáng. Sau nữa là cửa của cả một nước: năm 1978, Đặng Tiểu Bình đặt chữ ấy vào bốn chữ 改革开放, ta quen gọi là cải cách mở cửa, mà đọc sát âm Hán Việt thì chính là cải cách khai phóng. Còn trong tiếng Việt hôm nay, hai chữ **khai phóng** đi thêm một bước nữa: ta mượn chúng để dịch *"liberal education"* – nền giáo dục khai phóng, thứ giáo dục cốt mở rộng tư duy và cởi trói cho người học chứ không đóng khuôn họ vào một nghề.
 {: .text-justify}
 
 Đi qua chừng ấy tầng nghĩa mà cái lõi không đổi. Vẫn là một cái ranh giới, một cái then, và một động tác gỡ then cho hai chiều thông nhau: cái bên trong bung ra, cái bên ngoài đi vào. Hoa nở, mở cửa một nước, mở một cái đầu – ba việc khác nhau về quy mô, giống hệt nhau về cấu tạo.
 {: .text-justify}
 
-## Hai lần gỡ then
+## Bước ngoặt của hai dân tộc
 
-Trong lịch sử Đông Á, chữ này không nằm trong từ điển. Nó nằm ở hai bước ngoặt, mỗi dân tộc một lần, và cả hai lần đều đau.
+Trong lịch sử Đông Á, khai phóng còn là hai bước ngoặt lớn của hai dân tộc: Nhật Bản và Trung Hoa.
 {: .text-justify}
 
 ### Nhật Bản cuối thời Edo
@@ -56,10 +56,10 @@ Trong lịch sử Đông Á, chữ này không nằm trong từ điển. Nó n�
 Nhà Tokugawa giữ chính sách 鎖国 – tỏa quốc – hơn hai trăm năm. Cửa nước khóa kín, chỉ chừa một khe hẹp ở Nagasaki cho thuyền buôn Hà Lan và Trung Hoa. Người Nhật không được ra, người ngoài không được vào.
 {: .text-justify}
 
-Năm 1853, bốn chiếc tàu chiến của Matthew Perry thả neo ở vịnh Uraga. Người Nhật gọi chúng là 黒船 – hắc thuyền, những con tàu đen. Mạc phủ không có gì để đối lại, năm sau phải ký hòa ước mở hai cảng Shimoda và Hakodate, rồi những hòa ước bất bình đẳng nối theo. Cái then không được gỡ, nó bị bẻ.
+Năm 1853, bốn chiếc tàu chiến của Matthew Perry thả neo ở vịnh Uraga. Người Nhật gọi chúng là 黒船 – hắc thuyền, những con tàu đen. Mạc phủ không có gì để đối lại, năm sau phải ký hòa ước mở hai cảng Shimoda và Hakodate, rồi những hòa ước bất bình đẳng nối theo. Cái then không được gỡ, nó bị phá.
 {: .text-justify}
 
-Nhưng chỗ đáng học của người Nhật nằm ở cái họ làm sau đó. Cơn phẫn nộ ban đầu nổ ra thành khẩu hiệu 尊王攘夷 – tôn vương nhương di, phò vua đuổi giặc. Chỉ ít lâu sau, chính những người hô khẩu hiệu đó nhận ra rằng đuổi không nổi, và họ đổi hẳn hướng: nếu không đuổi được thì học. Minh Trị lên ngôi năm 1868, cửa nước từ chỗ bị bẻ chuyển thành cửa tự mở.
+Nhưng chỗ đáng học của người Nhật nằm ở cái họ làm sau đó. Cơn phẫn nộ ban đầu nổ ra thành khẩu hiệu 尊王攘夷 – tôn vương nhương di, phò vua đuổi giặc. Chỉ ít lâu sau, chính những người hô khẩu hiệu đó nhận ra rằng đuổi không nổi, và họ đổi hẳn hướng: nếu không đuổi được thì học. Minh Trị Duy tân năm 1868, cửa nước từ chỗ bị phá chuyển thành cửa tự mở.
 {: .text-justify}
 
 Từ đó, việc mở cửa của Nhật Bản gần như là một chương trình đi học. Năm 1871, sứ đoàn Iwakura hơn trăm người rời nước, đi gần hai năm qua Hoa Kỳ và châu Âu, không phải để ký kết mà để xem người ta tổ chức nhà máy, trường học, quân đội, ngân hàng ra sao rồi chép về. Cả một thời đại gói trong bốn chữ 文明開化 – văn minh khai hóa, vẫn là chữ 開 ấy. Và nguyên tắc chọn lọc được rút thành 和魂洋才 – hòa hồn dương tài: giữ hồn Nhật, lấy tài phương Tây.
@@ -78,15 +78,15 @@ Cuốn sách bán chạy nhất nước Nhật những năm ấy không phải t
 福沢諭吉《学問のすゝめ》- Fukuzawa Yukichi《Khuyến học》
 </cite>
 
-Vế sau mới là chỗ ông muốn tới: trời không phân sang hèn, vậy mà trên đời vẫn có kẻ sang người hèn, khác nhau chỉ ở chỗ có chịu học hay không. Một nước vừa bị bẻ cửa, thứ đầu tiên đem ra bàn với nhau lại là chuyện học hành.
+Vế sau mới là chỗ ông muốn tới: trời không phân sang hèn, vậy mà trên đời vẫn có kẻ sang người hèn, khác nhau chỉ ở chỗ có chịu học hay không. Một nước mà cửa vừa bị phá, thứ đem ra bàn với nhau lại là mở tung cánh cửa ấy ra để đón lấy cái tinh túy, cái tài hoa của chính những kẻ vừa phá nó.
 {: .text-justify}
 
 ### Trung Quốc thời Đặng Tiểu Bình
 
-Nhà Thanh cũng đi đúng con đường ấy, chỉ khác là chậm hơn và tốn hơn. 闭关锁国 – bế quan tỏa quốc – cho tới khi tàu chiến Anh nổ súng năm 1840. Cửa bị phá, rồi một trăm năm loạn lạc, rồi tới lượt nước Trung Hoa mới lại tự khép mình gần ba mươi năm nữa.
+Nhà Thanh cũng tiến hành chính sách cửa đóng then cài – 闭关锁国, bế quan tỏa quốc – cho tới khi tàu chiến Anh nổ súng năm 1840. Cửa bị phá, nhưng chặng đường từ lúc bị phá tới lúc tự gỡ then thì dài hơn của người Nhật rất nhiều: một trăm năm loạn lạc, triều đại cài then ngày trước sụp đổ, rồi nước Trung Hoa mới lại tự khép mình thêm gần ba mươi năm nữa.
 {: .text-justify}
 
-Mùa thu 1978, Đặng Tiểu Bình sang Nhật. Ông đi tàu Shinkansen và nói rằng ngồi trên đó có cảm giác như bị thúc sau lưng, giục mình phải chạy. Tháng chạp năm ấy, Hội nghị Trung ương 3 khóa 11 chốt đường lối 改革开放. Hai năm sau, Thâm Quyến từ một làng chài thành đặc khu kinh tế.
+Mùa thu 1978, Đặng Tiểu Bình sang Nhật. Ông đi tàu Shinkansen và nói rằng ngồi trên đó có cảm giác như bị thúc sau lưng, giục mình phải chạy. Tháng 12 năm ấy, Hội nghị Trung ương 3 khóa 11 chốt đường lối 改革开放. Hai năm sau, Thâm Quyến từ một làng chài thành đặc khu kinh tế.
 {: .text-justify}
 
 Lần này thì cái then được gỡ từ bên trong. Và cũng như người Nhật, việc đầu tiên là cho người đi học. Ngay từ giữa năm 1978, Đặng đã gạt phăng lối gửi nhỏ giọt:
@@ -101,14 +101,11 @@ Lần này thì cái then được gỡ từ bên trong. Và cũng như người
 Cuối năm đó, đoàn học giả đầu tiên lên đường sang Mỹ. Bốn mươi năm sau, chính những con người ấy và học trò của họ là bộ khung của các đại học, viện nghiên cứu và công ty công nghệ Trung Quốc.
 {: .text-justify}
 
-Hai dân tộc, hai cái cửa, và cùng một trình tự: bị phá cửa trước, tự gỡ then sau. Khoảng cách giữa hai lần ấy phải trả bằng máu và bằng mấy thế hệ. Trình tự ngược lại thì rẻ hơn rất nhiều, chỉ có điều rất ít ai chọn được nó khi trong nhà còn đang yên ấm.
-{: .text-justify}
-
 ## Cái then của người học
 
 ### Then nằm ở bên trong
 
-Xem lại chữ 開 thì thấy một chi tiết dễ bỏ qua: hai bàn tay 廾 nằm **phía trong** cửa. Người ở ngoài, dù muốn đến mấy, cũng chỉ gõ được. Người gỡ được then chỉ có một, là người ngồi bên trong.
+Xem lại chữ 開 thì thấy một chi tiết dễ bỏ qua: hai bàn tay 廾 nằm **phía trong** cửa. Người ở ngoài, dù muốn đến mấy, cũng chỉ gõ được; cùng lắm thì phá, mà phá thì cửa nát chứ không thành cửa mở. Người gỡ được then chỉ có một, là người ngồi bên trong.
 {: .text-justify}
 
 Đó là lý do cùng một lớp, cùng một thầy, cùng một giáo trình mà kết quả cách nhau xa đến thế. Chỗ khác nhau không nằm ở lượng chữ nghĩa đi tới trước cửa, mà nằm ở chuyện cửa có mở hay không.
@@ -128,7 +125,7 @@ Mà cái then của người học thường không phải là sự lười. Nó
 >  \
 >  \
 > **Trang Tử - thiên Thu Thủy**\
-> Ếch trong giếng không thể bàn chuyện biển, vì bị cái hang giam lại;\
+> Ếch trong giếng không thể bàn chuyện biển, vì bị chính cái giếng của nó giam lại;\
 > Côn trùng mùa hè không thể bàn chuyện băng giá, vì bị mùa của nó bó lại;\
 > Kẻ sĩ hẹp hòi không thể bàn chuyện đạo, vì bị chính cái mình được dạy trói lại.
 {: .notice--warning .text-justify}
@@ -139,7 +136,7 @@ Mà cái then của người học thường không phải là sự lười. Nó
 </a>
 </cite>
 
-*Thúc ư giáo dã* – bị trói bởi cái mình được dạy. Kẻ bị trói ấy không hề thấy mình đang bị trói, vì sợi dây làm bằng đúng thứ đã giúp anh ta đi được tới đây. Muốn qua bước sau thì phải tự tay tháo ra, đúng như bước **Phá** trong [Thủ - Phá - Li](/hoc-hanh/shu-ha-ri).
+*Thúc ư giáo dã* – bị trói bởi cái mình được dạy. Kẻ bị trói ấy không hề thấy mình đang bị trói, vì sợi dây làm bằng đúng thứ đã giúp anh ta đi được tới đây. Con ếch dưới giếng cũng vậy, nó có thấy mình ở trong giếng đâu; mảnh trời tròn trên đầu, với nó, là cả bầu trời, nên mới yên tâm mà [ồm ộp chê cả thiên hạ](/duong-cua-dao/chui-che). Muốn qua bước sau thì phải tự tay tháo ra, đúng như bước **Phá** trong [Thủ - Phá - Li](/hoc-hanh/shu-ha-ri).
 {: .text-justify}
 
 ### Nở phải có mùa
@@ -236,7 +233,7 @@ Với người học, ruồi muỗi là chuyện bị bắt bẻ giữa đám đ
 > Đóng cửa lại thì không ai bắt bẻ mình câu nào, và cũng không còn ai nói cho mình biết mình sai ở chỗ nào.
 {: .notice--danger .text-justify}
 
-Nhà Thanh và Mạc phủ Tokugawa đều đã chọn phương án sạch sẽ ấy, mỗi bên hơn hai trăm năm. Bên trong thì yên, chỉ có điều lúc mở cửa ra thì thế giới bên ngoài đã đi xa mất mấy chặng.
+Mạc phủ Tokugawa và nhà Thanh đều đã chọn phương án sạch sẽ ấy, bên hơn hai trăm năm, bên gần một thế kỷ. Bên trong thì yên, chỉ có điều lúc mở cửa ra thì thế giới bên ngoài đã đi xa mất mấy chặng.
 {: .text-justify}
 
 ## Khai hoa kết quả
@@ -247,7 +244,7 @@ Người Trung Quốc nói 开花结果 – khai hoa kết quả. Hoa nở chưa
 Việc học cũng đi đúng thứ tự ấy. Mở đầu óc ra không phải để được khen là người cởi mở, mà để có cái quả sau cùng: làm được một việc mà trước đó mình không làm được.
 {: .text-justify}
 
-Còn cái then thì vẫn nằm ở phía trong. Người Nhật mất một hạm đội hắc thuyền mới gỡ, người Trung Quốc mất hơn một thế kỷ mới gỡ. Với một người thì rẻ hơn nhiều: chỉ cần chịu thừa nhận rằng cái mình đang biết chưa phải là hết.
+Còn cái then vẫn nằm bên trong cánh cửa. Tự tay nhấc nó ra, chấp nhận cái của mình là chưa đủ, tiếp thu cái mới, rồi tự mình bung ra. Đó chính là tinh thần khai phóng.
 {: .text-justify}
 
 > <cite>
