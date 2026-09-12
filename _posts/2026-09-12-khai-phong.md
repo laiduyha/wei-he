@@ -17,33 +17,30 @@ parent:
 
 ## Cửa đóng then cài
 
-Tiếng Việt có sẵn một câu để tả sự khép kín: **cửa đóng then cài**. Bốn chữ ấy tả đúng hai lớp. Cánh cửa khép lại mới chỉ là lớp ngoài; thanh then gài ngang mới là thứ giữ cho cửa không mở được. Muốn vào một căn nhà như thế, đẩy cánh cửa là vô ích, phải rút cái then ra trước đã.
+Tiếng Việt có một câu để tả sự khép kín: **cửa đóng then cài**. Cánh cửa khép lại mới chỉ là lớp ngoài; thanh then gài ngang mới là thứ giữ cho cửa không mở được. Muốn vào một căn nhà như thế, đẩy cánh cửa là vô ích, phải rút cái then ra trước đã.
 {: .text-justify}
 
-Người Trung Quốc nhìn đúng cảnh ấy rồi đem nó vào trong chữ viết. Cái ngược lại với cửa đóng then cài, họ gọi là 开放, âm Hán Việt đọc thành **khai phóng**.
+Trong tiếng Trung có một chữ ngược lại với cửa đóng then cài, đó là 开放, âm Hán Việt đọc thành **khai phóng**.
 {: .text-justify}
 
-**开** (kāi) – Khai. Dạng phồn thể 開 vẽ ra một hình ảnh: vòng ngoài là môn 門, nghĩa là hai cánh cửa; nằm ngang bên trong là thanh then; dưới thanh then là 廾, hình hai bàn tay. Cả chữ là động tác hai tay nhấc thanh then lên. Mở cửa, trong chữ Hán, không phải là đẩy cánh cửa, mà là **nhấc cái then cài**.
+**开** (kāi) – Khai. Dạng phồn thể 開 vẽ ra một hình ảnh: vòng ngoài là môn 門, nghĩa là hai cánh cửa; nằm ngang bên trong là thanh then; dưới thanh then là 廾, hình hai bàn tay. Đây là động tác hai tay nhấc thanh then lên. Mở cửa, trong chữ Hán, không phải là đẩy cánh cửa, mà là **nhấc cái then cài**.
 {: .text-justify}
 
-**放** (fàng) – Phóng. Thuyết Văn Giải Tự chép gọn một câu: *"放，逐也"* – phóng là đuổi đi. Chữ gồm 方 chỉ âm và 攵, hình bàn tay cầm cây gậy. Nghĩa gốc của nó là xua ra, đẩy ra khỏi bờ cõi; Khuất Nguyên bị vua Sở 放逐 – phóng trục, đày đi – chính là chữ này. Từ cái nghĩa gốc ấy mới biến đổi dần ra thành: thả ra, buông ra, đi ra ngoài.
+**放** (fàng) – Phóng. Thuyết Văn Giải Tự chép gọn một câu: *"放，逐也"* – phóng là đuổi đi. Chữ gồm 方 chỉ âm và 攵, hình bàn tay cầm cây gậy. Nghĩa gốc của nó là trục xuất, đẩy ra khỏi bờ cõi; Khuất Nguyên bị vua Sở 放逐 – phóng trục, đày đi – chính là chữ này.
 {: .text-justify}
 
-Ghép hai chữ lại, 开放 là gỡ then rồi thả ra. Và nghĩa đầu tiên của nó chính là **hoa nở**.
-{: .text-justify}
-
-Nụ hoa vốn là một cái cửa đóng. Các cánh xếp chồng lên nhau, khép chặt, giữ nhụy ở trong. Đến ngày, cái then rời ra, cánh bung, hương và phấn thả ra ngoài: đủ cả 开 lẫn 放. Đến giờ người Trung Quốc vẫn gọi hoa nở là 花开放.
+Ghép hai chữ lại, 开放 là gỡ then cài rồi phóng thích ra. Ban đầu chữ nảy được dùng để chỉ **hoa nở**. Nụ hoa vốn là một cái cửa đóng. Các cánh xếp chồng lên nhau, khép chặt, giữ nhụy ở trong. Đến ngày cánh hoa bung ra, hương và phấn tỏa ra bên ngoài: đủ cả 开 lẫn 放. Đến giờ người Trung Quốc vẫn gọi hoa nở là 花开放.
 {: .text-justify}
 
 ## Tư tưởng Khai Phóng
 
-Nghĩa vật lý có trước, nghĩa tư tưởng đến sau. Mở cửa thành, mở cửa kho, thả người bị giam ra khỏi ngục, thời nào cũng dùng chữ ấy. Rồi tới cái cửa trong người: kẻ không giữ lối nghĩ khép kín, chịu đón cái mới, được gọi là người 开放, tức cởi mở, phóng khoáng.
+Nghĩa vật lý có trước, nghĩa tư tưởng đến sau. Mở cửa thành, mở cửa kho, thả người bị giam ra khỏi ngục, thời nào cũng dùng chữ ấy. Rồi tới cái cửa trong mỗi chung ta: người mà không giữ lối nghĩ khép kín, chịu đón cái mới, được gọi là người 开放, tức cởi mở, phóng khoáng.
 {: .text-justify}
 
-Sau nữa là cửa của cả một nước: năm 1978, Đặng Tiểu Bình đặt chữ ấy vào bốn chữ 改革开放, ta quen gọi là cải cách mở cửa, mà đọc sát âm Hán Việt thì chính là cải cách khai phóng. Còn trong tiếng Việt hôm nay, người ta mượn hai chữ ấy để dịch *"liberal education"* – nền giáo dục khai phóng, thứ giáo dục cốt mở rộng tư duy và cởi trói cho người học chứ không đóng khuôn họ vào một nghề nghiệp cụ thể.
+Sau nữa là cửa của cả một nước: năm 1978, Đặng Tiểu Bình đặt chữ ấy vào bốn chữ 改革开放, ta quen gọi là cải cách mở cửa, mà đọc sát âm Hán Việt thì chính là cải cách khai phóng. Còn trong tiếng Việt hôm nay, người ta mượn hai chữ ấy để dịch *"liberal education"* – nền giáo dục khai phóng, đó là giáo dục chú trọng mở rộng tư duy và cởi trói cho người học chứ không đóng khuôn họ vào một nghề nghiệp cụ thể.
 {: .text-justify}
 
-Đi qua chừng ấy tầng nghĩa mà cái lõi không đổi. Vẫn là một cái ranh giới, một cái then, và một động tác gỡ then cho hai chiều thông nhau: cái bên trong bung ra, cái bên ngoài đi vào. Hoa nở, mở cửa một nước, mở một cái đầu – ba việc khác nhau về quy mô, giống hệt nhau về cấu tạo.
+Đi qua chừng ấy tầng nghĩa mà cái lõi không đổi. Vẫn là một cái ranh giới, một cái then, và một động tác gỡ then cho hai chiều thông nhau: cái bên trong bung ra, cái bên ngoài đi vào. Hoa nở, mở cửa một nước, mở một cái đầu – ba việc khác nhau về quy mô, giống hệt nhau về cơ chế.
 {: .text-justify}
 
 ## Bước ngoặt của hai dân tộc
