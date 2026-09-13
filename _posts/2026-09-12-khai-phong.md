@@ -29,12 +29,12 @@ Trong tiếng Trung có một chữ ngược lại với cửa đóng then cài,
 **放** (fàng) – Phóng. Thuyết Văn Giải Tự chép gọn một câu: *"放，逐也"* – phóng là đuổi đi. Chữ gồm 方 chỉ âm và 攵, hình bàn tay cầm cây gậy. Nghĩa gốc của nó là trục xuất, đẩy ra khỏi bờ cõi; Khuất Nguyên bị vua Sở 放逐 – phóng trục, đày đi – chính là chữ này.
 {: .text-justify}
 
-Ghép hai chữ lại, 开放 là gỡ then cài rồi phóng thích ra. Ban đầu chữ nảy được dùng để chỉ **hoa nở**. Nụ hoa vốn là một cái cửa đóng. Các cánh xếp chồng lên nhau, khép chặt, giữ nhụy ở trong. Đến ngày cánh hoa bung ra, hương và phấn tỏa ra bên ngoài: đủ cả 开 lẫn 放. Đến giờ người Trung Quốc vẫn gọi hoa nở là 花开放.
+Ghép hai chữ lại, 开放 là gỡ then cài rồi phóng thích ra. Ban đầu chữ này được dùng để chỉ **hoa nở**. Nụ hoa vốn là một cái cửa đóng. Các cánh xếp chồng lên nhau, khép chặt, giữ nhụy ở trong. Đến ngày cánh hoa bung ra, hương và phấn tỏa ra bên ngoài: đủ cả 开 lẫn 放. Đến giờ người Trung Quốc vẫn gọi hoa nở là 花开放.
 {: .text-justify}
 
 ## Tư tưởng Khai Phóng
 
-Nghĩa vật lý có trước, nghĩa tư tưởng đến sau. Mở cửa thành, mở cửa kho, thả người bị giam ra khỏi ngục, thời nào cũng dùng chữ ấy. Rồi tới cái cửa trong mỗi chung ta: người mà không giữ lối nghĩ khép kín, chịu đón cái mới, được gọi là người 开放, tức cởi mở, phóng khoáng.
+Nghĩa vật lý có trước, nghĩa tư tưởng đến sau. Mở cửa thành, mở cửa kho, thả người bị giam ra khỏi ngục, thời nào cũng dùng chữ ấy. Rồi tới cái cửa trong mỗi chúng ta: người không giữ lối nghĩ khép kín, chịu đón cái mới, được gọi là người 开放, tức cởi mở, phóng khoáng.
 {: .text-justify}
 
 Sau nữa là cửa của cả một nước: năm 1978, Đặng Tiểu Bình đặt chữ ấy vào bốn chữ 改革开放, ta quen gọi là cải cách mở cửa, mà đọc sát âm Hán Việt thì chính là cải cách khai phóng. Còn trong tiếng Việt hôm nay, người ta mượn hai chữ ấy để dịch *"liberal education"* – nền giáo dục khai phóng, đó là giáo dục chú trọng mở rộng tư duy và cởi trói cho người học chứ không đóng khuôn họ vào một nghề nghiệp cụ thể.
@@ -53,21 +53,21 @@ Trong lịch sử Đông Á, khai phóng còn là hai bước ngoặt lớn củ
 Nhà Tokugawa giữ chính sách tỏa quốc – 鎖国 – hơn hai trăm năm. Cửa nước khóa kín, chỉ chừa một khe hẹp ở Nagasaki cho thuyền buôn Hà Lan và Trung Hoa. Người Nhật không được ra, người ngoài không được vào.
 {: .text-justify}
 
-Năm 1853, bốn chiếc tàu chiến của Matthew Perry thả neo ở vịnh Uraga. Người Nhật gọi chúng là 黒船 – hắc thuyền, những con tàu đen. Mạc phủ không thể chống cự lại, năm sau đó đành phải ký hòa ước mở hai cảng Shimoda và Hakodate, rồi những hòa ước bất bình đẳng nối tiếp theo. Cái then không được gỡ, nó bị phá từ bên ngoài.
+Năm 1853, bốn chiếc tàu chiến của Matthew Perry thả neo ở vịnh Uraga. Người Nhật gọi chúng là 黒船 – hắc thuyền, những con tàu đen. Mạc phủ không đủ sức chống cự, năm sau đành ký hòa ước mở hai cảng Shimoda và Hakodate, rồi các hòa ước bất bình đẳng khác nối tiếp nhau. Cái then không được gỡ, nó bị phá từ bên ngoài.
 {: .text-justify}
 
 Nhưng chỗ đáng học của người Nhật nằm ở cái họ làm sau đó. Cơn phẫn nộ ban đầu nổ ra thành khẩu hiệu 尊王攘夷 – tôn vương nhương di, phò vua đuổi giặc. Chỉ ít lâu sau, chính những người hô hào khẩu hiệu đó nhận ra rằng đuổi không nổi, và họ chấp nhận đổi hướng: nếu không đuổi được thì học. Đến Minh Trị Duy tân năm 1868, nước Nhật từ chỗ bị phá cửa chuyển sang tự tay mở cửa.
 {: .text-justify}
 
-Năm 1871, sứ đoàn Iwakura hơn trăm người rời nước, đi gần hai năm qua Hoa Kỳ và châu Âu. Chuyện đàm phán sửa hiệp ước không thành, nhưng cái họ đem về là cách người ta tổ chức nhà máy, trường học, quân đội, ngân hàng, ghi chép đầy đủ. Cả một thời đại gói gọn trong bốn chữ 文明開化 – văn minh khai hóa, vẫn là chữ khai 開 ấy. Và nguyên tắc chọn lọc được rút thành 和魂洋才 – hòa hồn dương tài: giữ hồn Nhật, lấy tài phương Tây.
+Năm 1871, sứ đoàn Iwakura hơn trăm người rời nước, đi gần hai năm qua Hoa Kỳ và châu Âu. Chuyện đàm phán sửa hiệp ước không thành, nhưng thứ họ đem về là những ghi chép tỉ mỉ về cách phương Tây tổ chức nhà máy, trường học, quân đội, ngân hàng. Cả một thời đại gói gọn trong bốn chữ 文明開化 – văn minh khai hóa, vẫn là chữ khai 開 ấy. Và nguyên tắc chọn lọc được rút thành 和魂洋才 – hòa hồn dương tài: giữ hồn Nhật, lấy tài phương Tây.
 {: .text-justify}
 
 ### Trung Quốc thời Đặng Tiểu Bình
 
-Nhà Thanh cùng thời kỳ đó cũng tiến hành chính sách bế quan tỏa quốc – 闭关锁国 – cho tới khi tàu chiến Anh nổ súng năm 1840. Cửa bị phá, nhưng chặng đường từ lúc bị phá tới lúc tự gỡ then thì dài hơn của người Nhật rất nhiều: một trăm năm loạn lạc, triều đại cài then ngày trước sụp đổ, rồi nước Trung Hoa mới cũng tự khép mình thêm gần ba mươi năm nữa.
+Nhà Thanh cùng thời cũng theo chính sách bế quan tỏa quốc – 闭关锁国 – cho tới khi tàu chiến Anh nổ súng năm 1840. Cửa bị phá, nhưng chặng đường từ lúc bị phá tới lúc tự gỡ then thì dài hơn của người Nhật rất nhiều: một trăm năm loạn lạc, triều đại cài then ngày trước sụp đổ, rồi nước Trung Hoa mới cũng tự khép mình thêm gần ba mươi năm nữa.
 {: .text-justify}
 
-Mùa thu 1978, Đặng Tiểu Bình sang Nhật. Ông đi tàu Shinkansen và nói rằng ngồi trên đó có cảm giác như bị thúc sau lưng, giục mình phải chạy. Tháng 12 năm ấy, Hội nghị Trung ương 3 khóa 11 chốt đường lối cải cách khai phóng – 改革开放. Hai năm sau, Thâm Quyến từ một làng chài trở thành đặc khu kinh tế, nơi nay là thủ phủ công nghệ của Trung Quốc.
+Mùa thu 1978, Đặng Tiểu Bình sang Nhật. Ông đi tàu Shinkansen và nói rằng ngồi trên đó có cảm giác như bị thúc sau lưng, giục mình phải chạy. Tháng 12 năm ấy, Hội nghị Trung ương 3 khóa 11 chốt đường lối cải cách khai phóng – 改革开放. Hai năm sau, Thâm Quyến từ một làng chài trở thành đặc khu kinh tế, nay là thủ phủ công nghệ của Trung Quốc.
 {: .text-justify}
 
 Lần này thì cái then được gỡ từ bên trong. Và cũng như người Nhật, việc học được đặt lên hàng đầu. Ngay từ giữa năm 1978, Đặng đã gạt phăng lối gửi nhỏ giọt:
@@ -92,7 +92,7 @@ Xem lại chữ 開 thì thấy một chi tiết dễ bỏ qua: hai bàn tay 廾
 Mà cái then của người học thường không phải là sự lười. Nó chính là **cái mình đã biết**. Càng biết nhiều, then càng dày. Trang Tử nói chuyện này từ hơn hai ngàn năm trước:
 {: .text-justify}
 
-> **庄子·秋水**\
+> **秋水 – 庄子**\
 >  \
 > 井蛙不可以语于海者，拘于虚也；\
 > Tỉnh oa bất khả dĩ ngữ ư hải giả, câu ư hư dã;\
@@ -102,7 +102,7 @@ Mà cái then của người học thường không phải là sự lười. Nó
 > Khúc sĩ bất khả dĩ ngữ ư đạo giả, thúc ư giáo dã.\
 >  \
 >  \
-> **Trang Tử – thiên Thu Thủy**\
+> **Thu Thủy – Trang Tử**\
 > Ếch trong giếng không thể bàn chuyện biển,\
 > Vì bị chính cái giếng của nó giam lại;\
 > Côn trùng mùa hè không thể bàn chuyện băng giá,\
@@ -131,10 +131,10 @@ Nhưng còn một chiều nữa, là phóng 放: viết lại điều vừa đ�
 Hóa ra nghĩa gốc *"đuổi đi"* của chữ 放 lại đúng: kiến thức phải bị đẩy ra khỏi đầu, đi một vòng qua thế giới bên ngoài, rồi mới quay về mà thành cái của mình. Rồi từ đó lại đi ra ngoài lần nữa để tạo ra giá trị.
 {: .text-justify}
 
-Bức mặc mai ở đầu bài là của Vương Miện, người đời Nguyên. Ông vẽ mai chỉ bằng mực nhạt, không một chút màu, rồi đề lên khoảng trống bốn câu:
+Bức mặc mai ở đầu bài là của Vương Miện, người đời Nguyên. Ông chấm cánh hoa bằng mực nhạt, lấy mực đậm viền đài và chấm nhụy, không dùng một chút màu nào, rồi đề lên khoảng trống bốn câu:
 {: .text-justify}
 
-> **墨梅**\
+> **墨梅 – 王冕**\
 >  \
 > 吾家洗砚池头树，\
 > Ngô gia tẩy nghiễn trì đầu thụ,\
@@ -146,11 +146,11 @@ Bức mặc mai ở đầu bài là của Vương Miện, người đời Nguyê
 > Chỉ lưu thanh khí mãn càn khôn.\
 >  \
 >  \
-> **Mặc mai**\
+> **Mặc mai – Vương Miện**\
 > Cây bên đầu ao rửa nghiên của nhà ta,\
 > Hoa nở đóa nào cũng chỉ một vệt mực nhạt.\
 > Chẳng cần ai khen cho là sắc đẹp,\
-> Chỉ để lại khí thanh đầy khắp đất trời.
+> Chỉ để khí thanh lưu lại giữa đất trời.
 {: .notice--warning .text-justify}
 
 > <cite>
@@ -177,7 +177,7 @@ Cánh hoa lúc còn khép thì được che kín. Mở ra là phơi mình cho gi
 邓小平 - Đặng Tiểu Bình
 </cite>
 
-Mở cửa, dù là cửa một nước hay cửa một cái đầu, là chấp nhận rủi ro cái xấu theo vào, nên việc cần làm là dựng lấy một cách lọc, chứ không phải đóng cửa lại rồi mong mọi thứ sạch sẽ. Mạc phủ Tokugawa và nhà Thanh đều đã chọn phương án sạch sẽ ấy, một bên hơn hai trăm năm, còn một bên thì gần một thế kỷ. Bên trong thì yên, chỉ có điều lúc mở cửa ra thì thế giới bên ngoài đã đi xa mất mấy chặng.
+Mở cửa, dù là cửa một nước hay cửa một cái đầu, là chấp nhận rủi ro cái xấu theo vào, nên việc cần làm là dựng lấy một cách lọc, chứ không phải đóng cửa lại rồi mong mọi thứ sạch sẽ. Mạc phủ Tokugawa và nhà Thanh đều đã chọn phương án sạch sẽ ấy, một bên hơn hai trăm năm, còn một bên thì gần một thế kỷ. Bên trong thì yên, chỉ có điều đến lúc cửa bị phá thì thế giới bên ngoài đã đi xa mất mấy chặng.
 {: .text-justify}
 
 ## Khai hoa kết quả - 开花结果
@@ -188,7 +188,7 @@ Hoa nở chưa phải là đích, hoa nở chỉ là điều kiện. Có nở th
 Việc học cũng đi đúng thứ tự ấy. Mở đầu óc ra không phải để được khen là người cởi mở, mà để có cái quả sau cùng: làm được một việc mà trước đó mình không làm được.
 {: .text-justify}
 
-Cái then vẫn nằm bên trong cánh cửa, và chỉ tay mình mới nhấc nó lên được. Nhận ra rằng cái mình đã biết là chưa đủ để đón cái mới vào, rồi đem cái mình học được bung ra bên ngoài, chịu gió chịu sương, cho đến khi đậu thành quả. Đó chính là tinh thần khai phóng.
+Cái then vẫn nằm bên trong cánh cửa, và chỉ tay mình mới nhấc nó lên được. Nhận ra cái mình đã biết là chưa đủ, để đón cái mới vào; rồi đem cái mình học được bung ra bên ngoài, chịu gió chịu sương, cho đến khi đậu thành quả. Đó chính là tinh thần khai phóng.
 {: .text-justify}
 
 > <cite>
